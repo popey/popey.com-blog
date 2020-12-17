@@ -11,6 +11,7 @@ Email address is at the top of every page. Alternatively use one of the methods 
 
 ### popey on the web ###
 
+  * [Telegram](https://popey.com/telegram)
   * [Blog](https://popey.com/blog)
   * [GitHub](https://github.com/popey)
   * [Reddit](https://popey.com/reddit)
@@ -18,7 +19,6 @@ Email address is at the top of every page. Alternatively use one of the methods 
   * [Twitter](https://popey.com/twitter)
   * [LastFM](https://popey.com/lastfm)
   * [YouTube](https://popey.com/youtube)
-  * [Telegram](https://popey.com/telegram)
   * [Diaspora](https://popey.com/diaspora)
   * [Steam](https://popey.com/steam)
   * [LinkedIn](https://www.linkedin.com/in/alan-pope-b3a109143/)
