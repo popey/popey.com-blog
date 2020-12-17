@@ -5,7 +5,7 @@ slug = "2020/12/spotify-on-the-raspberry-pi-400"
 author = "Alan Pope"
 +++
 
-I recently ordered a [Raspberry Pi 400](https://geni.us/A7doLdy), I couldn't resist. I've bought a few Raspberry Pi's over the years, with a few installed around the house. The Pi 400 struck me as quite the game-changer though, with a built in keyboard-enclosure and accessible connectors. The fact it reminded me of my youth with memories of the Sinclair Spectrum where everything is housed inside the keyboard helped a bit. 
+I recently ordered a [Raspberry Pi 400](https://geni.us/A7doLdy), I couldn't resist. I've bought a few Raspberry Pi's over the years, with a couple installed around the house. The Pi 400 struck me as quite the game-changer though, with a built in keyboard-enclosure and accessible connectors. The fact it reminded me of my youth with memories of the Sinclair Spectrum where everything is housed inside the keyboard helped a bit. 
 
 One omission which struck me as odd was the lack of audio jack. I'm sure there's sensible cost or logical, technical reasons for it, but it's a bit of a pain for me. Neither of the displays my Pi 400 is connected to have any kind of speaker or audio jacks. I don't often need the audio output, but sometimes I'm testing applications which require an audio device. 
 
