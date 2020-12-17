@@ -7,7 +7,7 @@ slug = "2018/06/kde-slimbook-2-review"
 
 # KDE Slimbook 2 Review
 
-![KDE Slimbook 2  Outside](/images/2018-06-07/DSC_0043.JPG)
+![KDE Slimbook 2  Outside](./images/2018-06-07/DSC_0043.JPG)
 
 The kind folks at [Slimbook](https://slimbook.es/en/) recently sent me the latest generation of their ultrabook-style laptop line for review, the [KDE Slimbook 2](https://slimbook.es/en/kde-slimbook-2-ultrabook-laptop). You can hear my thoughts on the [latest episode](http://ubuntupodcast.org/2018/06/07/s11e14-the-fourteenth-goldfish/) of the [Ubuntu Podcast](https://ubuntupodcast.org/), released on June 7th 2018. 
 
