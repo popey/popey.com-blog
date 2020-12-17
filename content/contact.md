@@ -14,6 +14,8 @@ Email address is at the top of every page. Alternatively use one of the methods 
   * [Telegram](https://popey.com/telegram)
   * [Blog](https://popey.com/blog)
   * [GitHub](https://github.com/popey)
+  * [Launchpad](https://launchpad.net/~popey)
+  * [AskUbuntu](https://askubuntu.com/users/612/popey)
   * [Reddit](https://popey.com/reddit)
   * [Keybase](https://popey.com/keybase)
   * [Twitter](https://popey.com/twitter)
