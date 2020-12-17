@@ -19,7 +19,7 @@ I'm quite a Unity fan - yes, we exist! I've used it on my laptops and desktops m
 
 Here's what my typical desktop looks like on Ubuntu 16.04
 
-![Unity as I use it](/images/2017-03-28-19-07-30-unity.png)
+![Unity as I use it](/blog/images/2017-03-28-19-07-30-unity.png)
 
 At this point I'm sure there are a few people reading this and wondering why I like Unity, incredulous that anyone would. I get this from time to time. Some  people seem to bizzarely think *"I don't like Unity, therefore nobody does."* which is ludicrous, but very obviously happening.
 
@@ -67,9 +67,9 @@ sudo apt install ubuntu-gnome-desktop^
 
 Logout from Unity, choose GNOME at the login screen and we're in.
 
-![Default GNOME Desktop](/images/2017-04-15-21-30-59-gnome1.png)
+![Default GNOME Desktop](/blog/images/2017-04-15-21-30-59-gnome1.png)
 
-![Default GNOME Desktop](/images/2017-04-15-21-31-06-gnome2.png)
+![Default GNOME Desktop](/blog/images/2017-04-15-21-31-06-gnome2.png)
 
 
 ### First impresssions
@@ -133,9 +133,9 @@ The Internet's ever-fantastic [Stuart Langridge](https://www.kryogenix.org/) cre
 
 So this is now my desktop, and I'm quite pleased with it! Massive thanks to the GNOME team, the Ubuntu GNOME flavour team, and all the extension authors who made this possible.
 
-![My new Ubuntu GNOME Desktop](/images/2017-04-15-21-10-14-gnomity.png)
+![My new Ubuntu GNOME Desktop](/blog/images/2017-04-15-21-10-14-gnomity.png)
 
-![My new Ubuntu GNOME Desktop](/images/2017-04-15-21-32-25-gnomity2.png)
+![My new Ubuntu GNOME Desktop](/blog/images/2017-04-15-21-32-25-gnomity2.png)
 
 Initially I was a bit frustrated by the default behaviour of GNOME Shell. I've been pleasantly surprised by the extent and functionality of extensions available. Without them, there's no way I'd use this on a daily basis, as it's just too irritating. I'm sure somebody loves the default behaviour though, and that's great :)
 

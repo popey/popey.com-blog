@@ -17,15 +17,15 @@ That will install the current [stable release of openspades](https://github.com/
 
 *Note*: OpenSpades needs a fairly decent video card. My poor Thinkpad T450 with its integrated Intel GPU isn't up to the job, so the game switches to software rendering. However on my more beefy nVidia-powered desktop, it uses the GPU for OpenGL funky stuff. 
 
-![OpenSpades on Ubuntu](/images/2017-05-01/ubuntu.png)
+![OpenSpades on Ubuntu](/blog/images/2017-05-01/ubuntu.png)
 
 I tested this build on Ubuntu 16.04, Debian 9, elementary OS Loki, Lubuntu (i386), Fedora 25 and OpenSUSE Tumbleweed. One snap(*), lots of distros. Yeah baby! :D
 
-![OpenSpades on OpenSUSE Tumbleweed](/images/2017-05-01/opensuse.png)
+![OpenSpades on OpenSUSE Tumbleweed](/blog/images/2017-05-01/opensuse.png)
 
-![OpenSpades on Fedora 25](/images/2017-05-01/fedora.png)
+![OpenSpades on Fedora 25](/blog/images/2017-05-01/fedora.png)
 
-![OpenSpades on Debian 9](/images/2017-05-01/debian.png)
+![OpenSpades on Debian 9](/blog/images/2017-05-01/debian.png)
 
 (*) Technically four snaps. One per arch (32/64-bit) and one per release (stable/edge).
 

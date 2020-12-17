@@ -12,7 +12,7 @@ I spend a lot of my day talking to developers about their Linux software packagi
 
 Snapcraft now runs on Windows, via Bash on Windows (a.k.a Windows Subsystem for Linux).
 
-![Snapcraft on Windows](/images/2017-05-16/snapcraft.png)
+![Snapcraft on Windows](/blog/images/2017-05-16/snapcraft.png)
 
 Microsoft updated their [Windows Subsystem for Linux](https://msdn.microsoft.com/en-gb/commandline/wsl/install_guide) to include Ubuntu 16.04.2 LTS as the default image. When WSL first [launched](http://blog.dustinkirkland.com/2016/03/ubuntu-on-windows.html) a year ago, it shipped 14.04 to early adopters and developers.
 
@@ -35,7 +35,7 @@ To re-install, which will pull down Ubuntu 16.04.2 LTS:-
 lxrun /install
 ```
 
-![Re-installing Ubuntu](/images/2017-05-16/reinstall.png)
+![Re-installing Ubuntu](/blog/images/2017-05-16/reinstall.png)
 
 Once you've got Ubuntu 16.04.2 LTS in WSL, launch it from the start menu then install snapcraft from the Ubuntu repositories with:-
 

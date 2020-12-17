@@ -25,7 +25,7 @@ However, during the use of the self-serve installer we unconvered a bug and a bi
 
 Once I'd got a clean Ubuntu 16.04 install done, I had a not-so-long think about what I wanted to do for hosting my blog going forward. I went for [Nikola](https://getnikola.com/) - a static website generator. I'd been looking at Nikola on and off since talking about it over a beer with [Martin](http://ubuntu-mate.org/) in Heidelberg
 
-![Beer in Heidelberg](/images/2017-04-18/IMG_20160718_213929.jpg)
+![Beer in Heidelberg](/blog/images/2017-04-18/IMG_20160718_213929.jpg)
 
 As I'd considered this before, I was already a little prepared. Nikola supports [importing](https://getnikola.com/handbook.html#importing-your-wordpress-site-into-nikola) data from an existing WordPress install. I'd already exported out my WordPress posts some weeks ago, so importing that dump into Nikola was easy, even though my server was offline.  
 
@@ -35,7 +35,7 @@ Being static HTML files on my server, I didn't have to worry about php files bei
 
 Nikola allows me to edit offline easily too. So I can just open my text editor of choice start bashing away some markdown (other formats are supported). Here you can see what it looks like when I'm writing a blog post in todays favourite editor, [Atom](https://atom.io/). With the markdown preview on the right, I can easily see what my post is going to look like as I type. I imagine I could do this with WordPress too, sure.
 
-![Writing this post](/images/2017-04-18/atom.png)
+![Writing this post](/blog/images/2017-04-18/atom.png)
 
 Once posts are written I can easily preview the entire site locally before I publish. So I get two opportunities to spot errors, once in Atom while editing and previewing, and again when serving the content locally. It works well for me!
 
