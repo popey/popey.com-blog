@@ -11,6 +11,18 @@ description = "Things about me."
 
 ---
 
+## Support
+
+Ways to support my work, or give thanks.
+
+  * [Amazon Wishlist](https://popey.com/wishlist) - buy things for me 
+  * [Amazon Shop](https://popey.com/shop) - buy things for yourself
+  * [ko-fi](https://popey.com/ko-fi) - buy me a coffee
+  * [Paypal](https://popey.com/paypal) - send me some funds
+  * [LBRY](https://lbry.tv/$/invite/qrcixegFCY1v8utP8kNTEQu2ZQKsKvfr) - Join LBRY using my referral link
+
+---
+
 ## Personal Projects
 
 Some current, past and maybe future projects of mine:
