@@ -2,6 +2,7 @@
 date = "2020-12-17T15:00:00-00:00"
 title = "Spotify on the Raspberry Pi 400"
 slug = "2020/12/spotify-on-the-raspberry-pi-400"
+author = "Alan Pope"
 +++
 
 I recently ordered a [Raspberry Pi 400](https://geni.us/A7doLdy), I couldn't resist. I've bought a few Raspberry Pi's over the years, with a few installed around the house. The Pi 400 struck me as quite the game-changer though, with a built in keyboard-enclosure and accessible connectors. The fact it reminded me of my youth with memories of the Sinclair Spectrum where everything is housed inside the keyboard helped a bit. 
