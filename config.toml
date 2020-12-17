@@ -1,5 +1,5 @@
 
-baseurl = "blog/"
+baseurl = "https://popey.com/blog/"
 title = "popey.com/blog"
 languageCode = "en-gb"
 theme = "ghostwriter"
