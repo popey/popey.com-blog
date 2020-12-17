@@ -1,14 +1,14 @@
 
-baseurl = "/"
-title = "My blog"
+baseurl = "blog/"
+title = "popey.com/blog"
 languageCode = "en-gb"
 theme = "ghostwriter"
 
 [Params]
     mainSections = ["post"]
     intro = true
-    headline = "popey.com/blog"
-    description = "Alan Pope's blog"
+    headline = "Alan Pope's blog"
+    description = "A bit of personal space for writing"
     github = "https://github.com/popey"
     twitter = "https://twitter.com/popey"
     email = "alan@popey.com"
@@ -17,4 +17,4 @@ theme = "ghostwriter"
     dateFormat = "Mon, Jan 2, 2006"
 
 [Permalinks]
-    post = "/:year/:month/:filename/"
+    post = "/blog/:year/:month/:filename/"
