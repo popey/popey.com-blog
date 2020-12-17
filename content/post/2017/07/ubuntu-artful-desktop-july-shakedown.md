@@ -13,7 +13,7 @@ bugs where appropriate.
 
 If you’re lucky enough to find any new bugs, please tag them with ‘julyshakedown’, so we can easily find them from this testing session.
 
-![Ubuntu Artful Desktop](/images/2017-07-17/desktop.png)
+![Ubuntu Artful Desktop](/blog/images/2017-07-17/desktop.png)
 
 We recently switched the images to GDM as the login manager instead of LightDM, and GNOME Shell is now the default desktop, replacing Unity. These would be great parts of the system to exercise this 
 early in the cycle. It’s also a good time to test out the Ubuntu on Wayland session to see how it performs in your use cases.
@@ -31,7 +31,7 @@ early in the cycle. It’s also a good time to test out the Ubuntu on Wayland se
 This early in the cycle we’re not yet recommending full [ISO testing](https://wiki.ubuntu.com/Testing/ISO), but some exploratory tests on a diverse range of set-ups would be appropriate. There’s 
 enough new and interesting stuff in these ISOs that make it worthwhile giving everything a good exercise. Here’s some examples of things you might want to run through to get started.
 
-![Ubuntu on Wayland](/images/2017-07-17/wayland_gdm.png)
+![Ubuntu on Wayland](/blog/images/2017-07-17/wayland_gdm.png)
 
   * Logging in using the ‘Ubuntu on Wayland’ session for your normal day to day activities
   * Suspend & resume and check everything still functions as expected
