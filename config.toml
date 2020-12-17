@@ -18,3 +18,18 @@ theme = "ghostwriter"
 
 [Permalinks]
     post = "/:year/:month/:filename/"
+
+[[menu.main]]
+    url = "/about/"
+    name = "About"
+    weight = 6
+
+[[menu.main]]
+    url = "/contact/"
+    name = "Contact"
+    weight = 7
+
+[[menu.main]]
+    url = "/index.xml"
+    name = "RSS"
+    weight = 8
