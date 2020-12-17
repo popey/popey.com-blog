@@ -31,7 +31,7 @@ The application I actually wanted to test is [ncspot](https://snapcraft.io/ncspo
 
 ![Sound Settings](/blog/images/2020-12-17/2020-12-17_13-23-15.png)
 
-While I use ncspot on my x86-68 based desktop PC, I wanted to be sure the arm64 build works well too, hence needing this audio device for my Pi 400. Well, it works perfectly. Indeed I got a little distracted, playing all kinds of tracks, to fully "test" the application and interface.
+While I use ncspot on my x86-64 based desktop PC, I wanted to be sure the arm64 build works well too, hence needing this audio device for my Pi 400. Well, it works perfectly. Indeed I got a little distracted, playing all kinds of tracks, to fully "test" the application and interface.
 
 If you don't mind the chonkyness of the device, it's good, it works.
 
