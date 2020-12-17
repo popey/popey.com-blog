@@ -1,0 +1,20 @@
+
+baseurl = "/"
+title = "My blog"
+languageCode = "en-gb"
+theme = "ghostwriter"
+
+[Params]
+    mainSections = ["post"]
+    intro = true
+    headline = "popey.com/blog"
+    description = "Alan Pope's blog"
+    github = "https://github.com/popey"
+    twitter = "https://twitter.com/popey"
+    email = "alan@popey.com"
+    opengraph = true
+    shareTwitter = true
+    dateFormat = "Mon, Jan 2, 2006"
+
+[Permalinks]
+    post = "/:year/:month/:filename/"
