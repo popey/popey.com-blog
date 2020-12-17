@@ -7,7 +7,7 @@ slug = "2018/06/kde-slimbook-2-review"
 
 # KDE Slimbook 2 Review
 
-![KDE Slimbook 2  Outside](./images/2018-06-07/DSC_0043.JPG)
+![KDE Slimbook 2  Outside](/blog/images/2018-06-07/DSC_0043.JPG)
 
 The kind folks at [Slimbook](https://slimbook.es/en/) recently sent me the latest generation of their ultrabook-style laptop line for review, the [KDE Slimbook 2](https://slimbook.es/en/kde-slimbook-2-ultrabook-laptop). You can hear my thoughts on the [latest episode](http://ubuntupodcast.org/2018/06/07/s11e14-the-fourteenth-goldfish/) of the [Ubuntu Podcast](https://ubuntupodcast.org/), released on June 7th 2018. 
 
@@ -47,7 +47,7 @@ The cable on the dongle is relatively short, but it feels solid, and I had no pr
 
 ## Software
 
-![KDE Slimbook  2 Inside](/images/2018-06-07/DSC_0038.JPG)
+![KDE Slimbook  2 Inside](/blog/images/2018-06-07/DSC_0038.JPG)
 
 ### Default install - KDE Neon
 
@@ -83,7 +83,7 @@ It boots quickly, the session starts promptly and application startup isn't a pr
 
 ### Keyboard
 
-![KDE Slimbook  2 Keyboard](/images/2018-06-07/DSC_0042.JPG)
+![KDE Slimbook  2 Keyboard](/blog/images/2018-06-07/DSC_0042.JPG)
 
 The keyboard is a common 'chiclet' affair, with a full row of function keys that double as media, wifi, touchpad, brightness hardware control buttons. The arrow cluster is bottom right with home/end/pgup/pgdown as secondary functions on those keys. The up/down arrows are vertically half-size to save space, which I quite like.
 
