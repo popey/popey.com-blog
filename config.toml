@@ -17,4 +17,4 @@ theme = "ghostwriter"
     dateFormat = "Mon, Jan 2, 2006"
 
 [Permalinks]
-    post = "/blog/:year/:month/:filename/"
+    post = "/:year/:month/:filename/"
