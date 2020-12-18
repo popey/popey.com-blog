@@ -20,7 +20,7 @@ My desktop PC has an external hard disk attached. I have an [Inatek USB 3 dual-d
 
 I formatted the 4TiB disk using the "Disk Utility" on Ubuntu using the ext4 filesystem. Other filesystems and formatting tools are available, but this works, and I know the ext4 filesystem can be read by most things. So if this machine catastrophically fails, I can get to the data by plugging the drive into basically anything.
 
-I have the partition volume label as "backup" so when it's attached it shows up under /media/alan/backup. I like that it mounts under a human-readable name, and I can browse around it using the file manager.
+I have the partition volume label as "backup" so when it's attached it shows up under `/media/alan/backup`. I like that it mounts under a human-readable name, and I can browse around it using the file manager.
 
 ## Software
 
@@ -98,10 +98,10 @@ drwxr-xr-x 145 root root 12288 Sep 22 20:15 etc
 There's plenty of other options, but really the only two I change are the first ones, and leave the rest as the default. 
 
 Rsnapshot has a configtest option which validates the configuration:
-
+```
 alan@robot:~$ sudo rsnapshot configtest
 Syntax OK
-
+```
 ## Testing configuration
 
 It's a good idea to run a test backup to make sure your configuration is all correct. The easiest way to do that is just like this:
