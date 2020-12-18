@@ -9,6 +9,7 @@
         <span itemscope="" itemprop="author" itemtype="https://schema.org/Person">
             <span itemprop="name">
                 <a href="{{ .Params.profile | default .Site.Author.profile | default "#" }}" itemprop="url" rel="author">{{ .Params.author | default .Site.Author.name }}</a>
+                <br>{{ partial "tags.html" .}}
             </span>
         </span>
     </p>

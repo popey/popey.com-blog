@@ -2,6 +2,7 @@
 date = "2018-08-22T10:25:30-07:00"
 title = "Akademy 2018 Trip Report"
 slug = "2018/08/akademy-2018-trip-report"
+tags = ['kde', 'akademy', 'events', 'vienna']
 +++
 
 

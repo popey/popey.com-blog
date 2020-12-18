@@ -2,6 +2,7 @@
 date = "2017-05-01T15:22:25-07:00"
 title = "OpenSpades Snap - pew pew"
 slug = "2017/05/openspades-snap-pew-pew"
+tags = ['ubuntu', 'snap', 'gaming']
 +++
 
 
