@@ -1,7 +1,7 @@
 +++
 date = "2020-12-18T12:00:00-00:00"
 title = "Straightforward Linux Backups with rsnapshot"
-slug = "2020/12/Straightforward Linux Backups with rsnapshot"
+slug = "2020/12/straightforward-linux-backups-with-rsnapshot"
 author = "Alan Pope"
 tags = ['hardware', 'howto', 'ubuntu', 'backup', 'rsnapshot']
 +++
