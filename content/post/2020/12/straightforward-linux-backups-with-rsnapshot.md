@@ -77,7 +77,7 @@ drwxr-xr-x 3 root root 4096 Sep 23 04:00 alpha.1
 drwxr-xr-x 3 root root 4096 Sep 23 08:01 alpha.0
 ```
 
-Finally the bit which tells rsnapshot what to backup. This is just a list of folders and where they get put in each of the folders above. These are the defaults, to which you can add folders which are important to you. I really only deeply care about my data in home and configuration in etc.
+Finally the bit which tells rsnapshot what to backup. This is just a list of folders and where they get put in each of the folders above. These are the defaults, to which you can add folders which are important to you. I really only deeply care about my data in `/home` and configuration in `/etc`.
 
 ```
 backup /home/ localhost/
