@@ -2,6 +2,7 @@
 date = "2017-04-15T21:50:00-07:00"
 title = "My Ubuntu 16.04 GNOME Setup"
 slug = "2017/04/my-ubuntu-1604-gnome-setup"
+tags = ['ubuntu', 'xenial', 'gnome']
 +++
 
 

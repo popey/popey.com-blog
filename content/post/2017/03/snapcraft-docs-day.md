@@ -2,6 +2,7 @@
 date = "2017-03-28T10:02:31-07:00"
 title = "Snapcraft Docs Day"
 slug = "2017/03/snapcraft-docs-day"
+tags = ['snap', 'snapcraft', 'documentation', 'event']
 +++
 
 

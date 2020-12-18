@@ -2,6 +2,7 @@
 date = "2017-05-17T14:00:00-07:00"
 title = "Building Apps for Linux without Linux"
 slug = "2017/05/building-apps-for-linux-without-linux"
+tags = ['ubuntu', 'windows', 'wsl', 'snap', 'snapcraft']
 +++
 
 

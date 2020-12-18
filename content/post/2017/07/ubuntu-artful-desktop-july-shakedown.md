@@ -2,6 +2,7 @@
 date = "2017-07-17T07:00:00-07:00"
 title = "Ubuntu Artful Desktop July Shakedown"
 slug = "2017/07/ubuntu-artful-desktop-july-shakedown"
+tags = ['ubuntu', 'event', 'community', 'artful', 'testing']
 +++
 
 

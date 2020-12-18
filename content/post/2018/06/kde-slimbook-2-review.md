@@ -2,6 +2,7 @@
 date = "2018-06-07T16:28:28-07:00"
 title = "KDE Slimbook 2 Review"
 slug = "2018/06/kde-slimbook-2-review"
+tags = ['kde', 'slimbook', 'hardware', 'review']
 +++
 
 

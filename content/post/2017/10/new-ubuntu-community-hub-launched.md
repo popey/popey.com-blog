@@ -2,6 +2,7 @@
 date = "2017-10-03T13:22:28-07:00"
 title = "New Ubuntu Community Hub Launched"
 slug = "2017/10/new-ubuntu-community-hub-launched"
+tags = ['ubuntu', 'community']
 +++
 
 

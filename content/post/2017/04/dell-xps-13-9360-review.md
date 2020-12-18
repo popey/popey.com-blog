@@ -2,8 +2,8 @@
 date = "2017-04-13T12:46:10-07:00"
 title = "Dell XPS 13 9360 Review"
 slug = "2017/04/dell-xps-13-9360-review"
+tags = ['ubuntu', 'hardware', 'dell', 'review']
 +++
-
 
 # Dell XPS 13 9360 Review
 
