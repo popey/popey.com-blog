@@ -21,43 +21,18 @@ What's even more neat is the NUC has a ThunderBolt port which means I can attach
 So now this computer technically has 3 GPUs, Intel, AMD and nVidia.
 ```
 alan@robot:~$ sudo lshw -C display
-*-display 
+⋮
 description: VGA compatible controller
-**product: Polaris 22 XT [Radeon RX Vega M GH]**
-**vendor: Advanced Micro Devices, Inc. [AMD/ATI]**
-physical id: 0
-bus info: pci@0000:01:00.0
-logical name: /dev/fb0
-version: c0
-width: 64 bits
-clock: 33MHz
-capabilities: pm pciexpress msi vga_controller bus_master cap_list rom fb
-configuration: depth=32 driver=amdgpu latency=0 mode=1920x1080 visual=truecolor xres=1920 yres=1080
-resources: iomemory:200-1ff iomemory:210-20f irq:191 memory:2000000000-20ffffffff memory:2100000000-21001fffff ioport:e000(size=256) memory:db500000-db53ffff memory:c0000-dffff
-*-display
+product: Polaris 22 XT [Radeon RX Vega M GH]
+vendor: Advanced Micro Devices, Inc. [AMD/ATI]
+⋮
 description: Display controller
-**product: HD Graphics 630**
-**vendor: Intel Corporation**
-physical id: 2
-bus info: pci@0000:00:02.0
-version: 04
-width: 64 bits
-clock: 33MHz
-capabilities: pciexpress msi pm bus_master cap_list
-configuration: driver=i915 latency=0
-resources: iomemory:2f0-2ef iomemory:2f0-2ef irq:188 memory:2ffe000000-2ffeffffff memory:2fa0000000-2fafffffff ioport:f000(size=64)
-*-display
+product: HD Graphics 630
+vendor: Intel Corporation
+⋮
 description: VGA compatible controller
-**product: GM206 [GeForce GTX 960]**
-**vendor: NVIDIA Corporation**
-physical id: 0
-bus info: pci@0000:40:00.0
-version: a1
-width: 64 bits
-clock: 33MHz
-capabilities: pm msi pciexpress vga_controller bus_master cap_list rom
-configuration: driver=nvidia latency=0
-resources: iomemory:2f0-2ef iomemory:2f0-2ef irq:17 memory:c4000000-c4ffffff memory:2fd0000000-2fdfffffff memory:2fe0000000-2fe1ffffff ioport:3000(size=128) memory:c5000000-c507ffff
+product: GM206 [GeForce GTX 960]
+vendor: NVIDIA Corporation
 ```
 Cats and dogs living together!
 
