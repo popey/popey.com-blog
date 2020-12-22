@@ -300,7 +300,7 @@ Snapshot #24 forgotten.
 
 ### df
 
-The output of `df` can be cluttered with the loopback mounts used by snaps. These can be supressed by excluding all `squashfs` filetypes from the output.
+The output of `df` can be cluttered with the loopback mounts used by snaps. These can be suppressed by excluding all `squashfs` filetypes from the output.
 
 `$ df -x squashfs`
 
@@ -441,48 +441,21 @@ As well as holding updates, it's possible to define a specific time when updates
 
 ### Set metered connection
 
-You may wish to supress updates if you're on a metered connection such as a MiFi or tethered to a cellphone with limited data allowance. Indeed, in some regions it may be desireable to rate-limit snapd on the default domestic wireless connection too due to cost or imposed data limits.
+You may wish to suppress updates if you're on a metered connection such as a MiFi or tethered to a cellphone with limited data allowance. Indeed, in some regions it may be desirable to rate-limit snapd on the default domestic wireless connection too due to cost or imposed data limits.
 
-Note that there may be graphical ways to do this in modern Linux desktop operating systems, this is just one way to do it from the command line.
+Modern desktop environments have options to configure networks to be 'metered'. Consult the documentation for your desktop to configure that setting. The snap system can be configured to respect the metered option or not.
 
-* Get list of devices
-
-This is useful to get the technical name of the wireless adapter, which can change from one Linux distro to another, and from one device to another.
-
-`$ nmcli d`
-
-```
-DEVICE         TYPE      STATE                   CONNECTION 
-wlan0          wifi      connected               MyWireless      
-lxdbr0         bridge    connected (externally)  lxdbr0     
-p2p-dev-wlan0  wifi-p2p  disconnected            --         
-eth0           ethernet  unavailable             --         
-vethf043ceba   ethernet  unmanaged               --         
-lo             loopback  unmanaged               --         
-```
-
-* See which network the wireless device is attached to
-
-This assumes my WiFi device is called `wlan0`.
-
-`$ nmcli -t -f GENERAL.CONNECTION --mode tabular device show wlan0 | head -n1`
-
-* Determine if this connection is metered
-
-Using the wireless network name gathered above, we check whether Network Manager thinks it's metered. It will likely show `unknown` if not. This assumes my wireless network is called `MyWireless`.
-
-`$ nmcli -f connection.metered connection show MyWireless`
-
-* Set the connection to be metered
-
-`$ nmcli connection modify MyWireless connection.metered yes`
-
-* Tell `snapd` not to refresh on metered connections
+Tell `snapd` not to refresh on metered connections
 
 `$ sudo snap set system refresh.metered=hold`
 
 To switch off this feature, use the command:
 
 `$ sudo snap set system refresh.metered=null`
+
+
+## Conclusion
+
+I hope this braindump is useful. There's a lot of kinda random commands in this page. All of it is covered in more detail in the [snapcraft documentation](https://snapcraft.io/docs). 
 
 The source for this page is on [GitHub](https://github.com/popey/popey.com-blog/tree/main/content/post/2020/12/snap-tips.md), [PRs](https://github.com/popey/popey.com-blog/pulls) and [issues](https://github.com/popey/popey.com-blog/issues) welcome, within reason.
