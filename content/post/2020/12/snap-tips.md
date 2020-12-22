@@ -167,6 +167,8 @@ error: This revision of snap "snapcraft" was published using classic
 
 *Note*: In documentation, it's generally not recommended to add the `--classic` suffix even when needed, because users who copy-paste the command will never be empowered to make the choice of whether they *want* a classic snap installed or not, via the message above.
 
+*Note*: Don't try to install a non-classic snap using `--classic`. It won't work, and isn't meant to.
+
 `$ snap install snapcraft --classic`
 
 ```
@@ -250,6 +252,8 @@ Done    today at 18:20 GMT  today at 18:20 GMT  Disconnect ohmygiraffe:audio-pla
 
 #### List snapshots
 
+Each snapshot is simply a root-owned zip file stored in `/var/lib/snapd/snapshots`.
+
 `$ snap saved`
 
 ```
@@ -274,7 +278,7 @@ Set  Snap         Age    Version  Rev  Size    Notes
 
 Use `snap saved` to list snapshots, then use the ID number with `snap restore` to unpack the datafiles for the snap back to disk.
 
-`$ snap restore <id>`
+`$ snap restore 24`
 
 ```
 Restored snapshot #24.
@@ -284,7 +288,7 @@ Restored snapshot #24.
 
 Any snapshot can be removed manually. In addition, they're automatically removed after 30 days, to recover space.
 
-`$ snap forget <id>`
+`$ snap forget 24`
 
 ```
 Snapshot #24 forgotten.
@@ -297,6 +301,18 @@ Snapshot #24 forgotten.
 The output of `df` can be cluttered with the loopback mounts used by snaps. These can be supressed by excluding all `squashfs` filetypes from the output.
 
 `$ df -x squashfs`
+
+```
+Filesystem                1K-blocks      Used Available Use% Mounted on
+tmpfs                       3275932      3620   3272312   1% /run
+/dev/mapper/vgubuntu-root 958123168 432890148 476493284  48% /
+tmpfs                      16379656    771360  15608296   5% /dev/shm
+tmpfs                          5120         4      5116   1% /run/lock
+tmpfs                          4096         0      4096   0% /sys/fs/cgroup
+/dev/sda2                    721392    228528    440400  35% /boot
+/dev/sda1                    523248      7984    515264   2% /boot/efi
+tmpfs                       3275928      1908   3274020   1% /run/user/1000
+```
 
 Add this as an alias to your shell configuration.
 
@@ -311,6 +327,31 @@ Use the following to override the alias.
 The output of `mount` can be cluttered with the loopback mounts used by snaps. These can be supproessed by excluding all `squashfs` and `cgroup` mounts. I often extend the list with others I don't really care about.
 
 `$ mount -t nosquashfs,nocgroup,nsfs,tmpfs,fuse`
+
+```
+sysfs on /sys type sysfs (rw,nosuid,nodev,noexec,relatime)
+proc on /proc type proc (rw,nosuid,nodev,noexec,relatime)
+udev on /dev type devtmpfs (rw,nosuid,noexec,relatime,size=16330552k,nr_inodes=4082638,mode=755)
+devpts on /dev/pts type devpts (rw,nosuid,noexec,relatime,gid=5,mode=620,ptmxmode=000)
+/dev/mapper/vgubuntu-root on / type ext4 (rw,relatime,errors=remount-ro)
+securityfs on /sys/kernel/security type securityfs (rw,nosuid,nodev,noexec,relatime)
+cgroup2 on /sys/fs/cgroup/unified type cgroup2 (rw,nosuid,nodev,noexec,relatime,nsdelegate)
+pstore on /sys/fs/pstore type pstore (rw,nosuid,nodev,noexec,relatime)
+efivarfs on /sys/firmware/efi/efivars type efivarfs (rw,nosuid,nodev,noexec,relatime)
+none on /sys/fs/bpf type bpf (rw,nosuid,nodev,noexec,relatime,mode=700)
+systemd-1 on /proc/sys/fs/binfmt_misc type autofs (rw,relatime,fd=28,pgrp=1,timeout=0,minproto=5,maxproto=5,direct,pipe_ino=34070)
+hugetlbfs on /dev/hugepages type hugetlbfs (rw,relatime,pagesize=2M)
+mqueue on /dev/mqueue type mqueue (rw,nosuid,nodev,noexec,relatime)
+debugfs on /sys/kernel/debug type debugfs (rw,nosuid,nodev,noexec,relatime)
+tracefs on /sys/kernel/tracing type tracefs (rw,nosuid,nodev,noexec,relatime)
+/dev/mapper/vgubuntu-root on /snap/chrony/x7 type ext4 (ro,nodev,relatime,errors=remount-ro,x-gdu.hide)
+fusectl on /sys/fs/fuse/connections type fusectl (rw,nosuid,nodev,noexec,relatime)
+configfs on /sys/kernel/config type configfs (rw,nosuid,nodev,noexec,relatime)
+/dev/sda2 on /boot type ext4 (rw,relatime)
+/dev/sda1 on /boot/efi type vfat (rw,relatime,fmask=0077,dmask=0077,codepage=437,iocharset=iso8859-1,shortname=mixed,errors=remount-ro)
+gvfsd-fuse on /run/user/1000/gvfs type fuse.gvfsd-fuse (rw,nosuid,nodev,relatime,user_id=1000,group_id=1000)
+portal on /run/user/1000/doc type fuse.portal (rw,nosuid,nodev,relatime,user_id=1000,group_id=1000)
+```
 
 Add this as an alias to your shell configuration.
 
@@ -348,7 +389,7 @@ yakyak      1.5.11     96    snapcrafters  -
 
 ### Review upcoming change time
 
-By default snap checks the store for updates 4 times a day.
+By default snap checks the store for updates 4 times a day. So if a publisher pushes a snap to a channel you're subscribed to, you'll get it within ~6 hours, assuming your computer is on, network connected and not on a metered connection (more on that below).
 
 `$ snap refresh --time`
 
