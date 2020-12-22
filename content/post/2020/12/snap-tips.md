@@ -419,7 +419,7 @@ error: snap "core" has no "refresh.hold" configuration option
 
 ### Hold updates
 
-This command prevents `snapd` from updating the system until the date and time specified. This example pushes back updates by 30 minutes. It doesn't print any output on success, so use the `sudo snap get system refresh.hold` command or `snap refresh --time` to see what the result was.
+This command prevents `snapd` from checking the Snap Store for any updates to the system until the date and time specified. This example effectively pushes back all updates by 30 minutes. It doesn't print any output on success, so use the `sudo snap get system refresh.hold` command or `snap refresh --time` to see what the result was.
 
 `$ sudo snap set system refresh.hold=$(date --iso-8601=seconds -d "30 minutes")`
 
