@@ -403,7 +403,7 @@ next: tomorrow at 04:48 GMT
 
 ### Check if updates are held
 
-By default they're not likely to be held, but if you choose to (see below) then this command is useful for checking the status.
+By default they're not likely to be held, but if you choose to (see below) then this command is useful for checking the status. This is a global setting for all snaps, not specific to any one snap.
 
 `$ sudo snap get system refresh.hold`
 
