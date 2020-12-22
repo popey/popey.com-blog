@@ -179,7 +179,9 @@ snapcraft 4.4.4 from Canonical✓ installed
 
 #### Removing 
 
-Removing a snap will automatically take a snapshot of the data created by the application in snap-related folders. Data created outside those places - such as on removable media, or in the user's home directory - will not be snapshotted.
+Removing a snap will automatically take a snapshot of the data created by the application in snap-related folders. Data created outside those places - such as on removable media, or in the user's home directory - will not be snapshotted. 
+
+Only the data in `$HOME/snap/(snapname)/` and/or `/var/snap/(snapname)` (if used) are compressed as a zip into `/var/lib/snapd/snapshots`. The snapshot is kept in the event of an accidental removal deleting essential data such as browser bookmarks, which might otherwise be lost.
 
 `$ snap remove ohmygiraffe`
 
@@ -440,6 +442,8 @@ As well as holding updates, it's possible to define a specific time when updates
 ### Set metered connection
 
 You may wish to supress updates if you're on a metered connection such as a MiFi or tethered to a cellphone with limited data allowance. Indeed, in some regions it may be desireable to rate-limit snapd on the default domestic wireless connection too due to cost or imposed data limits.
+
+Note that there may be graphical ways to do this in modern Linux desktop operating systems, this is just one way to do it from the command line.
 
 * Get list of devices
 
