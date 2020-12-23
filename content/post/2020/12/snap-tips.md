@@ -199,6 +199,29 @@ Some snaps generate huge datasets (e.g. crypto nonsense) and may be too large, o
 ohmygiraffe removed
 ```
 
+#### Reverting updates
+
+If a snap fails to install, or an update is undesireable after it's been installed, the snap can be reverted with the following.
+
+`$ snap revert zoom-client`
+
+```
+zoom-client reverted to 5.4.54779.1115
+```
+
+To further illustrate, here's the channel map for that snap, showing I'm tracking `latest/stable` but not running the version currently published there - revision 118 vs revision 125, at the time of writing.
+
+```
+tracking:     latest/stable
+refresh-date: today at 19:34 GMT
+channels:
+  latest/stable:    5.4.57450.1220 2020-12-23 (125) 245MB -
+  latest/candidate: 5.4.53350.1027 2020-10-31 (108) 157MB -
+  latest/beta:      5.4.53350.1027 2020-10-31 (108) 157MB -
+  latest/edge:      5.4.57450.1220 2020-12-22 (125) 245MB -
+installed:          5.4.54779.1115            (118) 244MB -
+```
+
 ### Reviewing changes
 
 #### List of changes
@@ -250,6 +273,40 @@ Done    today at 18:20 GMT  today at 18:20 GMT  Disconnect ohmygiraffe:icon-them
 Done    today at 18:20 GMT  today at 18:20 GMT  Disconnect ohmygiraffe:audio-playback from snapd:audio-playback
 ```
 
+### Manage warnings
+
+#### Display warnings
+
+As `snapd` updates in the background, warnings may not be seen by the user. So with the following command, it's possible to query any warnings which may have occured recently.
+
+`$ snap warnings`
+
+```
+last-occurrence:  23 days ago, at 00:42 GMT
+warning: |
+  snap "standard-notes" is currently in use. Its refresh will be postponed for up to 7 days to wait
+  for the snap to no longer be in use.
+---
+last-occurrence:  23 days ago, at 00:42 GMT
+warning: |
+  snap "slack" is currently in use. Its refresh will be postponed for up to 7 days to wait for the
+  snap to no longer be in use.
+```
+
+In this case the two snaps listed were currently open. The `snapd` update was held back so as not to disrupt the application while running.
+
+#### Acknowledge warnings
+
+The warnings triggered by `snapd` are kept until acknowledged. Acknowledge them with the following command:
+
+`$ snap okay`
+
+The command produces no output. However, subsequently running `snap warnings` yields a new message:
+
+```
+No further warnings.
+```
+
 ### Managing snapshots
 
 #### List snapshots
@@ -296,7 +353,15 @@ Any snapshot can be removed manually. In addition, they're automatically removed
 Snapshot #24 forgotten.
 ```
 
-## Shell tweaks
+## Tweaks
+
+### Revisions kept
+
+By default, `snapd` will retain 3 copies of every installed snap. This is to enable automatic and manual rollback via `snap rollback`. It's possible to override this, and keep more old versions of an application, or fewer, down to the minimum, 2.
+
+`$ sudo snap set system refresh.retain=2`
+
+The more revisions that are kept, the more disk space is consumed, so some users choose to reduce this setting. It also contributes to a cluttered `df` and `mount` output (see below) as both the currently active, and previous revision of all snaps are mounted.
 
 ### df
 
