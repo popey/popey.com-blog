@@ -7,7 +7,7 @@ description = "How to find me."
 
 ## Contact
 
-Email address is at the top of every page. Alternatively use one of the methods below.
+Email address is `my first name (at) this domain`. Alternatively use one of the methods below.
 
 ### popey on the web ###
 
