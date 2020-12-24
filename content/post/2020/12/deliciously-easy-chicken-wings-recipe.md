@@ -8,7 +8,7 @@ tags = ['chicken', 'recipe', 'wings', 'nontech']
 
 I like chicken wings. I *really* like chicken wings. Before `The Event`, when I used to travel internationally, often to the USA, I'd frequently partake of some delicious wings. On one notable occasion in California, I think I had chicken wings every day for a week, from different restaurants. I like them a **lot**.
 
-![Potential chicken wings](/blog/images/2020-12-24/menu.jpg)
+![Menu from my travells](/blog/images/2020-12-24/menu.jpg)
 
 Ideally I feel chicken wings should be slathered in some kind of sauce, I'm not picky, there's room for many sauces in this world. But I prefer something sticky, sweet and often spicy. Underneath that sauce should be found a crispy coating enclosing our wing, on the bone.
 
