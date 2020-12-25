@@ -48,7 +48,7 @@ Yes! **Look** at it!
 
 ![Tex Shinobi Prototype](/blog/images/2020-12-25/ugwzd9cjhfx21.jpg)
 
-I eagerly awaited the manufacture and sale of these keyboards, until in May I saw they were [available](https://tex.com.tw/products/shinobi). I don't think I've ever bought anything online any faster. It shiped in mid July and I was giddy with excitement when I got the email notification. 
+I eagerly awaited the manufacture and sale of these keyboards, until in May I saw they were [available](https://tex.com.tw/products/shinobi). I don't think I've ever bought anything online any faster. It shipped in mid July and I was giddy with excitement when I got the email notification. 
 
 ![Tex Shinobi](/blog/images/2020-12-25/shinobi.jpg)
 
