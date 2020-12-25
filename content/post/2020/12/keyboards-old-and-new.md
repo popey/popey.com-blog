@@ -22,7 +22,7 @@ Here it is back in 1999, the earliest photo I have of it in use. Take a moment t
 
 Using the Model M is a uniquely pleasurable experience, for the user. For anyone around them, it's likely the most annoying noise in their day. Working from home in your own office has many benefits, and not being shouted at for "typing too loud" is certainly high on the list.
 
-The travel and feel as your digits dance across the beige buttons, composing your opus, or a merely messaging mates, is sublime. The Model M has an unmatched heft and solidity compared to modern counterparts. You know you're using this keyboard. Its presence on the desk is imposing, never taking second fiddle to anything else nearby. It's a monument.
+The travel and feel as your digits dance across the beige buttons, composing your opus, or merely messaging mates, is sublime. The Model M has an unmatched heft and solidity compared to modern counterparts. You know you're using this keyboard. Its presence on the desk is imposing, never taking second fiddle to anything else nearby. It's a monument.
 
 In use, there's a rhythmic, almost musical click and clack of each key. Each has their individual characteristic sound, from light deftness of the main letters to the echoing resonance of the enter key to the soft 'boing' of the spacebar. Every keypress is a unique audible delight for the user.
 
