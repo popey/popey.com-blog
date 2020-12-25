@@ -16,9 +16,9 @@ This venerable IBM Model M keyboard has been in my possession since the mid 1990
 
 ![IBM Model M](/blog/images/2020-12-25/model-m.jpg)
 
-Here it is back in 1999, the earliest photo I have of it in use. Take a moment to absorb the nearby glory of a 17" Ilyama monitor, Ricoh SCSI 2x CD burner (with caddy!), Palm III, and even a US Robotics modem (behind Trigger, the cat). The stapler is the only thing in this photo I still own, aside from the keyboard.
+Here it is back in 1999, the earliest photo I have of it in use. Take a moment to absorb the nearby glory of a 17" Ilyama monitor, Ricoh SCSI 2x CD burner (with caddy!), Palm III, and even a US Robotics modem (behind Twiglet, the cat). The stapler is the only thing in this photo I still own, aside from the keyboard.
 
-![IBM Model M and Trigger](/blog/images/2020-12-25/model-m-trigger.jpg)
+![IBM Model M and Twiglet](/blog/images/2020-12-25/model-m-twiglet.jpg)
 
 Using the Model M is a uniquely pleasurable experience, for the user. For anyone around them, it's likely the most annoying noise in their day. Working from home in your own office has many benefits, and not being shouted at for "typing too loud" is certainly high on the list.
 
