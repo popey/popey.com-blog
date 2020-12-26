@@ -4,7 +4,7 @@ title = "popey.com/blog"
 languageCode = "en-gb"
 theme = "ghostwriter"
 #theme = "anubis"
-disqusShortname="popeydc"
+disqusShortname="popey"
 [Params]
     mainSections = ["post"]
     intro = true
