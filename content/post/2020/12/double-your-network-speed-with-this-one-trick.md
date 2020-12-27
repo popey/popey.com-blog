@@ -29,7 +29,7 @@ So the network at home is basically like this:
 Then at the other, opposite and of the house, on another floor:
 ```
 PowerLine Adapter (attached to 6-way power strip)
- └ 1GiB Switch
+ └ 1GbE Switch
   └ Desktop PC
 ```
 
