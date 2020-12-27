@@ -22,7 +22,7 @@ So the network at home is basically like this:
 
 ```
 ( Internet )
- └ Cable modem (onboard WiFi disbaled)
+ └ Cable modem (onboard WiFi disabled)
   └ WiFi Router
    └ Power Line Adapter (attached to wall outlet)
 ```
