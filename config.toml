@@ -2,7 +2,7 @@
 baseurl = "https://popey.com/blog/"
 title = "popey.com/blog"
 languageCode = "en-gb"
-theme = "anubis"
+theme = "ghostwriter"
 disqusShortname="popey"
 [Params]
     mainSections = ["post"]
@@ -15,7 +15,7 @@ disqusShortname="popey"
     opengraph = true
     shareTwitter = true
     dateFormat = "Mon, Jan 2, 2006"
-    style = "dark"
+    #style = "dark"
 [Permalinks]
     post = "/:year/:month/:filename/"
 
