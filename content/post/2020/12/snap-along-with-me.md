@@ -196,6 +196,19 @@ Sometimes developers have weird build systems, or sets of commands that need to 
       ln -s ./convert-im6.q16 ./convert
 ```
 
+I discovered this after doing a successful build, but the application would error, saying it couldn't fine `usr/bin/convert`. I did a quick `find /snap/t-rec/current` on the installed snap (although `less t-rec_v0.4.0_amd64.snap` would also have worked) to see what files were delivered. Perhaps `convert` was in another location. Then I remembered that the `convert` binary on Debian based systems points to `/etc/alternatives/convert` which in turn points to `/usr/bin/convert-im6.q16`:
+
+```
+alan@robot:~$ which convert
+/usr/bin/convert
+alan@robot:~$ ls -l /usr/bin/convert
+lrwxrwxrwx 1 root root 25 Aug 17 14:54 /usr/bin/convert -> /etc/alternatives/convert
+alan@robot:~$ ls -l /etc/alternatives/convert
+lrwxrwxrwx 1 root root 24 Aug 17 14:54 /etc/alternatives/convert -> /usr/bin/convert-im6.q16
+```
+
+When the `imagemagick` deb is pulled into the snap, this dance doesn't happen. So I worked around that with the symlink.
+
 ## Build it
 
 ### Iterate
