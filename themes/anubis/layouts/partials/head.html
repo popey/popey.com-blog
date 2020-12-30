@@ -4,7 +4,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="referrer" content="no-referrer-when-downgrade">
 
-<title>{{ if .Title }}{{ .Title }} - {{ end }}{{ .Site.Title }}</title>
+<title>{{ if and (.Title) (not .IsHome) }}{{ .Title }} - {{ end }}{{ .Site.Title }}</title>
 <meta name="description" content="{{ .Site.Params.Description }}">
 
 {{ with .OutputFormats.Get "rss" -}}
@@ -14,10 +14,14 @@
 <link rel="icon" type="image/x-icon" href="{{ "favicon.ico" | absURL }}">
 <link rel="apple-touch-icon-precomposed" href="{{ "favicon.png" | absURL }}">
 
-<link rel="stylesheet" href="{{ "css/style.css" | absURL }}?rnd={{ now.Unix }}" />
+{{ partial "resource.html" (dict "context" . "type" "css" "filename" "css/main.css") }}
 
 {{ range .Site.Params.customCSS -}}
-<link rel="stylesheet" href="{{ . | absURL }}?rnd={{ now.Unix }}">
+  {{ partial "resource.html" (dict "context" $ "type" "css" "filename" . ) }}
+{{- end }}
+
+{{ range .Site.Params.customJS -}}
+  {{ partial "resource.html" (dict "context" $ "type" "js" "filename" . ) }}
 {{- end }}
 
 {{ template "_internal/opengraph.html" . }}
@@ -32,3 +36,5 @@
 {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
     {{ template "_internal/google_analytics_async.html" . }}
 {{ end }}
+
+{{ partial "head-extra.html" . }}

@@ -1,0 +1,44 @@
+powered:
+  other: "Erstellt mit"
+
+theme:
+  other: "Theme"
+
+readMore:
+  other: "Weiterlesen"
+
+toNewPosts:
+  other: "Zu neueren Beiträgen"
+
+toOldPosts:
+  other: "Uu älteren Beiträgen"
+
+tag:
+  other: "Schlagwort"
+
+Tags:
+  other: "Schlagwörter"
+
+Posts:
+  other: "Beiträge"
+
+category:
+  other: "Kategorie"
+
+Categories:
+  other: "Kategorien"
+
+toAllTags:
+  other: "Zu allen Schlagwörtern"
+
+toAllCategories:
+  other: "Zu allen Kategorien"
+
+skipToContent:
+  other: "Zum Hauptinhalt springen"
+
+darkTheme:
+  other: "Dunkles thema"
+
+lightTheme:
+  other: "Licht thema"
