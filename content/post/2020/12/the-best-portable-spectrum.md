@@ -6,7 +6,7 @@ author = "Alan Pope"
 tags = ['hardware', 'sinclair', 'spectrum', 'nintendo', 'ds']
 +++
 
-The [Sinclair ZX Spectrum](https://en.wikipedia.org/wiki/ZX_Spectrum) was the second computer I ever owned, a natural upgrade from the [Sinclair ZX81](https://en.wikipedia.org/wiki/ZX81). I still own a small collection of Spectrums which work perfectly after to a bit of light refurbishment thanks to [Mutant Caterpillar](https://www.mutant-caterpillar.co.uk/shop/product_info.php?products_id=4609).
+The [Sinclair ZX Spectrum](https://en.wikipedia.org/wiki/ZX_Spectrum) was the second computer I ever owned, a natural upgrade from the [Sinclair ZX81](https://en.wikipedia.org/wiki/ZX81). I still own a small collection of Spectrums which work perfectly after a bit of light refurbishment thanks to [Mutant Caterpillar](https://www.mutant-caterpillar.co.uk/shop/product_info.php?products_id=4609).
 
 ![Spectrums](/blog/images/2020-12-31/spectrums.jpg)
 
