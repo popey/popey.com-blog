@@ -6,7 +6,7 @@ author = "Alan Pope"
 tags = ['hardware', 'sinclair', 'spectrum', 'nintendo', 'ds']
 +++
 
-The [Sinclair ZX Spectrum](https://en.wikipedia.org/wiki/ZX_Spectrum) was the second computer I ever owned, a natrual upgrade from the [Sinclair ZX81](https://en.wikipedia.org/wiki/ZX81). I still own a small collection of Spectrums which work perfectly thanks to a bit of light refurbishment thanks to [Mutant Caterpillar](https://www.mutant-caterpillar.co.uk/shop/product_info.php?products_id=4609).
+The [Sinclair ZX Spectrum](https://en.wikipedia.org/wiki/ZX_Spectrum) was the second computer I ever owned, a natural upgrade from the [Sinclair ZX81](https://en.wikipedia.org/wiki/ZX81). I still own a small collection of Spectrums which work perfectly after a bit of light refurbishment thanks to [Mutant Caterpillar](https://www.mutant-caterpillar.co.uk/shop/product_info.php?products_id=4609).
 
 ![Spectrums](/blog/images/2020-12-31/spectrums.jpg)
 
@@ -34,7 +34,7 @@ Where to get the games though? Well, if you're a ~~hoarder~~ collector like me y
 
 ![Cassette](/blog/images/2020-12-31/cassette.jpg)
 
-Or you could do what everyone else does, and visit World of Spectrum and download your favourites from there. Put them on the SD card, and ZXDS will be able to find them. ZXDS has a simple file manager, so you can browse around, find a game and instantly load it. Or you could load it in real tape-time for the authentic experience.
+Or you could do what everyone else does, and visit [World of Spectrum](https://worldofspectrum.org/) and [download](https://worldofspectrum.org/archive/software/games) your favourites from there. Put them on the SD card, and ZXDS will be able to find them. ZXDS has a simple file manager, so you can browse around, find a game and instantly load it. Or you could load it in real tape-time for the authentic experience.
 
 ![Lightforce](/blog/images/2020-12-31/ds-2.jpg)
 
