@@ -6,7 +6,7 @@ author = "Alan Pope"
 tags = ['software', 'web', 'twitter', 'rant']
 +++
 
-Bit of a rant, sorry. I'm trying to download my data from [Twitter](https://twitter.com/). I login via the web page, find the place to do this, note its says I'll get an "*archive of your data we think is most important to you*". Uh-huh. **You** think, then click the button.
+Bit of a rant, sorry. I'm trying to download my data from [Twitter](https://twitter.com/). I login via the web page, find the place to do this, note its says I'll get an "*archive of your data we think is most important to you*". Uh-huh, **you** think. Then click the button.
 
 ![Notification](/blog/images/2021-01-04/request.png)
 
