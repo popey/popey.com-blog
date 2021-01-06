@@ -66,7 +66,7 @@ This is fixed in GNOME Tweaks, Workspaces, Display Handling.
 
 ![Workspaces](/blog/images/2021-01-06/workspaces.png)
 
-Over the years I've used all manner of workspace layouts on Windows, MacOS and Linux. On MacOS, on Apple laptop hardware, having horizontal workspaces makes complete sense. Their gestures are way better than any other OS. Being able to switch workspaces quickly with a deft swipe of the hand on the trackpad is great. Also, being able to "peek" across one workspace to another, but half-sliding across the trackpad is just 😍 - I wish we had that. I might use trackpads then!
+Over the years I've used all manner of workspace layouts on Windows, MacOS and Linux. On MacOS, on Apple laptop hardware, having horizontal workspaces makes complete sense. Their gestures are way better than any other OS. Being able to switch workspaces quickly with a deft swipe of the hand on the trackpad is great. Also, being able to "peek" across one workspace to another, by half-sliding across the trackpad is just 😍 - I wish we had that. I might use trackpads then!
 
 **Narrator**: He wouldn't.
 
