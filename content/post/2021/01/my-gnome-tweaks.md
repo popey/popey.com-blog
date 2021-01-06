@@ -8,7 +8,7 @@ tags = ['software', 'ubuntu', 'linux', 'gnome']
 
 One of the neat things about GNOME Shell is that it's pretty tweakable - to some degree - to customise it to a user's preferences. I know some people use GNOME Shell stock experience. I don't. I have previously [written](/blog/2020/12/my-must-have-gnome-extensions/) about some of my must-have extensions and add-ons. This supplements that with what I do to further tweak my (currently) Ubuntu 20.10 system to my liking. 
 
-*Note*: These are the settings I configure on *my* computer that *I* use all day every day. If you don't like these settings, I frankly don't ~~care~~ mind, you're not using on my PC. 😎
+*Note*: These are the settings I configure on *my* computer that *I* use all day every day. If you don't like these settings, I frankly don't ~~care~~ mind, you're not using my PC. 😎
 
 My main system setup is a desktop PC with two landscape 1080p displays, side-by-side, with an [IBM Model M keyboard](/blog/2020/12/keyboards-old-and-new/) and bluetooth mouse. But on laptops, I configure everything the same as this, in case I use an external monitor and mouse (which I often do).
 
