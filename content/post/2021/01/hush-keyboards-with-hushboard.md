@@ -146,7 +146,7 @@ When I first built the snap, the yaml looked pretty much as it does now, but wit
 
 When Stuart first landed the yaml and hooked up the snapcraft build service, we had build failures on the s390x and ppc64el architecture builders. That's because the `gnome-3-34-1804-sdk` component used at build time isn't built for those architectures. So I added an [architectures](https://github.com/stuartlangridge/hushboard/commit/d70afd117ad8d4e8b65f43213c3416605e1cc266) stanza to limit the builds we'd support. Now the build service doesn't even try to build s390x, ppc64el. Sorry all of you doing video calls on your IBM mainframes!
 
-### Python 2.7
+### Python 3.7
 
 At one point in development, once snapped, hushboard would crash with a traceback:
 
@@ -171,7 +171,7 @@ A quick search online revealed SimpleQueue which Stuart used in hushboard, was i
 
 I had a couple of meetings today in which I could test the newly minted [hushboard](https://snapcraft.io/hushboard). Hushboard has an internal timer which essential starts whenever the user presses a key and the microphone is muted. If you don't press anything for a certain period, you're unmuted. We initially settled on 2 seconds as the delay. But this seemed weird, as the typer would have to wait 2 seconds after typing to be able to say anything. It stilted conversations. 
 
-We tried [150ms](https://github.com/stuartlangridge/hushboard/commit/672bb1f38c7bcdfb4a7ec0ee586fe92c5581af9a) but that was seen as too short a time. People in the meeting could hear my microphone strobing off and on as I typed, because I don't necessarily type super fast all the time. We finally settled on [250ms](https://github.com/stuartlangridge/hushboard/commit/f7cdf96048523d4edce9d8e3b094aeb3845f618b) but I expect Stuart is open to [feeback](https://github.com/stuartlangridge/hushboard/issues) on this topic 😃.
+We tried [150ms](https://github.com/stuartlangridge/hushboard/commit/672bb1f38c7bcdfb4a7ec0ee586fe92c5581af9a) but that was seen as too short a time. People in the meeting could hear my microphone strobing off and on as I typed, because I don't necessarily type super fast all the time. We finally settled on [250ms](https://github.com/stuartlangridge/hushboard/commit/f7cdf96048523d4edce9d8e3b094aeb3845f618b) but I expect Stuart is open to [feedback](https://github.com/stuartlangridge/hushboard/issues) on this topic 😃.
 
 ## Conclusion
 
