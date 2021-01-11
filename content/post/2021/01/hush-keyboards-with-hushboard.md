@@ -24,7 +24,7 @@ Here's a simulated, completly hyothetical conversation between us:
 > Stuart: I thought: the answer here is don't be popey with the stupid noisy keyboard ;)
 
 
-He has a [point](blog/2020/12/keyboards-old-and-new/). Hypothetically I might have suggested:
+He has a [point](/blog/2020/12/keyboards-old-and-new/). Hypothetically I might have suggested:
 
 > Alan: I reckon a little python thing that sits in the corner and can be toggled on/off would be neat
 
