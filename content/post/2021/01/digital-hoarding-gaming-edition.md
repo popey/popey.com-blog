@@ -23,3 +23,5 @@ In the replies to the tweet, [Roger Light](https://twitter.com/ralight) [suggest
 ![howlong](/blog/images/2021-01-11/howlong.png)
 
 This is great for filtering the list, to find games which fit in time slots I have to play in between work, parenting and sleeping. I think 2021 is going to be a year of going back over this collection, and perhaps buying fewer new games, so I can catch up!
+
+**Update**: It seems I'm not alone thinking this. GoG just published [6 Tips For Managing Your Video Game Backlog](https://www.gog.com/news/6_tips_for_managing_your_video_game_backlog) which has some good ideas for people like me!
