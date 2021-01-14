@@ -14,7 +14,7 @@ Here's some fun examples of pushing the boundaries of software, sometimes by doi
 
 Back in 2013, Fedora 19 shipped with the [codename](https://fedoraproject.org/wiki/History_of_Fedora_release_names#Fedora_19_.28Schr.C3.B6dinger.27s_Cat.29) "Schrödinger's Cat". Using this name uncovered a [bug](https://bugzilla.redhat.com/show_bug.cgi?id=922433) in the bug reporting system that Fedora used. This bug has now been fixed, but at the time it was a frustrating, if amusing, issue for the distro.
 
-In short, the distribution release codeame contained (forgive me non-en-GB people) "special" characters "'" and "ö".
+In short, the distribution release codename contained (forgive me non-en-GB people) "special" characters "'" and "ö".
 
 This was the path that got me testing the pointy edges of software. 
 
