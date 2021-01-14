@@ -68,7 +68,7 @@ This was also later fixed.
 
 ## ∅
 
-A year or so ago, at a company sprint I gave a lightning talk in which I wanted to make the tiniest possible snap. I "wrote" the talk about 30 minutes before giving it, and didn't fully test everything until I was on stage, in front of half the company.
+A year or so ago, at a company sprint I gave a lightning talk in which I wanted to make the tiniest possible snap (snaps are "[Universal software packages for Linux](https://snapcraft.io/)"). I "wrote" the talk about 30 minutes before giving it, and didn't fully test everything until I was on stage, in front of half the company.
 
 For fun, in an interactive way with the audience, I made a snap called `null` with the intention of it being almost completely empty, hence the name. I set the name, description, summary, parts and other metadata to the string "null". The snap built and installed perfectly fine locally. So for extra fun, I registered the name `null` in the store, and then attempted to publish my creation for all to see.
 
