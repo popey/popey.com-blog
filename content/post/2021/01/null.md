@@ -32,7 +32,7 @@ As Launchpad has a bug tracker, which sends emails, and I was an active bug repo
 
 ![Thunderbird](/blog/images/2021-01-13/thunderbird.png)
 
-*I couldnt' find a screenshot someone sent me of their email client with my mails in it, so I used the above from [bug 1779569](https://bugs.launchpad.net/ubuntu/+source/thunderbird/+bug/1779569)*
+*I couldn't find a screenshot someone sent me of their email client with my mails in it, so I used the above from [bug 1779569](https://bugs.launchpad.net/ubuntu/+source/thunderbird/+bug/1779569)*
 
 This was a [bug](https://bugs.launchpad.net/ubuntu/+source/thunderbird/+bug/1761844) in Thunderbird, which has since been fixed. I find it fun to know that simply adding pretty emoji to your Launchpad profile has unintended consequences in seemingly unrelated software. Great success 🌈
 
