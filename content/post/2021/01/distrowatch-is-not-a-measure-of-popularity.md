@@ -1,5 +1,5 @@
 +++
-date = "2021-01-16T12:00:00-00:00"
+date = "2021-01-15T12:00:00-00:00"
 title = "Distrowatch is Not a Measure of Popularity"
 slug = "2021/01/distrowatch-is-not-a-measure-of-popularity"
 author = "Alan Pope"
