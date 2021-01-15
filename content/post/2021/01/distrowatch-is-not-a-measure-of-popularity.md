@@ -6,7 +6,7 @@ author = "Alan Pope"
 tags = ['distrowatch', 'linux', 'rant']
 +++
 
-Here's a fun blog post where I get possibly irrational annoyed by people who use a web page incorrectly. Let me get this off my chest and then move on to better topics tomorrow.
+Here's a fun blog post where I get possibly irrationally annoyed by people who use a web page incorrectly. Let me get this off my chest and then move on to better topics tomorrow.
 
 [Distrowatch](https://distrowatch.com/) is a popular website among Linux enthusiasts. The main page consists of reverse-chronological news articles of interest to Linux users. Often this consists of new stable and development release [announcements](https://distrowatch.com/11130), [reviews](https://distrowatch.com/weekly.php?issue=20210111#pakos) and [weekly roundups](https://distrowatch.com/weekly.php?issue=20210104).
 
