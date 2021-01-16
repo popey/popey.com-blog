@@ -1,6 +1,6 @@
 +++
 date = "2021-01-16T12:00:00-00:00"
-title = "13th Twitterversary"
+title = "13th Twitter-versary"
 slug = "2021/01/13th-twitterversary"
 author = "Alan Pope"
 tags = ['social', 'twitter']
