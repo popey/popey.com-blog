@@ -34,7 +34,7 @@ Back in 2008 Twitter clients were all the rage. Sad that now we're basically stu
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Oooo, gtwitter seems to work (well if this arrives it does)</p>&mdash; Alan Pope 🍺🐧🐱🇬🇧🇪🇺 (@popey) <a href="https://twitter.com/popey/status/606223382?ref_src=twsrc%5Etfw">January 16, 2008</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 {{< /rawhtml >}}
 
-At the time I was commuting to Wales each work for work. I shared a rented house with a co-worker, where we had no TV and no broadband connection. Twitter was all I had, on a terrible 3G connection. So I moaned a bit about the lack of Internet. 
+At the time I was commuting to Wales each week for work. I shared a rented house with a co-worker, where we had no TV and no broadband connection. Twitter was all I had, on a terrible 3G connection. So I moaned a bit about the lack of Internet. 
 
 {{< rawhtml >}}
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">No TV, no internets in the house, sounds like an evening of programming for me</p>&mdash; Alan Pope 🍺🐧🐱🇬🇧🇪🇺 (@popey) <a href="https://twitter.com/popey/status/609824542?ref_src=twsrc%5Etfw">January 17, 2008</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
