@@ -8,7 +8,7 @@ tags = ['ubuntu', 'linux', 'upgrade', 'gnome', 'kde', 'neon']
 
 I tend to run Ubuntu on my computers as the primary operating system. Given I work for Canonical, this isn't especially surprising. However I have run Ubuntu on pretty much everything since 2005 or so - long before I started working at Canonical (in 2011). Mostly I will upgrade as each new release comes out, only doing a clean install once in a while.
 
-I ran GNOME 2 for all the years from 2004 through to Unity being released, then switched to that. After Ubuntu switched from Unity to GNOME Shell I went along with that in late 2017, and have mostly been running it ever since. I sometimes run other distros in VMs, or play with live environments, but I tend to stick to Ubuntu. Not for any company imposed reason - there's a bunch of people at Canonical who run Arch, MacOS or something else.
+I ran GNOME 2 for all the years from 2004 through to Unity being released, then switched to that. After Ubuntu switched from Unity to GNOME Shell I went along with that in late 2017, and have mostly been running it ever since. I sometimes run other distros in VMs, or play with live environments, but I tend to stick to Ubuntu. Not for any company imposed reason - there's a bunch of people at Canonical who run Arch, MacOS or something else. I just prefer Ubuntu.
 
 Every so often I'll have a dally with another distro, but usually return to stock Ubuntu at some point. Back in February 2018 I was flying back from a company event in Seattle and decided on a whim to nuke-and-pave my ThinkPad T450, replacing the OS with [KDE Neon](https://neon.kde.org/). I hadn't used KDE for a long while, so thought I might give it a whirl.
 
