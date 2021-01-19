@@ -1,5 +1,5 @@
 +++
-date = "2021-01-18T12:00:00-00:00"
+date = "2021-01-19T12:00:00-00:00"
 title = "Embarrassing Bugs"
 slug = "2021/01/embarrassing-bugs"
 author = "Alan Pope"
