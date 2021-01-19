@@ -70,3 +70,4 @@ https://popey.com/blog/2021/01/13th-twitterversary/)
 https://popey.com/blog/2021/01/discovering-rocketbooks/)
 * Mon 2021/01/18 - [Upgrading Ubuntu](
 https://popey.com/blog/2021/01/upgrading-ubuntu/)
+* Tue 2021/01/19 - [Embarrassing Bugs](https://popey.com/blog/2021/01/embarrassing-bugs)
