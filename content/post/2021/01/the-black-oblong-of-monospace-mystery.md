@@ -50,6 +50,6 @@ I find it quite bizarre that advocates against the command line use on Linux, se
 
 ![Terminal](/blog/images/2021-01-24/terminal.png)
 
-Users, whatever their skill level, and no matter what OS they use, need to be less afraid of the command line. We as Linux users need to stop pretending they should be afraid, because we excaserbate the issue even further. 
+Users, whatever their skill level, and no matter what OS they use, need to be less afraid of the command line. We as Linux users need to stop pretending they should be afraid, because we exacerbate the issue even further. 
 
 The command line is just another powerful tool in the arsenal of utilities we use each day. Users should use it when they need it, and use something else when they don't. It's not a big deal, and shouldn't be a problem we need to have endless debates about. In my humble opinion.
