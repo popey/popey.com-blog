@@ -18,7 +18,7 @@ Not exactly friendly, but I was 9 at the time, and this was normal. Typing thing
 
 There really was nothing else I could do with the computer at the time, *until* I typed something in. Eventually I would buy commercial software on cassette, or save my own creations onto blank tapes. But on day one, typing text was the order of the day.
 
-I didn't get a graphical user interface by default until my 9th computer, nearly 15 years later! Yes, I am old, and yes, this reads like a grumpy old man post. Get of my lawn.
+I didn't get a graphical user interface by default until my 9th computer, nearly 15 years later! Yes, I am old, and yes, this reads like a grumpy old man post. Get off my lawn.
 
 These days all the mainstream commercial and free operating systems boot to some kind of graphical interface, operated by touch, mouse and/or a keyboard, physical or virtual. For many people opening a box with a flashing cursor, into which commands are typed, letter by letter, is alien, geeky, hard and error prone. 
 
