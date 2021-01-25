@@ -121,7 +121,7 @@ The snapcraft.yaml we used to build this snap is over on this [GitHub gist](http
   * ALSA is redirected to pulseaudio using the [snapcraft-alsa](https://github.com/diddlesnaps/snapcraft-alsa) work by [Daniel Llewellyn](https://github.com/diddlesnaps). Although currently I've not tested audio.
   * The [desktop helpers]( https://github.com/ubuntu/snapcraft-desktop-helpers) are used to configure a bunch of desktop-ish stuff like font caches
   * The [pi firmware](https://github.com/raspberrypi/firmware) enables us to draw pixels on the screen without X11 and Wayland
-  * [BBCSDL](https://github.com/rtrussell/BBCSDL) is built without 
+  * [BBCSDL](https://github.com/rtrussell/BBCSDL) is built without staging the examples in the snap, only the binary and one library are snapped
   * The snap needs `devmode` confinement (currently) because there's not an interface to get input from the keyboard without X11 or Wayland being present. I believe ogra is working on that.
   * The `bbcsdl` command is defined in the snap as a `daemon` which causes a systemd unit to be created and enabled on install, which launches the application on boot
 
