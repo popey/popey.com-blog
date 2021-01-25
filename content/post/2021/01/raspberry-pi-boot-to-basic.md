@@ -52,7 +52,7 @@ Shhh! While that's all true, no modern, mainstream operating system boots *to* a
 
 Sure, I could hook up one of my many retro computers, or boot an old ThinkPad and load some BASIC interpreter, I wanted something new, and zeitgeisty!  Then it hit me, I have the perfect computer to do this, the Raspberry Pi 400! The Pi has a strong connection back to the original BBC Micros I used in the 80's. It even looks like an 80's computer. 
 
-IMAGE of PI400
+![Raspberry Pi 400](/blog/images/2021-01-25/pi400.jpg)
 
 It's a travesty that it *doesn't* boot to BASIC out of the box (one might argue) 😀. So I set out on my goal of getting BASIC booting on the Pi. My key requirement was that it show me a traditional full-featured BASIC on boot, without having to login. I didn't want to have to wait for a full desktop environment to start, and didn't like the idea of logging in at the `console` / `TTY`. 
 
