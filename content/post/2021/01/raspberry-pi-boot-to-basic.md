@@ -48,7 +48,9 @@ Soon after that computers started shipping with hard disks by default, which con
 
 *"But Alan, Linux computers boot to a shell prompt, BASH, which you can program in and MacOS ships it too, and Windows has PowerShell etc*"
 
-Shhh! While that's all true, no modern, mainstream operating system boots *to* a programming language, specifically not to BASIC. I looked into how interesting it might be to make a desktop or laptop computer boot to BASIC in 2021. 
+Shhh! While that's all true, no modern, mainstream operating system boots *to* a programming language, specifically not to BASIC. 
+
+I *miss* computers that boot to BASIC. So I looked into how interesting it might be to make a desktop or laptop computer boot to BASIC in 2021.
 
 Sure, I could hook up one of my many retro computers, or boot an old ThinkPad and load some BASIC interpreter, I wanted something new, and zeitgeisty!  Then it hit me, I have the perfect computer to do this, the Raspberry Pi 400! The Pi has a strong connection back to the original BBC Micros I used in the 80's. It even looks like an 80's computer. 
 
