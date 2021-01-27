@@ -94,7 +94,7 @@ video:23476kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing
 /home/alan/Videos/Screencast-2021-01-27-120421.mkv
 ```
 
-When no device is attacked, you get an image like this, so you can test with no external source attached.
+When no device is attached, you get an image like this, so you can test with no external source attached.
 
 ![No source](/blog/images/2021-01-27/capture.jpg)
 
