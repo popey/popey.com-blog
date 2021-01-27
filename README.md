@@ -4,7 +4,8 @@ This repo contains the source for my hugo-based blog which you'll find at [https
 
 ## Published articles:
 
-* Wed 2021/01/27 - [Magewell HDMI Capture with ffmpeg](https://popey.com/blog/2021/01/magewell-hdmi-capture-with-ffmpeg)* Tue 2021/01/26 - [Snapcraft GNOME Extension Update](https://popey.com/blog/2021/01/snapcraft-gnome-extension-update)
+* Wed 2021/01/27 - [Magewell HDMI Capture with ffmpeg](https://popey.com/blog/2021/01/magewell-hdmi-capture-with-ffmpeg)
+* Tue 2021/01/26 - [Snapcraft GNOME Extension Update](https://popey.com/blog/2021/01/snapcraft-gnome-extension-update)
 * Mon 2021/01/25 - [Raspberry Pi: Boot to BASIC](https://popey.com/blog/2021/01/raspberry-pi-boot-to-basic)
 * Sun 2021/01/24 - [The Black Oblong of Monospace Mystery](https://popey.com/blog/2021/01/the-black-oblong-of-monospace-mystery)
 * Sat 2021/01/23 - [Kingdom Rush](https://popey.com/blog/2021/01/kingdom-rush)
