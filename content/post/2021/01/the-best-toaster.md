@@ -43,7 +43,7 @@ During this period, the operator may context-switch to any one of a number of dr
 
 These may involve travel of some distance to a sink, fridge, kettle, orange grove or nearby orchard for drinking supplies. The human is a fallible organism which can often be distracted while tea brews, or coffee drips. Perhaps the brain is taken back to thoughts of childhood toasted buns, breakfast with grandparents, or maybe they're just busy scrolling through Twitter.
 
-Once finished, the Dualit toaster will retain the cooked dough product, cucooned snugly and quietly until the distracted meatbag returns to the task at hand. Other toasters will almost certainly by this time have popped the poor toast into the drafty kitchen air, where their latent head escapes into the atmosphere, resulting in terrible, cold toast.
+Once finished, the Dualit toaster will retain the cooked dough product, cucooned snugly and quietly until the distracted meatbag returns to the task at hand. Other toasters will almost certainly by this time have popped the poor toast into the drafty kitchen air, where their latent heat escapes into the atmosphere, resulting in terrible, cold toast.
 
 You can therefore be confident that even with your own failings as a human, the Dualit won't let you down. Your toast will be lovely and warm when you snap back to reality, ready to be laden with butter, jam, marmite or whatever it is Americans put on their toast.
 
