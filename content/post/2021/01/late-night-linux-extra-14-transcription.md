@@ -56,7 +56,7 @@ I was recently interviewed by Joe Ressington for [Late Night Linux Extra episode
 
 **J:** But don't need to pull some snaps down to build snaps.
 
-**A:** Not always know so a snap is really just a compressed file. It's like it's an archive is such a zip file, right, and at the lowest level you can put anything you like inside a snapm now we've made convenience tools like `snapcraft` and online build service that make it easier to do that. And yes, they leverage stuff in the store which is snaps, you know to make another snap the build on the technology we've already made you don't have to use that you could literally compress a bunch of files and make a snap and there's no requirement for any external service or external software to do that you basically just use `mksquashfs` and boom you've got snap
+**A:** Not always, no. So a snap is really just a compressed file. It's like it's an archive is such a zip file, right, and at the lowest level you can put anything you like inside a snapm now we've made convenience tools like `snapcraft` and online build service that make it easier to do that. And yes, they leverage stuff in the store which is snaps, you know to make another snap the build on the technology we've already made you don't have to use that you could literally compress a bunch of files and make a snap and there's no requirement for any external service or external software to do that you basically just use `mksquashfs` and boom you've got snap
 
 **J:** Right and then you could use snapd to install that. 
 
