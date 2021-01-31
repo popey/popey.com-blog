@@ -4,6 +4,10 @@ This repo contains the source for my hugo-based blog which you'll find at [https
 
 ## Published articles:
 
+* Sun 2021/01/31 - [Late Night Linux Extra: 14 - Transcription](https://popey.com/blog/2021/01/late-night-linux-extra-14-transcription/)
+* Sat 2021/01/30 - [TikTok for Breakfast](https://popey.com/blog/2021/01/tiktok-for-breakfast/)
+* Fri 2021/01/29 - [Let's Call The Whole Thing Off](https://popey.com/blog/2021/01/lets-call-the-whole-thing-off/)
+* Thu 2021/01/28 - [The Best Toaster](https://popey.com/blog/2021/01/the-best-toaster/)
 * Wed 2021/01/27 - [Magewell HDMI Capture with ffmpeg](https://popey.com/blog/2021/01/magewell-hdmi-capture-with-ffmpeg)
 * Tue 2021/01/26 - [Snapcraft GNOME Extension Update](https://popey.com/blog/2021/01/snapcraft-gnome-extension-update)
 * Mon 2021/01/25 - [Raspberry Pi: Boot to BASIC](https://popey.com/blog/2021/01/raspberry-pi-boot-to-basic)
