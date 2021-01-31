@@ -118,4 +118,4 @@ I was recently interviewed by Joe Ressington for [Late Night Linux Extra episode
 
 **J:** Right, next week then, excellent. All right. Well, thanks a lot for joining me in an official capacity for once and we'll have to speak again sometime. 
 
-**A:** Yeah [new show](https://thenew.show/) when
+**A:** Yeah [new show](https://thenew.show/) when?
