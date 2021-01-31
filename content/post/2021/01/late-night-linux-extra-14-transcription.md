@@ -6,7 +6,7 @@ author = "Alan Pope"
 tags = ['podcast', 'latenightlinux', 'linux', 'snapcraft']
 +++
 
-I was recently interviewed by Joe Ressington for [Late Night Linux Extra episode 14](https://latenightlinux.com/late-night-linux-extra-episode-14/). Here's a transcription I typed up, which may be useful. I used an automated tool to create the transcription, then tidied it up myself. If you spot anything which doesn't match the audio, and is materially important, do feel free to proose an edit on GitHub (link at the top of the page).
+I was recently interviewed by Joe Ressington for [Late Night Linux Extra episode 14](https://latenightlinux.com/late-night-linux-extra-episode-14/). Here's a transcription I typed up, which may be useful. I used an automated tool to create the transcription, then tidied it up myself. If you spot anything which doesn't match the audio, and is materially important, do feel free to propose an edit on GitHub (link at the top of the page).
 
 ----
 
