@@ -280,7 +280,7 @@ latest   amd64   stable     -                  -
                  edge       ↑                  ↑ 
 ```
 
-I can at this point test the snap on a bunch of machines, distros and architectures, and once I'm happy, release it to the stable channel. the releases page in the Snap Store looks like this.
+I can at this point test the snap on a bunch of machines, distros and architectures, and once I'm happy, release it to the stable channel. The releases page in the Snap Store looks like this.
 
 ![ticker releases](/blog/images/2021-02-03/releases.png)
 
