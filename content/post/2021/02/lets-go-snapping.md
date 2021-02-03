@@ -6,7 +6,7 @@ author = "Alan Pope"
 tags = ['software', 'linux', 'snapcraft', 'golang', 'ticker', 'how-to']
 +++
 
-Last year ( 😄 ) I wrote an article called [Snap Along With Me](/blog/2020/12/snap-along-with-me/) in which I detailed how I approached snappnig a rust application called t-rec. Well, I'm back with another "Snap Along", this time we're snapping an application written in Golang.
+Last year ( 😄 ) I wrote an article called [Snap Along With Me](/blog/2020/12/snap-along-with-me/) in which I detailed how I approached snapping a rust application called t-rec. Well, I'm back with another "Snap Along", this time we're snapping an application written in Golang.
 
 During a meeting to on-board a new member of the team at work today, I went through a similar process as my last blog post. This time I chose a different application, so I thought I'd write it up here. I've previously [explained](/blog/2020/12/snap-along-with-me/) how I browse the various [GitHub Trending](https://github.com/trending) pages for each language. Today was no different, we browsed the [trending rust projects](https://github.com/trending/rust) then moved on to [trending Go projects](https://github.com/trending/go).
 
@@ -103,7 +103,7 @@ architectures:
   - build-on: armhf
 ```
 
-There's only one part to this snap, and that's the `ticker` project itself. Snapcraft has a `go` plugin and it thus knows how to build a project made with Golang, so not much to specify there. I specified a `source-tag` which I got from the upstream project [releases](https://github.com/achannarasappa/ticker/releases) page. As I write this v2.1.0 is current - thirteen hours ago. Later I'll remove that line so it builds the latest tip of master, rather than releases. So aventurous users can try the latest commits directly from the `edge` channel in the Snap Store.
+There's only one part to this snap, and that's the `ticker` project itself. Snapcraft has a `go` plugin and it thus knows how to build a project made with Golang, so not much to specify there. I specified a `source-tag` which I got from the upstream project [releases](https://github.com/achannarasappa/ticker/releases) page. As I write this v2.1.0 is current - thirteen hours ago. Later I'll remove that line so it builds the latest tip of master, rather than releases. So adventurous users can try the latest commits directly from the `edge` channel in the Snap Store.
 
 The `snapcraftctl` lines simply pull the source then set the version for the snap which gets consumed by `adopt-info` earlier in the yaml.
 
