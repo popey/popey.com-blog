@@ -292,4 +292,4 @@ I can hit the "Trigger new build" button to manually force a build.
 
 Lastly I will file an issue and pull request against the [upstream project](https://github.com/achannarasappa/ticker), offering the developer to have the snap name transferred to them, with the configuration created above. I'd way rather the upstreams for projects had their own snaps under their name rather than me publish them. But if they don't want to, that's fine too.
 
-Hope that's a useful walk through to someone. 
+Hope that's a useful walk-through to someone. 
