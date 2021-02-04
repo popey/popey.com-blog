@@ -264,7 +264,9 @@ After uploading, the resulting snap revision will be released to 'candidate' whe
 Running the review tools before pushing this snap to the Snap Store.
 ```
 
-Note that last line where snapcraft uses the `review-tools.snap-review` command to do some sanity checks on each snap before they get uploaded to the store. The store performs the exact same checks on upload, this allows us to save time by not uploading something that will ultimately fail on the store side.
+Note that last line where snapcraft uses the `review-tools.snap-review` command to do some sanity checks on each snap before they get uploaded to the store. This command comes from the snap `review-tools` which is an optional package you can install with `snap install review-tools` to give you the extra checks prior to uploading the snap.
+
+The store performs the exact same checks on upload, this allows us to save time by not uploading something that will ultimately fail on the store side.
 
 After each snap gets uploaded, a channel map for that architecture is printed, showing the incremental snap revision number of the snap in each channel
 
