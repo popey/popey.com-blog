@@ -4,6 +4,9 @@ This repo contains the source for my hugo-based blog which you'll find at [https
 
 ## Published articles:
 
+* Wed 2021/02/03 - [Let's Go Snapping](https://popey.com/blog/2021/02/lets-go-snapping/)
+* Tue 2021/02/02 - [Book Review: UnPresidented](https://popey.com/blog/2021/02/book-review-unpresidented/)
+* Mon 2021/02/01 - [Dry January 2021](https://popey.com/blog/2021/02/dry-january-2021/)
 * Sun 2021/01/31 - [Late Night Linux Extra: 14 - Transcription](https://popey.com/blog/2021/01/late-night-linux-extra-14-transcription/)
 * Sat 2021/01/30 - [TikTok for Breakfast](https://popey.com/blog/2021/01/tiktok-for-breakfast/)
 * Fri 2021/01/29 - [Let's Call The Whole Thing Off](https://popey.com/blog/2021/01/lets-call-the-whole-thing-off/)
