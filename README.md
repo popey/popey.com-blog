@@ -1,6 +1,6 @@
 ## popey.com blog source
 
-This repo contains the source for my hugo-based blog which you'll find at [https://popey.com/blog](https://popey.com/blog) |.
+This repo contains the source for my hugo-based blog which you'll find at [https://popey.com/blog](https://popey.com/blog).
 
 ## Published articles:
 
