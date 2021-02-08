@@ -18,7 +18,7 @@ Sure, it's unfortunate that a set of features in an application will go away. Ye
 
 I can maybe see the argument that packagers are doing the Chromium project a favour by packaging the software and distributing it to millions. So given Google, the main sponsor of the project is totally capable of doing *something* to undo this, and as yet haven't, is causing frustration for those packagers. The only way they have to express this is to "down tools" and walk away, effectively to go on strike.  
 
-Is the hope of these packagers to irritate Google into reinstating the API and thus restore the missing functionality? How would that work if Google doesn't though? With fewer people using Chroimum if it is removed, surely those users will look for similar functionality elsewhere? Where would they possibly go? [Google Chrome](https://chrome.google.com/) maybe?
+Is the hope of these packagers to irritate Google into reinstating the API and thus restore the missing functionality? How would that work if Google doesn't though? With fewer people using Chromium if it is removed, surely those users will look for similar functionality elsewhere? Where would they possibly go? [Google Chrome](https://chrome.google.com/) maybe?
 
 The packagers of the open source Chromium browser are almost certainly friends of Free and Open Source (FOSS) software, or they wouldn't be packaging it. If that's the case, they likely don't care for the proprietary sync service behind the API in the Google datacentre. But their users likely *do* value these features. So they are packaging Chromium "*For The Users*". How does it service the users to yoink the browser from the archives? It turns out, *we* know!
 
