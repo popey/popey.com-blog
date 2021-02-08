@@ -29,7 +29,7 @@ Okay, so that blank window might not be, let's fill it with something more inter
 
 Ignore for a moment it's a GNOME Terminal window on Ubuntu with the Yaru theme, it's the contents of the window that's alluring to me. That and the [IBM Plex](https://www.ibm.com/plex/) font showing it off so well.
 
-In around 1988, the first "IBM Compatible" I owned was an Epson 8086 PC with a Monochrome Display Adapter (MDA). It had a mono screen which and could only output text, no graphics.  
+In around 1988, the first "IBM Compatible" I owned was an Epson 8086 PC with a Monochrome Display Adapter (MDA). It had a mono screen which could only output text, no graphics.  
 
 In 1990, I had to *upgrade* to a Hercules Graphics Card if I wanted to see anything other than text and symbols from [code page 437](https://en.wikipedia.org/wiki/Code_page_437).
 
