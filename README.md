@@ -6,6 +6,13 @@ This repo contains the source for my hugo-based blog which you'll find at [https
 
 | Date | Article |
 | ---: | :-- |
+| Wed 2021/02/10 | []() |
+| Tue 2021/02/09 | [Command-Line only Laptop](https://popey.com/blog/2021/02/command-line-only-laptop/) |
+| Mon 2021/02/08 | [The Allure of The Terminal](https://popey.com/blog/2021/02/the-allure-of-the-terminal/) |
+| Sun 2021/02/07 | [Chromium on Linux](https://popey.com/blog/2021/02/chromium-on-linux/) |
+| Sat 2021/02/06 | [Trying 'Proper' Coffee](https://popey.com/blog/2021/02/trying-proper-coffee/) |
+| Fri 2021/02/05 | [Pitchforks set to Stun](https://popey.com/blog/2021/02/pitchforks-set-to-stun/) |
+| Thu 2021/02/04 | [Reboot Aversion](https://popey.com/blog/2021/02/reboot-aversion/) |
 | Wed 2021/02/03 | [Let's Go Snapping](https://popey.com/blog/2021/02/lets-go-snapping/) |
 | Tue 2021/02/02 | [Book Review: UnPresidented](https://popey.com/blog/2021/02/book-review-unpresidented/) |
 | Mon 2021/02/01 | [Dry January 2021](https://popey.com/blog/2021/02/dry-january-2021/) |
