@@ -221,6 +221,6 @@ There's fun things you can do on the command line including games like [Dwarf Fo
 
 ![AAA](/blog/images/2021-02-09/aaa.png)
 
-## Conclusion
+## Conclusion=
 
-While this is really just a bit of fun, there's a tremendous amount of productive work you can get done on the command line only Linux system in 2021. Have a look around, discover some old and new applications, and maybe save some CPU cylces and RAM here and there along the way, or just have some fun playing. 
+While this is really just a bit of fun, there's a tremendous amount of productive work you can get done on the command line only Linux system in 2021. Have a look around, discover some old and new applications, and maybe save some CPU cycles and RAM here and there along the way, or just have some fun playing.
