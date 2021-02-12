@@ -1,7 +1,7 @@
 +++
 date = "2021-02-12T12:00:00-00:00"
 title = "Hunting Down A New Laptop"
-slug = "2021/02/huting-down-a-new-laptop"
+slug = "2021/02/hunting-down-a-new-laptop"
 author = "Alan Pope"
 tags = ['hardware', 'laptop']
 +++
