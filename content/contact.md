@@ -24,5 +24,5 @@ Email address is `my first name (at) this domain`. Alternatively use one of the 
   * [Diaspora](https://popey.com/diaspora)
   * [Steam](https://popey.com/steam)
   * [LinkedIn](https://www.linkedin.com/in/alan-pope-b3a109143/)
-  * ~~[Mastodon](https://popey.com/mastodon)~~
+  * [Mastodon](https://popey.com/mastodon)
   
