@@ -7,7 +7,7 @@ description = "Things about me."
 
 ## About
 
-1972 vintage human meatbag. By day I work as a Developer Advocate for [Canonical](https://canonical.com/), working on [Snapcraft](https://snapcraft.io/) and [Ubuntu](https://ubuntu.com/). By night I'm a single dad to two amazing kids. I also like cats.
+1972 vintage human meatbag. By day I work as a Developer Advocate for [Canonical](https://canonical.com/), working on [Snapcraft](https://snapcraft.io/) and [Ubuntu](https://ubuntu.com/). By night I'm a married dad to two amazing kids. I also like cats, but really want a dog.
 
 ---
 

@@ -1,9 +1,11 @@
 
-baseurl = "https://popey.com/blog/"
-title = "popey.com/blog"
+baseurl = "https://popey.com/blog"
+title = "Alan Pope's blog"
 languageCode = "en-gb"
-theme = "ghostwriter"
+theme = "beautifulhugo"
 #disqusShortname="popey"
+enableGitInfo = true
+
 [Params]
     mainSections = ["post"]
     intro = true
@@ -16,20 +18,22 @@ theme = "ghostwriter"
     shareTwitter = true
     dateFormat = "Mon, Jan 2, 2006"
     #style = "dark"
+    commit = "https://github.com/popey/popey.com-blog/tree/"
+
 [Permalinks]
     post = "/:year/:month/:filename/"
 
 [[menu.main]]
-    url = "/about/"
+    url = "about"
     name = "About"
     weight = 6
 
 [[menu.main]]
-    url = "/contact/"
+    url = "contact"
     name = "Contact"
     weight = 7
 
 [[menu.main]]
-    url = "/index.xml"
+    url = "index.xml"
     name = "RSS"
     weight = 8
