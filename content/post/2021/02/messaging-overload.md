@@ -10,7 +10,7 @@ How many chat/messaging systems is too many?
 
 ![Ugh!](/blog/images/2021-02-13/ugh.jpg)
 
-I still chat to some friends and open source contacts on IRC. I'm in a channel I've been in for maybe fifteen years continuously with some long time friends I don't really talk to elsewhere.
+I still chat to some friends and open source contacts on IRC. I'm in a channel I've been in for nearly twenty years continuously with some long time friends I don't really talk to elsewhere.
 
 Internal company chat is Mattermost, and a couple of other projects use it. I have the Mattermost client open all day every work day, then close it outside those hours.
 
@@ -20,7 +20,7 @@ My family use WhatsApp and Facebook messenger. I can't do much about this.
 
 Some other friends of mine use Discord to DM me. They know how to find me in other places, but for some reason Discord is the method of choice. 
 
-A friend recently got in touch with me via Slack last week, where I'm in maybe six slacks (down from twenty), of which I'm 'active' in one or two, sporatically. I don't particularly enjoy Slack, so it's not somewhere I actively go to.
+A friend recently got in touch with me via Slack last week, where I'm in maybe six slacks (down from twenty), of which I'm 'active' in one or two, sporadically. I don't particularly enjoy Slack, so it's not somewhere I actively go to.
 
 I'm in a couple of communities on Google Hangouts/Meet or whatever it's called this week. 
 
