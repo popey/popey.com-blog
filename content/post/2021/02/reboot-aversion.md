@@ -116,7 +116,7 @@ One, on the good side, I can just carry on doing whatever I was doing the day be
 
 Another potential upside is that I tend to uncover interesting bugs. A notable bug I experienced some years ago in the Unity desktop only manifested itself after ~42 days of runtime. That's quite hard for a developer to reproduce, unless they have a machine they can leave running permanently, which most don't. I'm that guy. I don't recall the details of the bug, but there was some internal counter somewhere which overflowed at a long runtime and killed the desktop. Fun times. 
 
-Sometimes a application (or desktop) features a leak which can consume a lot of memory and end up either making the desktop unstable, or causing the kernel to go around killing things via the [OOM (Out Of Memory) Killer](https://www.kernel.org/doc/gorman/html/understand/understand016.html). I have partly mitigated this by putting a lot of memory in my systems, 16GiB in the X220, 32GiB in the T450, and the desktop NUC. 
+Sometimes an application (or desktop) features a leak which can consume a lot of memory and end up either making the desktop unstable, or causing the kernel to go around killing things via the [OOM (Out Of Memory) Killer](https://www.kernel.org/doc/gorman/html/understand/understand016.html). I have partly mitigated this by putting a lot of memory in my systems, 16GiB in the X220, 32GiB in the T450, and the desktop NUC. 
 
 I also sometimes have to manually restart applications when they get a bit... bloaty... in the memory department. My favourite tool for looking at memory hungry applications is [ps_mem.py](https://github.com/pixelb/ps_mem). Behold.
 
