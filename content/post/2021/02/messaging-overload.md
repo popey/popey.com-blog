@@ -10,6 +10,8 @@ How many chat/messaging systems is too many?
 
 ![Ugh!](/blog/images/2021-02-13/ugh.jpg)
 
+Note the scrollbar. There's more below the fold. 
+
 I still chat to some friends and open source contacts on IRC. I'm in a channel I've been in for nearly twenty years continuously with some long time friends I don't really talk to elsewhere.
 
 Internal company chat is Mattermost, and a couple of other projects use it. I have the Mattermost client open all day every work day, then close it outside those hours.

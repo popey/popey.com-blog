@@ -46,11 +46,11 @@ My ThinkPads have a hardware microphone mute button in the top row. The button h
 
 ![Thinkpad](/blog/images/2020-12-25/external-keyboard.jpg)
 
-I discovered that when holding down the mute button, it would auto-repeat. That's fair enough, but there was an indicator in the top right of the screen, showing the state of mutedness or not. Unfortunately after holding down mute for a second or two, the LED and the indicator would eventually get out of sync. The LED would suggest you're muted, but the indicator would show the opposite. This could be embarrassing!
+I discovered that when holding down the mute button, it would auto-repeat. That's fair enough, but there was an indicator in the top right of the screen, showing the state of mutedness or not. Unfortunately after holding down mute for a second or two, the LED and the indicator would eventually get out of sync. The LED would suggest you're muted, but the indicator would show the opposite. This could be embarrassing if you're on a call and think you're muted!
 
 ### PrtScScScScSc
 
-When you press the PrtSc (Print Screen) key with most operating systems (not you: MacOS), this triggers a capture of what's on the screen in some way. In Ubuntu there is a shutter effect, a flash of the screen, fade to black, and a sound effect to show this had been done. There's a little delay while the screenshot is taken, and the fade effect occurs between the keypress and the desktop coming back to being usable. 
+When you press the PrtSc (Print Screen) key with most operating systems (not you: MacOS), this triggers a capture of what's on the screen in some way. In Ubuntu there is a shutter effect, a flash of the screen, fade to black, and a camera sound to show this had been done. There's a little delay while the screenshot is taken, and the fade effect occurs between the keypress and the desktop coming back to being usable. 
 
 I discovered the PrtSc key also repeated. This was a little more of a problem, because once the auto-repeat started, the repeated flashing and fade effect would max out the CPU, making subsequent screenshots take a very long time. It felt like the computer had locked up or entered a very bad state, as the screen was black and the CPU became busy, which typically caused the fan to spin up.
 
@@ -58,7 +58,7 @@ I had a conversation on IRC at the time with Seb and [Will](https://www.whizzy.o
 
 ```
 <popey> Hey, anyone on latest release, if you hold down PrtSc, does the key auto-repeat?
-<seb12> Why would you do that?
+<seb128> Why would you do that?
 <willcooke> Hold on, let me test
 <willcooke> ** Disconnected
 <popey> Oops! I should have told Will, his screen will go black
