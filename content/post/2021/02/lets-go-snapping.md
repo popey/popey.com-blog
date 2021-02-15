@@ -164,7 +164,7 @@ Snapping |
 Snapped ticker_2.1.0_amd64.snap 
 ```
 
-I'd expected and kinda hoped the snap to fail to build so we could work through it, but "whoops", it built successfully first time. So I exited the container with a `^D` and installed the snap.
+I'd expected and kinda hoped the snap to fail to build so we could work through it, but "whoops", it built successfully first time. So I exited the container with a `^d` and installed the snap.
 
 ```
 $ snap install ticker_2.1.0_amd64.snap --dangerous
