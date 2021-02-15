@@ -20,7 +20,7 @@ The topic moved to coffee machines, and I spent a little time researching them. 
 
 So I've had the AeroPress for about a week, and I love it. Spending a little time away from my desk during the day to grind some beans (not a euphemism) and press some coffee is a great use of my time. I did buy a new kettle too, and have been filtering the water I put in it, which I wasn't previously. While the water boils I'll stand and grind my beans (still not a euphemism) and prepare the AeroPress with a filter, and get my mug ready. After a few minutes I have a freshly brewed, delicious cup of coffee.
 
-It didn't take long before I added to the kit. I very quickly got bored of manually grinding beans, so bought a [Krups Coffee Mill](https://geni.us/Uyu5A) for twenty quid. I've seen some suggestions that this is not optimal, as it slices the beans, and apparently a burr mill (like the hand-crank one I have) is preferred. I haven't noticed the difference yet, remember, I'm not that fussy.
+It didn't take long before I added to the kit. I very quickly got bored of manually grinding beans, so bought a [Krups Coffee Mill](https://geni.us/Uyu5A) (affiliate link) for twenty quid. I've seen some suggestions that this is not optimal, as it slices the beans, and apparently a burr mill (like the hand-crank one I have) is preferred. I haven't noticed the difference yet, remember, I'm not that fussy.
 
 I can see myself getting into this a little deeper, especially if I keep watching [James Hoffmann's videos](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ) - they're rather well done! But for now, a simple AeroPress and a big ole' bag o' beans is enough for me right now.
 
