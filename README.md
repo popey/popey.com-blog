@@ -6,7 +6,11 @@ This repo contains the source for my hugo-based blog which you'll find at [https
 
 | Date | Article |
 | ---: | :-- |
-| Wed 2021/02/10 | []() |
+| Sun 2021/02/14 | [Don't Use Proposed](https://popey.com/blog/2021/02/dont-use-proposed/) |
+| Sat 2021/02/13 | [Messaging Overload](https://popey.com/blog/2021/02/messaging-overload/) |
+| Fri 2021/02/12 | [Hunting Down A New Laptop](https://popey.com/blog/2021/02/hunting-down-a-new-laptop/) |
+| Thu 2021/02/11 | [Mastodon Instances, Everywhere](https://popey.com/blog/2021/02/mastodon-instances-everywhere/) |
+| Wed 2021/02/10 | [My Podcast Listening List](https://popey.com/blog/2021/02/my-podcast-listening-list/) |
 | Tue 2021/02/09 | [Command-Line only Laptop](https://popey.com/blog/2021/02/command-line-only-laptop/) |
 | Mon 2021/02/08 | [The Allure of The Terminal](https://popey.com/blog/2021/02/the-allure-of-the-terminal/) |
 | Sun 2021/02/07 | [Chromium on Linux](https://popey.com/blog/2021/02/chromium-on-linux/) |
