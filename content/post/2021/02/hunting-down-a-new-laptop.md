@@ -35,7 +35,7 @@ In fact in 2019 I went on a work trip with my colleague - Martin Wimpress - who 
 
 So I am willing to at least entertain the idea of a non-ThinkPad. :D
 
-I keep looking at the Lenovo pages in the UK, waiting - seemingly fruitlessly - for the Ubuntu models the promised to show up. However, most (if not all) of the new ones seem to feature soldered-in RAM, and other inaccessible components. I appreciate this is *The Way* now, and everyone is doing that, but I don't like it. 
+I keep looking at the Lenovo pages in the UK, waiting - seemingly fruitlessly - for the Ubuntu models they promised, to show up. However, most (if not all) of the new ones seem to feature soldered-in RAM, and other inaccessible components. I appreciate this is *The Way* now, and everyone is doing that, but I don't like it. 
 
 That said, I just bought an new Apple MacBook Air for my daughter. It sports the new M1 chip so is allegedly super fast while sipping power. It has the same non-user-servicability, but then that's not something I'd expect from Apple. I do expect it from my beloved ThinkPads. 
 
