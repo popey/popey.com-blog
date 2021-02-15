@@ -22,7 +22,7 @@ So I've had the AeroPress for about a week, and I love it. Spending a little tim
 
 It didn't take long before I added to the kit. I very quickly got bored of manually grinding beans, so bought a [Krups Coffee Mill](https://geni.us/Uyu5A) (affiliate link) for twenty quid. I've seen some suggestions that this is not optimal, as it slices the beans, and apparently a burr mill (like the hand-crank one I have) is preferred. I haven't noticed the difference yet, remember, I'm not that fussy.
 
-I can see myself getting into this a little deeper, especially if I keep watching [James Hoffmann's videos](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ) - they're rather well done! But for now, a simple AeroPress and a big ole' bag o' beans is enough for me right now.
+I can see myself getting into this a little deeper, especially if I keep watching [James Hoffmann's videos](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ) - they're rather well done! But at the moment, a simple AeroPress and a big ole' bag o' beans is enough for me.
 
 Come back to me in a year though, and ask if I've invested in any more coffee paraphernalia. I can't imagine I won't. We'll see.
 
