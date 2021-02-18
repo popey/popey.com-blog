@@ -10,7 +10,7 @@ I use a ton of services which either require or recommend [2fa](https://en.wikip
 
 Step up, [Aegis Authenticator](https://getaegis.app/), a free, [open source](https://github.com/beemdevelopment/Aegis) authenticator app, available on the [play store](http://play.google.com/store/apps/details?id=com.beemdevelopment.aegis), and [F-Droid](https://f-droid.org/app/com.beemdevelopment.aegis). 
 
-Migration was a cinch! Aegis can import the password-protected zip file backup exports created by Authenticator Plus. So I did was open Authenticator Plus, go to Menu -> Settings -> Backup & Restore -> Export as Text and HTML. I entered a unique password, which is used to encrypt the zip file in which the backup is put. Once I clicked "Ok" I then found somewhere to stash the zip file.
+Migration was a cinch! Aegis can import the password-protected zip file backup exports created by Authenticator Plus. What I did was open Authenticator Plus, go to Menu -> Settings -> Backup & Restore -> Export as Text and HTML. I entered a unique password, which is used to encrypt the zip file in which the backup is put. Once I clicked "Ok" I then found somewhere to stash the zip file.
 
 Over in Aegis I went through the initial setup wizard, then use **⋮** -> Settings -> Import from file -> Authenticator Plus. I'm then promted to find the zip file, enter the encryption password I used in the export step, and select which services to import, or import all. 
 
