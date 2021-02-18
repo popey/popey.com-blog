@@ -120,7 +120,7 @@ The Spotify developers don't have an arm build of the official application, so R
 
 I'll likely automate these builds. They're Rust, so they take a while to run on any platform. I want to make sure the snap is kept up to date with the upstream development as much as possible. It's really great to see someone working on a native way to access Spotify on the GNOME desktop. So I'm really happy to help shine a light on this application. 
 
-Grab a copy for your desktop, laptop or Raspberry Pi at the link below.
+Grab a copy for your desktop, laptop or Raspberry Pi at the link below. It's only 6MB!
 
 {{< rawhtml >}}
 <iframe src="https://snapcraft.io/spot/embedded?button=black&channels=true&summary=true&screenshot=true" frameborder="0" width="100%" height="640px" style="border: 1px solid #CCC; border-radius: 2px;"></iframe>
