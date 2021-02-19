@@ -10,7 +10,7 @@ Nearly thirteen years ago, on 11th March 2008, a few members of the Ubuntu UK Lo
 
 In the following seven years we recorded 187 episodes as "[Ubuntu UK Podcast](https://podcast.ubuntu-uk.org/)" - affectionately known as "uupc". A re-brand in season eight to just "[Ubuntu Podcast](https://ubuntupodcast.org/)" led to another six years comprising another 251 episodes. 
 
-The most recent epsiode, [S13E40](https://ubuntupodcast.org/2020/12/24/s13e40-ravens/) was recorded on 15th December 2020, and released on Christmas Eve 2020. The line-up changed a little in the 13 seasons, now with Mark Johnson and Martin Wimpress accompanying me behind the microphones. The idea remained consistent though. A regular, family-friendly podcast week about Ubuntu, the community around it and the wider open source and tech world.
+The most recent epsiode, [S13E40](https://ubuntupodcast.org/2020/12/24/s13e40-ravens/) was recorded on 15th December 2020, and released on Christmas Eve 2020. The line-up changed a little in the 13 seasons, now with Mark Johnson and Martin Wimpress accompanying me behind the microphones. The idea remained consistent though. A regular, family-friendly podcast about Ubuntu, the community around it and the wider open source and tech world.
 
 We've recorded those hundreds of episodes, in person, on stage, in a pub, in a field and of course remotely too. It's been tremendous fun to make over this time. Each season is finished at the end of the year with a look back over the last twelve months, maybe predictions for the next, a quiz or maybe even a pantomime. Yeah, listen back to the last episodes of the early seasons. My voice acting in particular is worth of *some* kind of award! 
 
