@@ -6,6 +6,12 @@ This repo contains the source for my hugo-based blog which you'll find at [https
 
 | Date | Article |
 | ---: | :-- |
+| Sat 2021/02/20 | [Scanning Frustration](https://popey.com/blog/2021/02/scanning-frustration/) |
+| Fri 2021/02/19 | [Season Fourteen](https://popey.com/blog/2021/02/season-fourteen/) |
+| Thu 2021/02/18 | [Spotty Connection](https://popey.com/blog/2021/02/spotty-connection/) |
+| Wed 2021/02/17 | [Migrating Two Factor Auth](https://popey.com/blog/2021/02/migrating-two-factor-auth/) |
+| Tue 2021/02/16 | [All Ahead Stop](https://popey.com/blog/2021/02/all-ahead-stop/) |
+| Mon 2021/02/15 | [Going Backwards](https://popey.com/blog/2021/02/going-backwards/) |
 | Sun 2021/02/14 | [Don't Use Proposed](https://popey.com/blog/2021/02/dont-use-proposed/) |
 | Sat 2021/02/13 | [Messaging Overload](https://popey.com/blog/2021/02/messaging-overload/) |
 | Fri 2021/02/12 | [Hunting Down A New Laptop](https://popey.com/blog/2021/02/hunting-down-a-new-laptop/) |
