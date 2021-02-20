@@ -6,7 +6,7 @@ author = "Alan Pope"
 tags = ['software', 'linux', 'ubuntu']
 +++
 
-Well, things have escalated in Ubuntu-land since the posts I made on [Monday](/blog/2021/02/dont-use-proposed/) and [Tuesday](/blog/2021/02/going-backwards/)! The Ubuntu archive for Hisute (the in-development version which will become 21.04) has been temporarily [frozen](https://lists.ubuntu.com/archives/ubuntu-devel/2021-February/041385.html). 
+Well, things have escalated in Ubuntu-land since the posts I made on [Monday](/blog/2021/02/dont-use-proposed/) and [Tuesday](/blog/2021/02/going-backwards/)! The Ubuntu archive for Hirsute (the in-development version which will become 21.04) has been temporarily [frozen](https://lists.ubuntu.com/archives/ubuntu-devel/2021-February/041385.html). 
 
 It seems there's a rather knarly [bug](https://bugs.launchpad.net/ubuntu/+source/fakeroot/+bug/1915250) in the tools used to build packages, which is causing them to be "mis-built" - i.e. broken. I (and others) [noticed](https://forum.snapcraft.io/t/snapd-from-hirsute-proposed-wont-allow-snaps-to-run/22733) this over the weekend, via a breakage in `snapd` - the daemon which mediates the installation and running of snaps.
 
