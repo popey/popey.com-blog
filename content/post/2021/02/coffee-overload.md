@@ -16,6 +16,6 @@ So I put the call out to "Coffee Twitter"!
 
 Well, everyone was super helpful, and now I have a bunch of coffee to try this week!
 
-![Coffee](/blog/images/2021-02-21/coffee.jpg)
+![Coffee](/blog/images/2021-02-21/coffee.png)
 
 It's going to be a tasty week in the popey house! :D
