@@ -6,7 +6,7 @@ author = "Alan Pope"
 tags = ['book', 'review', 'audible']
 +++
 
-As I mentioned in a [previous](/blog/2021/01/book-review-off-to-be-the-wizard/) book review, I'm a bit of a fan of time travel fiction. So after reading and enjoying *[Off to Be the Wizard](https://geni.us/SJrmm)* (affiliate link) by Scott Meyer, the AI fed me *[Split Second (Split Second Book 1)](https://geni.us/XvJZ1)* (affiliate link) by Douglas E. Richards.
+As I mentioned in a [previous](/blog/2021/01/book-review-off-to-be-the-wizard/) book review, I'm a bit of a fan of time travel fiction. So after reading and enjoying *[Off to Be the Wizard](https://geni.us/SJrmm)* (affiliate link) by Scott Meyer. ~~the AI fed me~~ My friend Marian on Telegram recommended *[Split Second (Split Second Book 1)](https://geni.us/XvJZ1)* (affiliate link) by Douglas E. Richards.
 
 The premise revolves around a time-travel capability which can only send things back in time a split second (hence the title) rather than the weeks or years that other science fiction in the genre tend to exploit for their storyline.
 
