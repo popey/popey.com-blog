@@ -10,7 +10,7 @@ Before last week, I'd never heard of [SonoBus](https://sonobus.net/). While on h
 
 ![SonoBus](/blog/images/2021-02-22/sonobus.png)
 
-For those that, like me, didn't know about SonoBus, it's an "*SonoBus is an easy to use application for streaming high-quality, low-latency peer-to-peer audio between devices over the internet or a local network*". 
+For those that, like me, didn't know about SonoBus, it's an "*easy to use application for streaming high-quality, low-latency peer-to-peer audio between devices over the internet or a local network*". 
 
 Launch SonoBus, create or join a private or public channel, or connect to another local instance, and start an audio collaboration. It's primarily targeted at musicians working remotely, looking for a really low-latency, but high audio-quality solution.
 
