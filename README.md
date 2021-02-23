@@ -5,7 +5,10 @@ This repo contains the source for my hugo-based blog which you'll find at [https
 ## Published articles:
 
 | Date | Article |
-| ---: | :-- |
+| ---: | :-- 
+| Tue 2021/02/23 | [Book Review: Split Second](https://popey.com/blog/2021/02/book-review-split-second/) |
+| Mon 2021/02/22 | [Jamming with Sonobus](https://popey.com/blog/2021/02/jamming-with-sonobus/) |
+| Sun 2021/02/21 | [Coffee Overload](https://popey.com/blog/2021/02/coffee-overload/) |
 | Sat 2021/02/20 | [Scanning Frustration](https://popey.com/blog/2021/02/scanning-frustration/) |
 | Fri 2021/02/19 | [Season Fourteen](https://popey.com/blog/2021/02/season-fourteen/) |
 | Thu 2021/02/18 | [Spotty Connection](https://popey.com/blog/2021/02/spotty-connection/) |
