@@ -76,8 +76,8 @@ Once that **first** update rolled out via `security`, users got the *real* **sec
 
 I believe there's no way we would have known this issue was happening, if we didn't have `whoopsie`, `daisy` and [errors.ubuntu.com](https://errors.ubuntu.com/) to inform us. Yes, those crash reports are useful to us, to you, and other Ubuntu users. Please stop telling people to disable it. Thanks.
 
-When I read that Clem over at Linux Mint has been discovering his userbase are running old releases of his popular distro, colour me utterly unsurprised. Clem had to find this out via data from a third party. I expect this doesn't mean the Mint update system is massively flawed. 
+When I read that Clem over at Linux Mint has been discovering his userbase are running old releases of his popular distro, colour me utterly unsurprised. Clem had to find this out via data from a third party. I expect this doesn't necessarily mean the Mint update system is massively flawed. It's more likely just users being users.
 
-We just *know* from experience that users won't update their system unless you automate the process or literally punch them in the face with an assertive dialog box. Or preferably *both*.
+We already *know* from experience that users won't update their system unless you automate the process or literally punch them in the face with an assertive dialog box. Or preferably *both*.
 
 Hard pill to swallow, but it's true.
