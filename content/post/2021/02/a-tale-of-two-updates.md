@@ -56,7 +56,7 @@ Whoopsie captures the package version along with the name and some other metadat
 
 The confusion was because the engineers believed the issue (a simple memory or file descriptor leak, as I recall) had already been fixed. Why was it still crashing for users in a way we've seen for months, and why that specific old version of the package? If we've fixed this, and the version had been replaced months ago, why are we still getting hundreds, or thousands of regular crashers?
 
-As I previously mentioned, we have a dialog which pops up and tells users there are updates. Are there really that many users who *actively* avoid updating their system, or have configured their system not to update in some way? I didn't buy that. I get that there's a set of our more confident and experienced userbase who are willing to mess with the normal flow of updates, but I was pretty sure - with zero data - gut feel - that the majority of our users *do* install updates when prompted.
+As I previously mentioned, we have a dialog which pops up and tells users there are updates. Are there really that many users who *actively* avoid updating their system, or have configured their system not to update in some way? I didn't buy that. I get that there's a set of our more confident and experienced userbase who are willing to mess with the normal flow of updates, but I was pretty sure - gut feel - that the majority of our users *do* install updates when prompted.
 
 *Aside:* I have data to back up this gut feel, and I'll blog about that another day.
 
