@@ -3,7 +3,7 @@ date = "2021-01-17T12:00:00-00:00"
 title = "Discovering Rocketbooks"
 slug = "2021/01/discovering-rocketbooks"
 author = "Alan Pope"
-tags = ['writing', 'analog']
+tags = ['writing', 'analog', 'rocketbook']
 +++
 
 A few ~~weeks~~ days ago (it seems like longer at this rate) I blogged about my [problem with notebooks](/blog/2021/01/a-problem-with-notebooks). I was on the verge of buying an epaper writing device - likely a [Remarkable 2](https://remarkable.com/store/remarkable-2) as I published it.
