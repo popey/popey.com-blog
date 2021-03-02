@@ -20,6 +20,6 @@ I feel it's important as a project that we remind ourselves that new people real
 
 If we didn't do that back in the early days, then a wide range of initiatives wouldn't have started. People with vision and creativity wouldn't have felt empowered to make Ubuntu better. We should remember that spirit, and encourage it again.
 
-I'd like us to do what we can to inform and enable more contributors to build *on* Ubuntu, build *for* Ubuntu, and build Ubuntu itself, whatever their needs and skills fit with. Of course, it goes without saying that new people should adhere to our Code of Conduct, work respectfully with the established contributors, and follow best practices and license compliance, and so on
+I'd like us to do what we can to inform and enable more contributors to build *on* Ubuntu, build *for* Ubuntu, and build Ubuntu itself, whatever their needs and where their skills fit. Of course, it goes without saying that new people should adhere to our Code of Conduct, work respectfully with the established contributors, and follow best practices and license compliance guidelines, and so on.
 
-But if you have a good idea, some time and skill on your hands, get stuck in and start building. You don't need to ask.
+But if you have a good idea, some time and skill on your hands, get stuck in and start building. *You don't need to ask*.
