@@ -6,6 +6,12 @@ This repo contains the source for my hugo-based blog which you'll find at [https
 
 | Date | Article |
 | ---: | :-- 
+| Mon 2021/03/01 | [You Don't Need To Ask](https://popey.com/blog/2021/03/you-dont-need-to-ask/) |
+| Sun 2021/02/28 | [Mix and Match Rocketbooks](https://popey.com/blog/2021/02/mix-and-match-rocketbooks/) |
+| Sat 2021/02/27 | [Snapcraft Clinic Successes](https://popey.com/blog/2021/02/snapcraft-clinic-successes/) |
+| Fri 2021/02/26 | [Pro Breeze Air Fryer Review](https://popey.com/blog/2021/02/pro-breeze-air-fryer-review/) |
+| Thu 2021/02/25 | [Snapcraft Clinic](https://popey.com/blog/2021/02/snapcraft-clinic/) |
+| Wed 2021/02/24 | [A Tale of Two Updates](https://popey.com/blog/2021/02/a-tale-of-two-updates/) |
 | Tue 2021/02/23 | [Book Review: Split Second](https://popey.com/blog/2021/02/book-review-split-second/) |
 | Mon 2021/02/22 | [Jamming with Sonobus](https://popey.com/blog/2021/02/jamming-with-sonobus/) |
 | Sun 2021/02/21 | [Coffee Overload](https://popey.com/blog/2021/02/coffee-overload/) |
