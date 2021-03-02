@@ -14,7 +14,7 @@ Over time though, new people discover Linux in general, and Ubuntu specifically.
 
 Over the last couple of years some fresh new faces have joined the Ubuntu community. Some have collaborated with existing developers, started new projects and built new Ubuntu Remixes. Whether I personally use them and whether they're successfull (however you measure that) or not doesn't matter. What matters is they played with the technology enough to build *something* on the shoulders of previous developers. I love this facet of Ubuntu.
 
-Recently though, I have learned that some potential contributors hold back from contributing because they feel the need to seek *permission*. I feel we as a project may have lost a little creative spark due to this reticence to break existing protocols, gently step on toes, challenging the status-quo and tryng new things.
+Recently though, I have learned that some potential contributors hold back from contributing because they feel the need to seek *permission*. I feel we as a project may have lost a little creative spark due to this reticence to break existing protocols, gently step on toes, challenging the status-quo and trying new things.
 
 I feel it's important as a project that we remind ourselves that new people really don't need to ask *permission* to get involved. We should welcome new, creative, and exuberant contributors with time on their hands and an appetite to get stuck in. 
 
