@@ -24,6 +24,11 @@ enableGitInfo = true
     post = "/:year/:month/:filename/"
 
 [[menu.main]]
+    url = "https://github.com/popey/popey.com-blog"
+    name = "Site Source"
+    weight = 9
+
+[[menu.main]]
     url = "about"
     name = "About"
     weight = 6
