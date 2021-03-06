@@ -50,7 +50,11 @@ cd  build
 sudo ninja install
 ```
 
-Logout & back in or reboot the machine or VM to make sure all the changes take effect.
+Logout or reboot the machine or VM to make sure all the changes take effect.
+
+## Login
+
+Login to the **Yaru session** to see these changes.
 
 ## Get Testing
 
