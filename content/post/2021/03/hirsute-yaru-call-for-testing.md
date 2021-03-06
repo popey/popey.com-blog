@@ -17,8 +17,15 @@ However, with two weekends and plenty of evenings between now and then, its a gr
   * Darker dark theme in GTK and shell
   * Flatter, more vibrant coloured control elements, especially in the dark theme
 
+Here's a taste. Click to embiggen.
 
-The Yaru team is mostly comprised of community contributors who volunteer their time and skills to bring us a beautiful experience. But it needs testing by a wider audience!
+[![Dark](/blog/images/2021-03-06/dark.png)](/blog/images/2021-03-06/dark.png)
+
+[![Lightdark](/blog/images/2021-03-06/lightdark.png)](/blog/images/2021-03-06/lightdark.png)
+
+[![Light](/blog/images/2021-03-06/light.png)](/blog/images/2021-03-06/light.png)
+
+The Yaru team is mostly comprised of community contributors who volunteer their time and skills to bring us a beautiful experience. But it needs testing by a wider audience! 
 
 ## Get Ubuntu Hirsute
 
