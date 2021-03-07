@@ -1,5 +1,5 @@
 +++
-date = "2021-03-06T12:00:00-00:00"
+date = "2021-03-07T12:00:00-00:00"
 title = "Finding Ubuntu Crash Reports"
 slug = "2021/03/finding-ubuntu-crash-reports"
 author = "Alan Pope"
