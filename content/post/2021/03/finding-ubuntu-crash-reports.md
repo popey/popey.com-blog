@@ -38,4 +38,4 @@ Here's what that looks like from my Ubuntu Hirsute (21.04) system.
 
 [![Crashes](/blog/images/2021-03-07/crashes.png)](/blog/images/2021-03-07/crashes.png)
 
-Hope that's helpful to someone. Maybe I'll remember it next time I'll remember it too! :D
+Hope that's helpful to someone. Maybe I'll remember it next time *I'm* trying to find my crashes too! :D
