@@ -52,7 +52,7 @@ Toast your muffins now! When done, remove the muffins from the toaster and butte
 
 When the egg is ready(*), remove with a fish slice and place on the muffin. Add salt & pepper to taste, or hollandaise if you're feeling decadent. 
 
-(*) Okay, "What it's ready" is a rather nebulous phrase. Thing is, everyone likes their eggs done differently. Some like them well-done, others like them so the white looks like cooked snot. Each to their own. I find if I lift it out of the water and poke it with my finger, and it "feels" the way I like it to feel on the plate, it's done. If it's underdone, lower it back in. 3-4 mins seems about right, which gives you time to toast and butter the muffins. See, that's why that step is there? :D
+(*) Okay, "When it's ready" is a rather nebulous phrase. Thing is, everyone likes their eggs done differently. Some like them well-done, others like them so the white looks like cooked snot. Each to their own. I find if I lift it out of the water and poke it with my finger, and it "feels" the way I like it to feel on the plate, it's done. If it's underdone, lower it back in. 3-4 mins seems about right, which gives you time to toast and butter the muffins. See, that's why that step is there? :D
 
 ![Done](/blog/images/2021-03-10/done.jpg)
 
