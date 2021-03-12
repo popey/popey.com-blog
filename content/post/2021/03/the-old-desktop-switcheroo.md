@@ -12,7 +12,7 @@ In August 2019, I [tweeted](https://twitter.com/popey/status/1158884858694897669
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Today I&#39;ve in-place upgraded from that 18.04 KDE Neon install to <a href="https://twitter.com/ubuntu?ref_src=twsrc%5Etfw">@ubuntu</a> 19.04 with <a href="https://twitter.com/gnome?ref_src=twsrc%5Etfw">@gnome</a>. I still love KDE of course, and will likely switch back at some point, or may install it on another machine - maybe my Thinkpad X220. But for now, I&#39;ve decided to have a play with GNOME.</p>&mdash; Alan Pope 🍺🐧🐱🇬🇧🇪🇺 (@popey) <a href="https://twitter.com/popey/status/1158884873769226241?ref_src=twsrc%5Etfw">August 6, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 {{< /rawhtml >}}
 
-Well, I had a "play" and another ~eighteen months have elapsed. I'm getting itchy eyeballs again, so today I issued the following command on my primary desktop and switched back the other way:
+Well, I had a "play" with GNOME on my primary machine since then and another ~eighteen months have elapsed. I'm getting itchy eyeballs again, so today I issued the following command on my primary desktop and switched back the other way:
 
 
 ```bash
