@@ -26,7 +26,7 @@ What actually took more RAM on my system was the plethora of Electron applicatio
 
 More recently I have tried to reduce my use of these [heckin chonkers](https://www.reddit.com/r/Chonkers/comments/acqbd4/heres_a_chart_to_help_classify_your_chonker/) and seek alternatives, but have the same functionality I enjoy or have to use.
 
-For some, I can use a leaner option such as [ncspot](https://snapcraft.io/ncspo) - the lean and fast command-line Spotify client written in Rust. For others, I have eschewed the Electron app for a webapp. Many have told me "Just use a tab in a browser" for those applications. While true, the usability problem I have is that those applications are then extra-clicks away from a typical context switch.
+For some, I can use a leaner option such as [ncspot](https://snapcraft.io/ncspot) - the lean and fast command-line Spotify client written in Rust. For others, I have eschewed the Electron app for a webapp. Many have told me "Just use a tab in a browser" for those applications. While true, the usability problem I have is that those applications are then extra-clicks away from a typical context switch.
 
 I'm of the "Alt-Tab" generation. I stab the familiar key-combo to alternate between the two primary applications I'm working on at the moment. That's typically a pairing of code editor and terminal, a code editor and browser or some other combination. As mentioned I also tend to leave a bunch of applications open, and then Alt-Tab-Tab-Tab until I hit the app I want. 
 
