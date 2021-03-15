@@ -24,7 +24,7 @@ The wiki is tremendously slow. Logging in, editing pages, previewing, even viewi
 
 In the modern world, the GitHub generation is familiar with logging in, clicking an icon and starting to edit. The Ubuntu wiki performance is making that kind of workflow almost impossible.
 
-## Cruft
+### Cruft
 
 The wiki contains a wealth of historical knowledge about the project. Much of it is no longer of interest to most people. Perhaps some of that could be removed. Who wants to stumble on a wireless debugging page from 2006 mentioning processes we don't even use anymore? Do we really need to keep every blueprint document for projects that never took off?
 
