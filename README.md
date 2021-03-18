@@ -5,8 +5,14 @@ This repo contains the source for my hugo-based blog which you'll find at [https
 ## Published articles:
 
 | Date | Article |
-| ---: | :-- 
-| Fri 2021/03/12 | []() |
+| ---: | :-- |
+| Thu 2021/03/18 | []() |
+| Wed 2021/03/17 | [Actually Upgrading Ubuntu Server](https://popey.com/blog/2021/03/actually-upgrading-ubuntu-server/) |
+| Tue 2021/03/16 | [Upgrading Ubuntu Server](https://popey.com/blog/2021/03/upgrading-ubuntu-server/) |
+| Mon 2021/03/15 | [Ubuntu Wiki Reboot](https://popey.com/blog/2021/03/ubuntu-wiki-reboot/) |
+| Sun 2021/03/14 | [Linux Application Summit: Call For Papers](https://popey.com/blog/2021/03/las-cfp/) |
+| Sat 2021/03/13 | [Book Review: We Are Legion (We Are Bob)](https://popey.com/blog/2021/03/book-review-we-are-legion-we-are-bob/) |
+| Fri 2021/03/12 | [The Old Desktop Switcheroo](https://popey.com/blog/2021/03/the-old-desktop-switcheroo/) |
 | Thu 2021/03/11 | [Back In The Studio](https://popey.com/blog/2021/03/back-in-the-studio/) |
 | Wed 2021/03/10 | [Perfect Poached Eggs](https://popey.com/blog/2021/03/perfect-poached-eggs/) |
 | Tue 2021/03/09 | [Desktop Webapps](https://popey.com/blog/2021/03/desktop-webapps/) |
