@@ -398,6 +398,17 @@ Get:548 http://192.168.1.8/ubuntu focal-updates/main amd64 bcache-tools amd64 1.
 
 The upgrade chugged along for a while, and once complete I had to reboot again, into the new release.
 
+```
+System upgrade is complete.
+
+Restart required 
+
+To complete the upgrade, a system restart is required. 
+If you select 'y' the system will be restarted. 
+
+Continue [yN] 
+```
+
 Boom! It worked
 
 ```bash
