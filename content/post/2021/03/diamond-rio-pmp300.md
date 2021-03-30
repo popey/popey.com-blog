@@ -30,7 +30,7 @@ Well, somewhat surprisingly, it works fine, playing bangin' tunes out via the [c
 
 ![Playing](/blog/images/2021-03-30/playing.jpg)
 
-The other reason for digging it out my curiosity to discover what music I was listening to back then. I made a little Spotify playlist with the six songs I found on the player, so I can listen in [Spot](https://snapcraft.io/spot), my favourite GTK Spotify client.
+The other reason for digging it out was my curiosity to discover what music I was listening to back then. I made a little Spotify playlist with the six songs I found on the player, so I can listen in [Spot](https://snapcraft.io/spot), my favourite GTK Spotify client.
 
 [![Music](/blog/images/2021-03-30/songs.png)](/blog/images/2021-03-30/songs.png)
 
