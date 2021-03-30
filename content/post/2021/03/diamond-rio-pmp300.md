@@ -26,7 +26,7 @@ I bought this back in 1998 along with a couple of 16MB (wooo) SmartMedia cards t
 
 I stumbled on my player in the loft and dug it out to see if it still works. No reason to expect it wouldn't, but you know how old things sometimes magically go pop when nobody looks at them for a few years. 
 
-Well, somewhat surprisingly, it works fine, playing fine tunes out via the [courage](https://www.theverge.com/2016/9/7/12838024/apple-iphone-7-plus-headphone-jack-removal-courage) port. I didn't use the supplied terrible "headphones", but went for something decent. The audio is passable, I suppose.
+Well, somewhat surprisingly, it works fine, playing bangin' tunes out via the [courage](https://www.theverge.com/2016/9/7/12838024/apple-iphone-7-plus-headphone-jack-removal-courage) port. I didn't use the supplied terrible "headphones", but went for something decent. The audio is passable, I suppose.
 
 ![Playing](/blog/images/2021-03-30/playing.jpg)
 
