@@ -3,7 +3,7 @@ date = "2021-03-30T11:00:00-00:00"
 title = "Diamond Rio PMP300"
 slug = "2021/03/diamond-rio-pmp300"
 author = "Alan Pope"
-tags = ['hadrdware', 'pmp300', 'mp3', 'spot', 'spotify', 'hoarding']
+tags = ['hardware', 'pmp300', 'mp3', 'spot', 'spotify', 'hoarding']
 +++
 
 My loft is a treasure trove of old crap. For some reason I keep a bunch of aged useless junk up there. That includes the very first MP3 player I owned. 
