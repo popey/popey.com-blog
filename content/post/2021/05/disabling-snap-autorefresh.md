@@ -193,6 +193,8 @@ There are downsides to all of this, of course. I won't get security updates to s
 
 It's a bit manual to setup, but only takes a few minutes to run the various commands. If inclined, I expect one could use a GitHub Action or similar cloud based job to automate the `snapd` build script. 
 
+Pedantically one could argue this blog post is mistitled as "Disable snap Autorefresh" and should rather say "Massively defer snap Autorefresh". Potato, potato.
+
 I hope that's helpful to someone.
 
 ```bash
