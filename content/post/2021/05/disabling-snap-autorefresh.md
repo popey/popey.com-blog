@@ -70,7 +70,7 @@ The refresh of applications can be deferred with the [refresh.hold](https://snap
 
 If NetworkManager detects that a connection is metered, `snapd` can be configured to suppress updates via [refresh.metered](https://snapcraft.io/docs/keeping-snaps-up-to-date#heading--refresh-metered).
 
-### Delta udpates
+### Delta updates
 
 For users on low-speed or metered connections, delta updates may help. The Snap Store decides whether to deliver deltas of packages when `snapd` refreshes the installed snaps. The user doesn't need to opt-in as the Snap Store has algorithms which determine the delivery of a delta or full package each time.
 
@@ -189,7 +189,7 @@ In case you weren't aware, if you have the deb and the snap installed, whichever
 
 ## Summary
 
-There are downsides to all of this, of course. I won't get security updates to snapd, core or any other application, until I manually choose to update them. I also have to manage my snap updates. That's pretty easy though, just like I've been udpating with `apt` forever.
+There are downsides to all of this, of course. I won't get security updates to snapd, core or any other application, until I manually choose to update them. I also have to manage my snap updates. That's pretty easy though, just like I've been updating with `apt` forever.
 
 It's a bit manual to setup, but only takes a few minutes to run the various commands. If inclined, I expect one could use a GitHub Action or similar cloud based job to automate the `snapd` build script. 
 
