@@ -28,7 +28,7 @@ We then provided an opportunity for the audience to vote for the best one on Twi
 
 Spoiler: I won! 
 
-I made a game which I called Adrift. The idea is you're in a failing space ship. If your hull integrity or life support gets to zero, the ship explodes and you all die, or support systems fail, and you die. Keep the ship in working order by re-charging the systems by olding down the space key, and releasing in one of four quadrants of the controls. Here's what it looks like :)
+I made a game which I called Adrift. The idea is you're in a failing space ship. If your hull integrity or life support gets to zero, the ship explodes and you all die, or support systems fail, and you die. Keep the ship in working order by re-charging the systems by holding down the space key, and releasing in one of four quadrants of the controls. Here's what it looks like :)
 
 ![Adrift screenshot](/blog/images/2021-06-14/adrift.png)
 
