@@ -81,6 +81,6 @@ Mastodon/3.3.0rc3
 Mastodon/3.3.1+glitch
 ```
 
-It makes me feel a ton better when I think back to out outdated my instance of Mastodon got before I nuked it from orbit. 💥
+It makes me feel a ton better when I think back to how outdated my instance of Mastodon got before I nuked it from orbit. 💥
 
 Carry on everyone. I'll be over here tailing my logs as I post this blog...
