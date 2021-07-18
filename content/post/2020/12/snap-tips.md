@@ -496,7 +496,7 @@ This is fun. Setup a cron job as the `root` user which runs every day, pushing b
 
 `0 12 * * * /usr/bin/snap set system refresh.hold="$(/usr/bin/date --iso-8601=seconds -d '+30 days')"`
 
-**Note**: `snapd` is [hard-wired](https://github.com/snapcore/snapd/blob/master/overlord/snapstate/autorefresh.go#L45) to ignore this, and update after 60 days. 
+**Note**: `snapd` is [hard-wired](https://github.com/snapcore/snapd/blob/master/overlord/snapstate/autorefresh.go#L45) to ignore this, and update after 95 days. 
 
 ### Set refresh time
 
