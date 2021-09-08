@@ -7,7 +7,7 @@ description = "Things about me."
 
 ## About
 
-1972 vintage human meatbag. By day I work as a Developer Advocate for [Canonical](https://canonical.com/), working on [Snapcraft](https://snapcraft.io/) and [Ubuntu](https://ubuntu.com/). By night I'm a married dad to two amazing kids. I also like cats, but really want a dog.
+1972 vintage human meatbag. By day I work as a Developer Advocate for [Influx](https://www.influxdata.com/), working on [Telegraf](https://www.influxdata.com/time-series-platform/telegraf/). By night I'm a married dad to two amazing kids. I also like cats, but really want a dog.
 
 ---
 
@@ -20,6 +20,8 @@ Ways to support my work, or give thanks.
   * [ko-fi](https://popey.com/ko-fi) - buy me a coffee
   * [Paypal](https://popey.com/paypal) - send me some funds
   * [LBRY](https://lbry.tv/$/invite/qrcixegFCY1v8utP8kNTEQu2ZQKsKvfr) - Join LBRY using my referral link
+  * [Linode](https://www.linode.com/?r=49a71a9eddc09fbca846964312f36841f25e52a8) - get you $100 60-day credit once a payment method is added to your account
+  * [Digital Ocean](https://m.do.co/c/f9f96ea43bd3)
 
 ---
 
@@ -40,9 +42,6 @@ Projects I actively work on.
 
 Things I plan to do something with, but haven't quite got to yet.
 
-  * https://tipcast.org/ - a podcast project that never happened, but might, who knows!?
-  * https://ubuntuupdate.com/ - was used for a podcast, but will "soon" be news
-
 ### Retiring ###
 
 Projects I probably should retire.
@@ -55,6 +54,9 @@ Projects I probably should retire.
 Retired projects.
 
   * https://ubuntu.social/ - A mastodon instance I spun up from the pub. This was a silly idea. Hosting a social network, especially one like this, full of furries, isn't good for your sanity.
+  * https://tipcast.org/ - a podcast project that never happened, but might, who knows!?
+  * https://ubuntuupdate.com/ - was used for a podcast
+
 
 ---
 
