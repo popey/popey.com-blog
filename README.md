@@ -6,7 +6,15 @@ This repo contains the source for my hugo-based blog which you'll find at [https
 
 | Date | Article |
 | ---: | :-- |
-| Thu 2021/03/18 | []() |
+| Fri 2021/07/16 | [Team Building via Chess](https://popey.com/blog/2021/07/team-building-via-chess/) |
+| Thu 2021/07/08 | [LXD - Container Manager](https://popey.com/blog/2021/07/lxd-container-manager/) |
+| Mon 2021/07/05 | [My Least Used Favourite App](https://popey.com/blog/2021/07/my-least-used-favourite-app/) |
+| Mon 2021/06/14 | [Adrift](https://popey.com/blog/2021/06/adrift/) |
+| Wed 2021/05/26 | [Disabling snap Autorefresh](https://popey.com/blog/2021/05/disabling-snap-autorefresh/) |
+| Mon 2021/05/17 | [New Pastures](https://popey.com/blog/2021/05/new-pastures/) |
+| Tue 2021/03/30 | [Diamond Rio PMP300](https://popey.com/blog/2021/03/diamond-rio-pmp300/) |
+| Thu 2021/03/25 | [Ubuntu 21.04 Testing Week](https://popey.com/blog/2021/03/ubuntu-21.04-testing-week/) |
+| Wed 2021/03/24 | [GNOME OS 40 without GNOME Boxes](https://popey.com/blog/2021/03/gnome-os-40-without-gnome-boxes/) |
 | Wed 2021/03/17 | [Actually Upgrading Ubuntu Server](https://popey.com/blog/2021/03/actually-upgrading-ubuntu-server/) |
 | Tue 2021/03/16 | [Upgrading Ubuntu Server](https://popey.com/blog/2021/03/upgrading-ubuntu-server/) |
 | Mon 2021/03/15 | [Ubuntu Wiki Reboot](https://popey.com/blog/2021/03/ubuntu-wiki-reboot/) |
