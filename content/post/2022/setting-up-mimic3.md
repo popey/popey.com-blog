@@ -1,5 +1,5 @@
 +++
-date = "2022-10-12T12:00:00-00:00"
+date = "2022-10-12T11:00:00-00:00"
 title = "Setting Up Mimic 3"
 slug = "2022/10/setting-up-mimic3"
 author = "Alan Pope"

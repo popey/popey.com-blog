@@ -1,5 +1,5 @@
 +++
-date = "2022-10-12T13:00:00-00:00"
+date = "2022-10-12T11:00:00-00:00"
 title = "Reading My Own Blog Posts (no bots!)"
 slug = "2022/10/reading-my-own-blog-posts"
 author = "Alan Pope"
