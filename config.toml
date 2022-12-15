@@ -20,6 +20,19 @@ enableGitInfo = true
     #style = "dark"
     commit = "https://github.com/popey/popey.com-blog/tree/"
 
+[Params.giscus]
+    repo = "popey/popey.com-blog"
+    repoID = "MDEwOlJlcG9zaXRvcnkzMjIzMjI2MTE="
+    category = "General"
+    categoryID = "DIC_kwDOEzZAs84CTEsk"
+    mapping = "title"
+    reactionsEnabled = "1"
+    emitMetadata = "0"
+    inputPosition = "bottom"
+    theme = "light"
+    lang = "en"
+    loading = "lazy"
+
 [Permalinks]
     post = "/:year/:month/:filename/"
 
