@@ -9,7 +9,7 @@ tags = ['hardware', 'perl', 'linux']
 *This article previously appeared on [listed.to](https://listed.to/@popey/17544/counting-to-100-million). I've moved it here to consolidate my blogging*
 
 About 10-15 years ago, back in the heady days of [Hampshire Linux User Group](http://www.hants.lug.org.uk/), we had a [Wiki](http://www.hants.lug.org.uk/wiki). It ran a heavily patched version of [UseModWiki](http://www.usemod.com/cgi-bin/wiki.pl) that we'd modified to add anti-spam and anti-abuse protection. We'd affectionately called it "[AbuseMod](http://www.hants.lug.org.uk/wiki/AbuseMod)". It's still kinda there, but I don't think the content is ever [touched](http://www.hants.lug.org.uk/wiki/RecentChanges).
-We used it to co-ordinate meetings, take notes, and some other fun sillyness. One such fun was [Hugo's Random Benchmark](http://www.hants.lug.org.uk/wiki/HugoRandomBenchmark) (Note: Not a benchmark). It was a single line we'd each run on our computers to see whose was fastest (Note: Again, not a good benchmark). It did this by counting to 100 Million in Perl. It's a super simple single-line shell script which just times how long the computer takes for perl to go from 1 to 1e8 (100 million).
+We used it to co-ordinate meetings, take notes, and some other fun sillyness. One such fun was [Hugo's Random Benchmark]([http://www.hants.lug.org.uk/wiki/HugoRandomBenchmark](https://web.archive.org/web/20160328134739/https://www.hants.lug.org.uk/wiki/HugoRandomBenchmark)) (Note: Not a benchmark). It was a single line we'd each run on our computers to see whose was fastest (Note: Again, not a good benchmark). It did this by counting to 100 Million in Perl. It's a super simple single-line shell script which just times how long the computer takes for perl to go from 1 to 1e8 (100 million).
 
 Here's the "script":
 
@@ -23,7 +23,7 @@ sys 0m0.016s
 ```
 Again, not a benchmark. It's a single threaded count, so typically won't get any faster if you had a dual core, or many core system. But back in those days, a lot of the systems only had one anyway, so the point is moot. It also doesn't "measure" any other part of the system. It's fun though.
 
-Over time we'd add our own systems to the table on the [page](http://www.hants.lug.org.uk/wiki/HugoRandomBenchmark). Some (such as myself) would strive to run the "benchmark" on ever faster systems. Others aimed for the bottom of the table, and some went for esoteric or imaginary systems.
+Over time we'd add our own systems to the table on the [page]([http://www.hants.lug.org.uk/wiki/HugoRandomBenchmark](https://web.archive.org/web/20160328134739/https://www.hants.lug.org.uk/wiki/HugoRandomBenchmark)). Some (such as myself) would strive to run the "benchmark" on ever faster systems. Others aimed for the bottom of the table, and some went for esoteric or imaginary systems.
 
 With each newer system that was measured, the amount of time shrank a tiny bit. Getting from double-digit times to single-digit was a milestone. Further reducing the total number of seconds by a little with each update. 
 
