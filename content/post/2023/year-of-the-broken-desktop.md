@@ -32,7 +32,7 @@ I have SSH'ed into the desktop from my laptop - success. From here I can do more
 
 ✅ The `/etc/X11/xorg.conf` exists and contains the `Option         "AllowExternalGpus" "true"` line I need. 
 
-```
+```bash
 Section "Device"
     Identifier     "Device0"
     Driver         "nvidia"
@@ -44,14 +44,14 @@ EndSection
 
 ✅ The NVIDIA card is detected
 
-```
+```bash
 alan@robot:~$ lspci | grep -i geforce
 0c:00.0 VGA compatible controller: NVIDIA Corporation TU104 [GeForce RTX 2060] (rev a1)
 ```
 
 ✅ The NVIDIA driver is loaded on boot
 
-```
+```bash
 alan@robot:~$ sudo dmesg | grep nvidia
 [sudo] password for alan: 
 [   17.438614] audit: type=1400 audit(1672909681.409:5): apparmor="STATUS" operation="profile_load" profile="unconfined" name="nvidia_modprobe" pid=1047 comm="apparmor_parser"
@@ -69,7 +69,7 @@ alan@robot:~$ sudo dmesg | grep nvidia
 [   23.168324] nvidia-gpu 0000:0c:00.3: i2c timeout error e0000000
 ```
 
-```
+```bash
 alan@robot:~$ lsmod | grep nvidia
 nvidia_uvm           1363968  0
 nvidia_drm             69632  1
@@ -82,7 +82,7 @@ drm                   622592  13 gpu_sched,drm_kms_helper,nvidia,amdgpu,drm_ttm_
 
 ✅ The NVIDIA driver has recently been updated (2 days ago)
 
-```
+```bash
 alan@robot:~$ grep nvidia-driver /var/log/dpkg.log.1
 2022-12-03 15:05:08 install nvidia-driver-525:amd64 <none> 525.60.11-0ubuntu0.22.04.1
 2022-12-03 15:05:08 status half-installed nvidia-driver-525:amd64 525.60.11-0ubuntu0.22.04.1
@@ -95,7 +95,7 @@ alan@robot:~$ grep nvidia-driver /var/log/dpkg.log.1
 
 ✅ Xorg is loading
 
-```
+```bash
 alan@robot:~$ head /var/log/Xorg.0.log
 [    18.618] (--) Log file renamed from "/var/log/Xorg.pid-1511.log" to "/var/log/Xorg.0.log"
 [    18.619] 
@@ -111,7 +111,7 @@ X Protocol Version 11, Revision 0
 
 ❌ NVIDIA Xorg module is not
 
-```
+```bash
 alan@robot:~$ grep -i nvidia /var/log/Xorg.0.log
 [    18.631] (II) LoadModule: "nvidia"
 [    18.632] (WW) Warning, couldn't open module nvidia
@@ -140,21 +140,21 @@ So the card is okay, kernel driver is loaded, but Xorg won't start because some 
 
 I am aware that on Ubuntu the Xorg display system is broken up into a bunch of packages. I have 17 or so installed.
 
-```
+```bash
 alan@robot:~$ dpkg -l xserver-xorg* | grep -c ^ii
 17
 ```
 
 ✅ The NVIDIA binary Xorg module is installed
 
-```
+```bash
 alan@robot:~$ dpkg -l xserver-xorg-video-nvidia-525 | grep ^ii
 ii  xserver-xorg-video-nvidia-525 525.60.11-0ubuntu0.22.04.1 amd64        NVIDIA binary Xorg driver
 ```
 
 ✅ Which matches the version of the kernel module
 
-```
+```bash
 alan@robot:~$ dpkg -l nvidia-driver-525 | grep ^ii
 ii  nvidia-driver-525 525.60.11-0ubuntu0.22.04.1 amd64        NVIDIA driver metapackage
 ```
@@ -165,7 +165,7 @@ If you do any kind of search online for fixes, the typical response is "reinstal
 
 ❌ Try to reinstall the NVIDIA driver
 
-```
+```bash
 alan@robot:~$ ubuntu-drivers install
 Traceback (most recent call last):
   File "/usr/bin/ubuntu-drivers", line 513, in <module>
@@ -199,13 +199,13 @@ This is a known bug [#1993019](https://bugs.launchpad.net/ubuntu/+source/ubuntu-
 
 Sometimes there's a "missing" package, which can happen if you're a bit overzealous when removing things. I use this command to re-install the *expected* things to be on a default install of Kubuntu. This attempts to install the 'task' `kubuntu-desktop` which will pull anything in which may have been erroneously removed in the recent past.
 
-```
+```bash
 alan@robot:~$ sudo apt install kubuntu-desktop^
 ```
 
 It re-installed a bunch of stuff:
 
-```
+```bash
 The following additional packages will be installed:
   libsasl2-2:i386 libsasl2-modules:i386 libsasl2-modules-db:i386 libsasl2-modules-gssapi-mit
 Suggested packages:
@@ -233,7 +233,7 @@ Most of which (e.g. Thunderbird, and the plasma snap backend) won't help, but yo
 
 Once that command finished, I restarted SSDM (the display manager):
 
-```
+```bash
 sudo service sddm restart
 ```
 
