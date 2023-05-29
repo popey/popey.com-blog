@@ -1,5 +1,5 @@
 +++
-date = "2023-05-29T17:00:00-00:00"
+date = "2023-05-29T16:00:00-00:00"
 title = "Simple RSS Mastodon Bot"
 slug = "2023/05/simple-rss-mastodon-bot"
 author = "Alan Pope"
