@@ -42,13 +42,11 @@ I cloned the repo, figured out how it works, and quickly had it taking the conte
 
 Run rss2masto regularly, and it will post to Mastodon under your account whenever it sees new content on the RSS feed. It keeps a local Sqlite database in which it tracks which items have already been posted, to eliminate duplicates. 
 
-I tweaked Leon's code to fit my requirements. By default rss2masto will post the title of the post along with a formatted link to the upstream article. I mildly tweaked the formatting a little, which was quite straightforward. 
-
 ## Tweaks
 
-By default rss2masto adds `FROM:`, `MAIN URL:` and `TITLE:` to posts, which I didn't want, so I stripped all that down.
+I tweaked Leon's code to fit my requirements. By default rss2masto adds `FROM:`, `MAIN URL:` and `TITLE:` to posts, which I didn't want, so I stripped all that down.
 
-When you run rss2masto, if you condigured it correctly, it will post every article as a post. This is of course working as designed. However, if you aren't happy with the format of the posts, you may want to delete the posts, and do them again. If you have a lot of posts to delete, you may hit the Mastodon instance's rate limiting. Further, if the posts are already listed in the local Sqlite database, they won't post the second time. 
+When you run rss2masto, if you configured it correctly, it will post every article as a post. This is of course working as designed. However, if you aren't happy with the format of the posts, you may want to delete the posts, and do them again. If you have a lot of posts to delete, you may hit the Mastodon instance's rate limiting. Further, if the posts are already listed in the local Sqlite database, they won't post the second time. 
 
 So I recommend commenting out the part of rss2masto which actually posts to Mastodon, and let it print the 'toots' out to the console, so you can debug and refine them first, before actually posting them. You can then delete the Sqlite database entirely, or just drop specific records, and run the script again.
 
