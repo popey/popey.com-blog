@@ -116,3 +116,7 @@ This repo contains the source for my hugo-based blog which you'll find at [https
 | Sat 2020/12/19 | [Multiple GPUs in a Skull Canyon NUC](https://popey.com/blog/2020/12/multiple-gpus-in-a-skull-canyon-nuc) |
 | Fri 2020/12/18 | [Straightforward Linux Backups with rsnapshot](https://popey.com/blog/2020/12/straightforward-linux-backups-with-rsnapshot) |
 | Thu 2020/12/17 | [Spotify on the Raspberry Pi 400](https://popey.com/blog/2020/12/spotify-on-the-raspberry-pi-400) |
+| Wed 2018/08/22 | [Akademy 2018 Trip Report](https://popey.com/blog/2018/08/akademy-2018-trip-report/)|
+| Thu 2018/06/07 | [KDE Slimbook 2 Review](https://popey.com/blog/2018/06/kde-slimbook-2-review/)|
+| Tue 2017/10/03 | [New Ubuntu Community Hub Launched](https://popey.com/blog/2017/10/new-ubuntu-community-hub-launched/)|
+| Thu 2017/08/08 | [Ubuntu Community Hub Proposal](https://popey.com/blog/2017/08/ubuntu-community-hub-proposal/)|
