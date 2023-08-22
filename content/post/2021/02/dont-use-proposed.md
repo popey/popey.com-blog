@@ -12,7 +12,7 @@ For those not "in the know", each Ubuntu release has a bunch of pockets. If you'
 
 A typical `sources.list` might look like this:
 
-```
+```shell
 deb http://archive.ubuntu.com/ubuntu/ hirsute main restricted universe multiverse
 deb-src http://archive.ubuntu.com/ubuntu/ hirsute main restricted universe multiverse
 
