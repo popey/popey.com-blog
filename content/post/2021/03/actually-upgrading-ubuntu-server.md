@@ -10,7 +10,7 @@ tags = ['software', 'ubuntu', 'server', 'bionic', 'focal']
 
 I followed the recommendation from yesterday, to compress the `initrd.img` using xz compression rather than the previous default gzip. Previously the upgrade failed because it needed 140M disk space in `/boot`. With the change to the compression scheme, I now have 154M, which should be enough to start the upgrade.
 
-```bash
+```shell
 alan@robby:~$ df -h /boot
 Filesystem      Size  Used Avail Use% Mounted on
 /dev/sda1       226M   57M  154M  27% /boot
@@ -20,7 +20,7 @@ Well, I started the upgrade with `sudo do-release-upgrade` and once again had to
 
 Just like last time I needed to okay the change to the `sources.list` and accept that third party repositories were disabled.
 
-```
+```shell
 Updating repository information
 
 No valid mirror found 
@@ -42,14 +42,11 @@ re-enable them after the upgrade with the 'software-properties' tool
 or your package manager. 
 
 To continue please press [ENTER]
-
-
 ```
 
 Okay, so we got past the size check of `/boot`. That's good. As usual we get a summary of what's going to happen. Some things removed, some upgraded and some new things to come. It's estimating the speed of download based on the fact I have a local mirror. 
 
-```
-
+```shell
 Do you want to start the upgrade? 
 
 
@@ -70,7 +67,7 @@ finished, the process cannot be cancelled.
 
 Let's hit "d" for fun. Normally I just hit "y" and let it rip. We have some packages which are no longer supported:
 
-```
+```shell
 No longer supported: bzr dh-python dnsutils geoip-database ifenslave 
   ifupdown libdumbnet1 libegl1-mesa libncurses5 libncursesw5 
   libtinfo5 nmap python-dateutil uidmap vlan 
@@ -79,12 +76,12 @@ No longer supported: bzr dh-python dnsutils geoip-database ifenslave
 
 Some which will be removed...
 
-```
+```shell
 Remove: dstat libapt-inst2.0 libapt-pkg5.0 libcupscgi1 libcupsmime1 
   libcupsppdc1 libpolkit-backend-1-0 libsnmp30 
 ```
 
-```
+```shell
 Remove (was auto installed) libldb1 libmailutils5 libpython-stdlib 
   libsensors4 python python-keyrings.alt python-ldb python-minimal 
   python-samba python-tdb 
@@ -93,7 +90,7 @@ Remove (was auto installed) libldb1 libmailutils5 libpython-stdlib
 
 ... and a bunch which will be installed ...
 
-```
+```shell
 Install: alsa-topology-conf alsa-ucm-conf amd64-microcode 
   bind9-dnsutils bind9-libs bolt brz chafa cpp-9 cryptsetup-initramfs 
   cryptsetup-run finalrd fonts-urw-base35 fwupd fwupd-signed g++-9 
@@ -164,7 +161,7 @@ Install: alsa-topology-conf alsa-ucm-conf amd64-microcode
 
 With a load being upgraded too...
 
-```
+```shell
 Upgrade: accountsservice acl acpid adduser adwaita-icon-theme apache2 
   apache2-bin apache2-data apache2-utils apparmor apport 
   apport-symptoms apt apt-transport-https apt-utils at at-spi2-core 
@@ -383,7 +380,7 @@ After this I hit "y" to start the upgrade.
 
 We're off! Hundreds of packages downloading at ~10-14MB/s. Wheeee!
 
-```
+```shell
 Get:540 http://192.168.1.8/ubuntu focal/main amd64 python3-requests all 2.22.0-2ubuntu1 [47.1 kB]
 Get:541 http://192.168.1.8/ubuntu focal-updates/main amd64 python3-urllib3 all 1.25.8-2ubuntu0.1 [88.3 kB]                             
 Get:542 http://192.168.1.8/ubuntu focal/main amd64 python3-requests-unixsocket all 0.2.0-2 [7,272 B]                                   
@@ -398,7 +395,7 @@ Get:548 http://192.168.1.8/ubuntu focal-updates/main amd64 bcache-tools amd64 1.
 
 The upgrade chugged along for a while, and once complete I had to reboot again, into the new release.
 
-```
+```shell
 System upgrade is complete.
 
 Restart required 
@@ -411,7 +408,7 @@ Continue [yN]
 
 Boom! It worked
 
-```bash
+```shell
 alan@robby:~$ lsb_release -a
 No LSB modules are available.
 Distributor ID: Ubuntu
