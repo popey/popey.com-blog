@@ -42,7 +42,7 @@ The X61s has an ethernet port, and onboard wireless. Mine even has a cellular da
 
 Testing the connection is easy with [fast](https://snapcraft.io/fast), an alternative to the commonly-known [speedtest-cli](https://www.speedtest.net/apps/cli). Great for testing the maximum throughput without needing a web browser.
 
-```
+```shell
 alan@duotronics:~$ fast
  -> 102.36 Mbps
 ```
@@ -65,7 +65,7 @@ Byobu has some easy keyboard shortcuts including `[F2]` to launch a new window, 
 
 On boot I login, launch byobu then run my `apps` script which lives in `~/bin`. It is super simple and looks a little like this. Mine is way longer, listing ten or so applications, but you get the idea.
 
-```
+```shell
 #!/bin/bash
 tmux new-window irssi
 tmux new-window newsboat
@@ -80,7 +80,7 @@ I have previously [written](/blog/2020/12/straightforward-linux-backups-with-rsn
 
 I have formatted the USB stick partition on `/dev/sdb1` using ext4 and added a line to `/etc/fstab` to make sure it's mounted under `/mnt/backup`. The internal disk is `/dev/sda`.
 
-```
+```shell
 alan@duotronics:~$ df -h
 Filesystem      Size  Used Avail Use% Mounted on
 udev            2.9G     0  2.9G   0% /dev
@@ -95,7 +95,7 @@ tmpfs           588M  8.0K  588M   1% /run/user/1000
 
 I configured `rsnapshot` via `/etc/rsnapshot.conf` to use the USB stick for backups. 
 
-```
+```shell
 snapshot_root   /mnt/backup
 ```
 
@@ -141,7 +141,7 @@ Mutt can be configured to send directly, via SMTP or IMAP, or it can put the mai
 
 I don't often give presentations in person these days, but I could use [presentty](https://pypi.org/project/presentty/), and indeed did for the lightning talk at OggCamp a while back. Presentty is available in the Ubuntu repository. The presentation file are RestructuredText which are easy to write in any text editor. Here's the first few 'slides' from the presentation I gave.
 
-```
+```markdown
 All GUIs Suck
 =============
 
