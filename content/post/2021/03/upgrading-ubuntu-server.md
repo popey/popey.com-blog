@@ -23,7 +23,7 @@ The upgrade process for Ubuntu Server is basically to run `do-release-upgrade` a
 
 *please come back, please come back*
 
-```
+```shell
 From 192.168.1.71 icmp_seq=182 Destination Host Unreachable
 From 192.168.1.71 icmp_seq=183 Destination Host Unreachable
 From 192.168.1.71 icmp_seq=184 Destination Host Unreachable
@@ -32,7 +32,7 @@ From 192.168.1.71 icmp_seq=185 Destination Host Unreachable
 
 It came back though, thankfully.
 
-```
+```shell
 64 bytes from 192.168.1.8: icmp_seq=186 ttl=64 time=2256 ms
 64 bytes from 192.168.1.8: icmp_seq=187 ttl=64 time=1240 ms
 ```
@@ -41,7 +41,7 @@ It came back though, thankfully.
 
 I then re-ran the upgrade tool. The first question I get is more informational. As I've [mentioned](/blog/2021/01/digital-hoarding-ubuntu-mirror/) before I run an Ubuntu mirror, actually on this very host, serving other Ubuntu machines on the LAN. 
 
-```
+```shell
 Updating repository information
 
 No valid mirror found 
@@ -59,7 +59,7 @@ Continue [yN]
 
 The `/etc/apt/sources.list` just points to the local IP address of this machine. Here's what my `sources.list` looks like.
 
-```
+```shell
 alan@robby:~/tmp$ cat /etc/apt/sources.list
 deb http://192.168.1.8/ubuntu/ bionic main restricted universe multiverse
 deb-src http://192.168.1.8/ubuntu/ bionic main restricted universe multiverse
@@ -85,8 +85,7 @@ Next warning is that the upgrade will disable some additional repositories which
 This whole disabling third party sources is a good thing anyway, as Ubuntu Server (and desktop) upgrades are never tested with them enabled, so the outcome can be unpredictable. 
 
 
-```
-
+```shell
 Third party sources disabled 
 
 Some third party entries in your sources.list were disabled. You can 
@@ -94,13 +93,11 @@ re-enable them after the upgrade with the 'software-properties' tool
 or your package manager. 
 
 To continue please press [ENTER]
-
 ```
 
 Then it failed. As part of the pre-upgrade checks, the tool found out that I don't have much space in `/boot`. 
 
-```
-
+```shell
 Not enough free disk space 
 
 The upgrade has aborted. The upgrade needs a total of 140 M free 
@@ -109,14 +106,13 @@ disk space on '/boot'. You can remove old kernels using 'sudo apt
 autoremove' and you could also set COMPRESS=xz in 
 /etc/initramfs-tools/initramfs.conf to reduce the size of your 
 initramfs. 
-
 ```
 
 This is likely my fault. When I first installed Ubuntu on this box in August 2017, I used the Ubuntu Server 16.04.2 LTS ISO image on a USB key. I manually configured two 500GB disks in an `mdraid` mirror `/dev/md0` for `/dev/sdb1` and `/dev/sda2` for the root partition, and `/dev/sda1` unmirrored for `/boot`. There was likely some logic to this in my head at the time. 
 
 Unfortunately I only made the `/dev/sda1` partition as ~226MB, and the rest for `/dev/md0` RAID 1 array. The system has been running fine for nearly four years, and has been upgraded from 16.04 to 18.04 in the meantime. 
 
-```
+```shell
 alan@robby:~$ df -h /boot
 Filesystem      Size  Used Avail Use% Mounted on
 /dev/sda1       226M   79M  132M  38% /boot
@@ -125,21 +121,21 @@ Filesystem      Size  Used Avail Use% Mounted on
 But sadly there's not quite enough space to upgrade to 20.04. Maybe the suggestion to `apt autoremove` will get rid of some cruft.
 
 
-```
+```shell
 alan@robby:~$ sudo apt autoremove
 Reading package lists... Done
 Building dependency tree       
 Reading state information... Done
 0 to upgrade, 0 to newly install, 0 to remove and 0 not to upgrade.
 
-```
+```shell
 Nope. The other suggestion to enable xz compression in `/etc/initramfs-tools/initramfs.conf` seems neat. Not sure it would actually be beneficial enough though. So let's take the current initrd and do a quick test. I took the initrd image, un-gzipped it then xz'ed it. It was 58MB when gzipped, 165MB uncompressed and only 35MB when xz compressed. 
 
 That would give me an extra 23MB of space. I had 132MB and the installer suggested I need 140MB free, so I think that could work! However, it's late in the day, and I'm not futzing around with that at 11pm, I need my beauty sleep.
 
 So I'll quit the upgrade, which resets everything back to how it was before I started.
 
-```
+```shell
 Restoring original system state
 
 Aborting
