@@ -8,7 +8,7 @@ tags = ['software', 'linux', 'ubuntu', 'undanger']
 
 Yesterday I [wrote](/blog/2021/02/dont-use-proposed) about how I made a mistake by updating my primary Ubuntu computer to include the `proposed` pocket. I shouldn't have done this. So today I quickly hacked together a script to take any packages which came from `proposed` and "*downgrade*" them back to the `release` pocket. It's not pretty, but it worked, for me.
 
-```
+```bash
 #!/bin/bash
 
 TMPDIR=$(mktemp -d)
@@ -44,7 +44,7 @@ There were a couple of tweaks I had to do to the resulting script. Specifically 
 
 Running the script looks a bit like this. I have skipped a bunch of it, because it's very verbose, given there's nearly five hundred packages to download. 
 
-```
+```shell
 Reading package lists...
 Building dependency tree...
 Reading state information...
@@ -69,7 +69,7 @@ Use 'sudo apt autoremove' to remove them.
 
 We then move on to what was asked for:
 
-```
+```shell
 The following additional packages will be installed:
   android-libselinux android-libsepol linux-headers-5.8.0-36-generic
   linux-image-5.8.0-36-generic linux-modules-5.8.0-36-generic
@@ -98,7 +98,7 @@ The following packages will be DOWNGRADED:
 
 `---8<---`
 
-```  
+```shell
   systemd-sysv systemd-timesyncd tar tcpdump tex-common texlive-base
   texlive-extra-utils texlive-fonts-recommended texlive-formats-extra
   texlive-latex-base texlive-latex-extra texlive-latex-recommended
@@ -113,7 +113,7 @@ After this operation, 293 MB of additional disk space will be used.
 
 I let it run and got a bunch of this kind of "downgrading" message, which suggests it's working.
 
-```
+```shell
 dpkg: warning: downgrading libaudit1:amd64 from 1:3.0-2ubuntu1 to 1:2.8.5-3ubuntu3      
 Preparing to unpack .../10-libaudit1_1%3a2.8.5-3ubuntu3_amd64.deb ...                     
 Unpacking libaudit1:amd64 (1:2.8.5-3ubuntu3) over (1:3.0-2ubuntu1) ...                    
@@ -122,8 +122,6 @@ Setting up libaudit1:amd64 (1:2.8.5-3ubuntu3) ...
 
 It ended with:
 
-```
-done.
-```
+`done.`
 
 Looks good, time to reboot and find out if it worked!
