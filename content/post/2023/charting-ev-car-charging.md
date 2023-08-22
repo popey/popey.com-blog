@@ -1,12 +1,12 @@
 +++
-date = "2023-08-22T21:00:00-00:00"
+date = "2023-08-22T19:00:00-00:00"
 title = "Charting EV Car Charging"
 slug = "2023/08/charting-ev-car-charging"
 author = "Alan Pope"
 tags = ['mini', 'ev', 'car', 'charging', 'axiom']
 +++
 
-This blog post accompanies episode 10 of Linux Matters Podcast where I talked about this subject for a bit. You can listen to the episode [here](https://linuxmatters.sh/10/). If you're a [Patron](https://www.patreon.com/LateNightLinux) you can listen ahead of time, and with no adverts.
+This blog post accompanies episode 10 of Linux Matters Podcast where I talked about this subject for a bit. You can listen to the episode [here](https://linuxmatters.sh/10/) once it's out. If you're a [Patron](https://www.patreon.com/LateNightLinux) you can listen ahead of time, and with no adverts.
 
 ## Hackathon
 
@@ -26,31 +26,37 @@ I decided to put all the charging data from my electric car into [Axiom](https:/
 
 I've had my Mini EV since December 2021. As an insufferable "new" EV driver, I am of course compelled to talk about it at any opportunity. 
 
-Seriously though, in social situations, when people find out you have an EV, there are a bunch of common questions you get asked. People are keen to know the actual range, how the car is charged up, where you charge, and how often. They also often want to know all the costs associated with running the car and may get into more details about any of these topics. 
+Seriously though, in social situations, when people find out you have an EV, there are a bunch of common questions you get asked. They are often keen to know the actual range, how the car is charged up, where you charge, and how often. They also often want to know all the costs associated with running the car and may get into more details about any of these topics. 
 
-Some of the questions only need rough answers. The manufacturer's expected range and what I tend to get in the real world are easy to say, but questions about how often I charge, and where, aren't as straightforward. I have a charger at home, and plugin most of the time, but how often is 'most of the time', and when, and where do I charge when away from home?
+Some of the questions only need rough answers. The manufacturer's expected range and what I tend to get in the real world are easy to articulate. Questions about how often I charge, and where, aren't as straightforward. I have a charger at home, and plug in most of the time, but how often is "most of the time", what happens and where do I charge when away from home?
 
-I have a terrible memory, so don't have that kind of information to hand. Initially, I kept a spreadsheet of all the times I'd charged the car. That lasted about nine months before it got boring and I stopped updating it.
+I have a terrible memory, so don't have that kind of information to hand. In the early days of having the car, I kept a spreadsheet of all the times I'd charged the car. That lasted about nine months before it got boring and I stopped updating it though.
 
 ![Sheet](/blog/images/2023-08-22/sheet.png)
 
-The good news though, is BMW (the manufacturer of my car) has a secure [portal](https://www.mini.co.uk/) where I can download a "takeout-style" archive of all charging events. Given I only want to report on the historical charge data for my eighteen months of ownership, this was perfect.
+The good news however, is BMW (the manufacturer of my car) has a secure [portal](https://www.mini.co.uk/) where I can download a "takeout-style" archive of all charging events. Given I only want to report on the historical charge data for my eighteen months of ownership, this was perfect.
+
+*Note: When I explained this data retention and availability to a friend they were somewhat horrified. I opted into this service when I connected the car to the official Mini mobile app. I imagine if I didn't register, BMW likely wouldn't have the data, or at least wouldn't have it associated with me. Many modern cars do this, these days. This isn't an Austin 11.*
 
 ## Getting the data
 
-I requested the cardata archive from BMW on Monday, and received an email with the link within twenty-four hours, on Tuesday morning.
+I requested the "cardata" archive from BMW on Monday, and received an email with the link within twenty-four hours, on Tuesday morning.
 
 ![Car data](/blog/images/2023-08-22/cardata.png)
 
-The payload is a zip containing an HTML page explaining the contents, and links to the various files within. An XML file details all known telematics data about the car itself. This includes the supplied and optional features of the vehicle. It also details the status of various sensors, such as whether the doors, windows, boot or bonnet are open. The XML file also has a `vehicleImage` field which contains a base64-encoded PNG render of the car, which you can see further up, above.
+The payload is a zip containing an HTML page explaining the contents, and links to the other files in the archive. 
 
-A PDF `MINICarDataTelematicsDataCatalogue.pdf` further details all the fields and their meanings in the other files. The most interesting file (to me) though is  `MINI-CarData-ChargingHistory_(myVIN)_24-07-2023.json` which has all the good stuff I'm after. It contains a record of each time the car was charged, going back to the start of my ownership.
+An XML file details all known telematics data about the car itself. This includes the base and optional features of the vehicle. It also details the current state of sensors, such as whether the doors, windows, boot or bonnet are open. The XML file also has a `vehicleImage` field which contains a base64-encoded PNG render of the car, which you can see further up in this article.
 
-*Technically it goes back to a few days after I got the car. There was an issue registering the car with BMW, so it didn't have a record of the first week or so of charging data. It has every data point since then though.*
+A PDF `MINICarDataTelematicsDataCatalogue.pdf` documents all the fields and their meanings in the other files. 
 
-Here's a sample record from that file. You may be able to note that we charged from 70% (`displayedStartSoc`) to 86% (`displayedSoc`), taking 6.44kWh (`energyConsumedFromPowerGridKwh`) from the grid in about 9 minutes (`endTime-startTime`). 
+The most interesting file (to me) though is  `MINI-CarData-ChargingHistory_(myVIN)_24-07-2023.json` which has all the good stuff I'm after. It contains a record of each time the car was charged, going back to the start of my ownership.
 
-I think we call that a "splash n' dash".
+*Technically it goes back to a few days after I got the car. There was an issue registering the car in the Mini app, so it didn't have a record of the first week or so of charging data. It has every data point since then though.*
+
+Here's a sample record from that file. You may be able to note on this occasion in November 2022 (`startTime`) we charged from 70% (`displayedStartSoc`) to 86% (`displayedSoc`), taking 6.44kWh (`energyConsumedFromPowerGridKwh`) from the grid in about 9 minutes (`endTime - startTime`). 
+
+I think we call that a "[splash n' dash](https://en.wiktionary.org/wiki/splash-and-dash)".
 
 ```json
     {
@@ -95,7 +101,7 @@ I think we call that a "splash n' dash".
     },
 ```
 
-Here's the car in situ at that location, on that day in November 2022. As you can see from the JSON there are multiple likely chargers at the same locale. The archive doesn't say which one I used, but I don't think that really matters here.
+Here's the car in situ at that location, on that day in November 2022. As you can see from the JSON there are multiple chargers at the same locale. The archive doesn't say which one I used, but I don't think that matters too much for my purposes.
 
 ![Car charging](/blog/images/2023-08-22/mini-charging.jpg)
 
@@ -111,25 +117,31 @@ I already have an account but creating a new one is pretty straightforward. Visi
 
 ### Create a dataset
 
-Data you ingest into Axiom is held in Datasets. Create one by going to [app.axiom.co](https://app.axiom.co/) -> Datasets -> New Dataset.
+Data you ingest into Axiom is held in Datasets. 
+
+Create one by going to [app.axiom.co](https://app.axiom.co/) -> Datasets -> New Dataset.
 
 ![Create Dataset](/blog/images/2023-08-22/create-dataset.png)
 
 ### Generate a key
 
-Create an API token to ingest data into the dataset.
+Create an API token to programmatically ingest data into the dataset.
 
 ⚙️ -> API tokens -> New API token
 
 ![Create API token](/blog/images/2023-08-22/api-token-1.png)
 
-Give the API token a name, and set permissions accordingly. Either allow access to any dataset or limit to a subset.
+Give the API token a name, and set permissions accordingly. 
+
+Either allow access to any dataset or limit to a subset.
 
 ![API token permissions](/blog/images/2023-08-22/api-token-2.png)
 
 ### Send it!
 
-There are a [bunch](https://axiom.co/docs/send-data/ingest) of ways to ingest data into Axiom. I chose to just throw it in with everyone's favourite API-tool `curl`. Set `$DATSET_NAME` and `$API_TOKEN` accordingly
+There are a [bunch](https://axiom.co/docs/send-data/ingest) of ways to ingest data into Axiom if you're sending from a go, node, NextJs or Python application. 
+
+I chose to just throw it in with everyone's favourite API-tool ✨`curl`✨. Set `$DATSET_NAME` and `$API_TOKEN` accordingly
 
 ```bash
 curl -X 'POST' 'https://api.axiom.co/v1/datasets/$DATASET_NAME/ingest' \
@@ -140,17 +152,21 @@ curl -X 'POST' 'https://api.axiom.co/v1/datasets/$DATASET_NAME/ingest' \
 
 ### Quick check
 
-Before we dive into the data, the 'Stream' tab enables us to look at the raw json as it came in. 
+Before we dive into the data, the 'Stream' tab enables us to look at the raw JSON as it came in. 
 
 ![Stream](/blog/images/2023-08-22/stream1.png)
 
-Click on a record in the dataset to see all the fields and their contents.
+Click on a record in the dataset to see all the fields and their contents. This is a good way to determine if the Axiom ingest process is identifying the field types correctly - it is.
 
 ![Stream](/blog/images/2023-08-22/stream2.png)
 
 ## Querying the dataset
 
-533 charges, 464 at home, 69 not at home
+In Axiom you can just use the point-and-click web ui to interrogate your dataset. Here I selected the entire time range and just asked for a count of all records. It's super fast and easy to query like this. 
+
+![Point and click](/blog/images/2023-08-22/point-click.png)
+
+Once you have a working query, you can save it, and/or build a dashboard from it. Under the covers, the queries are written in APL...
 
 ### APL
 
@@ -162,13 +178,13 @@ During the hackathon, I wanted to answer some questions I get a lot, mostly arou
 
 ### Home or Away
 
-I often get asked about how expensive it is to charge away from the house, and how often I have to do it. The dataset doesn't contain pricing data, and each charger is different, with pricing changing over time. I haven't figured out how to map the pricing data in here yet.
+I frequently get asked how expensive it is to charge away from the house, and how often I have to do it. The dataset doesn't currently contain pricing data, and each charger is different, with pricing changing over time. I haven't figured out how to map the pricing data here yet.
 
-I do know I've used a variety of public chargers, but how often?
+I have sometimes used public chargers since owning the car, but how often?
 
 APL makes this pretty easy.
 
-First, how many records are there in total:
+First, how many records are there in total? This is the equivalent APL query as shown the image immediately above.
 
 ```apl
 ['popey-mini']
@@ -193,7 +209,7 @@ Result: `74`
 
 Result: `459`
 
-So, around 14% of the time I charge away from home, and around 86% of the time I'm charging on my own infrastructure.
+So, around 14% of the time I charge away from home, and around 86% of the time I'm charging on my infrastructure.
 
 #### Home
 
@@ -259,7 +275,7 @@ Looks like not often, twice in fact.
 
 I know one of these was when I intentionally tried "[hypermiling](https://en.wikipedia.org/wiki/Hypermiling)" and got it pretty much bang on zero as I pulled up at home. On the other occasion, my car was in the garage for repair, when the charging socket broke, so I was unable to charge it. I don't often let it get that low.
 
-Indeed I don't often let it get below 20%. I usually plug the car in every day, and let the automatic magic charge during the cheapest time from 23:30 to 05:30.
+Indeed I don't often let it get below 20%. I usually plug the car in every day, and let it automatically charge during the cheapest time from 23:30 to 05:30.
 
 ```apl
 ['popey-mini']
@@ -308,7 +324,7 @@ Having the visualisation of how much I charge at home vs away was helpful for me
 
 The main thing I found interesting was the different locations I've charged at away from home. There are a few records for "Lysons Way" which happens to be where the BMW service centre is located. My car went in for repair on a couple of occasions, so it was likely charged there while being repaired.
 
-That location alone accounts for at least nine charging attempts away from home, and that's not even something I did.
+That location alone accounts for at least nine charging attempts away from home, and that's not even something I did. Not was there any cost (to me) associated with them.
 
 The "B4122" entries rank as my most 'popular' charging spots as measured by the number of visits, *and* how much energy was used. This is the lovely [Chippenham pit stop](https://chippenhampitstop.com/). They do a great breakfast and have a bunch of chargers - as seen in the photo at the top of this blog. I visited there multiple times while being 'dad cabs' taking my Son to visit a friend in Wales.
 
