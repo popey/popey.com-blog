@@ -44,7 +44,7 @@ wget https://os.gnome.org/download/40.0/gnome_os_installer_40.0.iso
 
 Create a `gnome40.conf` file containing this.
 
-```
+```ini
 iso="./gnome_os_installer_40.0.iso"
 disk_img="./gnome-40.qcow2"
 boot="efi"
