@@ -8,7 +8,7 @@ tags = ['software', 'linux', 'ubuntu']
 
 I am not a fan of rebooting my computers. As you can see:
 
-```
+```shell
 alan@robot:~$ for host in $(cat computers.txt); do ssh "$host" "uptime"; done
  20:24:53 up 117 days,  5:06, 10 users,  load average: 5.85, 6.07, 5.48
  20:24:55 up 113 days,  4:56,  7 users,  load average: 0.95, 0.68, 0.72
@@ -31,7 +31,7 @@ I do have [Canonical Livepatch](https://ubuntu.com/security/livepatch) installed
 
 I also don't reboot my main desktop PC much. As you can see from the last 6 months uptime records.
 
-```
+```shell
 alan@robot:~$ uprecords 
      #               Uptime | System                                     Boot up
 ----------------------------+---------------------------------------------------
@@ -55,7 +55,7 @@ no1 in    41 days, 06:41:48 | at                        Thu Mar 18 03:07:20 2021
 
 I also don't reboot my ThinkPad T450 a lot. It had a much higher uptimes before I wiped it and installed Ubuntu a year or so back. Back then it had KDE Neon installed. I had the best uptimes on that distro.
 
-```
+```shell
 alan@mcp:~$ uprecords
      #               Uptime | System                                     Boot up
 ----------------------------+---------------------------------------------------
@@ -84,7 +84,7 @@ alan@mcp:~$
 
 Indeed my aging ThinkPad X220 also has some decent uptimes, dating back years (although I had to boot it up to capture this):
 
-```
+```shell
 alan@deep-thought:~$ uprecords
      #               Uptime | System                                     Boot up
 ----------------------------+---------------------------------------------------
@@ -120,7 +120,7 @@ Sometimes an application (or desktop) features a leak which can consume a lot of
 
 I also sometimes have to manually restart applications when they get a bit... bloaty... in the memory department. My favourite tool for looking at memory hungry applications is [ps_mem.py](https://github.com/pixelb/ps_mem). Behold.
 
-```
+```shell
 alan@robot:~$ sudo ~/bin/ps_mem.py | tail -n 20
 165.8 MiB + 230.9 MiB = 396.7 MiB	steam (2)
 177.7 MiB + 251.8 MiB = 429.6 MiB	Xorg [updated]
@@ -142,7 +142,6 @@ alan@robot:~$ sudo ~/bin/ps_mem.py | tail -n 20
 ---------------------------------
                          31.7 GiB
 =================================
-
 ```
 
 Hello web browsers, electron applications and chat apps. Welcome to my RAM, make yourself at home, help yourself. Nom nom nom.
