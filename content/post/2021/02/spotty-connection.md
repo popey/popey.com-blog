@@ -23,7 +23,7 @@ It ticks some boxes for me:
 
 So obviously I took a look at snapping it. It wasn't super challenging, having snapped a bunch of Rust and GNOME applications already. I won't go through the full `snapcraft.yaml` in detail because I've gone through them [before](/blog/2020/12/snap-along-with-me/), and there's only a few interesting differences here. Here's the full `yaml` though.
 
-```
+```yaml
 name: spot
 base: core20 # the base snap is the execution environment for this snap
 adopt-info: spot
