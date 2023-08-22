@@ -26,7 +26,7 @@ By the end of January there was a fix in place for the 5.8 kernel update, prepar
 
 Then it hit me again on Sunday 14th February. I was on Hirsute with the 5.8 kernel, and had the dreaded "read-only" disk.
 
-```
+```shell
 alan@robot:~$ touch foo
 touch: cannot touch 'foo': Read-only file system
 ```
@@ -53,7 +53,7 @@ After rebooting to the 5.10 kernel I'd got from `proposed` (along with like, a *
 
 This is what happens with every snap launched:
 
-```
+```shell
 alan@robot:~$ discord
 need to run as root or suid
 ```
