@@ -33,7 +33,7 @@ Now, recall I mentioned I'm only doing this as a demo to a new team member, so t
 
 First we make a folder in which to do our prototyping.
 
-```
+```shell
 $ cd ~/Source/popey
 $ mkdir ticker
 $ cd ticker
@@ -41,7 +41,7 @@ $ cd ticker
 
 In the folder I issued the usual `snapcraft init` which creates a template `snap/snapcraft.yaml`.
 
-```
+```shell
 $ snapcraft init
 Created snap/snapcraft.yaml.
 Go to https://docs.snapcraft.io/the-snapcraft-format/8337 for more information about the snapcraft.yaml format.
@@ -49,7 +49,7 @@ Go to https://docs.snapcraft.io/the-snapcraft-format/8337 for more information a
 
 Here's what the bare-bones template looks like.
 
-```
+```yaml
 name: my-snap-name # you probably want to 'snapcraft register <name>'
 base: core18 # the base snap is the execution environment for this snap
 version: '0.1' # just for humans, typically '1.2+git' or '1.3.2'
@@ -73,7 +73,7 @@ This is all boilerplate we can replace as we go. Let's start with the metadata.
 
 I replace it with data from the upstream [git repo](https://github.com/achannarasappa/ticker), and specify we're going to use the `base` of `core20` which means it'll build in an Ubuntu 20.04 LTS container. I use `adopt-info` to specify the version should come from the `ticker` part we'll define in a moment.
 
-```
+```yaml
 name: ticker
 base: core20
 adopt-info: ticker
@@ -88,13 +88,13 @@ description: |
 
 I'm anticipating this can be strictly confined, so we set that next in the `snapcraft.yaml`.
 
-```
+```yaml
 confinement: strict
 ```
 
 We also know the i386 architecture (32-bit Intel) is no longer supported as an install arch for Ubuntu 20.04 LTS, so we're going to build `ticker` for every arch except that one. Here's how we do that. Yes, you will be able to check your portfolio on your S390 mainframe. Sweet.
 
-```
+```yaml
 architectures:
   - build-on: amd64
   - build-on: arm64
@@ -107,7 +107,7 @@ There's only one part to this snap, and that's the `ticker` project itself. Snap
 
 The `snapcraftctl` lines simply pull the source then set the version for the snap which gets consumed by `adopt-info` earlier in the yaml.
 
-```
+```yaml
 parts:
   ticker:
     plugin: go
@@ -120,7 +120,7 @@ parts:
 
 Finally we have an `apps` stanza to expose the `bin/ticker` binary to the outside world on the computer the snap is installed on. I took a guess that the `ticker` binary would land in `$SNAP/bin` and that it only needs the `network` plug.
 
-```
+```yaml
 apps:
   ticker:
     command: bin/ticker
@@ -130,13 +130,13 @@ apps:
 
 I tried building with snapcraft in a lxd container, with options to halt inside the container whether the build fails (`--debug`) or succeeds (`--shell-after`).
 
-```
+```shell
 $ snapcraft  --use-lxd --debug --shell-after
 ```
 
 After removing some of the verbose cruft, the highlights of the build include something that looks a bit like this
 
-```
+```shell
 Launching a container.
 Installing build dependencies: git=1:2.25.1-1ubuntu3 git-man=1:2.25.1-1ubuntu3 libbrotli1=1.0.7-6ubuntu0.1 libcurl3-gnutls=7.68.0-1ubuntu2.4 liberror-perl=0.17029-1 libnghttp2-14=1.40.0-
 1build1 libpsl5=0.21.0-1ubuntu1 librtmp1=2.4+20151223.gitfa8646d.1-2build1 libssh-4=0.9.3-2ubuntu2.1
@@ -166,13 +166,11 @@ Snapped ticker_2.1.0_amd64.snap
 
 I'd expected and kinda hoped the snap to fail to build so we could work through it, but "whoops", it built successfully first time. So I exited the container with a `^d` and installed the snap.
 
-```
-$ snap install ticker_2.1.0_amd64.snap --dangerous
-```
+`$ snap install ticker_2.1.0_amd64.snap --dangerous`
 
 Then ran it.
 
-```
+```shell
 $ ticker
 Error: Invalid config: No watchlist provided
 Usage:
@@ -195,7 +193,7 @@ Easy!
 
 Knowing the snap is strictly confined, without the `home` interface, I am aware it won't be able to see any files in my `$HOME` directory (and even if I did specify it, the snap can't see `$HOME/.ticker`), I put a config file in `$HOME/snap/ticker/common` where the snap *can* see. I used the sample `ticker.yaml` from the upstream repo:
 
-```
+```yaml
 $ cat snap/ticker/common/ticker.yaml 
 show-tags: true
 show-fundamentals: true
@@ -221,9 +219,7 @@ lots:
 
 Running the application, pointing to the configuration file works fine.
 
-```
-$ ticker --config ~/snap/ticker/common/ticker.yaml
-```
+`$ ticker --config ~/snap/ticker/common/ticker.yaml`
 
 Boom!
 
@@ -231,7 +227,7 @@ Boom!
 
 Ok, so I figured given the snap works, I might as well upload it to the store. I used `snapcraft register ticker` to claim the application name. I then built the snap for all the popular architectures using the `remote-build` feature:
 
-```
+```shell
 $ snapcraft remote-build
 All data sent to remote builders will be publicly available. Are you sure you want to continue? [y/N]: y
 snapcraft remote-build is experimental and is subject to change - use with caution.
@@ -246,7 +242,7 @@ Build status as of 2021-02-03 11:52:34.926743:
 
 Time passes, and I end up with a bunch of snaps
 
-```
+```shell
 $ ls -l ticker_2.1.0_*.snap
 -rw-rw-r-- 1 alan alan 5824512 Feb  3 14:25 ticker_2.1.0_amd64.snap
 -rw-rw-r-- 1 alan alan 5210112 Feb  3 14:25 ticker_2.1.0_arm64.snap
@@ -257,7 +253,7 @@ $ ls -l ticker_2.1.0_*.snap
 
 I upload these to the store, releasing them to the candidate channel for further testing. That kicks off looking like this.
 
-```
+```shell
 $ for f in ticker_2.1.0_*.snap; do snapcraft upload $f --release=candidate; done
 Preparing to upload 'ticker_2.1.0_amd64.snap'.
 After uploading, the resulting snap revision will be released to 'candidate' when it passes the Snap Store review.
@@ -270,7 +266,7 @@ The store performs the exact same checks on upload, this allows us to save time 
 
 After each snap gets uploaded, a channel map for that architecture is printed, showing the incremental snap revision number of the snap in each channel
 
-```
+```shell
 Uploading 'ticker_2.1.0_amd64.snap' [=========================================] 100%
 Processing...|                                          
 released                                                
