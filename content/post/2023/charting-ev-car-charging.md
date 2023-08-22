@@ -324,7 +324,7 @@ Having the visualisation of how much I charge at home vs away was helpful for me
 
 The main thing I found interesting was the different locations I've charged at away from home. There are a few records for "Lysons Way" which happens to be where the BMW service centre is located. My car went in for repair on a couple of occasions, so it was likely charged there while being repaired.
 
-That location alone accounts for at least nine charging attempts away from home, and that's not even something I did. Not was there any cost (to me) associated with them.
+That location alone accounts for at least nine charging attempts away from home, and that's not even something I did. Nor was there any cost (to me) associated with them.
 
 The "B4122" entries rank as my most 'popular' charging spots as measured by the number of visits, *and* how much energy was used. This is the lovely [Chippenham pit stop](https://chippenhampitstop.com/). They do a great breakfast and have a bunch of chargers - as seen in the photo at the top of this blog. I visited there multiple times while being 'dad cabs' taking my Son to visit a friend in Wales.
 
