@@ -22,7 +22,7 @@ Anyway, one interesting thing is when I share a post, a bunch of requests come f
 
 Here's what that looks like, with the IP addresses of clients redacted. Scroll right in this output to see the Mastodon instance hosts.
 
-```
+```shell
 $ grep \(Mastodon /srv/popey.com/logs/access_log.1 | tail -n 4
 x.x.x.x - - [10/Feb/2021:21:40:31 +0000] "GET /blog/2021/02/my-podcast-listening-list/ HTTP/1.1" 200 8749 "-" "http.rb/3.3.0 (Mastodon/2.9.0+glitch; +https://aleph.land/)"
 x.x.x.x - - [10/Feb/2021:21:40:32 +0000] "GET /blog/2021/02/my-podcast-listening-list/ HTTP/1.1" 200 8311 "-" "http.rb/4.4.1 (Mastodon/3.3.0; +https://mastodon.cloud/) Bot"
@@ -33,14 +33,14 @@ x.x.x.x - - [11/Feb/2021:06:09:31 +0000] "GET /blog/2021/02/my-podcast-listening
 
 There's a fair few of them.
 
-```
+```shell
 $ grep \(Mastodon /srv/popey.com/logs/access_log.1 | awk -F '"' '{ print $6}' | sort | uniq | wc -l
 108
 ```
 
 These are just the ones I noticed yesterday, where I guess someone happens to follow me from an account on one of those instances. Here's a slightly longer list, without the cruft, making it easier to see.
 
-```
+```shell
 $ grep \(Mastodon /srv/popey.com/logs/access_log.1 | awk -F '"' '{ print $6}' | sort | uniq | tail 
 http.rb/4.4.1 (Mastodon/3.3.0; +https://tiny.tilde.website/) Bot
 http.rb/4.4.1 (Mastodon/3.3.0; +https://todon.nl/) Bot
@@ -56,7 +56,7 @@ http.rb/4.4.1 (Mastodon/3.3.1+glitch; +https://im-in.space/) Bot
 
 What I found super interesting, aside from the funny names, and creative domains people chose, is the dispirate versions of Mastodon people are running. (excuse the awful awking)
 
-```
+```shell
 $ grep \(Mastodon /srv/popey.com/logs/access_log.1 | awk -F '"' '{ print $6}' | sort | uniq | awk -F '(' '{print $2}' | awk -F ';' '{print $1}' | uniq
 Mastodon/2.3.3
 Mastodon/2.6.5
