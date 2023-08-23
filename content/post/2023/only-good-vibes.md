@@ -1,7 +1,7 @@
 +++
-date = "2023-08-23T20:00:00-00:00"
-title = "On podcast formats"
-slug = "2023/08/on-podcast-formats"
+date = "2023-08-23T19:00:00-00:00"
+title = "Only good vibes"
+slug = "2023/08/only-good-vibes"
 author = "Alan Pope"
 tags = ['linux', 'podcast', 'linux-matters']
 +++
