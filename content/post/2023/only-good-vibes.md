@@ -22,7 +22,7 @@ In January 2023, I got the podcasting itch again. As I no longer work at Canonic
 
 Here's the brain dump I sent to friends to sound them out on the subject.
 
-***'Podcast Idea. "Positively Linux". Only good news stories, and discussion topics. Goal is to "talk up" desktop and backend Linux usage. Success stories, no bitching and moaning, only good vibes. A bit like Ubuntu Podcast tried to be mostly, without the snark. I think a lot of people are kinda sick of the snark, negativity and moaning. Negative things (like some company getting hacked) can be spun as positive as you talk about the alternatives. Usual 30 mins max duration, similar format to Ubuntu Podcast did on the A episode - a few news items, and then a discussion or conversation about something that's happened this week/month. What do you think?'***
+>'Podcast Idea. "Positively Linux". Only good news stories, and discussion topics. Goal is to "talk up" desktop and backend Linux usage. Success stories, no bitching and moaning, **only good vibes**. A bit like Ubuntu Podcast tried to be mostly, without the snark. I think a lot of people are kinda sick of the snark, negativity and moaning. Negative things (like some company getting hacked) can be spun as positive as you talk about the alternatives. Usual 30 mins max duration, similar format to Ubuntu Podcast did on the A episode - a few news items, and then a discussion or conversation about something that's happened this week/month. What do you think?'
 
 I got some interesting feedback, mostly around the fact that a "good news only" show won't work. It'll be boring and anodyne. Who wants to listen to people talk up everything? The viewership of news, current affairs and "true crime" shows suggests that maybe the answer is "nobody". 
 
@@ -99,7 +99,7 @@ Overall the production process has been super smooth for us and has led to less 
 
 ___Once Martin put all the up-front work in, of course___
 
-## Banked content
+## Banked vibes
 
 It's been four months since then, and we've recorded eleven episodes, published ten, and have plans for plenty more. 
 
@@ -111,6 +111,10 @@ Another thing I like about this format is everyone gets a chance to speak. I've 
 
 In our show, we each get a decent slot in the show. Sometimes one of us has an in-depth topic, whereas another week they may only have a short slot. It all works out in the end, I think.
 
+## Subject to change
+
 The format isn't set in stone though. In [episode 9](https://linuxmatters.sh/9/) for example, we had one large topic - "backups" - but we each had a chunk of time to talk about our part. 
 
 In the future we may make some other changes, but for now, we quite like this way of recording and publishing a show. It works for us. 
+
+Only good vibes.
