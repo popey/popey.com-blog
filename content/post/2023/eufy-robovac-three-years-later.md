@@ -1,5 +1,5 @@
 +++
-date = "2023-08-24T13:00:00-00:00"
+date = "2023-08-24T12:00:00-00:00"
 title = "Eufy RoboVac: Three years later"
 slug = "2023/08/eufy-robovac-three-years-later"
 author = "Alan Pope"
