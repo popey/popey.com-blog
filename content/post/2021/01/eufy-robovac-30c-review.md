@@ -6,13 +6,13 @@ author = "Alan Pope"
 tags = ['hardware', 'review', 'eufy', 'robovac']
 +++
 
-3 months ago I bought a [Eufy RoboVac 30C](https://geni.us/OE72xMe) (affiliate link) vaccum cleaner. Now feels like a good time to write a review. Before `The Event` we had a cleaner at home who came once a week. We no longer have a cleaner and I'm now the only adult in the house, so figured I could do with some help cleaning up. In short, yes, I'd recommend it, if you have similar requirements to me. No, it's not perfect, and is no replacement for a full vaccum cleaner, but it helps, a lot.
+3 months ago I bought a [Eufy RoboVac 30C](https://geni.us/OE72xMe) (affiliate link) vacuum cleaner. Now feels like a good time to write a review. Before `The Event` we had a cleaner at home who came once a week. We no longer have a cleaner and I'm now the only adult in the house, so figured I could do with some help cleaning up. In short, yes, I'd recommend it, if you have similar requirements to me. No, it's not perfect, and is no replacement for a full vacuum cleaner, but it helps, a lot.
 
 [![Marketing shot](/blog/images/2021-01-02/marketing.jpg)](https://geni.us/OE72xMe)
 
 ## Why the Eufy
 
-This simply came down to a combination of price point, word of mouth reviews from friends and online reviews. There's a ton of choice in the robot vaccum cleaner market. My good friend Will Cooke has one, and kindly sent me videos of his Eufy bouncing around his kids bedrooms. 
+This simply came down to a combination of price point, word of mouth reviews from friends and online reviews. There's a ton of choice in the robot vacuum cleaner market. My good friend Will Cooke has one, and kindly sent me videos of his Eufy bouncing around his kids bedrooms. 
 
 At the high end there are devices that map out and 'know' your house layout, meticulously covering every square inch. I didn't want to spend a fortune and felt a little icky about a 3rd party service mapping the inside of my house and sending it to `The Cloud`. 
 
@@ -132,11 +132,11 @@ But also, "yay" all that crap isn't on my floor anymore.
 
 ## Downsides
 
-Harvey is a bit noisy in operation. Not so loud that you can't have a conversation with him in the room, but it's noticable. This is why I stopped having him clean at 3am. My bedroom is on the ground floor, so having him come in soon after 3am would wake me up. That didn't last. It's also helpful to have him clean during the day, so if he gets stuck, some can free him quickly. 
+Harvey is a bit noisy in operation. Not so loud that you can't have a conversation with him in the room, but it's noticeable. This is why I stopped having him clean at 3am. My bedroom is on the ground floor, so having him come in soon after 3am would wake me up. That didn't last. Having him clean during the day is also helpful, so if he gets stuck, someone can free him quickly. 
 
 The charging station is a little lightweight, so Harvey can easily bat it to one side while he's starting or heading home, making it harder for him to actually get back home for a re-charge. I have considered screwing the base station to the wall, but not done that yet as I had to move the base for the Christmas tree this year. Perhaps once the decorations go away I'll do that. I tried using strong tape to attach the base to the skirting board, but that didn't last long.
 
-Obviously as Harvey is a floor-dweller, he's never going to clean high up surfaces, mirrors, walls or other floors. So it's still reasonable to expect you to clean those separately. However, if you do that a while before Harvey starts, he can pick up the dust which ends up on the floor. So he is helping.
+Obviously, as Harvey is a floor-dweller, he's never going to clean high-up surfaces, mirrors, walls or other floors. So it's still reasonable to expect you to clean those separately. However, if you do that a while before Harvey starts, he can pick up the dust that ends up on the floor. So he is helping.
 
 You do need to clean him now and then. Hair gets wound around the brushes, as you can see from the photos above. The maintenance is pretty easy and doesn't need doing too often, given he's running every day for 1.5 hours.
 
