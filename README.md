@@ -6,6 +6,9 @@ This repo contains the source for my hugo-based blog which you'll find at [https
 
 | Date | Article |
 | ---: | :-- |
+| Thu 2023/08/24 | [Eufy RoboVac: Three years later](https://popey.com/blog/2023/08/eufy-robovac-three-years-later/)
+| Wed 2023/08/23 | [Only good vibes](https://popey.com/blog/2023/08/only-good-vibes/)
+| Tue 2023/08/22 | [Charting EV Car Charging](https://popey.com/blog/2023/08/charting-ev-car-charging/)
 | Sun 2023/08/13 | [Why I Use Ubuntu](https://popey.com/blog/2023/08/why-i-use-ubuntu/)|
 | Fri 2023/06/30 | [Monitorama PDX 2023 Retrospective](https://popey.com/blog/2023/06/monitorama-pdx-2023-retrospective/) |
 | Mon 2023/05/29 | [Simple RSS Mastodon Bot](https://popey.com/blog/2023/05/simple-rss-mastodon-bot/) |
