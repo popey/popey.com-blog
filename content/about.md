@@ -33,6 +33,7 @@ Some current, past and maybe future projects of mine:
 Projects I actively work on.
 
   * https://popey.com/ (duh)
+  * https://linuxmatters.sh/ - A podcast I do with my friends.
   * https://ubuntu.social/ - A mastodon instance I spun up from the pub, tore down, and then rebuilt on decent hardware from [Linode](https://www.linode.com/?r=49a71a9eddc09fbca846964312f36841f25e52a8)
   * https://makealinux.app/ - Stop making Linux distributions, make applications instead
   * https://popeyspad.es/ - OpenSpades server info
