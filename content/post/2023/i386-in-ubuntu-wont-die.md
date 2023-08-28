@@ -38,7 +38,7 @@ In 2019, at an internal company product sprint, a proposal was made to remove i3
 
 There was some [internal](https://discourse.ubuntu.com/t/results-of-testing-3rd-party-applications-on-64-bit-only-eoan-19-10/11353) and much [external](https://twitter.com/Plagman2/status/1142262103106973698) pushback, so a new path forward was charted and [announced](https://canonical.com/blog/statement-on-32-bit-i386-packages-for-ubuntu-19-10-and-20-04-lts). The reason for pushback is that removing i386 packages from the archive would impact the ability to easily install and run 32-bit software on a 64-bit x86 install. 
 
-Steam - the game store/launcher from Valve requires a bunch of 32-bit libraries to function. Many of the games that Steam installs also require many of these various libraries. These older games are likely never going to get updated to have 64-bit clean builds. 
+Steam - the game store/launcher from Valve requires a bunch of 32-bit libraries to function. Many of the games that Steam installs also require some of these various libraries. These older games are likely never going to get updated to have 64-bit clean builds. 
 
 Game developers often move on from completed projects and do not typically re-visit an old codebase to add support for new architectures. The exception to this is when they add support for new devices (e.g. Nintendo Switch), which have a potential monetary reward via increased sales. In addition, Valve considers every game as sacred, and once purchased, should (in theory) always be runnable by the customer. It's an admirable goal. Ubuntu without i386 would break that.
 
