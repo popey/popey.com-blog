@@ -18,7 +18,9 @@ I'm lazy, and trust Martin's evaluation of the options. So, I also bought a Thin
 
 ## OOTB
 
-I ordered directly from Lenovo and selected to have Ubuntu pre-installed. Gotta show support to these Linux laptop vendors, y'know. It arrived with Ubuntu 20.04 LTS installed. I upgraded from 22.04 LTS through 22.04 LTS, then onwards to 22.10 and finally 23.04. I've been running Ubuntu 23.04 for some months now. 
+I ordered directly from Lenovo and selected to have Ubuntu pre-installed. Gotta show support to these Linux laptop vendors, y'know. It arrived with Ubuntu 20.04 LTS installed. I upgraded from 20.04 LTS through 22.04 LTS, then onwards to 22.10 and finally 23.04. I've been running Ubuntu 23.04 for some months now. 
+
+The recovery partition still exists, and appears in my boot menu, teasing me to recover back to 20.04 at some point. 
 
 ## Whoopsie
 
