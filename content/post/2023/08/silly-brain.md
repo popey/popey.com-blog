@@ -8,7 +8,7 @@ tags = ['printing', 'meatbag', 'distraction', 'shiny', 'wsl']
 
 A re-enactment of an event yesterday evening.
 
-I was just leaving an online game =when I noticed a conversation among the [Late Night Linux](https://latenightlinux.com/) Telegram group about printing. One person quipped that people don't print much anymore. Someone else suggested that they print more these days than they used to.
+I was just leaving an online game when I noticed a conversation among the [Late Night Linux](https://latenightlinux.com/) Telegram group about printing. One person quipped that people don't print much anymore. Someone else suggested that they print more these days than they used to.
 
 My brain saw this and thought **"Huh, I wonder how many pages my printer has completed in its lifetime. I imagine that's easy to find out."**
 
