@@ -1,5 +1,5 @@
 +++
-date = "2023-08-30T10:00:00-00:00"
+date = "2023-08-30T06:00-00:00"
 title = "Silly brain"
 slug = "2023/08/silly-brain"
 author = "Alan Pope"
