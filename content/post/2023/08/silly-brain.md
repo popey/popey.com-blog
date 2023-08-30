@@ -104,7 +104,7 @@ This is neat! Windows exposes the Linux filesystem in the Explorer, under this l
 
 ## Step 13: Create the blog post
 
-I could be deliciously "meta" here and add recurive steps one through twelve of writing a blog post, but I think that's needlessly painful.
+I could be deliciously "meta" here and add recursive steps one through twelve of writing a blog post, but I think that's needlessly painful.
 
 I just used Sublime Text and Hugo as I usually do.
 
