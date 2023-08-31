@@ -34,7 +34,11 @@ There are of course exceptions. People like [Terence](https://shkspr.mobi/blog/)
 
 My silly blog of nonsense isn't in the same class as the luminaries and contemporaries I've linked to, clearly. Every so often I'll put out a post, or have a streak of posts. But then I lapse back into months tumbleweed rolling by. 
 
-I'm trying to get better though, and share my stories widely. Indeed [one](blog/2023/08/i386-in-ubuntu-wont-die/) recently hit the front page of [hackernews](https://news.ycombinator.com/item?id=37280878), which is always 'fun'. It's fascinating to see the perspectives of the HN denizens. 
+***Serendipitously, [this](https://dev.to/azasypkin/why-i-started-writing-regularly-2f7f) post just popped up from another blogger encouraging people to blog, and why.***
+
+Personally I'm trying to get better at blogging, and sharing my stories widely. 
+
+Indeed [one](blog/2023/08/i386-in-ubuntu-wont-die/) recently hit the front page of [hackernews](https://news.ycombinator.com/item?id=37280878) and spent all day there, which is always 'fun'. It's fascinating to see the perspectives of the HN denizens. 
 
 [![HN](/blog/images/2023-09-01/hn.jpg)](/blog/images/2023-09-01/hn.jpg)
 
