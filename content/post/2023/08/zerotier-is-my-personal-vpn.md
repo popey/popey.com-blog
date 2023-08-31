@@ -3,7 +3,7 @@ date = "2023-08-31T07:00:00-00:00"
 title = "ZeroTier is my personal VPN"
 slug = "2023/08/zerotier-is-my-personal-vpn"
 author = "Alan Pope"
-tags = ['vpn', 'steamdeck', 'linux', 'windows', 'macos', 'iphone']
+tags = ['vpn', 'steamdeck', 'linux', 'windows', 'macos', 'iphone', 'ubuntu']
 draft = 'false'
 +++
 
