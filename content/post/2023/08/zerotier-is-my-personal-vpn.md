@@ -36,6 +36,9 @@ My current in-use hardware list is as follows:
 | HP Microserver | Backups and stuff| Ubuntu 22.04 |
 | Bitfolk VPS | Website| Ubuntu 18.04 (ahem)|
 | Gabe Gear | Games | SteamOS |
+| iPhone | Everything| iOS |
+
+**Edit**: Added my iPhone because I've added ZeroTier onto it, so I can access stuff at home from my phone too. Forgot about that when I first made the list. It shows up on iOS as a VPN.
 
 ## Computing locations
 
