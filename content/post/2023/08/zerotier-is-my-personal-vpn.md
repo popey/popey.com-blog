@@ -73,7 +73,7 @@ Not only can I look at the planes, it also lets me check that the Pi is function
 
 ## Overcoming office obstructions
 
-I've previously written about how I'm now [renting office space](/blog/2023/08/its-not-working-from-home), to improve the mental headspace of work/home separation. So this use case is very similar to one Martin talked about in the [show](https://linuxmatters.sh/8/). Unsusprisingly perhaps, given we're renting space in the same office.
+I've previously written about how I'm now [renting office space](/blog/2023/08/its-not-working-from-home), to improve the mental headspace of work/home separation. So this use case is very similar to one Martin talked about in the [show](https://linuxmatters.sh/8/). Unsurprisingly perhaps, given we're renting space in the same office.
 
 The network in the office is configured such that devices cannot connect directly to eachother. So if I take my Steam Deck into the office, I can't ssh into it from my laptop. Why might I want to do this? Reasons. We'll talk about that on an upcoming [episode](https://linuxmatters.sh) (you should subscribe).
 
