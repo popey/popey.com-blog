@@ -6,7 +6,7 @@ author = "Alan Pope"
 tags = ['hugo', 'blog', 'rss']
 +++
 
-tl;dr I've enabled full content text rather than summaries in the RSS feed for this blog. 
+tl;dr I've enabled full content text rather than summaries in the RSS feed for this blog. The irony that I am then summarising the entire post in one line here at the top, is not lost on me.
 
 ## History
 
