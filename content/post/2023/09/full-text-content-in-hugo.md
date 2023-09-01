@@ -1,5 +1,5 @@
 +++
-date = "2023-09-01T07:00:00-00:00"
+date = "2023-09-01T06:00:00-00:00"
 title = "Full text content in Hugo"
 slug = "2023/09/full-text-content-in-hugo"
 author = "Alan Pope"
