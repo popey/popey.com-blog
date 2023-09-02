@@ -21,7 +21,7 @@ Student: "I bet you go to B&Q. You know your life is over when you're in B&Q on 
 ```
 Cue laughter from everyone. 
 
-___For those who aren't aware [B&Q](https://www.diy.com/) is a big phsical (and online) DIY store in the UK.___
+___For those who aren't aware [B&Q](https://www.diy.com/) is a big physical (and online) DIY store in the UK.___
 
 While obviously humorous, at the time I was a little irritated by this.
 
