@@ -57,7 +57,7 @@ I installed this after [Mark](https://linuxmatters.sh/host/mjohnson/) talked abo
 
 #### Grand Theft Focus
 
-The "Window is ready" notification in GNOME is a crime against humanity. Whoever designed and added the feature should be made to walk over LEGO while barefoot and think very hard about what they've done. The [Grand Theft Focus](https://extensions.gnome.org/extension/5410/grand-theft-focus/) undoes this idiocy.
+The "Window is ready" notification in GNOME is a crime against humanity. Whoever designed and added the feature should be made to walk over LEGO while barefoot and think very hard about what they've done. The [Grand Theft Focus](https://extensions.gnome.org/extension/5410/grand-theft-focus/) extension undoes this idiocy.
 
 ## Conclusion
 
