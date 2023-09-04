@@ -1,6 +1,6 @@
 +++
 date = "2023-09-04T07:00:00-00:00"
-title = "Using bimmer connected with my mini"
+title = "Using bimmer connected with my Mini"
 slug = "2023/09/using-bimmer-connected-with-my-mini"
 author = "Alan Pope"
 tags = ['mini', 'ev', 'car', 'charging', 'axiom']
