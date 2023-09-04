@@ -1,5 +1,5 @@
 +++
-date = "2023-09-04T15:00:00-00:00"
+date = "2023-09-04T07:00:00-00:00"
 title = "Using bimmer connected with my mini"
 slug = "2023/09/using-bimmer-connected-with-my-mini"
 author = "Alan Pope"
