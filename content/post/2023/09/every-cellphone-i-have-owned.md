@@ -203,7 +203,7 @@ I picked up a Nexus 4 to do some hacking on Ubuntu Touch. They were cheap and ea
 
 ### BQ Aquaris e4.5
 
-![BQ Aquaris E4.5](/blog/images/2023-09-05/lg-nexus-4-new.jpg)
+![BQ Aquaris E4.5](/blog/images/2023-09-05/BQ_Aquaris_E45.jpg)
 
 This was the first officially supported Ubuntu Touch device. BQ had previously been devices shipping these with Android, but they made a few thousand with Ubuntu pre-installed. They also had the soft navigation buttons hidden on the Ubuntu version. We had a launch party in London where we invited a bunch of YouTubers and bloggers to get a device and unbox and review it on their channels. Fun times.
 
