@@ -8,7 +8,7 @@ tags = ['thinkpad', 'z13', 'ssd', 'hardware']
 
 One thing I've loved about ThinkPad laptops for many years, is the upgradability and repairability. Ever since the early days, it's been possible to noodle around inside a ThinkPad. 
 
-Sadly, some of the modern X1/Ultrabook line, and some others, are less uprgadable than previous generations. My year-old ThinkPad Z13 has a few options for noodling around inside though, including storage.
+Sadly, some of the modern X1/Ultrabook line, and some others, are less upgradable than previous generations. My year-old ThinkPad Z13 has a few options for noodling around inside though, including storage.
 
 My Z13 shipped with [Ubuntu](https://ubuntu.com/) out of the box. I wanted to try something different, but didn't want to wipe the OS off the SSD. So I replaced the existing SSD with one of these [256GB Sabrent Rocket NVMe SSD](https://geni.us/aGToVMA) devices for ~£45.
 
