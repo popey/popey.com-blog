@@ -22,7 +22,7 @@ I think one blocker on this for my brain is that I never went to University, so 
 
 Anyway, that aside, I do use some developer tools often, as part of my job. The main one being a text editor or IDE.
 
-Back when in the 1990's when I used Windows as my primary OS, I really enjoyed an editor called [TextPad](https://www.textpad.com/home). It's 'nagware' which works fine, but bugs you every so often to pay for a key. Eventually I relented, given it had been my primary editor for some years, I figured I should pony up and buy a license. 
+Back in the 1990's when I used Windows as my primary OS, I really enjoyed an editor called [TextPad](https://www.textpad.com/home). It's 'nagware' which works fine, but bugs you every so often to pay for a key. Eventually I relented, given it had been my primary editor for some years, I figured I should pony up and buy a license. 
 
 TextPad is a *great* editor! It's fast, featureful and reliable. I even ran it on Linux under WINE when I first switched desktop OS. 
 
