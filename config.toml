@@ -5,6 +5,7 @@ languageCode = "en-gb"
 theme = "beautifulhugo"
 #disqusShortname="popey"
 enableGitInfo = true
+paginate = 20
 
 [Params]
     mainSections = ["post"]
