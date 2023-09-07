@@ -26,7 +26,7 @@ Back when in the 1990's when I used Windows as my primary OS, I really enjoyed a
 
 TextPad is a *great* editor! It's fast, featureful and reliable. I even ran it on Linux under WINE when I first switched desktop OS. 
 
-Later, I would use Gedit, Konsole and all manner of other text editors on Linux.
+Later, I would use Gedit, Kate, Vim, Nano and all manner of other text editors on Linux.
 
 At some point I discovered [Sublime Text](https://www.sublimetext.com/), probably around the time I started building a [snap](https://snapcraft.io/sublime-text) of it. Like TextPad, it's featureful, reliable and very fast. I loved it. Also like TextPad, it's 'nagware' which asks kindly for you to pay for a license. I did pay up back in 2020.
 
