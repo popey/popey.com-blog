@@ -80,7 +80,7 @@ You can find a video interview with Chris over on the Computing History channel 
 
 ## How again?
 
-k, back to 1990 with some more background information. 
+Ok, back to 1990 with some more background information. 
 
 ### Sideways RAM
 
