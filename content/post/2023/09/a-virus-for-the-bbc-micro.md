@@ -90,7 +90,7 @@ The memory could be used for more storage space for your own programs in RAM, or
 
 ### Reboot & reset
 
-The BBC had a built-in power supply, and a massive switch on the back. To power on (or off) the device, you'd reach around to the back of the device, and flip the switch. Here's a video I made in 2017 after fixing the power supply on my BBC Micro. I am clearly quite excited that the new capacitors worked.
+The BBC had a built-in power supply, and a massive switch on the back. To power on (or off) the device, you'd reach around to the back of the unit, and flip the switch. Here's a video I made in 2017 after fixing the power supply on my BBC Micro. I am clearly quite excited that the new capacitors worked.
 
 [![BBC Booting](/blog/images/2023-09-10/bbcboot.jpg)](/blog/videos/2023-09-10/bbcboot.mp4)
 
