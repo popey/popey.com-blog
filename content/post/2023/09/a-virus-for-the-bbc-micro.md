@@ -1,5 +1,5 @@
 +++
-date = "2023-09-10T10:00:00-00:00"
+date = "2023-09-10T10:30:00+01:00"
 title = "A virus for the BBC Micro"
 slug = "2023/09/a-virus-for-the-bbc-micro"
 author = "Alan Pope"
@@ -142,8 +142,6 @@ My plan for the "proof of concept" was as follows:
 That's it. It doesn't delete files (other than monkeying with whatever was in `!BOOT`), and doesn't mess with the system. Here's roughly what it looked like after 32 resets.
 
 [![Virus](/blog/images/2023-09-10/virus.png)](/blog/images/2023-09-10/virus.png)
-
-
 
 I wrote the code on paper and hand-assembled it to poke into the sideways RAM bank directly. A short BBC BASIC program would read the assembled code from `DATA` statements. 
 
