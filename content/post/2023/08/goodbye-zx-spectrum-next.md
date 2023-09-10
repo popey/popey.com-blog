@@ -45,6 +45,6 @@ I get a similarly warm fuzzy feeling every time I play with the Spectrum Next. H
 
 So, just like those boards, it's time for the Spectrum Next to go. There is no point keeping hold of something that I'm just not using. I've put it up on [ebay](https://www.ebay.co.uk/itm/285468119214).
 
-[![ebay listing](/blog/images/2023-08-26/ebay.png)](https://www.ebay.co.uk/itm/285447631594)
+[![ebay listing](/blog/images/2023-08-26/ebay.png)](https://www.ebay.co.uk/itm/285468119214)
 
 Time for someone else to enjoy it. 
