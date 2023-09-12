@@ -10,7 +10,7 @@ tags = ['steam', 'gaming']
 
 [![Steam](/blog/images/2023-09-12/steam.png)](/blog/images/2023-09-12/steam.png)
 
-I didn't really paid any attention to Steam initially. I wasn't really into PC gaming in 2003.
+I didn't really pay any attention to Steam initially. I wasn't really into PC gaming in 2003.
 
 At least partly because, coincidentally, my daughter also turns twenty today. She was born just hours ahead of Steam. 
 
