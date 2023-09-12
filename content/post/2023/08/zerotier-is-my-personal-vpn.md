@@ -23,7 +23,7 @@ I do not count this bad boy, as a 'main' computer, for example:
 
 But I *am* including this ~~Steam Deck~~ *Gabe Gear*
 
-[![Compaq](/blog/images/2023-08-31/steamdeck.jpeg)](/blog/images/2023-08-31/steamdeck.jpeg)
+[![Gabe Gear](/blog/images/2023-08-31/steamdeck.jpeg)](/blog/images/2023-08-31/steamdeck.jpeg)
 
 My current in-use hardware list is as follows:
 
