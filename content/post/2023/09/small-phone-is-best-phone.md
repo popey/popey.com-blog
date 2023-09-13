@@ -12,7 +12,7 @@ I've owned [plenty](/blog/2023/09/every-cellphone-i-have-owned) of mobile phones
 
 ___Picture taken with the potato camera on my old OnePlus 5.___
 
-As I mentioned in a [previous](/blog/2023/09/every-cellphone-i-have-owned) post, my favourite phones include the flyweight Nokia 6600 (2.1"), bantamweight (2.4") and featherweight iPhone 4s (3.5"). All were very compact devices, some with tiny displays. 
+As I mentioned in a [previous](/blog/2023/09/every-cellphone-i-have-owned) post, my favourite phones include the flyweight Nokia 6600 (2.1"), bantamweight N82 (2.4") and featherweight iPhone 4s (3.5"). All were very compact devices, some with tiny displays. 
 
 By comparison, the iPhone 13 Mini has a *commodious* 5.4" screen! It's enormous! It's positively *cumbersome*, right!?
 
