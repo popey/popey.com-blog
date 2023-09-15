@@ -6,7 +6,7 @@ author = "Alan Pope"
 tags = ['tfts']
 +++
 
-Second in my series of [Tales From Tech Support](blog/tags/tfts/). Some stories from the past featuring broken computers and even more broken tech support operatives - mostly me.
+Second in my series of [Tales From Tech Support](https://popey.com/blog/tags/tfts/). Some stories from the past featuring broken computers and even more broken tech support operatives - mostly me.
 
 In the early 1990s I worked as a Technician at a local college. I would set-up and tear down experiments for students. I'd also have to look for 'booby-traps' they'd set for us. But that's another story.
 
