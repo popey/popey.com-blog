@@ -20,7 +20,7 @@ Most people seems to think I should wait for a month. That result may change ove
 
 So let's upgrade now!
 
-*Also, nobody seemed to spot that I got the releases round the wrong way. 23.04 is Lunar, and 23.10 is Mantic. I edited the post, but kept the above screenshot in)*
+*Also, nobody seemed to spot that I got the releases round the wrong way. 23.04 is Lunar, and 23.10 is Mantic. I edited the post, but kept the above screenshot in*
 
 ## Upgrades work
 
