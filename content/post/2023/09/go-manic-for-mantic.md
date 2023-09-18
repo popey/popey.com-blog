@@ -28,7 +28,7 @@ So I'm upgrading one of the machines now. I will only upgrade my personal deskto
 
 I've long had the opinion that Ubuntu upgrades are generally reliable. On the whole, for most people, most of the time, the upgrade tool from one release to the next, will result in a working system.
 
-Sometimes it doesn't! Let's see what happens when I upgrade the desktop from Ubuntu 23.04 (Mantic) to Ubuntu Lunar Lobster, which will become 23.10 next month.
+Sometimes it doesn't! Let's see what happens when I upgrade the desktop from Ubuntu 23.04 (Lunar) to Ubuntu Mantic Minotaur, which will become 23.10 next month.
 
 **What could possibly go wrong!?**
 
