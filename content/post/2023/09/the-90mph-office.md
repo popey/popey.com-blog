@@ -78,6 +78,10 @@ Where I live, we have two stations. [Farnborough (Main)](https://en.wikipedia.or
 
 If you know where you want to go on the train network, there's plenty of websites and apps to plan the journey. However, if you're planning a journey based on how long it takes to get somewhere, it's a bit more complex. With some basic UK geography knowledge (or an online map) and some trial-and-error, it's possible to find destinations to fit the criteria. 
 
+**Edit**: The [Chronotrains](https://www.chronotrains.com/en/station/7000838-Farnborough-(Main)/4) project, pointed out by [grifferz](https://social.bitfolk.com/@grifferz/111091990311771781) on Mastodon appears to be helpful here!
+
+[![Chronotrains](/blog/images/2023-09-19/chronotrains.png)](https://www.chronotrains.com/en/station/7000838-Farnborough-(Main)/4)
+
 #### Brighton
 
 My initial idea was to [head](https://traintimes.org.uk/Farnborough/Brighton/09:00/2023-10-06) to [Brighton](https://traintimes.org.uk/Farnborough/brighton/09:00/2023-10-06) as I already know this route. I would board the train at [Farnborough North](https://en.wikipedia.org/wiki/Farnborough_North_railway_station) heading towards [Guildford](https://en.wikipedia.org/wiki/Guildford_railway_station), change at [Redhill](https://en.wikipedia.org/wiki/Redhill_railway_station), then head South towards [Brighton](https://en.wikipedia.org/wiki/Brighton) via [Gatwick Airport](https://en.wikipedia.org/wiki/Gatwick_Airport_railway_station).
