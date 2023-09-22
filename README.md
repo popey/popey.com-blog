@@ -2,6 +2,8 @@
 
 This repo contains the source for my hugo-based blog which you'll find at [https://popey.com/blog](https://popey.com/blog).
 
+![Alt](https://repobeats.axiom.co/api/embed/0c1cf4ddb0fbe2842be00214ea6f1ce5f1e2e388.svg "Repobeats analytics image")
+
 ## Published articles:
 
 | Date | Article |
