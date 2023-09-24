@@ -1,6 +1,6 @@
 ## popey.com blog source
 
-This repo contains the source for my hugo-based blog which you'll find at [https://popey.com/blog](https://popey.com/blog).
+This repo contains the source for my Hugo-based blog, which you'll find at [https://popey.com/blog](https://popey.com/blog).
 
 ![Alt](https://repobeats.axiom.co/api/embed/0c1cf4ddb0fbe2842be00214ea6f1ce5f1e2e388.svg "Repobeats analytics image")
 
@@ -8,6 +8,7 @@ This repo contains the source for my hugo-based blog which you'll find at [https
 
 | Date | Article |
 | :--- | :-- |
+|[Touching joysticks](https://popey.com/blog/2023/09/touching-joysticks/)|Sat, 23 Sep 2023 22:00:00 +0100|
 |[You did something!](https://popey.com/blog/2023/09/you-did-something/)|Fri, 22 Sep 2023 16:00:00 +0100|
 |[Thanks, Mastodon contributors](https://popey.com/blog/2023/09/thanks-mastodon-contributors/)|Thu, 21 Sep 2023 17:00:00 +0100|
 |[Monitor bandwidth usage with bandwhich](https://popey.com/blog/2023/09/monitor-bandwidth-usage-with-bandwhich/)|Wed, 20 Sep 2023 09:00:00 +0000|
