@@ -166,7 +166,6 @@ This repo contains the source for my Hugo-based blog, which you'll find at [http
 |[Dell XPS 13 9360 Review](https://popey.com/blog/2017/04/dell-xps-13-9360-review/)|Thu, 13 Apr 2017 12:46:10 -0700|
 |[Snapcraft Docs Day](https://popey.com/blog/2017/03/snapcraft-docs-day/)|Tue, 28 Mar 2017 10:02:31 -0700|
 |[Troubleshooting as a Choose Your Own Adventure](https://popey.com/blog/2015/10/troubleshooting-as-a-choose-your-own-adventure/)|Sun, 11 Oct 2015 11:00:00 +0000|
-|[My awesome project](https://popey.com/blog/project/my-awesome-project/)|Tue, 18 Nov 2014 02:13:50 +0000|
 |[Migrating to a New Desktop PC](https://popey.com/blog/2012/01/migrating-to-a-new-desktop-pc/)|Mon, 02 Jan 2012 18:47:31 -0700|
 |[Python 2d Physics Libraries](https://popey.com/blog/2012/01/python-2d-physics-libraries/)|Sun, 01 Jan 2012 11:51:31 -0700|
 |[HP ProLiant MicroServer Fun with Ubuntu](https://popey.com/blog/2010/12/hp-proliant-microserver-fun-with-ubuntu/)|Thu, 30 Dec 2010 10:02:31 -0700|
