@@ -1,5 +1,5 @@
 +++
-date = "2023-09-25T19:00:00+01:00"
+date = "2023-09-25T18:00:00+01:00"
 title = "AMD GPU blob crashing"
 slug = "2023/09/amdgpu-blob-crashing"
 author = "Alan Pope"
