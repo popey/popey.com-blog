@@ -60,7 +60,7 @@ So far so good!
 
 ## Insert world
 
-I then exited out of the game, and copied the unpacked `hactar-snapshot-2011-09-14-22-57-30.tgz` tarball to `~/.minecraft/saves/Hactar`, so Minecraft could it. Launching Minecraft 1.20.2 wouldn't open the world, as it was in an old format that needed conversion.
+I then exited out of the game, and copied the unpacked `hactar-snapshot-2011-09-14-22-57-30.tgz` tarball to `~/.minecraft/saves/Hactar`, so Minecraft could see it. Launching Minecraft 1.20.2 wouldn't open the world, as it was in an old format that needed conversion.
 
 [![Conversion required part one](/blog/images/2023-09-24/conversionrequired1.png)](/blog/images/2023-09-24/conversionrequired1.png)
 
