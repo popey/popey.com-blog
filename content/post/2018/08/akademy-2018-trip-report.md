@@ -10,8 +10,10 @@ I recently had the opportunity to attend [Akademy](https://akademy.kde.org/) - t
 
 I'd never attended Akademy before, as I am not a KDE developer, and only recently starting running Plasma on my ThinkPad T450. My employer - Canonical - is a sponsor of the KDE project, and a silver level sponsor of Akademy.  A recent reorganisation inside Canonical meant I was able to take someone else's place at the last minute. So I booked travel and accomodation to attend from  Saturday to Tuesday. 
 
+{{< rawhtml >}}
 <center><blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Who&#39;s who at <a href="https://twitter.com/hashtag/Akademy2018?src=hash&amp;ref_src=twsrc%5Etfw">#Akademy2018</a>.<a href="https://t.co/54zSoKq8Nx">https://t.co/54zSoKq8Nx</a> <a href="https://t.co/U6kqrN9VP2">pic.twitter.com/U6kqrN9VP2</a></p>&mdash; Akademy (@akademy) <a href="https://twitter.com/akademy/status/1029382766184615936?ref_src=twsrc%5Etfw">August 14, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
+{{< /rawhtml >}}
 
 I understand many of the talks / sessions were recorded, and may appear on the [KDE Community YouTube Channel](https://www.youtube.com/channel/UCF3I1gf7GcbmAb0mR6vxkZQ/) at some point. 
 
@@ -19,20 +21,26 @@ I understand many of the talks / sessions were recorded, and may appear on the [
 
 Akademy kicks off with a pre-event meet-and-greet with drinks and buffet food on the Friday night. This was a great opportunity to put names to faces, get a better understanding of the week's structure from regular attendees and have some delicious nibbles and [Club Mate](https://twitter.com/popey/status/1028005720346832896).  The event has a dedicated [micro-site](https://akademy.kde.org/2018) which covers all the details including schedules, venue details, social events and travel recommendations. Bookmark [that site](https://akademy.kde.org/2018), and you're set for the week.
 
+{{< rawhtml >}}
 <center><blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">You know you&#39;re at a geek event when .. <a href="https://t.co/LGnbbOg0nH">pic.twitter.com/LGnbbOg0nH</a></p>&mdash; Alan Pope 🇪🇺🇬🇧 (@popey) <a href="https://twitter.com/popey/status/1028005720346832896?ref_src=twsrc%5Etfw">August 10, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
+{{< /rawhtml >}}
 
 ## Day 1 & 2
 
 [Saturday](https://conf.kde.org/en/Akademy2018/public/schedule/1) and [Sunday](https://conf.kde.org/en/Akademy2018/public/schedule/2) are mostly talks / discussions / reports. These are some notes I took from the ones I attended. Here begins the brain dump.
 
+{{< rawhtml >}}
 <center><blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The <a href="https://twitter.com/kdecommunity?ref_src=twsrc%5Etfw">@kdecommunity</a> <a href="https://twitter.com/akademy?ref_src=twsrc%5Etfw">@akademy</a> delegates get a choice of lanyard. One lets other people know they don&#39;t want to be photographed. Not seen this at many events. <a href="https://t.co/HFcBeE5Y5K">pic.twitter.com/HFcBeE5Y5K</a></p>&mdash; Alan Pope 🇪🇺🇬🇧 (@popey) <a href="https://twitter.com/popey/status/1028224623509479424?ref_src=twsrc%5Etfw">August 11, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
+{{< /rawhtml >}}
 
 Akademy proper starts on the Saturday morning  with a set of talks & presentations and finally reports from KDE Working Groups. The keynote from Dan Bielefeld was titled "Mapping Crimes Against Humanity in North Korea with FOSS", and was both upsetting and fascinating. It detailed the work the [TJWG](https://en.tjwg.org/) (Transitional Justice Working Group) do in South Korea to gather data regarding crimes against humanity occuring in North Korea. Dan outlined the group, their work and highlighted some data they've gathered, then went on to discuss the Open Source tools they use to do their job. I'd recommend reading the report available as a [PDF](https://en.tjwg.org/TJWG_Report-Mapping_Crimes_Against_Humanity_in_North_Korea(July2017)-Eng_Final.pdf) from the [TJWG website](https://en.tjwg.org/). 
 
+{{< rawhtml >}}
 <center><blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">A little light reading in the bath this evening.<br>Seriously, these people do amazing work. Check it out, the pdf is in their website. <a href="https://t.co/5uxeazLFk0">https://t.co/5uxeazLFk0</a> <a href="https://t.co/MslooKKglU">pic.twitter.com/MslooKKglU</a></p>&mdash; Alan Pope 🇪🇺🇬🇧 (@popey) <a href="https://twitter.com/popey/status/1028336977710653441?ref_src=twsrc%5Etfw">August 11, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
+{{< /rawhtml >}}
 
 Next up was a set of talks from developers across the KDE community who work on all parts of the stack, from plasma desktop to PIM (Personal Information Manager) to Plasma Mobile. Each gave some detail from their project about how they all work in tandem to highlight how privacy is important to KDE developers and users. We heard that KDE Software doesn't 'leak' data, to promise users a better experience. 
 
@@ -54,8 +62,10 @@ At the end of the first day was a series of reports from various KDE Working Gro
 
 The number individual supporting members (sponsors) rose from 540 (last year) to 597 with 109 paying members (up from 99 last year). As a new attendee I was surprised to learn that KDE e.V. itself has only 3 'staff', one who manages accounting, travel booking etc and two Marketing Contractors who work on the KDE Promo Team. Akademy 2019 is not yet organised as no venue has been selected. This work is ongoing, but the KDE folks could do with help identifying a potential host. KDE received a significant ($200K) donation from 'Pineapple Fund', some of  which was used to fund travel to Akademy. The project are still figuring out what to do with the rest. Previously KDE e.V. has been very cautious about how they spend funds, but there is a desire to change that. Perhaps hiring people / contractors to accelerate projects.
 
+{{< rawhtml >}}
 <center><blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr"><a href="https://t.co/Jb3yt3GkpL">pic.twitter.com/Jb3yt3GkpL</a></p>&mdash; Alan Pope 🇪🇺🇬🇧 (@popey) <a href="https://twitter.com/popey/status/1028658765074243585?ref_src=twsrc%5Etfw">August 12, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
+{{< /rawhtml >}}
 
 One of my favourite talks of the weekend was from Nate Graham titled "Konquering the world - A 7 step plan to KDE world domination". In it Nate covered very clearly 7 areas the KDE project needs to improve, and suggested improvements and their intended outcomes. This was a superbly positive talk, despite it raising some issues that have clearly been a problem for KDE for some time. I transcribed the notes, and shared via [Twitter]( https://twitter.com/popey/status/1028658765074243585) and [Mastodon]( https://mastodon.social/@popey/100537865834983077).
 
@@ -95,7 +105,9 @@ As I left to catch my flight on Tuesday, I said my goodbye's to new friends and 
 
 It reminded me of Ubuntu Developer Summits from  10 years ago. I absolutely [loved](https://twitter.com/popey/status/1029404614528000007) spending time at Akademy, and would love to go again to a future event. 
 
+{{< rawhtml >}}
 <center><blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The <a href="https://twitter.com/kdecommunity?ref_src=twsrc%5Etfw">@kdecommunity</a> <a href="https://twitter.com/akademy?ref_src=twsrc%5Etfw">@akademy</a> initiation ceremony begins like this <a href="https://t.co/C36KKwdIRA">pic.twitter.com/C36KKwdIRA</a></p>&mdash; Alan Pope 🇪🇺🇬🇧 (@popey) <a href="https://twitter.com/popey/status/1029404614528000007?ref_src=twsrc%5Etfw">August 14, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
+{{< /rawhtml >}}
 
 
