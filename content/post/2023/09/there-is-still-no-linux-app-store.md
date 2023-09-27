@@ -1,5 +1,5 @@
 +++
-date = "2023-09-27T13:00:00+01:00"
+date = "2023-09-28T13:00:00+01:00"
 title = "There is still no Linux app store"
 slug = "2023/09/there-is-still-no-linux-app-store"
 author = "Alan Pope"
