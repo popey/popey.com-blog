@@ -10,13 +10,15 @@ tags = ['ubuntu', 'linux', 'monetisation', 'development', 'desktop']
 
 Neither of these are "App Stores" in the way average people know them. You can neither buy or sell products in these so-called 'stores'...
 
-[![Flathub](/blog/images/2023-09-28/flathub.png)](/blog/images/2023-09-28/flathub.png)
+[![Flathub](/blog/images/2023-09-28/flathub.png)](https://flathub.org/)
 
-[![Snapcraft](/blog/images/2023-09-28/snapcraft.png)](/blog/images/2023-09-28/snapcraft.png)
+[![Snapcraft](/blog/images/2023-09-28/snapcraft.png)](https://snapcraft.io/)
 
 ...yet.
 
-Here follows a bit of a moan about all this.
+The wording on those two screenshots above is both hilarious and sad. It's very reminiscent of [People's Front of Judea](https://www.youtube.com/watch?v=WboggjN_G-4) or [Slim Shady](https://www.youtube.com/watch?v=eJO5HU_7_1w).
+
+Anyway, here follows a bit of a moan about all this (the app stores, not Monty Python or Eminem).
 
 ## Background
 
@@ -90,17 +92,17 @@ My point being, it is possible for a developer to carve out a successful niche d
 
 ### Host your own
 
-It is totally possible for an individual deveooper to stand up a web store to sell digital download applications. Indeed there are plenty of those. The problem these have is discoverability.
+It is totally possible for an individual developer to stand-up a web store and sell digital download applications. Indeed there are plenty of those. The problem these have is discoverability.
 
 The average desktop user is very similar to the average mobile user - dare I say - they're the same human beings!? They are used to the concept of App Stores like those on iOS and Android. Having your paid application in an app store grants it exposure to eyeballs who wouldn't ordinarily have stumbled on a random webstore.
 
 ## Prior attempts
 
-Ubuntu has made attempts in the past to enable paid applications via a build-in storefront. If you ran Ubuntu on your desktop back in 2012/2013 you would have had access to paid apps via Ubuntu Software Centre. Developers could package their software as a deb and publish for Ubuntu users. Only users who paid per-app were able to download the applications. 
+Ubuntu has made attempts in the past to enable paid applications via a build-in storefront. If you ran Ubuntu on your desktop back in 2012/2013 you would have had access to paid apps via Ubuntu Software Centre. Developers could package their software as a deb and publish for Ubuntu users. Only users who paid for the app were able to download the applications. 
 
-![Ubuntu Software](/blog/images/2023-09-28/store.jpeg)
+[![Ubuntu Software](/blog/images/2023-09-28/store.jpeg)](/blog/images/2023-09-28/store.jpeg)
 
-There were no in-app purchases, no donations, and no subscriptions. You pay once, you get the app from a special private PPA.
+There were no in-app purchases, no donations, and no subscriptions. You pay once, you get the app from a special, private PPA.
 
 ### The ARB (Application Review Board)
 
@@ -128,7 +130,11 @@ Eventually the number of reviewers on the ARB dropped off, and the lists of requ
 
 While it was painful for individual developers to get their applications published, larger organisations had less of a challenge. Canonical would often task developers to package up software on behalf of the external partner. While similar to the indie developer experience, in this case, typically all the packaging work was done by Canonical developers to completion. 
 
-One example partner was [Humble Indie Bundle](https://web.archive.org/web/20210125095448/https://ubuntu.com/blog/humble-indie-bundle-5-comes-to-the-ubuntu-software-centre). In the early 'Indie' days - single digit bundle numbers - Canonical would publish the Humble Indie Bundles in the USC (Ubuntu Software Centre) simultaneously with them going live on the bundle site itself. 
+One example partner was [Humble Indie Bundle](https://web.archive.org/web/20210125095448/https://ubuntu.com/blog/humble-indie-bundle-5-comes-to-the-ubuntu-software-centre). In the early 'Indie' days (the single digit bundle numbers), Canonical would publish the Humble Indie Bundles in the USC (Ubuntu Software Centre) simultaneously with them going live on the bundle site itself. 
+
+Just like ARB-published debs, these were made available via private PPAs on Launchpad. Even now, over a decade later, my private PPA subscriptions are all still there, with old builds of those games, sitting there waiting.
+
+[![PPAs](/blog/images/2023-09-28/subs.png)](/blog/images/2023-09-28/subs.png)
 
 This enabled users to install the games/applications directly from their desktop without having to download random binaries from a third party website. It also helped bolster the reputation of USC, leveraging the goodwill that Humble Indie Bundle had at the time.
 
@@ -144,11 +150,11 @@ There weren't enough devices sold, and 3rd party application developers couldn't
 
 ### Snapcraft
 
-With [Snapcraft](https://snapcraft.io/) and [Flathub](https://flathub.org/) the package maintenance and publishing process has been smoothed tremendously. But neither (that I'm aware) of them has the ability to do In App Purchase (like Steve has at the top of this thread), or pre-purchase of published applications.
+With [Snapcraft](https://snapcraft.io/) and [Flathub](https://flathub.org/) the package maintenance and publishing process has been smoothed tremendously. But as far as I am aware, neither of them has the ability to do IAP (In App Purchase), like Steve has at the top of this blog, or paid purchase of published applications.
 
 The snap packaging format 'evolved' from click packages in the Ubuntu Phone project. Unfortunately the payment system used by the Click Store was not brought across to the Snap Store. Snap does have *some* of the features needed (run `snap buy` for example). But the whole end-to-end process isn't there (yet). 
 
-The Flathub developers have [had](https://discourse.flathub.org/t/seeking-contractors-for-work-on-flathub-project/1889) [plans](https://discourse.flathub.org/t/flathub-in-2023/3808) for delivering paid applications in 2023. 
+The Flathub developers have [had](https://discourse.flathub.org/t/seeking-contractors-for-work-on-flathub-project/1889) [plans](https://discourse.flathub.org/t/flathub-in-2023/3808) for delivering paid applications in 2023. Perhaps they'll beat snapcraft to the punch by the end of this year?
 
 ## Not yet
 
