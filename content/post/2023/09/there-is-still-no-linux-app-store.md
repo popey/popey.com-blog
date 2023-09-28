@@ -1,5 +1,5 @@
 +++
-date = "2023-09-28T13:00:00+01:00"
+date = "2023-09-28T18:00:00+01:00"
 title = "There is still no Linux app store"
 slug = "2023/09/there-is-still-no-linux-app-store"
 author = "Alan Pope"
@@ -98,17 +98,21 @@ The average desktop user is very similar to the average mobile user - dare I say
 
 ## Prior attempts
 
-Ubuntu has made attempts in the past to enable paid applications via a build-in storefront. If you ran Ubuntu on your desktop back in 2012/2013 you would have had access to paid apps via Ubuntu Software Centre. Developers could package their software as a deb and publish for Ubuntu users. Only users who paid for the app were able to download the applications. 
+Ubuntu alone has made *multiple* attempts in the past to enable paid applications via a built-in storefront. 
+
+### Ubuntu Software ~~Center~~ Centre
+
+If you ran Ubuntu on your desktop back in 2012/2013 you would have been able to buy paid apps via Ubuntu Software Centre. Third-party application developers could (and did) package their software as a deb and publish for Ubuntu users. Only users who paid for the app were able to download the applications. 
 
 [![Ubuntu Software](/blog/images/2023-09-28/store.jpeg)](/blog/images/2023-09-28/store.jpeg)
 
-There were no in-app purchases, no donations, and no subscriptions. You pay once, you get the app from a special, private PPA.
+There were no in-app purchases, no donations, and no subscriptions. You paid once, then you get the app and updates from a special, private PPA. 
 
-### The ARB (Application Review Board)
-
-This failed for many reasons. debs are notoriously difficult for non-Debian people to make and maintain. If you're an application developer using Qt, or an indie game dev using Unity, Debian packaging is likely a dark art that you don't want to learn.
+This failed for many reasons. The debs are notoriously difficult for non-Debian people to make and maintain. If you're an application developer using Qt, or an indie game dev using Unity, Debian packaging is likely a dark art that you don't want to learn.
 
 **Note: Whenever I say the above, an experienced Debian Developer will almost always pop-up and explain it's not that hard, anyone can learn it, here's the [packaging guide](https://packaging.ubuntu.com/html/). Don't listen to them, they're wrong.**
+
+### The ARB (Application Review Board)
 
 Canonical tasked a team called the ARB (Application Review Board) - actual humans - to help developers get their application published. This often required many round-trips between the ARB and the developer to make a standards-compliant Debian package. Eventually the developer could publish their application. But this iterative and gated process was required for each release of the application. 
 
@@ -116,11 +120,11 @@ The process was slow, labourious, and painful for the publisher. For the ARB, th
 
 ### Pricing
 
-The minimum price point for applications was too damn high. A developer couldn't set the price of their application to 99¢ because the minimum was ~$5. For a small application or utility, in 2012, this pricing was an unreasonable ask. 
-
-### Reception
+The minimum price point for applications was too damn high. A developer couldn't set the price of their application to 99¢ because the minimum was ~$5. For a small application or utility, in 2012, on a fledgeling store, this pricing inflexibility was an unreasonable ask. 
 
 Developers would put in a ton of effort to make and maintain a deb, suffer many round trips with the ARB to review it, then to have almost nobody buy their application because of the price. 
+
+### Reception
 
 Some developers did persevere, but the sales were disappointing. So it just wasn't worth the developer time to publish there. 
 
