@@ -52,6 +52,9 @@ It's easy to add new beautiful themes to customise the experience.
 
 [![Theme downloader](/blog/images/2023-09-30/themedownloader.png)](/blog/images/2023-09-30/themedownloader.png)
 
+I'm using thie CoinOP theme at the moment.
+
+[![CoinOP theme](/blog/images/2023-09-30/coinoptheme.png)](/blog/images/2023-09-30/coinoptheme.png)
 
 Augment this with metadata from [screenscraper.fr](https://www.screenscraper.fr/) or [TheGamesDB](https://thegamesdb.net/), and you end up with a pretty way to launch games.
 
