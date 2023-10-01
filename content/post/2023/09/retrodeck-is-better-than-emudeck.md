@@ -60,7 +60,7 @@ Augment this with metadata from [screenscraper.fr](https://www.screenscraper.fr/
 
 ## Favourites & filters
 
-RetroDECK enables you to tag your favourite games withing any particular emulator. You can also filter out games you're less interested in, so you can more easily find those you do enjoy.
+RetroDECK enables you to tag your favourite games within any particular emulator. You can also filter out games you're less interested in, so you can more easily find those you do enjoy.
 
 ## Conclusion
 
