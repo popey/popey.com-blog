@@ -14,7 +14,7 @@ The whole EmuDeck installation and configuration was less than straightforward, 
 
 ![EmuDeck developers, probably](/blog/images/2023-09-30/laying-down-money.gif)
 
-Reecently, I wiped & factory reset my Steam Deck, then discovered [RetroDECK](https://retrodeck.net/). Now I'm playing more of the oder games than ever! If you've never heard of, or tried RetroDECK, I strongly recommend you do.
+Reecently, I wiped & factory reset my Steam Deck, then discovered [RetroDECK](https://retrodeck.net/). Now I'm playing more of the older games than ever! If you've never heard of, or tried RetroDECK, I strongly recommend you do.
 
 It even works on desktops, there's no need to fork out for a Steam Deck! But you should, if you can, because they're..
 
@@ -22,7 +22,7 @@ It even works on desktops, there's no need to fork out for a Steam Deck! But you
 
 ## Making friends
 
-We talked about RetroDECK [episode 12](https://linuxmatters.sh/12/) of [Linux Matters](https://linuxmatters.sh/) podcast. Have a listen to hear more in-depth what Martin and I think about the project.
+We talked about RetroDECK on [episode 12](https://linuxmatters.sh/12/) of [Linux Matters](https://linuxmatters.sh/) podcast. Have a listen to hear more in-depth what Martin and I think about the project.
 
 As I understand it, the RetroDECK project builds on and contributes to the [EmulationStation Desktop Edition](https://es-de.org/) project, which is the main frontend you see in RetroDECK.
 
@@ -30,7 +30,7 @@ RetroDECK is super easy to install, setup, and use. Though the project team have
 
 ## Get RetroDECK
 
-RetroDECK is available as a flatpak on [flathub](https://flathub.org/apps/net.retrodeck.retrodeck). The package has all the emulators, themes and support files required to get started. You just need to provide the ROMs to get started. 
+RetroDECK is available as a flatpak on [flathub](https://flathub.org/apps/net.retrodeck.retrodeck). The package has all the emulators, themes and support files required to get started. You just need to provide the ROMs to get going.
 
 When you first run RetroDECK, you'll be walked through a few simple dialogs to get up and running. Pop-ups like the following will guide you through the initial setup process. 
 
@@ -60,8 +60,8 @@ Augment this with metadata from [screenscraper.fr](https://www.screenscraper.fr/
 
 ## Favourites & filters
 
-RetroDECK enables you to tag your favourite games withing any particular emulator. You can also filter out games you're less interested in, so you can more easily find those you do enjoy.
+RetroDECK enables you to tag your favourite games within any particular emulator. You can also filter out games you're less interested in, so you can more easily find those you do enjoy.
 
 ## Conclusion
 
-Overall, the RetroDECK experience is really well done. I find myself opening up RetroDECK, grabbing a favourite virtual console, and spinning up my favourite game when I have a few minutes spare. I'd stronly recommend giving [RetroDECK](https://retrodeck.net/) a look, it's easily the best frontend to all the modern emulators. 
+Overall, the RetroDECK experience is really well done. I find myself opening up RetroDECK, grabbing a virtual console, and spinning up my favourite game when I have a few minutes spare. I'd stronly recommend giving [RetroDECK](https://retrodeck.net/) a look, it's easily the best frontend to all the modern emulators. 
