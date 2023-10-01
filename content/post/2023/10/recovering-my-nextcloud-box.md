@@ -1,5 +1,5 @@
 +++
-date = "2023-10-10T20:00:00+01:00"
+date = "2023-10-01T20:00:00+01:00"
 title = "Recovering my NextCloud Box"
 slug = "2023/10/recovering-my-nextcloud-box"
 author = "Alan Pope"
