@@ -14,7 +14,7 @@ The whole EmuDeck installation and configuration was less than straightforward, 
 
 ![EmuDeck developers, probably](/blog/images/2023-09-30/laying-down-money.gif)
 
-Reecently, I wiped & factory reset my Steam Deck, then discovered [RetroDECK](https://retrodeck.net/). Now I'm playing more of the oder games than ever! If you've never heard of, or tried RetroDECK, I strongly recommend you do.
+Reecently, I wiped & factory reset my Steam Deck, then discovered [RetroDECK](https://retrodeck.net/). Now I'm playing more of the older games than ever! If you've never heard of, or tried RetroDECK, I strongly recommend you do.
 
 It even works on desktops, there's no need to fork out for a Steam Deck! But you should, if you can, because they're..
 
