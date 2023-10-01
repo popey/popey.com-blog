@@ -64,4 +64,4 @@ RetroDECK enables you to tag your favourite games within any particular emulator
 
 ## Conclusion
 
-Overall, the RetroDECK experience is really well done. I find myself opening up RetroDECK, grabbing a virtual console, and spinning up my favourite game when I have a few minutes spare. I'd stronly recommend giving [RetroDECK](https://retrodeck.net/) a look, it's easily the best frontend to all the modern emulators. 
+Overall, the RetroDECK experience is really well done. I find myself opening up RetroDECK, grabbing a virtual console, and spinning up my favourite game when I have a few minutes spare. I'd strongly recommend giving [RetroDECK](https://retrodeck.net/) a look, it's easily the best frontend to all the modern emulators. 
