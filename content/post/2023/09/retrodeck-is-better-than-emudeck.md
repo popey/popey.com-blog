@@ -30,7 +30,7 @@ RetroDECK is super easy to install, setup, and use. Though the project team have
 
 ## Get RetroDECK
 
-RetroDECK is available as a flatpak on [flathub](https://flathub.org/apps/net.retrodeck.retrodeck). The package has all the emulators, themes and support files required to get started. You just need to provide the ROMs to get started. 
+RetroDECK is available as a flatpak on [flathub](https://flathub.org/apps/net.retrodeck.retrodeck). The package has all the emulators, themes and support files required to get started. You just need to provide the ROMs to get going.
 
 When you first run RetroDECK, you'll be walked through a few simple dialogs to get up and running. Pop-ups like the following will guide you through the initial setup process. 
 
