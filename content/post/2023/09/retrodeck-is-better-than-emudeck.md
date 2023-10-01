@@ -22,7 +22,7 @@ It even works on desktops, there's no need to fork out for a Steam Deck! But you
 
 ## Making friends
 
-We talked about RetroDECK [episode 12](https://linuxmatters.sh/12/) of [Linux Matters](https://linuxmatters.sh/) podcast. Have a listen to hear more in-depth what Martin and I think about the project.
+We talked about RetroDECK on [episode 12](https://linuxmatters.sh/12/) of [Linux Matters](https://linuxmatters.sh/) podcast. Have a listen to hear more in-depth what Martin and I think about the project.
 
 As I understand it, the RetroDECK project builds on and contributes to the [EmulationStation Desktop Edition](https://es-de.org/) project, which is the main frontend you see in RetroDECK.
 
