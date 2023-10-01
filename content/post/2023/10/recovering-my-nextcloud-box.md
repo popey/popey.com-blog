@@ -255,4 +255,6 @@ I really should have just pulled the drive out, and slapped it in a caddy. That 
 
 I'd really like to get the software running again. But there's something rather unwell with the snap package on this thing. I'll post over on the [forum](https://forum.snapcraft.io/) about it, but suspect the answer will be 'reinstall it'.
 
+**Edit**: I [started](https://forum.snapcraft.io/t/cannot-update-old-device/37100?u=popey) a thread to debug it.
+
 What do you think I should do with this NextCloud Box now? Answers below, or wherever you think I'll see them.
