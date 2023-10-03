@@ -169,7 +169,7 @@ Ok, so the current state of play is:
 I consider my options:
 
 1. Tell the x16-roms people that it fails to build on 20.04
-2. Fix my snap to use cc64 2.19 built from source
+2. Fix my snap to use cc65 2.19 built from source
 3. Update my snap to build on core 22 - so Ubuntu 22.04 (Lunar) which has cc65 2.19
 
 The first option is unfair, because it's likely not their fault, as far as I can tell. The second option makes my snap more complex, but might be an option. Perhaps the path of least resistance to everyone else is bump the snap, so let's do that.
