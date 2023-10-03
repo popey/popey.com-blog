@@ -86,13 +86,13 @@ The topic came up again in our backroom [secret squirrel](https://en.wikipedia.o
 <center><iframe src="https://ubuntu.social/@popey/111159495379945888/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://ubuntu.social/embed.js" async="async"></script></center>
 {{</ rawhtml >}}
 
-Rather quickly I got [two](https://social.vivaldi.net/@heronheart/111162641874358355) [endorsements](https://mastodon.social/@benev/111164903348284707) for [Otter.ai](https://otter.ai/), which I'd not heard of before. So today I took a look. 
+Rather quickly I got [two](https://social.vivaldi.net/@heronheart/111162641874358355) [endorsements](https://mastodon.social/@benev/111164903348284707) for [Otter.ai](https://otter.ai/referrals/FQN84FYF), which I'd not heard of before. So today I took a look. 
 
-As [@heronheart](https://social.vivaldi.net/@heronheart/111162641874358355) pointed out, it's not obvious from the [Otter.ai](https://otter.ai/) website that it can do what we're after. 
+As [@heronheart](https://social.vivaldi.net/@heronheart/111162641874358355) pointed out, it's not obvious from the [Otter.ai](https://otter.ai/referrals/FQN84FYF) website that it can do what we're after. 
 
 The Otter.ai marketing is mostly towards businesses requiring transcriptions of meetings held on platforms like Zoom and Google Meet, which isn't what I'm after.
 
-[![Otter.ai](/blog/images/2023-10-02/otterai.png)]((/blog/images/2023-10-02/otterai.png))
+[![Otter.ai](/blog/images/2023-10-02/otterai.png)]((https://otter.ai/referrals/FQN84FYF))
 
 However, once you sign up, and get past the whole introduction wizard - which incidentally doesn't behave well if you choose "Other" at this stage..
 
@@ -117,7 +117,7 @@ moodle, work, running, containers, deck, steam, linux, retro, bit, people, php,
 vps, box, vle, forked, contribution, find, test, project, virtual machines
 ```
 
-Otter also came up with a summary of the show, with timestamps. This could be useful for people who do actually want to listen, but want to jump to a particular segment. It's not perfect, but it's a great start!
+Otter also came up with a summary of the show, with timestamps. This could be useful for people who do want to listen but want to jump to a particular segment. It's not perfect, but it's a great start!
 
 [![Summary](/blog/images/2023-10-02/summary.png)]((/blog/images/2023-10-02/summary.png))
 
@@ -154,8 +154,8 @@ Otter 'knows' our voices now, so it made a good attempt at figuring out who was 
 
 ## Conclusion
 
-Overall I'm very impressed at what we've got so far. Having the entire show as a single text file, hosted on our own website is very compelling. We could potentially add these to a public git repo, so if people do spot errors, they can easily be corrected. A typo here and there is much easier to motivate people to correct than "please transcribe this entire episode".
+Overall I'm very impressed at what we've got so far. Having the entire show as a single text file, hosted on our own website is very compelling. We could potentially add these to a public git repo, so if people do spot errors, they can easily be corrected. A typo here and there is much easier to motivate people to correct than "Please transcribe this entire episode".
 
 The elephant in the room though, is payment. The free plan allowed me to upload three files. I hit that limit already. The [paid options](https://otter.ai/pricing) allow for many more uploads, multiple team members (so it's not all on one person to do this), an expanded vocabulary, and other features we're less likely to use. 
 
-After playing with [Otter.ai](https://otter.ai/) I'd love to get all the episodes transcribed, and published on the site, but I need to talk that over with Mark, Martin and Joe to see if there's anything I've missed.
+After playing with [Otter.ai](https://otter.ai/referrals/FQN84FYF) I'd love to get all the episodes transcribed, and published on the site, but I need to talk that over with Mark, Martin and Joe to see if there's anything I've missed.
