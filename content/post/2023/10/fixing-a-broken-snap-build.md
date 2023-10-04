@@ -158,7 +158,7 @@ $ rmadison cc65
 
 ## 17:00 
 
-I wonder what changed in cc65. There was a [release](https://github.com/cc65/cc65/releases/tag/V2.19) of cc65 - 2.19 - in November 2000, after the focal release of ubuntu came out.
+I wonder what changed in cc65. There was a [release](https://github.com/cc65/cc65/releases/tag/V2.19) of cc65 - 2.19 - in November 2020, after the focal release of ubuntu came out.
 
 Ok, so the current state of play is:
 
