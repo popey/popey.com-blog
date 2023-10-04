@@ -59,7 +59,7 @@ For this demonstration, I wrote some simple LÖVE code in the repo. It's not a f
 
 [![Code](/blog/images/2023-10-04/code.png)](/blog/images/2023-10-04/code.png)
 
-I saved the code, then used the standard VSCode features to commit the changes. At this point, I hadn't synced to the repo though. So the code changes only existed inside my Codespace. This could be useful if you're just trying out tutorials. But anything you want to keep should probably be synced to the repo, or downloaded.
+I saved the code, then used the standard VSCode features to commit the changes. At this point, I hadn't committed my code to the repo. So the code changes only existed inside my Codespace. This could be useful if you're just trying out tutorials. But anything you want to keep should probably be committed to the reop, or downloaded.
 
 You can see the code [here](https://github.com/popey/bouncingbox/blob/main/main.lua).
 
