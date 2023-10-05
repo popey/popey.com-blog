@@ -1,0 +1,169 @@
+name: x16emu
+base: core22
+adopt-info: x16-emulator
+summary: Commander X16 Emulator
+description: "This is an emulator for the Commander X16 computer system. \n"
+compression: lzo
+grade: stable
+confinement: strict
+layout:
+    /usr/lib/$CRAFT_ARCH_TRIPLET/alsa-lib:
+        bind: $SNAP/usr/lib/$CRAFT_ARCH_TRIPLET/alsa-lib
+    /usr/lib/$SNAPCRAFT_ARCH_TRIPLET/webkit2gtk-4.0:
+        bind: $SNAP/gnome-platform/usr/lib/$SNAPCRAFT_ARCH_TRIPLET/webkit2gtk-4.0
+    /usr/share/xml/iso-codes:
+        bind: $SNAP/gnome-platform/usr/share/xml/iso-codes
+    /usr/share/libdrm:
+        bind: $SNAP/gnome-platform/usr/share/libdrm
+parts:
+    alsa-pulseaudio:
+        plugin: dump
+        source: .
+        override-pull: "mkdir etc -p\ncat > etc/asound.conf <<EOF\npcm.!default {\n\
+            \    type pulse\n    fallback \"sysdefault\"\n    hint {\n        show\
+            \ on\n        description \"Default ALSA Output (currently PulseAudio\
+            \ Sound Server)\"\n    }\n}\nctl.!default {\n    type pulse\n    fallback\
+            \ \"sysdefault\"\n}\nEOF\n"
+        build-environment:
+        - &id001
+            PATH: /snap/gnome-42-2204-sdk/current/usr/bin${PATH:+:$PATH}
+        - &id002
+            XDG_DATA_DIRS: $SNAPCRAFT_STAGE/usr/share:/snap/gnome-42-2204-sdk/current/usr/share:/usr/share${XDG_DATA_DIRS:+:$XDG_DATA_DIRS}
+        - &id003
+            LD_LIBRARY_PATH: /snap/gnome-42-2204-sdk/current/lib/$CRAFT_ARCH_TRIPLET:/snap/gnome-42-2204-sdk/current/usr/lib/$CRAFT_ARCH_TRIPLET:/snap/gnome-42-2204-sdk/current/usr/lib:/snap/gnome-42-2204-sdk/current/usr/lib/vala-current:/snap/gnome-42-2204-sdk/current/usr/lib/$CRAFT_ARCH_TRIPLET/pulseaudio${LD_LIBRARY_PATH:+:$LD_LIBRARY_PATH}
+        - &id004
+            PKG_CONFIG_PATH: /snap/gnome-42-2204-sdk/current/usr/lib/$CRAFT_ARCH_TRIPLET/pkgconfig:/snap/gnome-42-2204-sdk/current/usr/lib/pkgconfig:/snap/gnome-42-2204-sdk/current/usr/share/pkgconfig${PKG_CONFIG_PATH:+:$PKG_CONFIG_PATH}
+        - &id005
+            GETTEXTDATADIRS: /snap/gnome-42-2204-sdk/current/usr/share/gettext-current${GETTEXTDATADIRS:+:$GETTEXTDATADIRS}
+        - &id006
+            GDK_PIXBUF_MODULE_FILE: /snap/gnome-42-2204-sdk/current/usr/lib/$CRAFT_ARCH_TRIPLET/gdk-pixbuf-current/loaders.cache
+        - &id007
+            ACLOCAL_PATH: /snap/gnome-42-2204-sdk/current/usr/share/aclocal${ACLOCAL_PATH:+:$ACLOCAL_PATH}
+        - &id008
+            PYTHONPATH: /snap/gnome-42-2204-sdk/current/usr/lib/python3.10:/snap/gnome-42-2204-sdk/current/usr/lib/python3/dist-packages:/snap/gnome-42-2204-sdk/current/usr/lib/$CRAFT_ARCH_TRIPLET/gobject-introspection${PYTHONPATH:+:$PYTHONPATH}
+    x16-roms:
+        plugin: make
+        source: https://github.com/x16community/x16-rom.git
+        build-packages:
+        - cc65
+        override-pull: "craftctl default\nlast_committed_tag=\"$(git describe --tags\
+            \ --abbrev=0)\"\necho $last_committed_tag\nlast_released_tag=\"$(snap\
+            \ info $SNAPCRAFT_PROJECT_NAME | awk '$1 == \"latest/beta:\" { print $2\
+            \ }')\"\necho $last_released_tag\n# If the latest tag from the upstream\
+            \ project has not been released to\n# beta, build that tag instead of\
+            \ master.\nif [ \"${last_committed_tag}\" != \"${last_released_tag}\"\
+            \ ]; then\n  git fetch\n  git checkout \"${last_committed_tag}\"\nfi\n"
+        override-build: 'make
+
+            install build/x16/rom.bin $CRAFT_PART_INSTALL/
+
+            '
+        build-environment:
+        - *id001
+        - *id002
+        - *id003
+        - *id004
+        - *id005
+        - *id006
+        - *id007
+        - *id008
+    x16-emulator:
+        after:
+        - x16-roms
+        - alsa-pulseaudio
+        plugin: make
+        source: https://github.com/x16community/x16-emulator.git
+        build-packages:
+        - libsdl2-dev
+        - git
+        override-pull: "craftctl default\nlast_committed_tag=\"$(git describe --tags\
+            \ --abbrev=0)\"\necho $last_committed_tag\nlast_released_tag=\"$(snap\
+            \ info $SNAPCRAFT_PROJECT_NAME | awk '$1 == \"latest/beta:\" { print $2\
+            \ }')\"\necho $last_released_tag\n# If the latest tag from the upstream\
+            \ project has not been released to\n# beta, build that tag instead of\
+            \ master.\nif [ \"${last_committed_tag}\" != \"${last_released_tag}\"\
+            \ ]; then\n  git fetch\n  git checkout \"${last_committed_tag}\"\n  echo\
+            \ \"Setting version to $last_committed_tag\"\n  craftctl set version=\"\
+            ${last_committed_tag}\"\nelse\n  echo \"Setting version to $(git rev-parse\
+            \ --short HEAD)\"\n  craftctl set version=\"$(git rev-parse --short HEAD)\"\
+            \nfi\n"
+        override-build: 'PATH=/usr/bin:$PATH make
+
+            cp x16emu $CRAFT_PART_INSTALL
+
+            '
+        stage-packages:
+        - libdecor-0-0
+        - libsdl2-2.0-0
+        - libxss1
+        prime:
+        - usr/lib/*/libdecor*
+        - usr/lib/*/libSDL*
+        - usr/lib/*/libXss*
+        - x16emu
+        build-environment:
+        - *id001
+        - *id002
+        - *id003
+        - *id004
+        - *id005
+        - *id006
+        - *id007
+        - *id008
+    gnome/sdk:
+        source: /snap/snapcraft/9726/share/snapcraft/extensions/desktop/command-chain
+        plugin: make
+        build-snaps:
+        - gnome-42-2204-sdk
+apps:
+    x16emu:
+        command: x16emu -rom $SNAP/rom.bin
+        environment:
+            ALSA_CONFIG_PATH: $SNAP/etc/asound.conf
+        plugs:
+        - desktop
+        - desktop-legacy
+        - gsettings
+        - opengl
+        - wayland
+        - x11
+        - joystick
+        - audio-playback
+        - audio-record
+        - alsa
+        - network
+        - network-bind
+        - home
+        - removable-media
+        command-chain:
+        - snap/command-chain/desktop-launch
+assumes:
+- snapd2.43
+plugs:
+    desktop:
+        mount-host-font-cache: false
+    gtk-3-themes:
+        interface: content
+        target: $SNAP/data-dir/themes
+        default-provider: gtk-common-themes
+    icon-themes:
+        interface: content
+        target: $SNAP/data-dir/icons
+        default-provider: gtk-common-themes
+    sound-themes:
+        interface: content
+        target: $SNAP/data-dir/sounds
+        default-provider: gtk-common-themes
+    gnome-42-2204:
+        interface: content
+        target: $SNAP/gnome-platform
+        default-provider: gnome-42-2204
+environment:
+    SNAP_DESKTOP_RUNTIME: $SNAP/gnome-platform
+    GTK_USE_PORTAL: '1'
+hooks:
+    configure:
+        plugs:
+        - desktop
+        command-chain:
+        - snap/command-chain/hooks-configure-fonts
