@@ -34,7 +34,7 @@ Typically a publisher will only have a small number of snaps in the store. I'd i
 
 Every machine running `snapd`, and having snaps installed, will check-in with the snap store periodically. Some more [periodically](https://snapcraft.io/docs/keeping-snaps-up-to-date#heading--settings) than [others](https://snapcraft.io/docs/keeping-snaps-up-to-date#heading--hold). By default a few times a day, `snapd` will see if any installed snaps require updates. It sends a unique generated machine ID along with the list of snaps and revisions currently installed. It also sends architecture information and details of the host OS.
 
-The store can then reply with a list of available updates, that `snapd` can process. The store backend stashes the data about how many users, what OS and other data each snap has, and presents it to the publisher. Here's the data I see as the publisher of [Classicube](https://snapcraft.io/classicube).
+The store can then reply with a list of available updates, that `snapd` can process. The store backend stashes the data about how many users, what OS and other data each snap has, and presents it to the publisher. 
 
 Let's look at the graphs for one application I published, 'ncspot'. The ncspot app is a command line 'ncurses' interface to Spotify. This is ideal for low-power computers, or those for which no 'full fat' Spotify client exists.
 
