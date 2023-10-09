@@ -14,6 +14,8 @@ Last month I [visited](blog/2023/09/touching-joysticks/) the [RMC Cave](https://
 
 I'd not heard about the [Agon](https://www.thebyteattic.com/p/agon.html) line of [Open Source](https://github.com/TheByteAttic) devices before, but they tickled something in me. I'm somewhat fascinated by computers that boot directly into BASIC. 
 
+[![Agon Light](/blog/images/2023-10-09/agon-light.png)](/blog/images/2023-10-09/agon-large.png)
+
 ## Pi time
 
 I wrote about this back in 2021 in [Raspberry Pi: Boot to BASIC](/blog//2021/01/raspberry-pi-boot-to-basic) where I configured a Raspberry Pi to boot directly into [BBC BASIC](https://www.bbcbasic.co.uk/index.html), by R.T. Russell.
