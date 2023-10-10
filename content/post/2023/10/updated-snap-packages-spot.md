@@ -54,7 +54,7 @@ The rest of the changes were simple syntax updates in the `snapcraft` internal l
 
 [Here](https://github.com/popey/spot-snap/commit/355a4792e527ce6d45fc0980cf48a6a1a6cb43c9) is the full commit, showing all the above changes.
 
-The final updates were to update the [store page](https://snapcraft.io/spot) with an updated description, new screenshots and a new icon.
+The final updates were to refresh the [store page](https://snapcraft.io/spot) with an updated description, new screenshots and a new icon.
 
 [![Spot](/blog/images/2023-10-10/rick.png)](/blog/images/2023-10-10/rick.png)
 
