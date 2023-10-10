@@ -29,7 +29,7 @@ Some time has passed, and a couple of things happened. First, Ubuntu 22.04 was r
 + base: core22 
 ```
 
-Now, there's a new GNOME extension, which *is* built on Ubuntu 4x. As such this simple one-line change in the `snapcraft.yaml` I made, will immediately bump the build-time SDK and runtime libraries to something usable for this snap.
+Now, there's a new GNOME extension, which *is* built on GNOME 4x. As such this simple one-line change in the `snapcraft.yaml` I made, will immediately bump the build-time SDK and runtime libraries to something usable for this snap.
 
 ```diff
 -    extensions: [gnome-3-38]
