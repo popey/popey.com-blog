@@ -56,7 +56,7 @@ Nearly **six thousand** devices still have the OBS snap installed on **Ubuntu 18
 
 It genuinely blows my tiny mind how many people stick on super old releases of Ubuntu. Around 6% of OBS Studio snap users are on 18.04, imagine what the total userbase of that release still is, in late 2023!
 
-[![Dozens!](/blog/images/2023-10-11/dozens.gif)](/blog/images/2023-10-11/dozens.gif)
+[![Dozens!](/blog/images/2023-10-11/dozenz.gif)](/blog/images/2023-10-11/dozenz.gif)
 
 Also a couple of hundred on Linux Mint, where they actively *block* snapd out of the box, which is mildly amusing.
 
