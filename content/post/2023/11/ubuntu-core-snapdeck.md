@@ -28,7 +28,7 @@ Also, obviously I don't speak for Canonical, these are my own thoughts. This als
 
 Let's get this out of the way up front. Ubuntu Core images are all about snaps. The kernel, applications, and even the desktop itself is a snap. Everything is a snap. Snap, snappity, snap snap! 🐊
 
-So it has the features that come with being snap-based. Applications can be automatically updated, reverted, multiple parallel versions installed. Snaps are strictly confined using container primitives, setcomp and AppArmor.
+So it has the features that come with being snap-based. Applications can be automatically updated, reverted, multiple parallel versions installed. Snaps are strictly confined using container primitives, seccomp and AppArmor.
 
 This is not too dissimilar to the way many SteamDeck users add applications to the immutable SteamOS install. On SteamOS they use Flatpak, whereas on Ubuntu Core, Snap is used.
 
