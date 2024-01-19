@@ -21,6 +21,7 @@ Here's some links to things I use, like or made.
     * [UK](#UK)
   * [Culture](#Culture)
   * [Urban Exploration](#Urbex)
+  * [Camping & Travel](#Camping)
   * [Linux](#Linux)
   * [Documentary](#Documentary)
   * [Hardware Repair](#HardwareRepair)
@@ -36,7 +37,6 @@ This page will grow over time as I remember to put stuff here.
 
 ### Desktop
 
-
 Software I like to use on my laptops and desktops.
 
   * [Ubuntu](https://ubuntu.com/): Linux for human beings.
@@ -48,7 +48,7 @@ Software I like to use on my laptops and desktops.
 
 ###  Server
 
-Stuff I run on a server or Pi at home, or on a remote server somewhere.
+I run stuff on a server or Pi at home or on a remote server somewhere.
 
   * [Ubuntu](https://ubuntu.com/): Linux for server beings.
   * [The Lounge](https://thelounge.chat/): Web based IRC client.
@@ -149,6 +149,7 @@ Channels run by individuals or organisations where I may enjoy some content.
   * [BBC Archive](https://www.youtube.com/@BBCArchive): Posts delightful BBC tech clips from the past.
   * [RMC](https://www.youtube.com/@rmcretro): Runs 'The Cave'
   * [TechTablets](https://www.youtube.com/@Techtablets): Tech review channel. Not just tablets.
+  * [Tech Tangents](https://www.youtube.com/@TechTangents): Old computers and weird peripherals.
 
 {{< rawhtml >}} <a name="ModernTech"></a> {{< /rawhtml >}}
 
@@ -192,15 +193,19 @@ I'm a left-leaning centrist Dad.
 
 {{< rawhtml >}}<a name="Camping"></a>  {{< /rawhtml >}}
 
-### Camping
+### Camping & Travel
 
   * [Kent Survival](https://www.youtube.com/@KentSurvival): Beautifully made, mostly rain-sodden, UK camping.
+  * [Camping with Steve](https://www.youtube.com/@campingwithsteve): Chilled stealth, car and DIY camping in Canada.
+  * [The Tim Traveller](https://www.youtube.com/@TheTimTraveller): Mini travel documentaries about strange places and modes of transport.
+  * [Quiet Nerd](https://www.youtube.com/@QuietNerd): Very chilled camping, with some DIY madness.
 
 {{< rawhtml >}}<a name="Motoring"></a>  {{< /rawhtml >}}
 
 ### Motoring
 
   * [CarWow](https://www.youtube.com/@carwow): I love their reviews of cars I will never buy.
+  * [Aging Wheels](https://www.youtube.com/@agingwheels): Weird and wonderful motor vehicles.
 
 {{< rawhtml >}}<a name="Linux"></a>  {{< /rawhtml >}}
 
