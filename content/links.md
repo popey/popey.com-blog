@@ -53,10 +53,13 @@ I run stuff on a server or Pi at home or on a remote server somewhere.
   * [Ubuntu](https://ubuntu.com/): Linux for server beings.
   * [The Lounge](https://thelounge.chat/): Web based IRC client.
   * [FR24](https://www.flightradar24.com/share-your-data): I share data about planes flying over my house with FlightRadar.
+  * [ADS-B One](https://adsb.one/): I also send data about planes flying overhead to this community-run service. 
   * [get-iplayer](https://github.com/get-iplayer/get_iplayer): Download TV and radio programmes from BBC iPlayer.
   * [Discourse](https://www.discourse.org/):  Great web forum software.
   * [Mastodon](https://github.com/mastodon/mastodon): I run this on [Ubuntu Social](https://ubuntu.social/).
   * [Plex](https://plex.tv/): Where I store interesting audio & video files.
+  * [Borg](https://www.borgbackup.org/): I use Borg on most machines to backup files to a central location.
+
 {{< rawhtml >}}  <a name="Mobile"></a> {{< /rawhtml >}}
 
 ### Mobile
@@ -97,31 +100,31 @@ I listen to a bunch of podcasts. I have curated this list, which changes frequen
 They're roughly sorted in order of personal preference.
 
   * [Linux Matters](https://linuxmatters.sh/): Ok, I'm *on* this one. But I _do_ listen!
-  * [When It Hits The Fan](https://www.bbc.co.uk/programmes/m001q6gr)
-  * [The Rest is Entertainment](https://podcasts.apple.com/gb/podcast/the-rest-is-entertainment/id1718287198)
-  * [Accidental Tech Podcast](https://atp.fm/)
-  * [More or Less](https://www.bbc.co.uk/programmes/b006qshd)
+  * [When It Hits The Fan](https://www.bbc.co.uk/programmes/m001q6gr): Fascinating PR stories.
+  * [The Rest is Entertainment](https://podcasts.apple.com/gb/podcast/the-rest-is-entertainment/id1718287198): Insights on the entertainment industry.
+  * [Accidental Tech Podcast](https://atp.fm/): Three mac fanboys talk tech.
+  * [More or Less](https://www.bbc.co.uk/programmes/b006qshd): Revealing the truth behind numbers in the media.
   * [Newscast](https://www.bbc.co.uk/programmes/p05299nl)
-  * [Robot or Not](https://www.theincomparable.com/robot/)
+  * [Robot or Not](https://www.theincomparable.com/robot/): Fun short form podcast with John from ATP.
   * [The Briefing Room](https://www.bbc.co.uk/programmes/b07cblx9)
-  * [The Infinite Monkey Cage](https://www.bbc.co.uk/programmes/b00snr0w/episodes)
-  * [Things Fell Apart](https://www.bbc.co.uk/sounds/brand/m0011cpr)
+  * [The Infinite Monkey Cage](https://www.bbc.co.uk/programmes/b00snr0w/episodes): Science and Comedy blended well.
+  * [Things Fell Apart](https://www.bbc.co.uk/sounds/brand/m0011cpr): Interesting and depressing stories about how society is changing.
   * [The News Agents](https://www.globalplayer.com/podcasts/42KuVj/)
-  * [For the Many](https://www.globalplayer.com/podcasts/42KbSo/)
+  * [For the Many](https://www.globalplayer.com/podcasts/42KbSo/): Iain and Jackie discuss politics and sometimes nun jokes.
   * [The Rest is Politics](https://www.goalhangerpodcasts.com/the-rest-is-politics)
   * [The Talk Show](https://daringfireball.net/thetalkshow/)
-  * [538 Politics](https://fivethirtyeight.com/tag/politics-podcast/)
+  * [538 Politics](https://fivethirtyeight.com/tag/politics-podcast/): US politics.
   * [The Today Podcast](https://www.bbc.co.uk/sounds/brand/p0gg4k6r)
-  * [Ubuntu Security Podcast](https://ubuntusecuritypodcast.org/)
+  * [Ubuntu Security Podcast](https://ubuntusecuritypodcast.org/): Regular updates from the Canonical security team.
   * [Under the Radar](https://www.relay.fm/radar)
   * [Unfiltered](https://podcasts.apple.com/gb/podcast/unfiltered-with-oli-dugmore/id1290769207)
   * [Upgrade](https://www.relay.fm/upgrade)
   * [The Rest is History](https://www.goalhangerpodcasts.com/the-rest-is-history)
   * [All In The Mind](https://www.bbc.co.uk/programmes/b006qxx9)
   * [Any Questions / Any Answers](https://www.bbc.co.uk/programmes/p02nrtn5)
-  * [Ask The Hosts](https://askthehosts.com/)
-  * [2.5 Admins](https://2.5admins.com/)
-  * [Bad Voltage](https://www.badvoltage.org/)
+  * [Ask The Hosts](https://askthehosts.com/): Questions from the Late Night Linux audience.
+  * [2.5 Admins](https://2.5admins.com/): Two nerds and a presenter evangelise about BSD and ZFS mostly.
+  * [Bad Voltage](https://www.badvoltage.org/): Some of my friends, talking for an hour.
   * [Cross Question](https://www.globalplayer.com/podcasts/42Kebc/)
   * [Full Disclosure](https://www.globalplayer.com/podcasts/42KqCF/)
   * [Late Night Linux](https://latenightlinux.com/)
