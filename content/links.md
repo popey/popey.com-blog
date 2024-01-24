@@ -84,6 +84,7 @@ A selection of software I've packaged up as a snap to make it easier to install.
   * [Libation](https://snapcraft.io/libation): A tool to liberate your audio books from Amazon's Audible.
   * [Mindustry](https://snapcraft.io/mindustry): A sandbox tower defense (sic) game.
   * [Pencil](https://snapcraft.io/pencil): Sketching and GUI prototyping/wireframing tool.
+  * [Pioneer](https://snapcraft.io/pioneer): A space adventure game set in the Milky Way galaxy at the turn of the 31st century.
   * [Spot](https://snapcraft.io/spot): GTK Spotify client.
   * [Telegram Asahi](https://snapcraft.io/telegram-asahi): Telegram desktop app, compiled for aarch64, optimised for Asahi Linux.
   * [Twine](https://snapcraft.io/twinejs): A tool for telling interactive, nonlinear stories.
