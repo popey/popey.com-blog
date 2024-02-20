@@ -32,7 +32,7 @@ The application had a couple of screenshots, an icon, and a detailed description
 
 [![Exodus in the Snap store](/blog/images/2024-02-20/Screenshot_12-2-2024_192925_snapcraft.io_crop_50.jpeg)](/blog/images/2024-02-20/Screenshot_12-2-2024_192925_snapcraft.io_crop_100.jpeg)
 
-Early on Sunday 12th February a new [Snapcraft forum](https://forum.snapcraft.io/) user named "castle" [started](https://forum.snapcraft.io/t/exodus-movement-exod/38904) a short thread titled "[Exodus - Movement Exod](https://forum.snapcraft.io/t/exodus-movement-exod/38904)". In it, they inquired:
+Early on Sunday 12th February a new [Snapcraft forum](https://forum.snapcraft.io/) user named "castle" [started](https://forum.snapcraft.io/t/exodus-movement-exod/38904) a short thread titled "[Exodus - Movement Exod](https://forum.snapcraft.io/t/exodus-movement-exod/38904)". In it, they enquired:
 
 > Can anyone tell if the Exodus wallet in Ubuntu’s software store is a scam? My wallet is empty after recovering and it shows a recent transaction of my entire balance sent to an address. I never made this transaction.
 
