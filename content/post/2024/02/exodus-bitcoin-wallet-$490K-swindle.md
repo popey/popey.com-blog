@@ -338,7 +338,7 @@ Pretty clever, really.
 
 I wondered if there might be others affected by this application. I did a few online searches to see if anyone had mentioned the snap. The only post I found was in a [thread on 4chan](https://boards.4chan.org/biz/thread/57569971/exodus-wallet-help) (warning, 4chan link, duh), timed similarly to the Snapcraft forum thread. 
 
-In the 4chan thread, they revealed similar details to the Snapcraft discussion. However, they also pasted the transaction ID and the Bitcoin wallet the funds had been sent to. A little over 9 BTC was sent from six wallets to one destination. At the time of writing that amount of Bitcoin was worth in the region of $490K, but that value changes often.
+In the 4chan thread, they revealed similar details to the Snapcraft discussion. However, they also pasted the transaction ID and the Bitcoin wallet the funds had been sent to. A little over 9 BTC was sent to one destination. At the time of writing that amount of Bitcoin was worth in the region of $490K, but that value changes often.
 
 [![Bye bye bitcoin](/blog/images/2024-02-20/byebyebitcoin50.png)](https://www.walletexplorer.com/wallet/32394c8892f2076c)
 
