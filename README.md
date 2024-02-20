@@ -8,6 +8,30 @@ This repo contains the source for my Hugo-based blog, which you'll find at [http
 
 | Date | Article |
 | :--- | :-- |
+|[Exodus Bitcoin Wallet: $490K Swindle](https://popey.com/blog/2024/02/exodus-bitcoin-wallet-$490K-swindle)| Tue, 20 Feb 2024 20:00:00 +0100|
+|[Ubuntu Summit 2023 was a success](https://popey.com/blog/2023/11/ubuntu-summit-2023-was-a-success/) |Tue, 7 Nov 2023 12:00:00 +0100|
+|[Ubuntu Core Snapdeck](https://popey.com/blog/2023/11/ubuntu-core-snapdeck/)| Fri, 3 Nov 2023 13:00:00 +0100|
+|[Heading to Ubuntu Summit 2023](https://popey.com/blog/2023/11/heading-to-ubuntu-summit-2023/)| Wed, 1 Nov 2023 12:00:00 +0100|
+|[You stole my lighter!](https://popey.com/blog/2023/10/you-stole-my-lighter/)| Fri, 13 Oct 2023 22:00:00 +0100|
+|[Ninety percent updated in a week](https://popey.com/blog/2023/10/ninety-percent-updated-in-a-week/)| Thu, 12 Oct 2023 21:00:00 +0100|
+|[Updating snap packages: OBS Studio](https://popey.com/blog/2023/10/updated-snap-packages-obs-studio/)| Wed, 11 Oct 2023 22:00:00 +0100|
+|[Updating snap packages: Spot](https://popey.com/blog/2023/10/updated-snap-packages-spot/)| Tue, 10 Oct 2023 22:00:00 +0100|
+|[Boot to BBC BASIC: Agon Edition](https://popey.com/blog/2023/10/boot-to-bbc-basic-agon-edition/)| Mon, 9 Oct 2023 19:00:00 +0100|
+|[Snapcraft metrics](https://popey.com/blog/2023/10/snapcraft-metrics/)| Sun, 8 Oct 2023 18:00:00 +0100|
+|[Easy Korean BBQ chicken loaded fries](https://popey.com/blog/2023/10/easy-korean-bbq-chicken-loaded-fries/)| Sat, 7 Oct 2023 20:00:00 +0100|
+|[Hand over the PCMCIA card, Sir](https://popey.com/blog/2023/10/hand-over-the-pcmcia-card-sir/)| Fri, 6 Oct 2023 10:00:00 +0100|
+|[Fixing a broken snap build - part two](https://popey.com/blog/2023/10/fixing-a-broken-snap-build-part-two/)| Thu, 5 Oct 2023 20:00:00 +0100|
+|[Game development in GitHub Codespaces](https://popey.com/blog/2023/10/game-development-in-github-codespaces/)| Wed, 4 Oct 2023 20:00:00 +0100|
+|[Fixing a broken snap build](https://popey.com/blog/2023/10/fixing-a-broken-snap-build/)| Tue, 3 Oct 2023 22:30:00 +0100|
+|[Multi-presenter podcast transcription](https://popey.com/blog/2023/10/multi-presenter-podcast-transrciption/)| Mon, 2 Oct 2023 14:00:00 +0100|
+|[Recovering my NextCloud Box](https://popey.com/blog/2023/10/recovering-my-nextcloud-box/)| Sun, 1 Oct 2023 20:00:00 +0100|
+|[RetroDECK > EmuDeck](https://popey.com/blog/2023/09/retrodeck-is-better-than-emudeck/)| Sat, 30 Sep 2023 21:00:00 +0100|
+|[Where's my hard drive?](https://popey.com/blog/2023/09/wheres-my-hard-drive/)| Fri, 29 Sep 2023 10:00:00 +0100|
+|[There is still no Linux app store](https://popey.com/blog/2023/09/there-is-still-no-linux-app-store/)| Thu, 28 Sep 2023 18:00:00 +0100|
+|[Publishing Hugo site via GitHub Actions](https://popey.com/blog/2023/09/publishing-hugo-site-via-github-actions/)| Wed, 27 Sep 2023 10:00:00 +0100|
+|[CAPS LOCK BEHAVIOUR DISABLED IN GNOME](https://popey.com/blog/2023/09/caps-lock-behaviour-disabled-in-gnome/)| Tue, 26 Sep 2023 12:00:00 +0100|
+|[AMD GPU blob crashing](https://popey.com/blog/2023/09/amdgpu-blob-crashing/)| Mon, 25 Sep 2023 18:00:00 +0100|
+|[Waking up a sleeping Minecraft server](https://popey.com/blog/2023/09/waking-up-a-sleeping-minecraft-server/)| Sun 24 Sep 2023 17:00:00 +0100|
 |[Touching joysticks](https://popey.com/blog/2023/09/touching-joysticks/)|Sat, 23 Sep 2023 22:00:00 +0100|
 |[You did something!](https://popey.com/blog/2023/09/you-did-something/)|Fri, 22 Sep 2023 16:00:00 +0100|
 |[Thanks, Mastodon contributors](https://popey.com/blog/2023/09/thanks-mastodon-contributors/)|Thu, 21 Sep 2023 17:00:00 +0100|
