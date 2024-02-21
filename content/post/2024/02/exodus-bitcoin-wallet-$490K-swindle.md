@@ -63,7 +63,7 @@ The logo and screenshots are from the official upstream Exodus application. A le
 
 Note the coloured map at the bottom of the page has multiple countries highlighted. This indicates the snap had (at the time of screenshot) at least ten installs in different countries. Therefore, our user is **not** the only person with this malware installed on their PC.
 
-The application could also be viewed in the desktop "App Centre" (previously "Ubuntu Software", a.k.a. "GNOME Software") application storefront.
+The application could also be viewed in the desktop "App Centre" (previously "Ubuntu Software") application storefront.
 
 [![Exodus in the Ubuntu Store](/blog/images/2024-02-20/gnome-software_50.png)](/blog/images/2024-02-20/gnome-software_100.png)
 
