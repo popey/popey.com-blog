@@ -247,12 +247,9 @@ Sure enough, there were a few requests sent to a Linode IP, and others to Cloudf
 
 [![Scam exodus app](/blog/images/2024-02-20/scam-exodus-app-4_70.png)](/blog/images/2024-02-20/scam-exodus-app-4.png)
 
-Visiting one of those IPs redirects to https://www.exchangerate-api.com/ who are "The Accurate & Reliable
-Exchange Rate API". Unsurprisingly, the API call failed because I entered a garbage wallet recovery phrase.
+Unsurprisingly, the API call failed because I entered a garbage wallet recovery phrase.
 
-
-[![Exchange rate API](/blog/images/2024-02-20/exchangerate-api_60.png)](/blog/images/2024-02-20/exchangerate-api.png)
-
+**Edit:** *In a previous version of this blog I pointed the finger at a service called exchangerate-api. After some online comments and thinking about this, I have removed that section and screenshot. I drew a direct line between a scam app and a third-party legitimate service. I didn't deeply investigate what APIs were used by the scam app, so it was unfair to draw that line.*
 
 ## Bad news
 
