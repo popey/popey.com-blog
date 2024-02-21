@@ -56,7 +56,7 @@ I discovered the PrtSc key also repeated. This was a little more of a problem, b
 
 I had a conversation on IRC at the time with Seb and [Will](https://www.whizzy.org) from the desktop team. I probably should have warned Will before telling him what would happen. Here's a dramatic reconstruction of the events of the day.
 
-```
+```text
 <popey> Hey, anyone on latest release, if you hold down PrtSc, does the key auto-repeat?
 <seb128> Why would you do that?
 <willcooke> Hold on, let me test
