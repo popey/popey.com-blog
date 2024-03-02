@@ -105,8 +105,15 @@ Some of which need work!
   * hdrview: Build [fails](https://launchpad.net/~build.snapcraft.io/+snap/56a592a0f2a0d4f56a62bb4af9b69a15/+build/2408064) due to something missing at bitbucket
   * KeeperRL: Build [fails](https://launchpad.net/~build.snapcraft.io/+snap/400a9580e81302d8f2a12b5174bfed4b/+build/2407007) - theoradec missing
   * ncspot: Needs updating, 1.0 crashes due to permissions missing on proc mountinfo
+  * spek: Needs updating to core24, as required libavcodec59
+  * vokoscreenng: Needs updating to core22, but Qt 6.2.4 - > needs Qt 6.5 
   * warpinator: Needs updating, doesn't actually work yet
   * zzt: Broken audio (alsa, ugh)
+
+Some are private, for some reason.
+
+ * synSpades - abandoned upstream
+ * ephemeral - abandoned upstream
 
 ---
 
