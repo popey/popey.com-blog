@@ -78,17 +78,35 @@ Stuff I run on a phone. I have a ton of applications installed on my phone, and 
 
 A selection of software I've packaged up as a snap to make it easier to install.
 
+  * [Azimuth](https://snapcraft.io/azimuth): A metroidvania with vector graphics
+  * [b2](https://snapcraft.io/b2): BBC Micro Emulator
   * [ClassiCube](https://snapcraft.io/classicube): Minecraft classic-like game, optimised for potatoes.
   * [Defold](https://snapcraft.io/defold): Game development platform.
   * [Dog](https://snapcraft.io/dog): A command-line DNS client.
+  * [DOSBox-Staging](https://snapcraft.io/dosbox-staging): Open Source PC/MS-DOS emulator
+  * [iamb](https://snapcraft.io/iamb): A command-line Matrix client.
   * [Libation](https://snapcraft.io/libation): A tool to liberate your audio books from Amazon's Audible.
   * [Mindustry](https://snapcraft.io/mindustry): A sandbox tower defense (sic) game.
   * [Pencil](https://snapcraft.io/pencil): Sketching and GUI prototyping/wireframing tool.
   * [Pioneer](https://snapcraft.io/pioneer): A space adventure game set in the Milky Way galaxy at the turn of the 31st century.
   * [Spot](https://snapcraft.io/spot): GTK Spotify client.
   * [Telegram Asahi](https://snapcraft.io/telegram-asahi): Telegram desktop app, compiled for aarch64, optimised for Asahi Linux.
+  * [Toot](https://snapcraft.io/toot): Command-line Mastodon client
   * [Twine](https://snapcraft.io/twinejs): A tool for telling interactive, nonlinear stories.
   * [X16emu](https://snapcraft.io/x16emu): Emulator for the Commander X16 computer.
+
+Some of which need work!
+
+  * Bombsquad: Needs updating - libc errors due to conflicts between upstream binary build and what's in the snap
+  * Bandwhich: Needs [debugging](https://forum.snapcraft.io/t/bandwhich-process-id-identification/36947/6)
+  * emoj: Needs updating, build fails
+  * fab-agon-emulator: Needs updating, new version has graphical glitches
+  * git-repo: Needs updating
+  * hdrview: Build [fails](https://launchpad.net/~build.snapcraft.io/+snap/56a592a0f2a0d4f56a62bb4af9b69a15/+build/2408064) due to something missing at bitbucket
+  * KeeperRL: Build [fails](https://launchpad.net/~build.snapcraft.io/+snap/400a9580e81302d8f2a12b5174bfed4b/+build/2407007) - theoradec missing
+  * ncspot: Needs updating, 1.0 crashes due to permissions missing on proc mountinfo
+  * warpinator: Needs updating, doesn't actually work yet
+  * zzt: Broken audio (alsa, ugh)
 
 ---
 
