@@ -84,6 +84,7 @@ A selection of software I've packaged up as a snap to make it easier to install.
   * [Defold](https://snapcraft.io/defold): Game development platform.
   * [Dog](https://snapcraft.io/dog): A command-line DNS client.
   * [DOSBox-Staging](https://snapcraft.io/dosbox-staging): Open Source PC/MS-DOS emulator
+  * [fab-agon-emulator](https://snapcraft.io/fab-agon-emulator): Agon Light, Agon Light 2, Agon Console8 Emulator
   * [iamb](https://snapcraft.io/iamb): A command-line Matrix client.
   * [Libation](https://snapcraft.io/libation): A tool to liberate your audio books from Amazon's Audible.
   * [Mindustry](https://snapcraft.io/mindustry): A sandbox tower defense (sic) game.
@@ -100,7 +101,6 @@ Some of which need work!
   * Bombsquad: Needs updating - libc errors due to conflicts between upstream binary build and what's in the snap
   * Bandwhich: Needs [debugging](https://forum.snapcraft.io/t/bandwhich-process-id-identification/36947/6)
   * emoj: Needs updating, build fails
-  * fab-agon-emulator: Needs updating, new version has graphical glitches
   * git-repo: Needs updating
   * hdrview: Build [fails](https://launchpad.net/~build.snapcraft.io/+snap/56a592a0f2a0d4f56a62bb4af9b69a15/+build/2408064) due to something missing at bitbucket
   * KeeperRL: Build [fails](https://launchpad.net/~build.snapcraft.io/+snap/400a9580e81302d8f2a12b5174bfed4b/+build/2407007) - theoradec missing
