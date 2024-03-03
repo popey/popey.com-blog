@@ -1,7 +1,7 @@
 +++
 date = "2024-03-03T12:00:00-00:00"
 title = "Mini EV: Two Years On"
-slug = "2023/09/mini-electric-two-years-on"
+slug = "2024/03/mini-electric-two-years-on"
 author = "Alan Pope"
 tags = ['mini', 'ev', 'car', 'review']
 +++
