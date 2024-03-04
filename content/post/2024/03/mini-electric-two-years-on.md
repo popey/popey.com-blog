@@ -8,7 +8,7 @@ tags = ['mini', 'ev', 'car', 'review']
 
 tl;dr I have had a Mini EV for a little over two years, so I thought it was time for a retrospective. This isn't so much a review, as I'm not a car journalist. It's more just my thoughts of owning an electric car for a couple of years. 
 
-I briefly talked about the car in episode 24 (out on Tuesday 5th may) of [Linux Matters Podcast](https://linuxmatters.sh/), if you prefer a shorter, less detailed review in audio format. 
+I briefly talked about the car in episode 24 (out on Tuesday 5th march) of [Linux Matters Podcast](https://linuxmatters.sh/), if you prefer a shorter, less detailed review in audio format. 
 
 [![Mini Mini review](/blog/images/2024-02-20/linuxmatters-banner-3000x750_30.png)](https://linuxmatters.sh/)
 
