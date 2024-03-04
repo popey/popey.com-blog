@@ -244,7 +244,11 @@ He then put my wheel in the boot of my car and asked me to text him know once I�
 
 As I got closer to the two-year anniversary of ownership, the app started to remind me to book the car for a service. There’s a feature in the app to just press a button, and get taken to a page where you can book the car in. The links are all broken and always have been. I don’t have the energy to call BMW to tell them it’s all broken. They should do better QA on the app. 
 
-Eventually I just called the garage to get the car maintained. There was a recall, brake check and 
+Eventually I just called the garage to get the car maintained. There was a scheduled two-year inspection, a low priority recall, brake check and my broken 'fuel flap' to fix. They had the car all day and everything was complete when I picked it up at the end of the day. 
+
+The fact that there's no oil changes, oil filter replacement, spark plug replacments, timing chain/belts, and many other parts that fail on an EV is quite attractive. But there's still a regular service which needs doing. 
+
+Some argue that due to the car having a one-pedal driving mode, where regenerative braking slows tha car down, drivers are less likely to wear out the brakes. However I've also seen it asserted that some cars actually use both regenerative braking and the physical disc brakes without letting the driver know. I have no idea whether the Mini actually "smartly" applies the brakes, or if it only does so when I press the brake pedal.
 
 ## Conclusion
 
