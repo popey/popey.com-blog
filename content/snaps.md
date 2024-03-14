@@ -1,6 +1,6 @@
 +++
 title = "popey snaps"
-date =  2024-03-14T13:06:46Z
+date =  2024-03-14T13:46:15Z
 author = "Alan Pope"
 description = "popeys snap status"
 +++
@@ -11,7 +11,7 @@ I maintain [a few](https://snapcraft.io/publisher/popey) snaps in the [Snap Stor
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 
-### 2024-03-14T13:06:46Z
+### 2024-03-14T13:46:15Z
 | Snap | Stable | Edge | Upstream | OK? |
 | - | - | - | - | - |
 | [Bandwhich](https://snapcraft.io/bandwhich) | v0.22.2.5f5cc7e | v0.22.2.23d1879 | v0.22.2 | ✔ |
@@ -22,6 +22,8 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [halloy](https://snapcraft.io/halloy) | 2024.3.bc4416a | 2024.3.bc4416a | 2024.3 | ✔ |
 | [MAME](https://snapcraft.io/mame) | mame0263 | mame0263-221-gf65fb7586d9 | mame0263 | ✔ |
 | [MatterBridge](https://snapcraft.io/matterbridge) | v1.26.0 | v1.26.0 | v1.26.0 | ✔ |
+| [Pencil](https://snapcraft.io/pencil) | 3.1.1 | ^ | 3.1.1 | ✔ |
+| [PioneerSpaceSimulator](https://snapcraft.io/pioneer) | 20240203 | ^ | 20240203 | ✔ |
 | [Rustscan](https://snapcraft.io/rustscan) | 2.1.1 | 2.1.1 | 2.1.1 | ✔ |
 | [Shattered-Pixel-Dungeon](https://snapcraft.io/shattered-pixel-dungeon) | v2.3.2 | v2.3.2 | v2.3.2 | ✔ |
 | [Spot](https://snapcraft.io/spot) | 0.4.0 | 0.4.0 | 0.4.0 | ✔ |
@@ -39,10 +41,8 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [Ladder](https://snapcraft.io/ladder) | 0.0.21 | 0.0.21.3918cf3 | v0.0.21 | ✖ |
 | [Lapin](https://snapcraft.io/lapin) | a31e5c4 | a6b34c9 | - | ✖ |
 | [Libation](https://snapcraft.io/libation) | 11.1.0 | ^ | v11.3.6 | ✖ |
-| [Mindustry](https://snapcraft.io/mindustry) | 146 | 146 | v146 | ✖ |
-| [ncspot](https://snapcraft.io/ncspot) | 1.1.0 | 1.1.0 | v1.1.0 | ✖ |
-| [Pencil](https://snapcraft.io/pencil) | 3.1.1 | ^ | v3.1.1 | ✖ |
-| [PioneerSpaceSimulator](https://snapcraft.io/pioneer) | 20240203 | ^ | alpha33 | ✖ |
+| [Mindustry](https://snapcraft.io/mindustry) | 146 | v146 | v146 | ✖ |
+| [ncspot](https://snapcraft.io/ncspot) | 1.1.0 | v1.1.0 | v1.1.0 | ✖ |
 | [Session-Desktop](https://snapcraft.io/session-desktop) | 1.12.0 | ^ | v1.12.0 | ✖ |
 | [SpectrumAnalyser](https://snapcraft.io/spectrum-analyser) | -- | v0.2.0-alpha-master | v0.2.0-alpha | ✖ |
 | [Telegram-Asahi](https://snapcraft.io/telegram-asahi) | 4.15.1      | 4.12.2 | v4.15.3 | ✖ |
