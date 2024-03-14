@@ -1,6 +1,6 @@
 +++
 title = "popey snaps"
-date =  2024-03-14T20:20:54Z
+date =  2024-03-14T23:21:46Z
 author = "Alan Pope"
 description = "popeys snap status"
 +++
@@ -11,7 +11,7 @@ I maintain [a few](https://snapcraft.io/publisher/popey) snaps in the [Snap Stor
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 
-### 2024-03-14T20:20:54Z
+### 2024-03-14T23:21:46Z
 | Snap | Stable | Edge | Upstream | OK? |
 | - | - | - | - | - |
 | [Azimuth](https://snapcraft.io/azimuth) | v1.0.3 | v1.0.3 | v1.0.3 | ✔ |
@@ -28,8 +28,11 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [MAME](https://snapcraft.io/mame) | mame0263 | mame0263-221-gf65fb7586d9 | mame0263 | ✔ |
 | [MatterBridge](https://snapcraft.io/matterbridge) | v1.26.0 | v1.26.0 | v1.26.0 | ✔ |
 | [Mindustry](https://snapcraft.io/mindustry) | v146 | v146 | v146 | ✔ |
+| [ncspot](https://snapcraft.io/ncspot) | v1.1.0 | v1.1.0 | v1.1.0 | ✔ |
 | [Pencil](https://snapcraft.io/pencil) | 3.1.1 | ^ | 3.1.1 | ✔ |
+| [PioneerSpaceSimulator](https://snapcraft.io/pioneer) | 20240314 | 20240314 | 20240314 | ✔ |
 | [Rustscan](https://snapcraft.io/rustscan) | 2.1.1 | 2.1.1 | 2.1.1 | ✔ |
+| [Session-Desktop](https://snapcraft.io/session-desktop) | v1.12.0 | v1.12.0 | v1.12.0 | ✔ |
 | [Shattered-Pixel-Dungeon](https://snapcraft.io/shattered-pixel-dungeon) | v2.3.2 | v2.3.2 | v2.3.2 | ✔ |
 | [Spot](https://snapcraft.io/spot) | 0.4.0 | 0.4.0 | 0.4.0 | ✔ |
 | [Toot](https://snapcraft.io/toot) | 0.42.0 | 0.42.0 | 0.42.0 | ✔ |
@@ -41,8 +44,5 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [emoj](https://snapcraft.io/emoj) | v3.3.0.e60099d | v3.3.0.e60099d | v4.0.1 | ✖ |
 | [Lapin](https://snapcraft.io/lapin) | a31e5c4 | a6b34c9 | - | ✖ |
 | [Libation](https://snapcraft.io/libation) | 11.1.0 | ^ | v11.3.6 | ✖ |
-| [ncspot](https://snapcraft.io/ncspot) | 1.1.0 | v1.1.0 | v1.1.0 | ✖ |
-| [PioneerSpaceSimulator](https://snapcraft.io/pioneer) | 20240203 | ^ | 20240314 | ✖ |
-| [Session-Desktop](https://snapcraft.io/session-desktop) | 1.12.0 | ^ | v1.12.0 | ✖ |
 | [SpectrumAnalyser](https://snapcraft.io/spectrum-analyser) | -- | v0.2.0-alpha-master | v0.2.0-alpha | ✖ |
 | [Telegram-Asahi](https://snapcraft.io/telegram-asahi) | 4.15.2      | 4.12.2 | v4.15.4 | ✖ |
