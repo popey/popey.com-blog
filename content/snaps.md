@@ -1,6 +1,6 @@
 +++
 title = "popey snaps"
-date =  2024-03-14T19:41:52Z
+date =  2024-03-14T20:03:25Z
 author = "Alan Pope"
 description = "popeys snap status"
 +++
@@ -11,7 +11,7 @@ I maintain [a few](https://snapcraft.io/publisher/popey) snaps in the [Snap Stor
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 
-### 2024-03-14T19:41:52Z
+### 2024-03-14T20:03:25Z
 | Snap | Stable | Edge | Upstream | OK? |
 | - | - | - | - | - |
 | [Azimuth](https://snapcraft.io/azimuth) | v1.0.3 | v1.0.3 | v1.0.3 | ✔ |
@@ -26,6 +26,7 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [Ladder](https://snapcraft.io/ladder) | v0.0.21.3918cf3 | v0.0.21.3918cf3 | v0.0.21 | ✔ |
 | [MAME](https://snapcraft.io/mame) | mame0263 | mame0263-221-gf65fb7586d9 | mame0263 | ✔ |
 | [MatterBridge](https://snapcraft.io/matterbridge) | v1.26.0 | v1.26.0 | v1.26.0 | ✔ |
+| [Mindustry](https://snapcraft.io/mindustry) | v146 | v146 | v146 | ✔ |
 | [Pencil](https://snapcraft.io/pencil) | 3.1.1 | ^ | 3.1.1 | ✔ |
 | [PioneerSpaceSimulator](https://snapcraft.io/pioneer) | 20240203 | ^ | 20240203 | ✔ |
 | [Rustscan](https://snapcraft.io/rustscan) | 2.1.1 | 2.1.1 | 2.1.1 | ✔ |
@@ -41,7 +42,6 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [iamb](https://snapcraft.io/iamb) | 0.0.8 | b41faff | v0.0.8 | ✖ |
 | [Lapin](https://snapcraft.io/lapin) | a31e5c4 | a6b34c9 | - | ✖ |
 | [Libation](https://snapcraft.io/libation) | 11.1.0 | ^ | v11.3.6 | ✖ |
-| [Mindustry](https://snapcraft.io/mindustry) | 146 | v146 | v146 | ✖ |
 | [ncspot](https://snapcraft.io/ncspot) | 1.1.0 | v1.1.0 | v1.1.0 | ✖ |
 | [Session-Desktop](https://snapcraft.io/session-desktop) | 1.12.0 | ^ | v1.12.0 | ✖ |
 | [SpectrumAnalyser](https://snapcraft.io/spectrum-analyser) | -- | v0.2.0-alpha-master | v0.2.0-alpha | ✖ |
