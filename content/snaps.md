@@ -1,6 +1,6 @@
 +++
 title = "popey snaps"
-date =  2024-03-15T10:57:18Z
+date =  2024-03-15T11:07:01Z
 author = "Alan Pope"
 description = "popeys snap status"
 +++
@@ -11,11 +11,12 @@ I maintain [a few](https://snapcraft.io/publisher/popey) snaps in the [Snap Stor
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 
-### 2024-03-15T10:57:18Z
+### 2024-03-15T11:07:01Z
 | Snap | Stable | Edge | Upstream | OK? |
 | - | - | - | - | - |
 | [Azimuth](https://snapcraft.io/azimuth) | v1.0.3 | v1.0.3 | v1.0.3 | ✔ |
 | [Bandwhich](https://snapcraft.io/bandwhich) | v0.22.2.5f5cc7e | v0.22.2.23d1879 | v0.22.2 | ✔ |
+| [Defold](https://snapcraft.io/defold) | 1.7.0 | ^ | 1.7.0 | ✔ |
 | [Dog](https://snapcraft.io/dog) | v0.1.0 | v0.1.0 | v0.1.0 | ✔ |
 | [DOSBox-Staging](https://snapcraft.io/dosbox-staging) | v0.81.0 | v0.81.0 | v0.81.0 | ✔ |
 | [DynaHack](https://snapcraft.io/dynahack) | v0.6.0 | v0.6.0 | v0.6.0 | ✔ |
@@ -40,7 +41,6 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [B2](https://snapcraft.io/b2) | 20231011-172305-4bd1939 | 20231011-172305-4bd1939 | 20240117-221907-230624c | ✖ |
 | [BombSquad](https://snapcraft.io/bombsquad) | 1.7.28 | 1.7.30 | 1.7.33 | ✖ |
 | [ClassiCube](https://snapcraft.io/classicube) | 1.3.6 | 1.3.6 | - | ✖ |
-| [Defold](https://snapcraft.io/defold) | 1.7.0 | ^ | 1.7.1-alpha | ✖ |
 | [emoj](https://snapcraft.io/emoj) | v3.3.0.e60099d | v3.3.0.e60099d | v4.0.1 | ✖ |
 | [Lapin](https://snapcraft.io/lapin) | a6b34c9 | ^ | - | ✖ |
 | [Libation](https://snapcraft.io/libation) | 11.1.0 | ^ | v11.3.6 | ✖ |
