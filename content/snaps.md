@@ -1,6 +1,6 @@
 +++
 title = "popey snaps"
-date =  2024-03-15T10:44:19Z
+date =  2024-03-15T10:57:18Z
 author = "Alan Pope"
 description = "popeys snap status"
 +++
@@ -11,7 +11,7 @@ I maintain [a few](https://snapcraft.io/publisher/popey) snaps in the [Snap Stor
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 
-### 2024-03-15T10:44:19Z
+### 2024-03-15T10:57:18Z
 | Snap | Stable | Edge | Upstream | OK? |
 | - | - | - | - | - |
 | [Azimuth](https://snapcraft.io/azimuth) | v1.0.3 | v1.0.3 | v1.0.3 | ✔ |
@@ -46,3 +46,15 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [Libation](https://snapcraft.io/libation) | 11.1.0 | ^ | v11.3.6 | ✖ |
 | [SpectrumAnalyser](https://snapcraft.io/spectrum-analyser) | -- | v0.2.0-alpha-master | v0.2.0-alpha | ✖ |
 | [Telegram-Asahi](https://snapcraft.io/telegram-asahi) | 4.15.2      | 4.12.2 | v4.15.4 | ✖ |
+
+### Notes
+
+Some notes about specific apps and why they may not looks like they're updated.
+
+* [b2](https://snapcraft.io/b2): 
+* [BombSquad](https://snapcraft.io/bombsquad): In newer versions the upstream ships a some newer libraries which conflict. This may need to wait for core24
+* [ClassiCube](https://snapcraft.io/classicube): Need to fix the script to get the upstream version correctly.
+* [Defold](https://snapcraft.io/defold): I'm only shipping stable releases in the snap, not alpha/beta releases.
+* [emoj](https://snapcraft.io/emoj): Build error in npm on later releases need investigation.
+* [Libation](https://snapcraft.io/libation): I'm only shipping stable releases in the snap, not pre-release versions. 
+* [Telegram Asahi](https://snapcraft.io/telegram-asahi): Currently manually built in a fresh LXD container for each release, on my MacBook Air. I do keep an eye on upstream but sometimes there's a little delay
