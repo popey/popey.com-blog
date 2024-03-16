@@ -1,6 +1,6 @@
 +++
 title = "popey snaps"
-date =  2024-03-16T15:53:01Z
+date =  2024-03-16T16:01:01Z
 author = "Alan Pope"
 description = "popeys snap status"
 +++
@@ -11,10 +11,9 @@ I maintain [a few](https://snapcraft.io/publisher/popey) snaps in the [Snap Stor
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 
-### 2024-03-16T15:53:01Z
+### 2024-03-16T16:01:01Z
 | Snap | Stable | Edge | Upstream | OK? |
 | - | - | - | - | - |
-| [Telegram-Asahi](https://snapcraft.io/telegram-asahi) |  | | v4.15.2 | ✖ |
 | [Azimuth](https://snapcraft.io/azimuth) | v1.0.3 | v1.0.3 | v1.0.3 | ✔ |
 | [B2](https://snapcraft.io/b2) | b2-20231011-172305-4bd1939 | b2-20231011-172305-4bd1939 | b2-20231011-172305-4bd1939 | ✔ |
 | [Bandwhich](https://snapcraft.io/bandwhich) | v0.22.2.5f5cc7e | v0.22.2.23d1879 | v0.22.2 | ✔ |
@@ -47,6 +46,7 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [Lapin](https://snapcraft.io/lapin) | a6b34c9 | ^ | - | ✖ |
 | [Libation](https://snapcraft.io/libation) | 11.1.0 | ^ | v11.3.6 | ✖ |
 | [SpectrumAnalyser](https://snapcraft.io/spectrum-analyser) | -- | v0.2.0-alpha-master | v0.2.0-alpha | ✖ |
+| [Telegram-Asahi](https://snapcraft.io/telegram-asahi) | 4.15.2      | 4.15.2 | v4.15.2 | ✖ |
 
 ### Notes
 
