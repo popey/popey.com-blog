@@ -1,6 +1,6 @@
 +++
 title = "popey snaps"
-date =  2024-03-16T08:09:30Z
+date =  2024-03-16T09:25:30Z
 author = "Alan Pope"
 description = "popeys snap status"
 +++
@@ -11,7 +11,7 @@ I maintain [a few](https://snapcraft.io/publisher/popey) snaps in the [Snap Stor
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 
-### 2024-03-16T08:09:30Z
+### 2024-03-16T09:25:30Z
 | Snap | Stable | Edge | Upstream | OK? |
 | - | - | - | - | - |
 | [Azimuth](https://snapcraft.io/azimuth) | v1.0.3 | v1.0.3 | v1.0.3 | ✔ |
@@ -33,13 +33,13 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [ncspot](https://snapcraft.io/ncspot) | v1.1.0 | v1.1.0 | v1.1.0 | ✔ |
 | [Pencil](https://snapcraft.io/pencil) | 3.1.1 | ^ | 3.1.1 | ✔ |
 | [PioneerSpaceSimulator](https://snapcraft.io/pioneer) | 20240314 | 20240314 | 20240314 | ✔ |
-| [Rustscan](https://snapcraft.io/rustscan) | 2.1.1 | 2.1.1 | 2.1.1 | ✔ |
+| [Rustscan](https://snapcraft.io/rustscan) | 2.1.1 | 2.1.1-21-g4c933b3 | 2.1.1 | ✔ |
 | [Session-Desktop](https://snapcraft.io/session-desktop) | v1.12.0 | v1.12.0 | v1.12.0 | ✔ |
 | [Shattered-Pixel-Dungeon](https://snapcraft.io/shattered-pixel-dungeon) | v2.3.2 | v2.3.2 | v2.3.2 | ✔ |
 | [Spot](https://snapcraft.io/spot) | 0.4.0 | 0.4.0 | 0.4.0 | ✔ |
 | [Toot](https://snapcraft.io/toot) | 0.42.0 | 0.42.0 | 0.42.0 | ✔ |
 | [TwineJS](https://snapcraft.io/twinejs) | 2.8.1 | 2.8.1 | 2.8.1 | ✔ |
-| [B2](https://snapcraft.io/b2) | 20231011-172305-4bd1939 | 20231011-172305-4bd1939 | 20240117-221907-230624c | ✖ |
+| [B2](https://snapcraft.io/b2) | 20231011-172305-4bd1939 | 20231011-172305-4bd1939 | b2-20231011-172305-4bd1939 | ✖ |
 | [BombSquad](https://snapcraft.io/bombsquad) | 1.7.28 | 1.7.30 | 1.7.33 | ✖ |
 | [ClassiCube](https://snapcraft.io/classicube) | 1.3.6 | 1.3.6 | - | ✖ |
 | [emoj](https://snapcraft.io/emoj) | v3.3.0.e60099d | v3.3.0.e60099d | v4.0.1 | ✖ |
