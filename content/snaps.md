@@ -1,6 +1,6 @@
 +++
 title = "popey snaps"
-date =  2024-03-15T23:32:13Z
+date =  2024-03-16T08:01:03Z
 author = "Alan Pope"
 description = "popeys snap status"
 +++
@@ -11,7 +11,7 @@ I maintain [a few](https://snapcraft.io/publisher/popey) snaps in the [Snap Stor
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 
-### 2024-03-15T23:32:13Z
+### 2024-03-16T08:01:03Z
 | Snap | Stable | Edge | Upstream | OK? |
 | - | - | - | - | - |
 | [Azimuth](https://snapcraft.io/azimuth) | v1.0.3 | v1.0.3 | v1.0.3 | ✔ |
@@ -21,7 +21,7 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [DOSBox-Staging](https://snapcraft.io/dosbox-staging) | v0.81.0 | v0.81.0 | v0.81.0 | ✔ |
 | [DynaHack](https://snapcraft.io/dynahack) | v0.6.0 | v0.6.0 | v0.6.0 | ✔ |
 | [emu2](https://snapcraft.io/emu2) | v2021.01 | v2021.01 | v2021.01 | ✔ |
-| [Fab-Agon-Emulator](https://snapcraft.io/fab-agon-emulator) | 0.9.34 | 8043065 | 0.9.34 | ✔ |
+| [Fab-Agon-Emulator](https://snapcraft.io/fab-agon-emulator) | 0.9.34 | d9d9ccc | 0.9.34 | ✔ |
 | [Forgejo](https://snapcraft.io/forgejo) | v1.21.7-0 | ^ | v1.21.7-0 | ✔ |
 | [iamb](https://snapcraft.io/iamb) | v0.0.8 | v0.0.8 | v0.0.8 | ✔ |
 | [Ladder](https://snapcraft.io/ladder) | v0.0.21.3918cf3 | v0.0.21.3918cf3 | v0.0.21 | ✔ |
@@ -42,7 +42,7 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [BombSquad](https://snapcraft.io/bombsquad) | 1.7.28 | 1.7.30 | 1.7.33 | ✖ |
 | [ClassiCube](https://snapcraft.io/classicube) | 1.3.6 | 1.3.6 | - | ✖ |
 | [emoj](https://snapcraft.io/emoj) | v3.3.0.e60099d | v3.3.0.e60099d | v4.0.1 | ✖ |
-| [halloy](https://snapcraft.io/halloy) | 2024.3.bc4416a | 2024.3.ea3ff04 | 2024.4 | ✖ |
+| [halloy](https://snapcraft.io/halloy) | 2024.3.bc4416a | 2024.4.8378f04 | 2024.4 | ✖ |
 | [Lapin](https://snapcraft.io/lapin) | a6b34c9 | ^ | - | ✖ |
 | [Libation](https://snapcraft.io/libation) | 11.1.0 | ^ | v11.3.6 | ✖ |
 | [SpectrumAnalyser](https://snapcraft.io/spectrum-analyser) | -- | v0.2.0-alpha-master | v0.2.0-alpha | ✖ |
