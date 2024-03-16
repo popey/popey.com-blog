@@ -1,6 +1,6 @@
 +++
 title = "popey snaps"
-date =  2024-03-16T09:53:39Z
+date =  2024-03-16T11:10:04Z
 author = "Alan Pope"
 description = "popeys snap status"
 +++
@@ -11,12 +11,13 @@ I maintain [a few](https://snapcraft.io/publisher/popey) snaps in the [Snap Stor
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 
-### 2024-03-16T09:53:39Z
+### 2024-03-16T11:10:04Z
 | Snap | Stable | Edge | Upstream | OK? |
 | - | - | - | - | - |
 | [Azimuth](https://snapcraft.io/azimuth) | v1.0.3 | v1.0.3 | v1.0.3 | ✔ |
 | [B2](https://snapcraft.io/b2) | b2-20231011-172305-4bd1939 | b2-20231011-172305-4bd1939 | b2-20231011-172305-4bd1939 | ✔ |
 | [Bandwhich](https://snapcraft.io/bandwhich) | v0.22.2.5f5cc7e | v0.22.2.23d1879 | v0.22.2 | ✔ |
+| [BombSquad](https://snapcraft.io/bombsquad) | 1.7.33 | 1.7.33 | 1.7.33 | ✔ |
 | [Defold](https://snapcraft.io/defold) | 1.7.0 | ^ | 1.7.0 | ✔ |
 | [Dog](https://snapcraft.io/dog) | v0.1.0 | v0.1.0 | v0.1.0 | ✔ |
 | [DOSBox-Staging](https://snapcraft.io/dosbox-staging) | v0.81.0 | v0.81.0 | v0.81.0 | ✔ |
@@ -27,7 +28,7 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [halloy](https://snapcraft.io/halloy) | 2024.4.8378f04 | ^ | 2024.4 | ✔ |
 | [iamb](https://snapcraft.io/iamb) | v0.0.8 | v0.0.8 | v0.0.8 | ✔ |
 | [Ladder](https://snapcraft.io/ladder) | v0.0.21.3918cf3 | v0.0.21.3918cf3 | v0.0.21 | ✔ |
-| [MAME](https://snapcraft.io/mame) | mame0263 | mame0263-221-gf65fb7586d9 | mame0263 | ✔ |
+| [MAME](https://snapcraft.io/mame) | mame0263 | mame0263-233-gea8889dc9be | mame0263 | ✔ |
 | [MatterBridge](https://snapcraft.io/matterbridge) | v1.26.0 | v1.26.0 | v1.26.0 | ✔ |
 | [Mindustry](https://snapcraft.io/mindustry) | v146 | v146 | v146 | ✔ |
 | [Monolith](https://snapcraft.io/monolith) | v2.8.1 | v2.8.1 | v2.8.1 | ✔ |
@@ -40,7 +41,6 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [Spot](https://snapcraft.io/spot) | 0.4.0 | 0.4.0 | 0.4.0 | ✔ |
 | [Toot](https://snapcraft.io/toot) | 0.42.0 | 0.42.0 | 0.42.0 | ✔ |
 | [TwineJS](https://snapcraft.io/twinejs) | 2.8.1 | 2.8.1 | 2.8.1 | ✔ |
-| [BombSquad](https://snapcraft.io/bombsquad) | 1.7.28 | 1.7.30 | 1.7.33 | ✖ |
 | [ClassiCube](https://snapcraft.io/classicube) | 1.3.6 | 1.3.6 | - | ✖ |
 | [emoj](https://snapcraft.io/emoj) | v3.3.0.e60099d | v3.3.0.e60099d | v4.0.1 | ✖ |
 | [Lapin](https://snapcraft.io/lapin) | a6b34c9 | ^ | - | ✖ |
@@ -52,8 +52,6 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 
 Some notes about specific apps and why they may not looks like they're updated.
 
-* [b2](https://snapcraft.io/b2): 
-* [BombSquad](https://snapcraft.io/bombsquad): In newer versions the upstream ships a some newer libraries which conflict. This may need to wait for core24
 * [ClassiCube](https://snapcraft.io/classicube): Need to fix the script to get the upstream version correctly.
 * [Defold](https://snapcraft.io/defold): I'm only shipping stable releases in the snap, not alpha/beta releases.
 * [emoj](https://snapcraft.io/emoj): Build error in npm on later releases need investigation.
