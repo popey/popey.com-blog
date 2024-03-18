@@ -1,6 +1,6 @@
 +++
 title = "popey snaps"
-date =  2024-03-18T08:00:01Z
+date =  2024-03-18T09:00:01Z
 author = "Alan Pope"
 description = "popeys snap status"
 +++
@@ -11,7 +11,7 @@ I maintain [a few](https://snapcraft.io/publisher/popey) snaps in the [Snap Stor
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 
-### 2024-03-18T08:00:01Z
+### 2024-03-18T09:00:01Z
 | Snap | Stable | Edge | Upstream | OK? |
 | - | - | - | - | - |
 | [Azimuth](https://snapcraft.io/azimuth) | v1.0.3 | v1.0.3 | v1.0.3 | ✔ |
@@ -52,7 +52,6 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 
 Some notes about specific apps and why they may not looks like they're updated.
 
-* [ClassiCube](https://snapcraft.io/classicube): Need to fix the script to get the upstream version correctly.
 * [Defold](https://snapcraft.io/defold): I'm only shipping stable releases in the snap, not alpha/beta releases.
 * [emoj](https://snapcraft.io/emoj): Build error in npm on later releases need investigation.
 * [Libation](https://snapcraft.io/libation): I'm only shipping stable releases in the snap, not pre-release versions. 
