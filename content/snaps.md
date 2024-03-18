@@ -1,6 +1,6 @@
 +++
 title = "popey snaps"
-date =  2024-03-18T06:00:01Z
+date =  2024-03-18T07:00:01Z
 author = "Alan Pope"
 description = "popeys snap status"
 +++
@@ -11,7 +11,7 @@ I maintain [a few](https://snapcraft.io/publisher/popey) snaps in the [Snap Stor
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 
-### 2024-03-18T06:00:01Z
+### 2024-03-18T07:00:01Z
 | Snap | Stable | Edge | Upstream | OK? |
 | - | - | - | - | - |
 | [Azimuth](https://snapcraft.io/azimuth) | v1.0.3 | v1.0.3 | v1.0.3 | ✔ |
