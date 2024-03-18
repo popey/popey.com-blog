@@ -1,6 +1,6 @@
 +++
 title = "popey snaps"
-date =  2024-03-18T10:00:01Z
+date =  2024-03-18T11:00:01Z
 author = "Alan Pope"
 description = "popeys snap status"
 +++
@@ -11,7 +11,7 @@ I maintain [a few](https://snapcraft.io/publisher/popey) snaps in the [Snap Stor
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 
-### 2024-03-18T10:00:01Z
+### 2024-03-18T11:00:01Z
 | Snap | Stable | Edge | Upstream | OK? |
 | - | - | - | - | - |
 | [Azimuth](https://snapcraft.io/azimuth) | v1.0.3 | v1.0.3 | v1.0.3 | ✔ |
@@ -29,7 +29,7 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [halloy](https://snapcraft.io/halloy) | 2024.4.8378f04 | ^ | 2024.4 | ✔ |
 | [iamb](https://snapcraft.io/iamb) | v0.0.8 | v0.0.8 | v0.0.8 | ✔ |
 | [Ladder](https://snapcraft.io/ladder) | v0.0.21.3918cf3 | v0.0.21.3918cf3 | v0.0.21 | ✔ |
-| [MAME](https://snapcraft.io/mame) | mame0263 | mame0263-233-gea8889dc9be | mame0263 | ✔ |
+| [MAME](https://snapcraft.io/mame) | mame0263 | mame0263-249-g37c9b6ec807 | mame0263 | ✔ |
 | [MatterBridge](https://snapcraft.io/matterbridge) | v1.26.0 | v1.26.0 | v1.26.0 | ✔ |
 | [Mindustry](https://snapcraft.io/mindustry) | v146 | v146 | v146 | ✔ |
 | [Monolith](https://snapcraft.io/monolith) | v2.8.1 | v2.8.1 | v2.8.1 | ✔ |
