@@ -137,7 +137,7 @@ squashfs-root/
 
 ```
 
-Here's the `snapcraft.yaml` used to build the package. Note it needs nextwork access, unsurprisingly.
+Here's the `snapcraft.yaml` used to build the package. Note it needs network access, unsurprisingly.
 
 ```yaml
 name: exodus-build-96567 # you probably want to 'snapcraft register <name>'
