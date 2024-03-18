@@ -14,7 +14,7 @@ The snap was *eventually* [removed](/blog/2024/02/exodus-bitcoin-wallet-follow-u
 
 ## Groundhog Day
 
-Nothing has changed it seems, because once again, **another** scam BitCoin wallet app has been published in the Snap Store today.
+Nothing has changed it seems, because once again, **ANOTHER** **TEN** scam BitCoin wallet apps have been published in the Snap Store today.
 
 [![You're joking! Not another one!](/blog/images/2024-03-18/not-another-one.gif)](https://www.youtube.com/watch?v=H6-IQAdFU3w)
 
