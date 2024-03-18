@@ -22,6 +22,10 @@ Yes, Brenda!
 
 This one has the snappy (sorry) name of `exodus-build-96567` published by that not-very-legit looking publisher `digisafe00000`. Uh-huh.
 
+**Edit**: Initially I wrote this post after analysing one of the snaps I stumbled upon. It's been pointed out there's a whole bunch under this account. All with popular cryto wallet brand names.
+
+[![Publisher digisafe00000](/blog/images/2024-03-18/publisher-1.png)](/blog/images/2024-03-18/publisher-1_50.png)
+
 There's no indication this is the same developer as the last scam Exodus Wallet snap published in February, or the one published back in November last year. 
 
 ## Presentation
