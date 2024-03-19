@@ -26,6 +26,10 @@ This one has the snappy (sorry) name of `exodus-build-96567` published by that n
 
 [![Publisher digisafe00000](/blog/images/2024-03-18/publisher-1.png)](/blog/images/2024-03-18/publisher-1_50.png)
 
+**Edit**: These were removed. **One day later**, they popped up **again**, under a new account. I reported all of them, and pinged someone at Canonical to get them removed. 
+
+[![Publisher codeshield0x0000](/blog/images/2024-03-19/codeshield0x0000.png)](/blog/images/2024-03-19/codeshield0x0000_50.png)
+
 There's no indication this is the same developer as the last scam Exodus Wallet snap published in February, or the one published back in November last year. 
 
 ## Presentation
