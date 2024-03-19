@@ -269,6 +269,8 @@ I brought the network up, ran Wireshark then launched the rogue application agai
 
 [![Wireshark](/blog/images/2024-03-18/wireshark-1_50.png)](/blog/images/2024-03-18/wireshark-1.png)
 
+**Edit**: I reported this IP to Hostinger abuse, which they took down on 19th March.
+
 The javascript is pretty simple. It has a dictionary of words which are allowed in a recovery key. Here's a snippet.
 
 ```javascript
