@@ -8,7 +8,8 @@ description = "Install base of popey's snaps"
 
 ## popey's snap charts
 
-These charts show the userbase of snaps I publish in the snap store over the last 30 days. They show the usage by country, version, OS (Linux distro) and channel. The first three only show up to 25 entries for each category. ## azimuth
+These charts show the userbase of snaps I publish in the snap store over the last 30 days. They show the usage by country, version, OS (Linux distro) and channel. The first three only show up to 25 entries for each category. 
+## azimuth
 ### Installed base by  OS
 ![Installed base by OS](/blog/images/snap_charts/azimuth-OS.png)
 ### Installed base by  Channel
