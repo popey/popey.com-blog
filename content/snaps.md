@@ -11,14 +11,14 @@ I maintain [a few](https://snapcraft.io/publisher/popey) snaps in the [Snap Stor
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 
-### 2024-03-20T07:00:01Z
+### 2024-03-20T08:00:01Z
 | Snap | Stable | Edge | Upstream | OK? |
 | - | - | - | - | - |
 | [Azimuth](https://snapcraft.io/azimuth) | v1.0.3 | v1.0.3 | v1.0.3 | ✔ |
 | [B2](https://snapcraft.io/b2) | b2-20231011-172305-4bd1939 | b2-20231011-172305-4bd1939 | b2-20231011-172305-4bd1939 | ✔ |
 | [Bandwhich](https://snapcraft.io/bandwhich) | v0.22.2.5f5cc7e | v0.22.2.1997bce | v0.22.2 | ✔ |
 | [BombSquad](https://snapcraft.io/bombsquad) | 1.7.33 | 1.7.33 | 1.7.33 | ✔ |
-| [ClassiCube](https://snapcraft.io/classicube) | 1.3.6 | 1.3.6-343-g0991c0707 | 1.3.6 | ✔ |
+| [ClassiCube](https://snapcraft.io/classicube) | 1.3.6 | 1.3.6-349-g1966c551e | 1.3.6 | ✔ |
 | [Defold](https://snapcraft.io/defold) | 1.7.0 | ^ | 1.7.0 | ✔ |
 | [Dog](https://snapcraft.io/dog) | v0.1.0 | v0.1.0 | v0.1.0 | ✔ |
 | [DOSBox-Staging](https://snapcraft.io/dosbox-staging) | v0.81.0 | v0.81.0 | v0.81.0 | ✔ |
