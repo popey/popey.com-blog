@@ -11,7 +11,7 @@ I maintain [a few](https://snapcraft.io/publisher/popey) snaps in the [Snap Stor
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 
-### 2024-03-21T15:00:01Z
+### 2024-03-21T16:00:01Z
 | Snap | Stable | Edge | Upstream | OK? |
 | - | - | - | - | - |
 | [Azimuth](https://snapcraft.io/azimuth) | v1.0.3 | v1.0.3 | v1.0.3 | ✔ |
@@ -42,7 +42,7 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [Toot](https://snapcraft.io/toot) | 0.42.0 | 0.42.0 | 0.42.0 | ✔ |
 | [TwineJS](https://snapcraft.io/twinejs) | 2.8.1 | 2.8.1 | 2.8.1 | ✔ |
 | [emoj](https://snapcraft.io/emoj) | v3.3.0.e60099d | v3.3.0.e60099d | v4.0.1 | ✖ |
-| [halloy](https://snapcraft.io/halloy) | 2024.4.8378f04 | 2024.4.2f1f82e | 2024.5 | ✖ |
+| [halloy](https://snapcraft.io/halloy) | 2024.4.8378f04 | 2024.5.40b9a8c | 2024.5 | ✖ |
 | [Lapin](https://snapcraft.io/lapin) | a6b34c9 | ^ | - | ✖ |
 | [Libation](https://snapcraft.io/libation) | 11.1.0 | ^ | v11.3.6 | ✖ |
 | [SpectrumAnalyser](https://snapcraft.io/spectrum-analyser) | -- | v0.2.0-alpha-master | v0.2.0-alpha | ✖ |
