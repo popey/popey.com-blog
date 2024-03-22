@@ -36,29 +36,38 @@ paginate = 20
 
 [Permalinks]
     post = "/:year/:month/:filename/"
+
+[[menu.main]]
+    url = "about"
+    name = "About"
+    weight = 3
+
+[[menu.main]]
+    url = "contact"
+    name = "Contact"
+    weight = 4
+
+[[menu.main]]
+    url = "links"
+    name = "Links"
+    weight = 5
+
+[[menu.main]]
+    url = "snaps"
+    name = "Snaps"
+    weight = 6
+
+[[menu.main]]
+    url = "charts"
+    name = "Charts"
+    weight = 7
+
+[[menu.main]]
+    url = "index.xml"
+    name = "RSS"
+    weight = 8
     
 [[menu.main]]
     url = "https://github.com/popey/popey.com-blog"
     name = "Site Source"
     weight = 9
-
-[[menu.main]]
-    url = "about"
-    name = "About"
-    weight = 6
-
-[[menu.main]]
-    url = "contact"
-    name = "Contact"
-    weight = 7
-
-[[menu.main]]
-    url = "links"
-    name = "Links"
-    weight = 8
-
-[[menu.main]]
-    url = "index.xml"
-    name = "RSS"
-    weight = 9
-
