@@ -7,12 +7,13 @@ description = "popeys snap status"
 
 ## popey's snap status
 
-I maintain [a few](https://snapcraft.io/publisher/popey) snaps in the [Snap Store](https://snapcraft.io). This page is generated periodically so I can keep an eye on the updatedness of each one. The script isn't perfect, and doesn't monitor them all. It's a whole thing I need to maintain and update. 
+I maintain [a few](https://snapcraft.io/publisher/popey) snaps in the [Snap Store](https://snapcraft.io). This page is generated periodically so I can keep an eye on the updatedness of each one. The script isn't perfect, and doesn't monitor them all. It's a whole thing I need to maintain and update. I should move this to a GitHub Action at some point.
+
+There's also the [charts](/blog/charts) page which shows how many weekly active devices each of these snaps has, which OS they're installed on, and which countries they're installed from.
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 
-### Fri Mar 22 10:00:01 AM GMT 2024
-| Snap | Stable | Edge | Upstream | OK? |
+### Fri Mar 22 11:00:02 AM GMT 2024
 | - | - | - | - | - |
 | [Azimuth](https://snapcraft.io/azimuth) | v1.0.3 | v1.0.3 | v1.0.3 | ✔ |
 | [B2](https://snapcraft.io/b2) | b2-20231011-172305-4bd1939 | b2-20231011-172305-4bd1939 | b2-20231011-172305-4bd1939 | ✔ |
@@ -29,7 +30,7 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [halloy](https://snapcraft.io/halloy) | 2024.5.40b9a8c | 2024.5.40b9a8c | 2024.5 | ✔ |
 | [iamb](https://snapcraft.io/iamb) | v0.0.8 | v0.0.8-45-g0c52375 | v0.0.8 | ✔ |
 | [Ladder](https://snapcraft.io/ladder) | v0.0.21.3918cf3 | v0.0.21.3918cf3 | v0.0.21 | ✔ |
-| [MAME](https://snapcraft.io/mame) | mame0263 | mame0263-284-g23c469a76bf | mame0263 | ✔ |
+| [MAME](https://snapcraft.io/mame) | mame0263 | mame0263-304-g5f8eb3197ac | mame0263 | ✔ |
 | [MatterBridge](https://snapcraft.io/matterbridge) | v1.26.0 | v1.26.0 | v1.26.0 | ✔ |
 | [Mindustry](https://snapcraft.io/mindustry) | v146 | v146 | v146 | ✔ |
 | [Monolith](https://snapcraft.io/monolith) | v2.8.1 | v2.8.1 | v2.8.1 | ✔ |
@@ -47,6 +48,7 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [Libation](https://snapcraft.io/libation) | 11.1.0 | ^ | v11.3.6 | ✖ |
 | [SpectrumAnalyser](https://snapcraft.io/spectrum-analyser) | -- | v0.2.0-alpha-master | v0.2.0-alpha | ✖ |
 | [Telegram-Asahi](https://snapcraft.io/telegram-asahi) | 4.15.2      | 4.15.2 | v4.15.2 | ✖ |
+| Snap | Stable | Edge | Upstream | OK? |
 
 ### Notes
 
