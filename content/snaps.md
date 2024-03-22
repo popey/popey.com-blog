@@ -11,7 +11,7 @@ I maintain [a few](https://snapcraft.io/publisher/popey) snaps in the [Snap Stor
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 
-### Fri Mar 22 05:00:02 AM GMT 2024
+### Fri Mar 22 06:00:02 AM GMT 2024
 | Snap | Stable | Edge | Upstream | OK? |
 | - | - | - | - | - |
 | [Azimuth](https://snapcraft.io/azimuth) | v1.0.3 | v1.0.3 | v1.0.3 | ✔ |
@@ -27,7 +27,7 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [Fab-Agon-Emulator](https://snapcraft.io/fab-agon-emulator) | 0.9.34 | d9d9ccc | 0.9.34 | ✔ |
 | [Forgejo](https://snapcraft.io/forgejo) | v1.21.7-0 | ^ | v1.21.7-0 | ✔ |
 | [halloy](https://snapcraft.io/halloy) | 2024.5.40b9a8c | 2024.5.40b9a8c | 2024.5 | ✔ |
-| [iamb](https://snapcraft.io/iamb) | v0.0.8 | v0.0.8-41-g9c6ff58 | v0.0.8 | ✔ |
+| [iamb](https://snapcraft.io/iamb) | v0.0.8 | v0.0.8-45-g0c52375 | v0.0.8 | ✔ |
 | [Ladder](https://snapcraft.io/ladder) | v0.0.21.3918cf3 | v0.0.21.3918cf3 | v0.0.21 | ✔ |
 | [MAME](https://snapcraft.io/mame) | mame0263 | mame0263-284-g23c469a76bf | mame0263 | ✔ |
 | [MatterBridge](https://snapcraft.io/matterbridge) | v1.26.0 | v1.26.0 | v1.26.0 | ✔ |
