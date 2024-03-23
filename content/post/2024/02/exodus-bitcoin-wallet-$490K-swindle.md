@@ -555,6 +555,7 @@ These suggestions are to reduce the opportunity for a bad actor to publish a sim
 
 * Mandate & verify that all published applications using financial and/or cryptocurrency branding are officially published directly by the upstream developers
 * Change the store so **all** initial Snapcraft store name registrations are gated behind human review
+  * This is [now done](https://forum.snapcraft.io/t/manual-review-of-all-new-snap-name-registrations/39440?u=popey) 🥳 
 * Gate the first month of a new snap uploads behind human review
 * Block *all* interface connection requests behind a human review, including automatically connected ones like `network` and `home`
 * Fully staff the team doing the above to respond to registration, interface connection and upload requests in a timely fashion
