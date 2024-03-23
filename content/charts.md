@@ -10,752 +10,819 @@ description = "Install base of popey's snaps"
 
 These charts show the userbase of snaps I publish in the snap store over the last 30 days. They show the usage by country, version, OS (Linux distro) and channel. The first three only show up to 25 entries for each category. 
 
-#### Fri 22 Mar 03:00:02 GMT 2024
+There's also the [snaps](/blog/snaps) page which lists all the snaps I maintain with their versions, and whether they're in sync with upstream releases. 
+#### Sat 23 Mar 03:00:01 GMT 2024
 
 # azimuth
 
-## Installed base by  OS
+## Install base by  OS ( azimuth )
 
-[![Installed base by OS](/blog/images/snap_charts/azimuth-OS-50.png)](/blog/images/snap_charts/azimuth-OS.png)
-
-
-## Installed base by  Channel
-
-[![Installed base by Channel](/blog/images/snap_charts/azimuth-Channel-50.png)](/blog/images/snap_charts/azimuth-Channel.png)
+[![Install base by OS](/blog/images/snap_charts/azimuth-OS-50.png)](/blog/images/snap_charts/azimuth-OS.png)
 
 
-## Installed base by  Version
+## Install base by  Channel ( azimuth )
 
-[![Installed base by Version](/blog/images/snap_charts/azimuth-Version-50.png)](/blog/images/snap_charts/azimuth-Version.png)
+[![Install base by Channel](/blog/images/snap_charts/azimuth-Channel-50.png)](/blog/images/snap_charts/azimuth-Channel.png)
 
 
-## Installed base by  Country
+## Install base by  Version ( azimuth )
 
-[![Installed base by Country](/blog/images/snap_charts/azimuth-Country-50.png)](/blog/images/snap_charts/azimuth-Country.png)
+[![Install base by Version](/blog/images/snap_charts/azimuth-Version-50.png)](/blog/images/snap_charts/azimuth-Version.png)
+
+
+## Install base by  Country ( azimuth )
+
+[![Install base by Country](/blog/images/snap_charts/azimuth-Country-50.png)](/blog/images/snap_charts/azimuth-Country.png)
 
 
 # b2
 
-## Installed base by  OS
+## Install base by  OS ( b2 )
 
-[![Installed base by OS](/blog/images/snap_charts/b2-OS-50.png)](/blog/images/snap_charts/b2-OS.png)
-
-
-## Installed base by  Channel
-
-[![Installed base by Channel](/blog/images/snap_charts/b2-Channel-50.png)](/blog/images/snap_charts/b2-Channel.png)
+[![Install base by OS](/blog/images/snap_charts/b2-OS-50.png)](/blog/images/snap_charts/b2-OS.png)
 
 
-## Installed base by  Version
+## Install base by  Channel ( b2 )
 
-[![Installed base by Version](/blog/images/snap_charts/b2-Version-50.png)](/blog/images/snap_charts/b2-Version.png)
+[![Install base by Channel](/blog/images/snap_charts/b2-Channel-50.png)](/blog/images/snap_charts/b2-Channel.png)
 
 
-## Installed base by  Country
+## Install base by  Version ( b2 )
 
-[![Installed base by Country](/blog/images/snap_charts/b2-Country-50.png)](/blog/images/snap_charts/b2-Country.png)
+[![Install base by Version](/blog/images/snap_charts/b2-Version-50.png)](/blog/images/snap_charts/b2-Version.png)
+
+
+## Install base by  Country ( b2 )
+
+[![Install base by Country](/blog/images/snap_charts/b2-Country-50.png)](/blog/images/snap_charts/b2-Country.png)
 
 
 # bandwhich
 
-## Installed base by  OS
+## Install base by  OS ( bandwhich )
 
-[![Installed base by OS](/blog/images/snap_charts/bandwhich-OS-50.png)](/blog/images/snap_charts/bandwhich-OS.png)
-
-
-## Installed base by  Channel
-
-[![Installed base by Channel](/blog/images/snap_charts/bandwhich-Channel-50.png)](/blog/images/snap_charts/bandwhich-Channel.png)
+[![Install base by OS](/blog/images/snap_charts/bandwhich-OS-50.png)](/blog/images/snap_charts/bandwhich-OS.png)
 
 
-## Installed base by  Version
+## Install base by  Channel ( bandwhich )
 
-[![Installed base by Version](/blog/images/snap_charts/bandwhich-Version-50.png)](/blog/images/snap_charts/bandwhich-Version.png)
+[![Install base by Channel](/blog/images/snap_charts/bandwhich-Channel-50.png)](/blog/images/snap_charts/bandwhich-Channel.png)
 
 
-## Installed base by  Country
+## Install base by  Version ( bandwhich )
 
-[![Installed base by Country](/blog/images/snap_charts/bandwhich-Country-50.png)](/blog/images/snap_charts/bandwhich-Country.png)
+[![Install base by Version](/blog/images/snap_charts/bandwhich-Version-50.png)](/blog/images/snap_charts/bandwhich-Version.png)
+
+
+## Install base by  Country ( bandwhich )
+
+[![Install base by Country](/blog/images/snap_charts/bandwhich-Country-50.png)](/blog/images/snap_charts/bandwhich-Country.png)
 
 
 # bombsquad
 
-## Installed base by  OS
+## Install base by  OS ( bombsquad )
 
-[![Installed base by OS](/blog/images/snap_charts/bombsquad-OS-50.png)](/blog/images/snap_charts/bombsquad-OS.png)
-
-
-## Installed base by  Channel
-
-[![Installed base by Channel](/blog/images/snap_charts/bombsquad-Channel-50.png)](/blog/images/snap_charts/bombsquad-Channel.png)
+[![Install base by OS](/blog/images/snap_charts/bombsquad-OS-50.png)](/blog/images/snap_charts/bombsquad-OS.png)
 
 
-## Installed base by  Version
+## Install base by  Channel ( bombsquad )
 
-[![Installed base by Version](/blog/images/snap_charts/bombsquad-Version-50.png)](/blog/images/snap_charts/bombsquad-Version.png)
+[![Install base by Channel](/blog/images/snap_charts/bombsquad-Channel-50.png)](/blog/images/snap_charts/bombsquad-Channel.png)
 
 
-## Installed base by  Country
+## Install base by  Version ( bombsquad )
 
-[![Installed base by Country](/blog/images/snap_charts/bombsquad-Country-50.png)](/blog/images/snap_charts/bombsquad-Country.png)
+[![Install base by Version](/blog/images/snap_charts/bombsquad-Version-50.png)](/blog/images/snap_charts/bombsquad-Version.png)
+
+
+## Install base by  Country ( bombsquad )
+
+[![Install base by Country](/blog/images/snap_charts/bombsquad-Country-50.png)](/blog/images/snap_charts/bombsquad-Country.png)
 
 
 # classicube
 
-## Installed base by  OS
+## Install base by  OS ( classicube )
 
-[![Installed base by OS](/blog/images/snap_charts/classicube-OS-50.png)](/blog/images/snap_charts/classicube-OS.png)
-
-
-## Installed base by  Channel
-
-[![Installed base by Channel](/blog/images/snap_charts/classicube-Channel-50.png)](/blog/images/snap_charts/classicube-Channel.png)
+[![Install base by OS](/blog/images/snap_charts/classicube-OS-50.png)](/blog/images/snap_charts/classicube-OS.png)
 
 
-## Installed base by  Version
+## Install base by  Channel ( classicube )
 
-[![Installed base by Version](/blog/images/snap_charts/classicube-Version-50.png)](/blog/images/snap_charts/classicube-Version.png)
+[![Install base by Channel](/blog/images/snap_charts/classicube-Channel-50.png)](/blog/images/snap_charts/classicube-Channel.png)
 
 
-## Installed base by  Country
+## Install base by  Version ( classicube )
 
-[![Installed base by Country](/blog/images/snap_charts/classicube-Country-50.png)](/blog/images/snap_charts/classicube-Country.png)
+[![Install base by Version](/blog/images/snap_charts/classicube-Version-50.png)](/blog/images/snap_charts/classicube-Version.png)
+
+
+## Install base by  Country ( classicube )
+
+[![Install base by Country](/blog/images/snap_charts/classicube-Country-50.png)](/blog/images/snap_charts/classicube-Country.png)
 
 
 # defold
 
-## Installed base by  OS
+## Install base by  OS ( defold )
 
-[![Installed base by OS](/blog/images/snap_charts/defold-OS-50.png)](/blog/images/snap_charts/defold-OS.png)
-
-
-## Installed base by  Channel
-
-[![Installed base by Channel](/blog/images/snap_charts/defold-Channel-50.png)](/blog/images/snap_charts/defold-Channel.png)
+[![Install base by OS](/blog/images/snap_charts/defold-OS-50.png)](/blog/images/snap_charts/defold-OS.png)
 
 
-## Installed base by  Version
+## Install base by  Channel ( defold )
 
-[![Installed base by Version](/blog/images/snap_charts/defold-Version-50.png)](/blog/images/snap_charts/defold-Version.png)
+[![Install base by Channel](/blog/images/snap_charts/defold-Channel-50.png)](/blog/images/snap_charts/defold-Channel.png)
 
 
-## Installed base by  Country
+## Install base by  Version ( defold )
 
-[![Installed base by Country](/blog/images/snap_charts/defold-Country-50.png)](/blog/images/snap_charts/defold-Country.png)
+[![Install base by Version](/blog/images/snap_charts/defold-Version-50.png)](/blog/images/snap_charts/defold-Version.png)
+
+
+## Install base by  Country ( defold )
+
+[![Install base by Country](/blog/images/snap_charts/defold-Country-50.png)](/blog/images/snap_charts/defold-Country.png)
 
 
 # dog
 
-## Installed base by  OS
+## Install base by  OS ( dog )
 
-[![Installed base by OS](/blog/images/snap_charts/dog-OS-50.png)](/blog/images/snap_charts/dog-OS.png)
-
-
-## Installed base by  Channel
-
-[![Installed base by Channel](/blog/images/snap_charts/dog-Channel-50.png)](/blog/images/snap_charts/dog-Channel.png)
+[![Install base by OS](/blog/images/snap_charts/dog-OS-50.png)](/blog/images/snap_charts/dog-OS.png)
 
 
-## Installed base by  Version
+## Install base by  Channel ( dog )
 
-[![Installed base by Version](/blog/images/snap_charts/dog-Version-50.png)](/blog/images/snap_charts/dog-Version.png)
+[![Install base by Channel](/blog/images/snap_charts/dog-Channel-50.png)](/blog/images/snap_charts/dog-Channel.png)
 
 
-## Installed base by  Country
+## Install base by  Version ( dog )
 
-[![Installed base by Country](/blog/images/snap_charts/dog-Country-50.png)](/blog/images/snap_charts/dog-Country.png)
+[![Install base by Version](/blog/images/snap_charts/dog-Version-50.png)](/blog/images/snap_charts/dog-Version.png)
+
+
+## Install base by  Country ( dog )
+
+[![Install base by Country](/blog/images/snap_charts/dog-Country-50.png)](/blog/images/snap_charts/dog-Country.png)
 
 
 # emoj
 
-## Installed base by  OS
+## Install base by  OS ( emoj )
 
-[![Installed base by OS](/blog/images/snap_charts/emoj-OS-50.png)](/blog/images/snap_charts/emoj-OS.png)
-
-
-## Installed base by  Channel
-
-[![Installed base by Channel](/blog/images/snap_charts/emoj-Channel-50.png)](/blog/images/snap_charts/emoj-Channel.png)
+[![Install base by OS](/blog/images/snap_charts/emoj-OS-50.png)](/blog/images/snap_charts/emoj-OS.png)
 
 
-## Installed base by  Version
+## Install base by  Channel ( emoj )
 
-[![Installed base by Version](/blog/images/snap_charts/emoj-Version-50.png)](/blog/images/snap_charts/emoj-Version.png)
+[![Install base by Channel](/blog/images/snap_charts/emoj-Channel-50.png)](/blog/images/snap_charts/emoj-Channel.png)
 
 
-## Installed base by  Country
+## Install base by  Version ( emoj )
 
-[![Installed base by Country](/blog/images/snap_charts/emoj-Country-50.png)](/blog/images/snap_charts/emoj-Country.png)
+[![Install base by Version](/blog/images/snap_charts/emoj-Version-50.png)](/blog/images/snap_charts/emoj-Version.png)
+
+
+## Install base by  Country ( emoj )
+
+[![Install base by Country](/blog/images/snap_charts/emoj-Country-50.png)](/blog/images/snap_charts/emoj-Country.png)
 
 
 # forgejo
 
-## Installed base by  OS
+## Install base by  OS ( forgejo )
 
-[![Installed base by OS](/blog/images/snap_charts/forgejo-OS-50.png)](/blog/images/snap_charts/forgejo-OS.png)
-
-
-## Installed base by  Channel
-
-[![Installed base by Channel](/blog/images/snap_charts/forgejo-Channel-50.png)](/blog/images/snap_charts/forgejo-Channel.png)
+[![Install base by OS](/blog/images/snap_charts/forgejo-OS-50.png)](/blog/images/snap_charts/forgejo-OS.png)
 
 
-## Installed base by  Version
+## Install base by  Channel ( forgejo )
 
-[![Installed base by Version](/blog/images/snap_charts/forgejo-Version-50.png)](/blog/images/snap_charts/forgejo-Version.png)
+[![Install base by Channel](/blog/images/snap_charts/forgejo-Channel-50.png)](/blog/images/snap_charts/forgejo-Channel.png)
 
 
-## Installed base by  Country
+## Install base by  Version ( forgejo )
 
-[![Installed base by Country](/blog/images/snap_charts/forgejo-Country-50.png)](/blog/images/snap_charts/forgejo-Country.png)
+[![Install base by Version](/blog/images/snap_charts/forgejo-Version-50.png)](/blog/images/snap_charts/forgejo-Version.png)
+
+
+## Install base by  Country ( forgejo )
+
+[![Install base by Country](/blog/images/snap_charts/forgejo-Country-50.png)](/blog/images/snap_charts/forgejo-Country.png)
 
 
 # hey-morty-wubba-lubba-dub-dub
 
-## Installed base by  OS
+## Install base by  OS ( hey-morty-wubba-lubba-dub-dub )
 
-[![Installed base by OS](/blog/images/snap_charts/hey-morty-wubba-lubba-dub-dub-OS-50.png)](/blog/images/snap_charts/hey-morty-wubba-lubba-dub-dub-OS.png)
-
-
-## Installed base by  Channel
-
-[![Installed base by Channel](/blog/images/snap_charts/hey-morty-wubba-lubba-dub-dub-Channel-50.png)](/blog/images/snap_charts/hey-morty-wubba-lubba-dub-dub-Channel.png)
+[![Install base by OS](/blog/images/snap_charts/hey-morty-wubba-lubba-dub-dub-OS-50.png)](/blog/images/snap_charts/hey-morty-wubba-lubba-dub-dub-OS.png)
 
 
-## Installed base by  Version
+## Install base by  Channel ( hey-morty-wubba-lubba-dub-dub )
 
-[![Installed base by Version](/blog/images/snap_charts/hey-morty-wubba-lubba-dub-dub-Version-50.png)](/blog/images/snap_charts/hey-morty-wubba-lubba-dub-dub-Version.png)
+[![Install base by Channel](/blog/images/snap_charts/hey-morty-wubba-lubba-dub-dub-Channel-50.png)](/blog/images/snap_charts/hey-morty-wubba-lubba-dub-dub-Channel.png)
 
 
-## Installed base by  Country
+## Install base by  Version ( hey-morty-wubba-lubba-dub-dub )
 
-[![Installed base by Country](/blog/images/snap_charts/hey-morty-wubba-lubba-dub-dub-Country-50.png)](/blog/images/snap_charts/hey-morty-wubba-lubba-dub-dub-Country.png)
+[![Install base by Version](/blog/images/snap_charts/hey-morty-wubba-lubba-dub-dub-Version-50.png)](/blog/images/snap_charts/hey-morty-wubba-lubba-dub-dub-Version.png)
+
+
+## Install base by  Country ( hey-morty-wubba-lubba-dub-dub )
+
+[![Install base by Country](/blog/images/snap_charts/hey-morty-wubba-lubba-dub-dub-Country-50.png)](/blog/images/snap_charts/hey-morty-wubba-lubba-dub-dub-Country.png)
 
 
 # ladder
 
-## Installed base by  OS
+## Install base by  OS ( ladder )
 
-[![Installed base by OS](/blog/images/snap_charts/ladder-OS-50.png)](/blog/images/snap_charts/ladder-OS.png)
-
-
-## Installed base by  Channel
-
-[![Installed base by Channel](/blog/images/snap_charts/ladder-Channel-50.png)](/blog/images/snap_charts/ladder-Channel.png)
+[![Install base by OS](/blog/images/snap_charts/ladder-OS-50.png)](/blog/images/snap_charts/ladder-OS.png)
 
 
-## Installed base by  Version
+## Install base by  Channel ( ladder )
 
-[![Installed base by Version](/blog/images/snap_charts/ladder-Version-50.png)](/blog/images/snap_charts/ladder-Version.png)
+[![Install base by Channel](/blog/images/snap_charts/ladder-Channel-50.png)](/blog/images/snap_charts/ladder-Channel.png)
 
 
-## Installed base by  Country
+## Install base by  Version ( ladder )
 
-[![Installed base by Country](/blog/images/snap_charts/ladder-Country-50.png)](/blog/images/snap_charts/ladder-Country.png)
+[![Install base by Version](/blog/images/snap_charts/ladder-Version-50.png)](/blog/images/snap_charts/ladder-Version.png)
+
+
+## Install base by  Country ( ladder )
+
+[![Install base by Country](/blog/images/snap_charts/ladder-Country-50.png)](/blog/images/snap_charts/ladder-Country.png)
 
 
 # libation
 
-## Installed base by  OS
+## Install base by  OS ( libation )
 
-[![Installed base by OS](/blog/images/snap_charts/libation-OS-50.png)](/blog/images/snap_charts/libation-OS.png)
-
-
-## Installed base by  Channel
-
-[![Installed base by Channel](/blog/images/snap_charts/libation-Channel-50.png)](/blog/images/snap_charts/libation-Channel.png)
+[![Install base by OS](/blog/images/snap_charts/libation-OS-50.png)](/blog/images/snap_charts/libation-OS.png)
 
 
-## Installed base by  Version
+## Install base by  Channel ( libation )
 
-[![Installed base by Version](/blog/images/snap_charts/libation-Version-50.png)](/blog/images/snap_charts/libation-Version.png)
+[![Install base by Channel](/blog/images/snap_charts/libation-Channel-50.png)](/blog/images/snap_charts/libation-Channel.png)
 
 
-## Installed base by  Country
+## Install base by  Version ( libation )
 
-[![Installed base by Country](/blog/images/snap_charts/libation-Country-50.png)](/blog/images/snap_charts/libation-Country.png)
+[![Install base by Version](/blog/images/snap_charts/libation-Version-50.png)](/blog/images/snap_charts/libation-Version.png)
+
+
+## Install base by  Country ( libation )
+
+[![Install base by Country](/blog/images/snap_charts/libation-Country-50.png)](/blog/images/snap_charts/libation-Country.png)
 
 
 # linuxtycoon
 
-## Installed base by  OS
+## Install base by  OS ( linuxtycoon )
 
-[![Installed base by OS](/blog/images/snap_charts/linuxtycoon-OS-50.png)](/blog/images/snap_charts/linuxtycoon-OS.png)
-
-
-## Installed base by  Channel
-
-[![Installed base by Channel](/blog/images/snap_charts/linuxtycoon-Channel-50.png)](/blog/images/snap_charts/linuxtycoon-Channel.png)
+[![Install base by OS](/blog/images/snap_charts/linuxtycoon-OS-50.png)](/blog/images/snap_charts/linuxtycoon-OS.png)
 
 
-## Installed base by  Version
+## Install base by  Channel ( linuxtycoon )
 
-[![Installed base by Version](/blog/images/snap_charts/linuxtycoon-Version-50.png)](/blog/images/snap_charts/linuxtycoon-Version.png)
+[![Install base by Channel](/blog/images/snap_charts/linuxtycoon-Channel-50.png)](/blog/images/snap_charts/linuxtycoon-Channel.png)
 
 
-## Installed base by  Country
+## Install base by  Version ( linuxtycoon )
 
-[![Installed base by Country](/blog/images/snap_charts/linuxtycoon-Country-50.png)](/blog/images/snap_charts/linuxtycoon-Country.png)
+[![Install base by Version](/blog/images/snap_charts/linuxtycoon-Version-50.png)](/blog/images/snap_charts/linuxtycoon-Version.png)
+
+
+## Install base by  Country ( linuxtycoon )
+
+[![Install base by Country](/blog/images/snap_charts/linuxtycoon-Country-50.png)](/blog/images/snap_charts/linuxtycoon-Country.png)
 
 
 # mame
 
-## Installed base by  OS
+## Install base by  OS ( mame )
 
-[![Installed base by OS](/blog/images/snap_charts/mame-OS-50.png)](/blog/images/snap_charts/mame-OS.png)
-
-
-## Installed base by  Channel
-
-[![Installed base by Channel](/blog/images/snap_charts/mame-Channel-50.png)](/blog/images/snap_charts/mame-Channel.png)
+[![Install base by OS](/blog/images/snap_charts/mame-OS-50.png)](/blog/images/snap_charts/mame-OS.png)
 
 
-## Installed base by  Version
+## Install base by  Channel ( mame )
 
-[![Installed base by Version](/blog/images/snap_charts/mame-Version-50.png)](/blog/images/snap_charts/mame-Version.png)
+[![Install base by Channel](/blog/images/snap_charts/mame-Channel-50.png)](/blog/images/snap_charts/mame-Channel.png)
 
 
-## Installed base by  Country
+## Install base by  Version ( mame )
 
-[![Installed base by Country](/blog/images/snap_charts/mame-Country-50.png)](/blog/images/snap_charts/mame-Country.png)
+[![Install base by Version](/blog/images/snap_charts/mame-Version-50.png)](/blog/images/snap_charts/mame-Version.png)
+
+
+## Install base by  Country ( mame )
+
+[![Install base by Country](/blog/images/snap_charts/mame-Country-50.png)](/blog/images/snap_charts/mame-Country.png)
 
 
 # mindustry
 
-## Installed base by  OS
+## Install base by  OS ( mindustry )
 
-[![Installed base by OS](/blog/images/snap_charts/mindustry-OS-50.png)](/blog/images/snap_charts/mindustry-OS.png)
-
-
-## Installed base by  Channel
-
-[![Installed base by Channel](/blog/images/snap_charts/mindustry-Channel-50.png)](/blog/images/snap_charts/mindustry-Channel.png)
+[![Install base by OS](/blog/images/snap_charts/mindustry-OS-50.png)](/blog/images/snap_charts/mindustry-OS.png)
 
 
-## Installed base by  Version
+## Install base by  Channel ( mindustry )
 
-[![Installed base by Version](/blog/images/snap_charts/mindustry-Version-50.png)](/blog/images/snap_charts/mindustry-Version.png)
+[![Install base by Channel](/blog/images/snap_charts/mindustry-Channel-50.png)](/blog/images/snap_charts/mindustry-Channel.png)
 
 
-## Installed base by  Country
+## Install base by  Version ( mindustry )
 
-[![Installed base by Country](/blog/images/snap_charts/mindustry-Country-50.png)](/blog/images/snap_charts/mindustry-Country.png)
+[![Install base by Version](/blog/images/snap_charts/mindustry-Version-50.png)](/blog/images/snap_charts/mindustry-Version.png)
+
+
+## Install base by  Country ( mindustry )
+
+[![Install base by Country](/blog/images/snap_charts/mindustry-Country-50.png)](/blog/images/snap_charts/mindustry-Country.png)
 
 
 # monolith
 
-## Installed base by  OS
+## Install base by  OS ( monolith )
 
-[![Installed base by OS](/blog/images/snap_charts/monolith-OS-50.png)](/blog/images/snap_charts/monolith-OS.png)
-
-
-## Installed base by  Channel
-
-[![Installed base by Channel](/blog/images/snap_charts/monolith-Channel-50.png)](/blog/images/snap_charts/monolith-Channel.png)
+[![Install base by OS](/blog/images/snap_charts/monolith-OS-50.png)](/blog/images/snap_charts/monolith-OS.png)
 
 
-## Installed base by  Version
+## Install base by  Channel ( monolith )
 
-[![Installed base by Version](/blog/images/snap_charts/monolith-Version-50.png)](/blog/images/snap_charts/monolith-Version.png)
+[![Install base by Channel](/blog/images/snap_charts/monolith-Channel-50.png)](/blog/images/snap_charts/monolith-Channel.png)
 
 
-## Installed base by  Country
+## Install base by  Version ( monolith )
 
-[![Installed base by Country](/blog/images/snap_charts/monolith-Country-50.png)](/blog/images/snap_charts/monolith-Country.png)
+[![Install base by Version](/blog/images/snap_charts/monolith-Version-50.png)](/blog/images/snap_charts/monolith-Version.png)
+
+
+## Install base by  Country ( monolith )
+
+[![Install base by Country](/blog/images/snap_charts/monolith-Country-50.png)](/blog/images/snap_charts/monolith-Country.png)
 
 
 # natron
 
-## Installed base by  OS
+## Install base by  OS ( natron )
 
-[![Installed base by OS](/blog/images/snap_charts/natron-OS-50.png)](/blog/images/snap_charts/natron-OS.png)
-
-
-## Installed base by  Channel
-
-[![Installed base by Channel](/blog/images/snap_charts/natron-Channel-50.png)](/blog/images/snap_charts/natron-Channel.png)
+[![Install base by OS](/blog/images/snap_charts/natron-OS-50.png)](/blog/images/snap_charts/natron-OS.png)
 
 
-## Installed base by  Version
+## Install base by  Channel ( natron )
 
-[![Installed base by Version](/blog/images/snap_charts/natron-Version-50.png)](/blog/images/snap_charts/natron-Version.png)
+[![Install base by Channel](/blog/images/snap_charts/natron-Channel-50.png)](/blog/images/snap_charts/natron-Channel.png)
 
 
-## Installed base by  Country
+## Install base by  Version ( natron )
 
-[![Installed base by Country](/blog/images/snap_charts/natron-Country-50.png)](/blog/images/snap_charts/natron-Country.png)
+[![Install base by Version](/blog/images/snap_charts/natron-Version-50.png)](/blog/images/snap_charts/natron-Version.png)
+
+
+## Install base by  Country ( natron )
+
+[![Install base by Country](/blog/images/snap_charts/natron-Country-50.png)](/blog/images/snap_charts/natron-Country.png)
 
 
 # ncspot
 
-## Installed base by  OS
+## Install base by  OS ( ncspot )
 
-[![Installed base by OS](/blog/images/snap_charts/ncspot-OS-50.png)](/blog/images/snap_charts/ncspot-OS.png)
-
-
-## Installed base by  Channel
-
-[![Installed base by Channel](/blog/images/snap_charts/ncspot-Channel-50.png)](/blog/images/snap_charts/ncspot-Channel.png)
+[![Install base by OS](/blog/images/snap_charts/ncspot-OS-50.png)](/blog/images/snap_charts/ncspot-OS.png)
 
 
-## Installed base by  Version
+## Install base by  Channel ( ncspot )
 
-[![Installed base by Version](/blog/images/snap_charts/ncspot-Version-50.png)](/blog/images/snap_charts/ncspot-Version.png)
+[![Install base by Channel](/blog/images/snap_charts/ncspot-Channel-50.png)](/blog/images/snap_charts/ncspot-Channel.png)
 
 
-## Installed base by  Country
+## Install base by  Version ( ncspot )
 
-[![Installed base by Country](/blog/images/snap_charts/ncspot-Country-50.png)](/blog/images/snap_charts/ncspot-Country.png)
+[![Install base by Version](/blog/images/snap_charts/ncspot-Version-50.png)](/blog/images/snap_charts/ncspot-Version.png)
+
+
+## Install base by  Country ( ncspot )
+
+[![Install base by Country](/blog/images/snap_charts/ncspot-Country-50.png)](/blog/images/snap_charts/ncspot-Country.png)
 
 
 # newsflash
 
-## Installed base by  OS
+## Install base by  OS ( newsflash )
 
-[![Installed base by OS](/blog/images/snap_charts/newsflash-OS-50.png)](/blog/images/snap_charts/newsflash-OS.png)
-
-
-## Installed base by  Channel
-
-[![Installed base by Channel](/blog/images/snap_charts/newsflash-Channel-50.png)](/blog/images/snap_charts/newsflash-Channel.png)
+[![Install base by OS](/blog/images/snap_charts/newsflash-OS-50.png)](/blog/images/snap_charts/newsflash-OS.png)
 
 
-## Installed base by  Version
+## Install base by  Channel ( newsflash )
 
-[![Installed base by Version](/blog/images/snap_charts/newsflash-Version-50.png)](/blog/images/snap_charts/newsflash-Version.png)
+[![Install base by Channel](/blog/images/snap_charts/newsflash-Channel-50.png)](/blog/images/snap_charts/newsflash-Channel.png)
 
 
-## Installed base by  Country
+## Install base by  Version ( newsflash )
 
-[![Installed base by Country](/blog/images/snap_charts/newsflash-Country-50.png)](/blog/images/snap_charts/newsflash-Country.png)
+[![Install base by Version](/blog/images/snap_charts/newsflash-Version-50.png)](/blog/images/snap_charts/newsflash-Version.png)
+
+
+## Install base by  Country ( newsflash )
+
+[![Install base by Country](/blog/images/snap_charts/newsflash-Country-50.png)](/blog/images/snap_charts/newsflash-Country.png)
 
 
 # null
 
-## Installed base by  OS
+## Install base by  OS ( null )
 
-[![Installed base by OS](/blog/images/snap_charts/null-OS-50.png)](/blog/images/snap_charts/null-OS.png)
-
-
-## Installed base by  Channel
-
-[![Installed base by Channel](/blog/images/snap_charts/null-Channel-50.png)](/blog/images/snap_charts/null-Channel.png)
+[![Install base by OS](/blog/images/snap_charts/null-OS-50.png)](/blog/images/snap_charts/null-OS.png)
 
 
-## Installed base by  Version
+## Install base by  Channel ( null )
 
-[![Installed base by Version](/blog/images/snap_charts/null-Version-50.png)](/blog/images/snap_charts/null-Version.png)
+[![Install base by Channel](/blog/images/snap_charts/null-Channel-50.png)](/blog/images/snap_charts/null-Channel.png)
 
 
-## Installed base by  Country
+## Install base by  Version ( null )
 
-[![Installed base by Country](/blog/images/snap_charts/null-Country-50.png)](/blog/images/snap_charts/null-Country.png)
+[![Install base by Version](/blog/images/snap_charts/null-Version-50.png)](/blog/images/snap_charts/null-Version.png)
+
+
+## Install base by  Country ( null )
+
+[![Install base by Country](/blog/images/snap_charts/null-Country-50.png)](/blog/images/snap_charts/null-Country.png)
+
+
+# openboardview
+
+## Install base by  OS ( openboardview )
+
+[![Install base by OS](/blog/images/snap_charts/openboardview-OS-50.png)](/blog/images/snap_charts/openboardview-OS.png)
+
+
+## Install base by  Channel ( openboardview )
+
+[![Install base by Channel](/blog/images/snap_charts/openboardview-Channel-50.png)](/blog/images/snap_charts/openboardview-Channel.png)
+
+
+## Install base by  Version ( openboardview )
+
+[![Install base by Version](/blog/images/snap_charts/openboardview-Version-50.png)](/blog/images/snap_charts/openboardview-Version.png)
+
+
+## Install base by  Country ( openboardview )
+
+[![Install base by Country](/blog/images/snap_charts/openboardview-Country-50.png)](/blog/images/snap_charts/openboardview-Country.png)
 
 
 # pencil
 
-## Installed base by  OS
+## Install base by  OS ( pencil )
 
-[![Installed base by OS](/blog/images/snap_charts/pencil-OS-50.png)](/blog/images/snap_charts/pencil-OS.png)
-
-
-## Installed base by  Channel
-
-[![Installed base by Channel](/blog/images/snap_charts/pencil-Channel-50.png)](/blog/images/snap_charts/pencil-Channel.png)
+[![Install base by OS](/blog/images/snap_charts/pencil-OS-50.png)](/blog/images/snap_charts/pencil-OS.png)
 
 
-## Installed base by  Version
+## Install base by  Channel ( pencil )
 
-[![Installed base by Version](/blog/images/snap_charts/pencil-Version-50.png)](/blog/images/snap_charts/pencil-Version.png)
+[![Install base by Channel](/blog/images/snap_charts/pencil-Channel-50.png)](/blog/images/snap_charts/pencil-Channel.png)
 
 
-## Installed base by  Country
+## Install base by  Version ( pencil )
 
-[![Installed base by Country](/blog/images/snap_charts/pencil-Country-50.png)](/blog/images/snap_charts/pencil-Country.png)
+[![Install base by Version](/blog/images/snap_charts/pencil-Version-50.png)](/blog/images/snap_charts/pencil-Version.png)
+
+
+## Install base by  Country ( pencil )
+
+[![Install base by Country](/blog/images/snap_charts/pencil-Country-50.png)](/blog/images/snap_charts/pencil-Country.png)
 
 
 # pwbm
 
-## Installed base by  OS
+## Install base by  OS ( pwbm )
 
-[![Installed base by OS](/blog/images/snap_charts/pwbm-OS-50.png)](/blog/images/snap_charts/pwbm-OS.png)
-
-
-## Installed base by  Channel
-
-[![Installed base by Channel](/blog/images/snap_charts/pwbm-Channel-50.png)](/blog/images/snap_charts/pwbm-Channel.png)
+[![Install base by OS](/blog/images/snap_charts/pwbm-OS-50.png)](/blog/images/snap_charts/pwbm-OS.png)
 
 
-## Installed base by  Version
+## Install base by  Channel ( pwbm )
 
-[![Installed base by Version](/blog/images/snap_charts/pwbm-Version-50.png)](/blog/images/snap_charts/pwbm-Version.png)
+[![Install base by Channel](/blog/images/snap_charts/pwbm-Channel-50.png)](/blog/images/snap_charts/pwbm-Channel.png)
 
 
-## Installed base by  Country
+## Install base by  Version ( pwbm )
 
-[![Installed base by Country](/blog/images/snap_charts/pwbm-Country-50.png)](/blog/images/snap_charts/pwbm-Country.png)
+[![Install base by Version](/blog/images/snap_charts/pwbm-Version-50.png)](/blog/images/snap_charts/pwbm-Version.png)
+
+
+## Install base by  Country ( pwbm )
+
+[![Install base by Country](/blog/images/snap_charts/pwbm-Country-50.png)](/blog/images/snap_charts/pwbm-Country.png)
 
 
 # session-desktop
 
-## Installed base by  OS
+## Install base by  OS ( session-desktop )
 
-[![Installed base by OS](/blog/images/snap_charts/session-desktop-OS-50.png)](/blog/images/snap_charts/session-desktop-OS.png)
-
-
-## Installed base by  Channel
-
-[![Installed base by Channel](/blog/images/snap_charts/session-desktop-Channel-50.png)](/blog/images/snap_charts/session-desktop-Channel.png)
+[![Install base by OS](/blog/images/snap_charts/session-desktop-OS-50.png)](/blog/images/snap_charts/session-desktop-OS.png)
 
 
-## Installed base by  Version
+## Install base by  Channel ( session-desktop )
 
-[![Installed base by Version](/blog/images/snap_charts/session-desktop-Version-50.png)](/blog/images/snap_charts/session-desktop-Version.png)
+[![Install base by Channel](/blog/images/snap_charts/session-desktop-Channel-50.png)](/blog/images/snap_charts/session-desktop-Channel.png)
 
 
-## Installed base by  Country
+## Install base by  Version ( session-desktop )
 
-[![Installed base by Country](/blog/images/snap_charts/session-desktop-Country-50.png)](/blog/images/snap_charts/session-desktop-Country.png)
+[![Install base by Version](/blog/images/snap_charts/session-desktop-Version-50.png)](/blog/images/snap_charts/session-desktop-Version.png)
+
+
+## Install base by  Country ( session-desktop )
+
+[![Install base by Country](/blog/images/snap_charts/session-desktop-Country-50.png)](/blog/images/snap_charts/session-desktop-Country.png)
 
 
 # sfxr
 
-## Installed base by  OS
+## Install base by  OS ( sfxr )
 
-[![Installed base by OS](/blog/images/snap_charts/sfxr-OS-50.png)](/blog/images/snap_charts/sfxr-OS.png)
-
-
-## Installed base by  Channel
-
-[![Installed base by Channel](/blog/images/snap_charts/sfxr-Channel-50.png)](/blog/images/snap_charts/sfxr-Channel.png)
+[![Install base by OS](/blog/images/snap_charts/sfxr-OS-50.png)](/blog/images/snap_charts/sfxr-OS.png)
 
 
-## Installed base by  Version
+## Install base by  Channel ( sfxr )
 
-[![Installed base by Version](/blog/images/snap_charts/sfxr-Version-50.png)](/blog/images/snap_charts/sfxr-Version.png)
+[![Install base by Channel](/blog/images/snap_charts/sfxr-Channel-50.png)](/blog/images/snap_charts/sfxr-Channel.png)
 
 
-## Installed base by  Country
+## Install base by  Version ( sfxr )
 
-[![Installed base by Country](/blog/images/snap_charts/sfxr-Country-50.png)](/blog/images/snap_charts/sfxr-Country.png)
+[![Install base by Version](/blog/images/snap_charts/sfxr-Version-50.png)](/blog/images/snap_charts/sfxr-Version.png)
+
+
+## Install base by  Country ( sfxr )
+
+[![Install base by Country](/blog/images/snap_charts/sfxr-Country-50.png)](/blog/images/snap_charts/sfxr-Country.png)
 
 
 # shattered-pixel-dungeon
 
-## Installed base by  OS
+## Install base by  OS ( shattered-pixel-dungeon )
 
-[![Installed base by OS](/blog/images/snap_charts/shattered-pixel-dungeon-OS-50.png)](/blog/images/snap_charts/shattered-pixel-dungeon-OS.png)
-
-
-## Installed base by  Channel
-
-[![Installed base by Channel](/blog/images/snap_charts/shattered-pixel-dungeon-Channel-50.png)](/blog/images/snap_charts/shattered-pixel-dungeon-Channel.png)
+[![Install base by OS](/blog/images/snap_charts/shattered-pixel-dungeon-OS-50.png)](/blog/images/snap_charts/shattered-pixel-dungeon-OS.png)
 
 
-## Installed base by  Version
+## Install base by  Channel ( shattered-pixel-dungeon )
 
-[![Installed base by Version](/blog/images/snap_charts/shattered-pixel-dungeon-Version-50.png)](/blog/images/snap_charts/shattered-pixel-dungeon-Version.png)
+[![Install base by Channel](/blog/images/snap_charts/shattered-pixel-dungeon-Channel-50.png)](/blog/images/snap_charts/shattered-pixel-dungeon-Channel.png)
 
 
-## Installed base by  Country
+## Install base by  Version ( shattered-pixel-dungeon )
 
-[![Installed base by Country](/blog/images/snap_charts/shattered-pixel-dungeon-Country-50.png)](/blog/images/snap_charts/shattered-pixel-dungeon-Country.png)
+[![Install base by Version](/blog/images/snap_charts/shattered-pixel-dungeon-Version-50.png)](/blog/images/snap_charts/shattered-pixel-dungeon-Version.png)
+
+
+## Install base by  Country ( shattered-pixel-dungeon )
+
+[![Install base by Country](/blog/images/snap_charts/shattered-pixel-dungeon-Country-50.png)](/blog/images/snap_charts/shattered-pixel-dungeon-Country.png)
 
 
 # spectrum-analyser
 
-## Installed base by  OS
+## Install base by  OS ( spectrum-analyser )
 
-[![Installed base by OS](/blog/images/snap_charts/spectrum-analyser-OS-50.png)](/blog/images/snap_charts/spectrum-analyser-OS.png)
-
-
-## Installed base by  Channel
-
-[![Installed base by Channel](/blog/images/snap_charts/spectrum-analyser-Channel-50.png)](/blog/images/snap_charts/spectrum-analyser-Channel.png)
+[![Install base by OS](/blog/images/snap_charts/spectrum-analyser-OS-50.png)](/blog/images/snap_charts/spectrum-analyser-OS.png)
 
 
-## Installed base by  Version
+## Install base by  Channel ( spectrum-analyser )
 
-[![Installed base by Version](/blog/images/snap_charts/spectrum-analyser-Version-50.png)](/blog/images/snap_charts/spectrum-analyser-Version.png)
+[![Install base by Channel](/blog/images/snap_charts/spectrum-analyser-Channel-50.png)](/blog/images/snap_charts/spectrum-analyser-Channel.png)
 
 
-## Installed base by  Country
+## Install base by  Version ( spectrum-analyser )
 
-[![Installed base by Country](/blog/images/snap_charts/spectrum-analyser-Country-50.png)](/blog/images/snap_charts/spectrum-analyser-Country.png)
+[![Install base by Version](/blog/images/snap_charts/spectrum-analyser-Version-50.png)](/blog/images/snap_charts/spectrum-analyser-Version.png)
+
+
+## Install base by  Country ( spectrum-analyser )
+
+[![Install base by Country](/blog/images/snap_charts/spectrum-analyser-Country-50.png)](/blog/images/snap_charts/spectrum-analyser-Country.png)
 
 
 # suckit
 
-## Installed base by  OS
+## Install base by  OS ( suckit )
 
-[![Installed base by OS](/blog/images/snap_charts/suckit-OS-50.png)](/blog/images/snap_charts/suckit-OS.png)
-
-
-## Installed base by  Channel
-
-[![Installed base by Channel](/blog/images/snap_charts/suckit-Channel-50.png)](/blog/images/snap_charts/suckit-Channel.png)
+[![Install base by OS](/blog/images/snap_charts/suckit-OS-50.png)](/blog/images/snap_charts/suckit-OS.png)
 
 
-## Installed base by  Version
+## Install base by  Channel ( suckit )
 
-[![Installed base by Version](/blog/images/snap_charts/suckit-Version-50.png)](/blog/images/snap_charts/suckit-Version.png)
+[![Install base by Channel](/blog/images/snap_charts/suckit-Channel-50.png)](/blog/images/snap_charts/suckit-Channel.png)
 
 
-## Installed base by  Country
+## Install base by  Version ( suckit )
 
-[![Installed base by Country](/blog/images/snap_charts/suckit-Country-50.png)](/blog/images/snap_charts/suckit-Country.png)
+[![Install base by Version](/blog/images/snap_charts/suckit-Version-50.png)](/blog/images/snap_charts/suckit-Version.png)
+
+
+## Install base by  Country ( suckit )
+
+[![Install base by Country](/blog/images/snap_charts/suckit-Country-50.png)](/blog/images/snap_charts/suckit-Country.png)
 
 
 # telegram-asahi
 
-## Installed base by  OS
+## Install base by  OS ( telegram-asahi )
 
-[![Installed base by OS](/blog/images/snap_charts/telegram-asahi-OS-50.png)](/blog/images/snap_charts/telegram-asahi-OS.png)
-
-
-## Installed base by  Channel
-
-[![Installed base by Channel](/blog/images/snap_charts/telegram-asahi-Channel-50.png)](/blog/images/snap_charts/telegram-asahi-Channel.png)
+[![Install base by OS](/blog/images/snap_charts/telegram-asahi-OS-50.png)](/blog/images/snap_charts/telegram-asahi-OS.png)
 
 
-## Installed base by  Version
+## Install base by  Channel ( telegram-asahi )
 
-[![Installed base by Version](/blog/images/snap_charts/telegram-asahi-Version-50.png)](/blog/images/snap_charts/telegram-asahi-Version.png)
+[![Install base by Channel](/blog/images/snap_charts/telegram-asahi-Channel-50.png)](/blog/images/snap_charts/telegram-asahi-Channel.png)
 
 
-## Installed base by  Country
+## Install base by  Version ( telegram-asahi )
 
-[![Installed base by Country](/blog/images/snap_charts/telegram-asahi-Country-50.png)](/blog/images/snap_charts/telegram-asahi-Country.png)
+[![Install base by Version](/blog/images/snap_charts/telegram-asahi-Version-50.png)](/blog/images/snap_charts/telegram-asahi-Version.png)
+
+
+## Install base by  Country ( telegram-asahi )
+
+[![Install base by Country](/blog/images/snap_charts/telegram-asahi-Country-50.png)](/blog/images/snap_charts/telegram-asahi-Country.png)
+
+
+# themirror
+
+## Install base by  OS ( themirror )
+
+[![Install base by OS](/blog/images/snap_charts/themirror-OS-50.png)](/blog/images/snap_charts/themirror-OS.png)
+
+
+## Install base by  Channel ( themirror )
+
+[![Install base by Channel](/blog/images/snap_charts/themirror-Channel-50.png)](/blog/images/snap_charts/themirror-Channel.png)
+
+
+## Install base by  Version ( themirror )
+
+[![Install base by Version](/blog/images/snap_charts/themirror-Version-50.png)](/blog/images/snap_charts/themirror-Version.png)
+
+
+## Install base by  Country ( themirror )
+
+[![Install base by Country](/blog/images/snap_charts/themirror-Country-50.png)](/blog/images/snap_charts/themirror-Country.png)
+
+
+# toot
+
+## Install base by  OS ( toot )
+
+[![Install base by OS](/blog/images/snap_charts/toot-OS-50.png)](/blog/images/snap_charts/toot-OS.png)
+
+
+## Install base by  Channel ( toot )
+
+[![Install base by Channel](/blog/images/snap_charts/toot-Channel-50.png)](/blog/images/snap_charts/toot-Channel.png)
+
+
+## Install base by  Version ( toot )
+
+[![Install base by Version](/blog/images/snap_charts/toot-Version-50.png)](/blog/images/snap_charts/toot-Version.png)
+
+
+## Install base by  Country ( toot )
+
+[![Install base by Country](/blog/images/snap_charts/toot-Country-50.png)](/blog/images/snap_charts/toot-Country.png)
 
 
 # twinejs
 
-## Installed base by  OS
+## Install base by  OS ( twinejs )
 
-[![Installed base by OS](/blog/images/snap_charts/twinejs-OS-50.png)](/blog/images/snap_charts/twinejs-OS.png)
-
-
-## Installed base by  Channel
-
-[![Installed base by Channel](/blog/images/snap_charts/twinejs-Channel-50.png)](/blog/images/snap_charts/twinejs-Channel.png)
+[![Install base by OS](/blog/images/snap_charts/twinejs-OS-50.png)](/blog/images/snap_charts/twinejs-OS.png)
 
 
-## Installed base by  Version
+## Install base by  Channel ( twinejs )
 
-[![Installed base by Version](/blog/images/snap_charts/twinejs-Version-50.png)](/blog/images/snap_charts/twinejs-Version.png)
+[![Install base by Channel](/blog/images/snap_charts/twinejs-Channel-50.png)](/blog/images/snap_charts/twinejs-Channel.png)
 
 
-## Installed base by  Country
+## Install base by  Version ( twinejs )
 
-[![Installed base by Country](/blog/images/snap_charts/twinejs-Country-50.png)](/blog/images/snap_charts/twinejs-Country.png)
+[![Install base by Version](/blog/images/snap_charts/twinejs-Version-50.png)](/blog/images/snap_charts/twinejs-Version.png)
+
+
+## Install base by  Country ( twinejs )
+
+[![Install base by Country](/blog/images/snap_charts/twinejs-Country-50.png)](/blog/images/snap_charts/twinejs-Country.png)
 
 
 # spek
 
-## Installed base by  OS
+## Install base by  OS ( spek )
 
-[![Installed base by OS](/blog/images/snap_charts/spek-OS-50.png)](/blog/images/snap_charts/spek-OS.png)
-
-
-## Installed base by  Channel
-
-[![Installed base by Channel](/blog/images/snap_charts/spek-Channel-50.png)](/blog/images/snap_charts/spek-Channel.png)
+[![Install base by OS](/blog/images/snap_charts/spek-OS-50.png)](/blog/images/snap_charts/spek-OS.png)
 
 
-## Installed base by  Version
+## Install base by  Channel ( spek )
 
-[![Installed base by Version](/blog/images/snap_charts/spek-Version-50.png)](/blog/images/snap_charts/spek-Version.png)
+[![Install base by Channel](/blog/images/snap_charts/spek-Channel-50.png)](/blog/images/snap_charts/spek-Channel.png)
 
 
-## Installed base by  Country
+## Install base by  Version ( spek )
 
-[![Installed base by Country](/blog/images/snap_charts/spek-Country-50.png)](/blog/images/snap_charts/spek-Country.png)
+[![Install base by Version](/blog/images/snap_charts/spek-Version-50.png)](/blog/images/snap_charts/spek-Version.png)
+
+
+## Install base by  Country ( spek )
+
+[![Install base by Country](/blog/images/snap_charts/spek-Country-50.png)](/blog/images/snap_charts/spek-Country.png)
 
 
 # spot
 
-## Installed base by  OS
+## Install base by  OS ( spot )
 
-[![Installed base by OS](/blog/images/snap_charts/spot-OS-50.png)](/blog/images/snap_charts/spot-OS.png)
-
-
-## Installed base by  Channel
-
-[![Installed base by Channel](/blog/images/snap_charts/spot-Channel-50.png)](/blog/images/snap_charts/spot-Channel.png)
+[![Install base by OS](/blog/images/snap_charts/spot-OS-50.png)](/blog/images/snap_charts/spot-OS.png)
 
 
-## Installed base by  Version
+## Install base by  Channel ( spot )
 
-[![Installed base by Version](/blog/images/snap_charts/spot-Version-50.png)](/blog/images/snap_charts/spot-Version.png)
+[![Install base by Channel](/blog/images/snap_charts/spot-Channel-50.png)](/blog/images/snap_charts/spot-Channel.png)
 
 
-## Installed base by  Country
+## Install base by  Version ( spot )
 
-[![Installed base by Country](/blog/images/snap_charts/spot-Country-50.png)](/blog/images/snap_charts/spot-Country.png)
+[![Install base by Version](/blog/images/snap_charts/spot-Version-50.png)](/blog/images/snap_charts/spot-Version.png)
+
+
+## Install base by  Country ( spot )
+
+[![Install base by Country](/blog/images/snap_charts/spot-Country-50.png)](/blog/images/snap_charts/spot-Country.png)
 
 
 # suckit
 
-## Installed base by  OS
+## Install base by  OS ( suckit )
 
-[![Installed base by OS](/blog/images/snap_charts/suckit-OS-50.png)](/blog/images/snap_charts/suckit-OS.png)
-
-
-## Installed base by  Channel
-
-[![Installed base by Channel](/blog/images/snap_charts/suckit-Channel-50.png)](/blog/images/snap_charts/suckit-Channel.png)
+[![Install base by OS](/blog/images/snap_charts/suckit-OS-50.png)](/blog/images/snap_charts/suckit-OS.png)
 
 
-## Installed base by  Version
+## Install base by  Channel ( suckit )
 
-[![Installed base by Version](/blog/images/snap_charts/suckit-Version-50.png)](/blog/images/snap_charts/suckit-Version.png)
+[![Install base by Channel](/blog/images/snap_charts/suckit-Channel-50.png)](/blog/images/snap_charts/suckit-Channel.png)
 
 
-## Installed base by  Country
+## Install base by  Version ( suckit )
 
-[![Installed base by Country](/blog/images/snap_charts/suckit-Country-50.png)](/blog/images/snap_charts/suckit-Country.png)
+[![Install base by Version](/blog/images/snap_charts/suckit-Version-50.png)](/blog/images/snap_charts/suckit-Version.png)
+
+
+## Install base by  Country ( suckit )
+
+[![Install base by Country](/blog/images/snap_charts/suckit-Country-50.png)](/blog/images/snap_charts/suckit-Country.png)
 
 
 # x16emu
 
-## Installed base by  OS
+## Install base by  OS ( x16emu )
 
-[![Installed base by OS](/blog/images/snap_charts/x16emu-OS-50.png)](/blog/images/snap_charts/x16emu-OS.png)
-
-
-## Installed base by  Channel
-
-[![Installed base by Channel](/blog/images/snap_charts/x16emu-Channel-50.png)](/blog/images/snap_charts/x16emu-Channel.png)
+[![Install base by OS](/blog/images/snap_charts/x16emu-OS-50.png)](/blog/images/snap_charts/x16emu-OS.png)
 
 
-## Installed base by  Version
+## Install base by  Channel ( x16emu )
 
-[![Installed base by Version](/blog/images/snap_charts/x16emu-Version-50.png)](/blog/images/snap_charts/x16emu-Version.png)
+[![Install base by Channel](/blog/images/snap_charts/x16emu-Channel-50.png)](/blog/images/snap_charts/x16emu-Channel.png)
 
 
-## Installed base by  Country
+## Install base by  Version ( x16emu )
 
-[![Installed base by Country](/blog/images/snap_charts/x16emu-Country-50.png)](/blog/images/snap_charts/x16emu-Country.png)
+[![Install base by Version](/blog/images/snap_charts/x16emu-Version-50.png)](/blog/images/snap_charts/x16emu-Version.png)
+
+
+## Install base by  Country ( x16emu )
+
+[![Install base by Country](/blog/images/snap_charts/x16emu-Country-50.png)](/blog/images/snap_charts/x16emu-Country.png)
 
 
 # zzt
 
-## Installed base by  OS
+## Install base by  OS ( zzt )
 
-[![Installed base by OS](/blog/images/snap_charts/zzt-OS-50.png)](/blog/images/snap_charts/zzt-OS.png)
-
-
-## Installed base by  Channel
-
-[![Installed base by Channel](/blog/images/snap_charts/zzt-Channel-50.png)](/blog/images/snap_charts/zzt-Channel.png)
+[![Install base by OS](/blog/images/snap_charts/zzt-OS-50.png)](/blog/images/snap_charts/zzt-OS.png)
 
 
-## Installed base by  Version
+## Install base by  Channel ( zzt )
 
-[![Installed base by Version](/blog/images/snap_charts/zzt-Version-50.png)](/blog/images/snap_charts/zzt-Version.png)
+[![Install base by Channel](/blog/images/snap_charts/zzt-Channel-50.png)](/blog/images/snap_charts/zzt-Channel.png)
 
 
-## Installed base by  Country
+## Install base by  Version ( zzt )
 
-[![Installed base by Country](/blog/images/snap_charts/zzt-Country-50.png)](/blog/images/snap_charts/zzt-Country.png)
+[![Install base by Version](/blog/images/snap_charts/zzt-Version-50.png)](/blog/images/snap_charts/zzt-Version.png)
+
+
+## Install base by  Country ( zzt )
+
+[![Install base by Country](/blog/images/snap_charts/zzt-Country-50.png)](/blog/images/snap_charts/zzt-Country.png)
 
