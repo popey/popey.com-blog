@@ -13,7 +13,7 @@ There's also the [charts](/blog/charts) page which shows how many weekly active 
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 
-### Sun Mar 24 05:00:01 AM GMT 2024
+### Sun Mar 24 06:00:02 AM GMT 2024
 | Snap | Stable | Edge | Upstream | OK? |
 | - | - | - | - | - |
 | [Azimuth](https://snapcraft.io/azimuth) | v1.0.3 | v1.0.3 | v1.0.3 | ✔ |
@@ -28,7 +28,7 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [emu2](https://snapcraft.io/emu2) | v2021.01 | v2021.01 | v2021.01 | ✔ |
 | [Forgejo](https://snapcraft.io/forgejo) | v1.21.8-0 | v1.21.8-0 | v1.21.8-0 | ✔ |
 | [halloy](https://snapcraft.io/halloy) | 2024.5.40b9a8c | 2024.5.40b9a8c | 2024.5 | ✔ |
-| [iamb](https://snapcraft.io/iamb) | v0.0.8 | v0.0.8-45-g0c52375 | v0.0.8 | ✔ |
+| [iamb](https://snapcraft.io/iamb) | v0.0.8 | v0.0.8-51-gdb9cb92 | v0.0.8 | ✔ |
 | [Ladder](https://snapcraft.io/ladder) | v0.0.21.3918cf3 | v0.0.21.3918cf3 | v0.0.21 | ✔ |
 | [MAME](https://snapcraft.io/mame) | mame0263 | mame0263-304-g5f8eb3197ac | mame0263 | ✔ |
 | [MatterBridge](https://snapcraft.io/matterbridge) | v1.26.0 | v1.26.0 | v1.26.0 | ✔ |
