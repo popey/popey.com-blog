@@ -64,7 +64,7 @@ The easy solution is to use an emulator of a system of yore, and just use the on
 
 ![DOSBOX-X](/blog/images/2021-01-25/dosbox-x.png)
 
-I did consider looking for the BASIC / BASICA / [GW-BASIC](https://en.wikipedia.org/wiki/GW-BASIC) binaries and try booting them somehow, but give they're not freely available, and more importantly are Intel 8086 machine code, and I'm using an ARM based Raspberry Pi, that wouldn't easily fly (without emulation).
+I did consider looking for the BASIC / BASICA / [GW-BASIC](https://en.wikipedia.org/wiki/GW-BASIC) binaries and try booting them somehow, but given they're not freely available, and more importantly are Intel 8086 machine code, and I'm using an ARM based Raspberry Pi, that wouldn't easily fly (without emulation).
 
 I am not capable of writing a BASIC interpreter, but the good news is, other people have. I found a couple of "modern" re-implementations of BASIC which were good candidates, [PCBASIC](https://robhagemans.github.io/pcbasic/) by Rob Hagemans and [BBCSDL](http://www.bbcbasic.co.uk/index.html) by R. T. Russell. Both are excellent, open source, currently maintained projects! 
 
