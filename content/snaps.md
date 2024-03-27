@@ -13,12 +13,12 @@ There's also the [charts](/blog/charts) page which shows how many weekly active 
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 
-### Tue Mar 26 07:00:01 PM GMT 2024
+### Wed Mar 27 09:00:02 AM GMT 2024
 | Snap | Stable | Edge | Upstream | OK? |
 | - | - | - | - | - |
 | [Azimuth](https://snapcraft.io/azimuth) | v1.0.3 | v1.0.3 | v1.0.3 | ✔ |
 | [B2](https://snapcraft.io/b2) | b2-20231011-172305-4bd1939 | b2-20231011-172305-4bd1939 | b2-20231011-172305-4bd1939 | ✔ |
-| [Bandwhich](https://snapcraft.io/bandwhich) | v0.22.2.5f5cc7e | v0.22.2.451daea | v0.22.2 | ✔ |
+| [Bandwhich](https://snapcraft.io/bandwhich) | v0.22.2.5f5cc7e | v0.22.2.7dbd371 | v0.22.2 | ✔ |
 | [BombSquad](https://snapcraft.io/bombsquad) | 1.7.33 | 1.7.33 | 1.7.33 | ✔ |
 | [ClassiCube](https://snapcraft.io/classicube) | 1.3.6 | 1.3.6-393-g5c8e6db4e | 1.3.6 | ✔ |
 | [Defold](https://snapcraft.io/defold) | 1.7.0 | ^ | 1.7.0 | ✔ |
@@ -47,7 +47,7 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [emoj](https://snapcraft.io/emoj) | v3.3.0.e60099d | v3.3.0.e60099d | v4.0.1 | ✖ |
 | [Lapin](https://snapcraft.io/lapin) | a6b34c9 | ^ | - | ✖ |
 | [Libation](https://snapcraft.io/libation) | 11.1.0 | ^ | v11.3.6 | ✖ |
-| [MAME](https://snapcraft.io/mame) | mame0263 | mame0263-356-ged17d000372 | mame0264 | ✖ |
+| [MAME](https://snapcraft.io/mame) | mame0263 | mame0264 | mame0264 | ✖ |
 | [OpenBoardView](https://snapcraft.io/openboardview) | 8.0 | ^ | - | ✖ |
 | [PWBM](https://snapcraft.io/pwbm) | 0.1 | 0.1 | - | ✖ |
 | [Telegram-Asahi](https://snapcraft.io/telegram-asahi) | 4.15.2      | 4.15.2 | v4.15.2 | ✖ |
