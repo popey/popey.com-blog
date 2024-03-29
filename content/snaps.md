@@ -13,7 +13,7 @@ There's also the [charts](/blog/charts) page which shows how many weekly active 
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 
-### Fri Mar 29 11:00:01 AM GMT 2024
+### Fri Mar 29 12:00:01 PM GMT 2024
 | Snap | Stable | Edge | Upstream | OK? |
 | - | - | - | - | - |
 | [Azimuth](https://snapcraft.io/azimuth) | v1.0.3 | v1.0.3 | v1.0.3 | ✔ |
@@ -29,6 +29,7 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [Fab-Agon-Emulator](https://snapcraft.io/fab-agon-emulator) | 0.9.38 | 0d3d89c | 0.9.38 | ✔ |
 | [Forgejo](https://snapcraft.io/forgejo) | v1.21.8-0 | v1.21.8-0 | v1.21.8-0 | ✔ |
 | [halloy](https://snapcraft.io/halloy) | 2024.5.40b9a8c | 2024.5.961f2b6 | 2024.5 | ✔ |
+| [iamb](https://snapcraft.io/iamb) | v0.0.9 | v0.0.9 | v0.0.9 | ✔ |
 | [Ladder](https://snapcraft.io/ladder) | v0.0.21.3918cf3 | v0.0.21.3918cf3 | v0.0.21 | ✔ |
 | [MAME](https://snapcraft.io/mame) | mame0264 | mame0264 | mame0264 | ✔ |
 | [MatterBridge](https://snapcraft.io/matterbridge) | v1.26.0 | v1.26.0 | v1.26.0 | ✔ |
@@ -45,7 +46,6 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [Toot](https://snapcraft.io/toot) | 0.42.0 | 0.42.0 | 0.42.0 | ✔ |
 | [TwineJS](https://snapcraft.io/twinejs) | 2.8.1 | 2.8.1 | 2.8.1 | ✔ |
 | [emoj](https://snapcraft.io/emoj) | v3.3.0.e60099d | v3.3.0.e60099d | v4.0.1 | ✖ |
-| [iamb](https://snapcraft.io/iamb) | v0.0.8 | latest | v0.0.9 | ✖ |
 | [Lapin](https://snapcraft.io/lapin) | a6b34c9 | ^ | - | ✖ |
 | [Libation](https://snapcraft.io/libation) | 11.1.0 | ^ | v11.3.6 | ✖ |
 | [OpenBoardView](https://snapcraft.io/openboardview) | 8.0 | ^ | - | ✖ |
