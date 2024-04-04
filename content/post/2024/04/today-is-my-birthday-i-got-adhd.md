@@ -61,7 +61,7 @@ A few years ago, at a family event, I said aloud, "You know, I feel I might be a
 
 Then, in 2022, after the recent family trauma, the thoughts came back, but not enough to prompt me to get a diagnosis. I did attempt to get help through therapy and coaching. While this helped, it wasn't enough, although it did help to nudge me in the right direction.
 
-In 2023, I took a simple online test for ADHD & Autistic Spectrum Disorder, which suggested I had some traits. I'm no expert, and I don't believe all online medical surveys, so I made an appointment with my GP. That was exactly one year ago.
+In 2023, I took a simple online test for ADHD & Autistic Spectrum Condition, which suggested I had some traits. I'm no expert, and I don't believe all online medical surveys, so I made an appointment with my GP. That was exactly one year ago.
 
 *Note: I live in the UK, where the National Health Service is chronically underfunded and undervalued. The people who work for the NHS do their best, and I greatly value the services they provide.*
 
@@ -78,7 +78,7 @@ Due to the interesting way healthcare works in the UK, under the NHS, and withou
 1) Do nothing. I seemingly made it to ~50 years old without a diagnosis. Maybe I don't need to do anything more about this.
 2) Pay ~£2K for an immediate private diagnosis appointment.
 3) Go on the NHS waiting list for anything up to three years for an initial appointment with a specialist.
-4) Get an NHS referral to a 3rd party partner healthcare provider.
+4) Get an NHS referral to a 3rd party partner healthcare provider. So-called "[Right to choose](https://www.england.nhs.uk/wp-content/uploads/2017/03/patient-leaflet-digital.pdf)"
 5) Self-refer to a private provider on a waiting list.
 
 I figured that while yes, I have successfully attained over 50 solar orbits, I would like some closure on the issue. It wasn't urgent enough to pay *Apple-Laptop-levels* of private costs, but more urgent than "*After both the next Summer and Winter Olympic games*". 
