@@ -13,7 +13,7 @@ There's also the [charts](/blog/charts) page which shows how many weekly active 
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 
-### Thu Apr 4 10:00:02 PM BST 2024
+### Thu Apr 4 11:00:01 PM BST 2024
 | Snap | Stable | Edge | Upstream | OK? |
 | - | - | - | - | - |
 | [Azimuth](https://snapcraft.io/azimuth) | v1.0.3 | v1.0.3 | v1.0.3 | ✔ |
@@ -45,7 +45,7 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [Toot](https://snapcraft.io/toot) | 0.42.0 | 0.42.0 | 0.42.0 | ✔ |
 | [TwineJS](https://snapcraft.io/twinejs) | 2.8.1 | 2.8.1 | 2.8.1 | ✔ |
 | [emoj](https://snapcraft.io/emoj) | v3.3.0.e60099d | v3.3.0.e60099d | v4.0.1 | ✖ |
-| [Forgejo](https://snapcraft.io/forgejo) | v1.21.8-0 | v1.21.8-0 | v1.21.10-0 | ✖ |
+| [Forgejo](https://snapcraft.io/forgejo) | v1.21.8-0 | v1.21.10-0 | v1.21.10-0 | ✖ |
 | [Lapin](https://snapcraft.io/lapin) | a6b34c9 | ^ | - | ✖ |
 | [Libation](https://snapcraft.io/libation) | 11.1.0 | ^ | v11.3.7 | ✖ |
 | [OpenBoardView](https://snapcraft.io/openboardview) | 8.0 | ^ | - | ✖ |
