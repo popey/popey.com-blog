@@ -34,7 +34,7 @@ Some assorted networking and other random gear that I didn't recognise was scatt
 
 ## Time is ticking
 
-There was clearly some pressure to get the software upgrades done promptly, ready for a customer demo or something I wasn't privvy to the details of. I was just told to "upgrade the box, and get it done today."
+There was clearly some pressure to get the software upgrades done promptly, ready for a customer demo or something I wasn't privy to the details of. I was just told to "upgrade the box, and get it done today."
 
 I got myself on the network and quickly became familiar with the setup, or so I thought. I started a backup, like a good sysadmin, because from what I could tell, they hadn't done one recently. (*See [tfts passim](/blog/tags/tfts/) for further backup-related tales.*)
 
