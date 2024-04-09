@@ -13,7 +13,7 @@ There's also the [charts](/blog/charts) page which shows how many weekly active 
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 
-### Tue 9 Apr 09:00:03 BST 2024
+### Tue 9 Apr 10:00:02 BST 2024
 | Snap | Stable | Edge | Upstream | OK? |
 | - | - | - | - | - |
 | [Azimuth](https://snapcraft.io/azimuth) | v1.0.3 | v1.0.3 | v1.0.3 | ✔ |
@@ -38,7 +38,7 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [ncspot](https://snapcraft.io/ncspot) | v1.1.0 | v1.1.0 | v1.1.0 | ✔ |
 | [Pencil](https://snapcraft.io/pencil) | 3.1.1 | ^ | 3.1.1 | ✔ |
 | [PioneerSpaceSimulator](https://snapcraft.io/pioneer) | 20240314 | 20240314 | 20240314 | ✔ |
-| [Rustscan](https://snapcraft.io/rustscan) | 2.1.1 | 2.1.1-25-g598b5df | 2.1.1 | ✔ |
+| [Rustscan](https://snapcraft.io/rustscan) | 2.1.1 | 2.1.1-28-g6b6b2f2 | 2.1.1 | ✔ |
 | [Shattered-Pixel-Dungeon](https://snapcraft.io/shattered-pixel-dungeon) | v2.3.2 | v2.3.2 | v2.3.2 | ✔ |
 | [SpectrumAnalyser](https://snapcraft.io/spectrum-analyser) | v0.2.0-alpha-master | ^ | v0.2.0-alpha | ✔ |
 | [Spot](https://snapcraft.io/spot) | 0.4.0 | 0.4.0 | 0.4.0 | ✔ |
