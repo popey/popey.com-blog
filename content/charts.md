@@ -11,7 +11,7 @@ description = "Install base of popey's snaps"
 These charts show the userbase of snaps I publish in the snap store over the last 30 days. They show the usage by country, version, OS (Linux distro) and channel. The first three only show up to 25 entries for each category. 
 
 There's also the [snaps](/blog/snaps) page which lists all the snaps I maintain with their versions, and whether they're in sync with upstream releases. 
-#### Wed 10 Apr 03:00:02 BST 2024
+#### Fri 12 Apr 03:00:02 BST 2024
 
 # [azimuth](https://snapcraft.io/azimuth)
 
@@ -607,6 +607,28 @@ There's also the [snaps](/blog/snaps) page which lists all the snaps I maintain 
 [![Install base by Country](/blog/images/snap_charts/newsflash-Country-50.png)](/blog/images/snap_charts/newsflash-Country.png)
 
 
+# [notepadnext](https://snapcraft.io/notepadnext)
+
+## Install base by  OS ([ notepadnext ](https://snapcraft.io/notepadnext) )
+
+[![Install base by OS](/blog/images/snap_charts/notepadnext-OS-50.png)](/blog/images/snap_charts/notepadnext-OS.png)
+
+
+## Install base by  Channel ([ notepadnext ](https://snapcraft.io/notepadnext) )
+
+[![Install base by Channel](/blog/images/snap_charts/notepadnext-Channel-50.png)](/blog/images/snap_charts/notepadnext-Channel.png)
+
+
+## Install base by  Version ([ notepadnext ](https://snapcraft.io/notepadnext) )
+
+[![Install base by Version](/blog/images/snap_charts/notepadnext-Version-50.png)](/blog/images/snap_charts/notepadnext-Version.png)
+
+
+## Install base by  Country ([ notepadnext ](https://snapcraft.io/notepadnext) )
+
+[![Install base by Country](/blog/images/snap_charts/notepadnext-Country-50.png)](/blog/images/snap_charts/notepadnext-Country.png)
+
+
 # [null](https://snapcraft.io/null)
 
 ## Install base by  OS ([ null ](https://snapcraft.io/null) )
@@ -737,6 +759,28 @@ There's also the [snaps](/blog/snaps) page which lists all the snaps I maintain 
 ## Install base by  Country ([ rustscan ](https://snapcraft.io/rustscan) )
 
 [![Install base by Country](/blog/images/snap_charts/rustscan-Country-50.png)](/blog/images/snap_charts/rustscan-Country.png)
+
+
+# [rota](https://snapcraft.io/rota)
+
+## Install base by  OS ([ rota ](https://snapcraft.io/rota) )
+
+[![Install base by OS](/blog/images/snap_charts/rota-OS-50.png)](/blog/images/snap_charts/rota-OS.png)
+
+
+## Install base by  Channel ([ rota ](https://snapcraft.io/rota) )
+
+[![Install base by Channel](/blog/images/snap_charts/rota-Channel-50.png)](/blog/images/snap_charts/rota-Channel.png)
+
+
+## Install base by  Version ([ rota ](https://snapcraft.io/rota) )
+
+[![Install base by Version](/blog/images/snap_charts/rota-Version-50.png)](/blog/images/snap_charts/rota-Version.png)
+
+
+## Install base by  Country ([ rota ](https://snapcraft.io/rota) )
+
+[![Install base by Country](/blog/images/snap_charts/rota-Country-50.png)](/blog/images/snap_charts/rota-Country.png)
 
 
 # [session-desktop](https://snapcraft.io/session-desktop)
