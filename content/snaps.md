@@ -13,19 +13,19 @@ There's also the [charts](/blog/charts) page which shows how many weekly active 
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 
-### Sat 13 Apr 08:00:02 BST 2024
+### Sat 13 Apr 09:00:04 BST 2024
 | Snap | Stable | Edge | Upstream | OK? |
 | - | - | - | - | - |
 | [Azimuth](https://snapcraft.io/azimuth) | v1.0.3 | v1.0.3 | v1.0.3 | ✔ |
 | [B2](https://snapcraft.io/b2) | b2-20231011-172305-4bd1939 | b2-20231011-172305-4bd1939 | b2-20231011-172305-4bd1939 | ✔ |
 | [Bandwhich](https://snapcraft.io/bandwhich) | v0.22.2.5f5cc7e | v0.22.2.cc5685b | v0.22.2 | ✔ |
 | [BombSquad](https://snapcraft.io/bombsquad) | 1.7.33 | 1.7.33 | 1.7.33 | ✔ |
-| [ClassiCube](https://snapcraft.io/classicube) | 1.3.6 | 1.3.6-500-g1c0674422 | 1.3.6 | ✔ |
+| [ClassiCube](https://snapcraft.io/classicube) | 1.3.6 | 1.3.6-512-g1a82ef84c | 1.3.6 | ✔ |
 | [Dog](https://snapcraft.io/dog) | v0.1.0 | v0.1.0 | v0.1.0 | ✔ |
 | [DOSBox-Staging](https://snapcraft.io/dosbox-staging) | v0.81.0 | v0.81.0 | v0.81.0 | ✔ |
 | [DynaHack](https://snapcraft.io/dynahack) | v0.6.0 | v0.6.0 | v0.6.0 | ✔ |
 | [emu2](https://snapcraft.io/emu2) | v2021.01 | v2021.01 | v2021.01 | ✔ |
-| [Fab-Agon-Emulator](https://snapcraft.io/fab-agon-emulator) | 0.9.43 | 0.9.43 | 0.9.43 | ✔ |
+| [Fab-Agon-Emulator](https://snapcraft.io/fab-agon-emulator) | 0.9.43 | f9b2d89 | 0.9.43 | ✔ |
 | [Forgejo](https://snapcraft.io/forgejo) | v1.21.10-0 | v1.21.10-0 | v1.21.10-0 | ✔ |
 | [halloy](https://snapcraft.io/halloy) | 2024.6.7068008 | 2024.6.29c6615 | 2024.6 | ✔ |
 | [iamb](https://snapcraft.io/iamb) | v0.0.9 | latest-6-gb995906 | v0.0.9 | ✔ |
@@ -41,7 +41,6 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [Rustscan](https://snapcraft.io/rustscan) | 2.1.1 | 2.1.1-38-gf5a587a | 2.1.1 | ✔ |
 | [Shattered-Pixel-Dungeon](https://snapcraft.io/shattered-pixel-dungeon) | v2.3.2 | v2.3.2 | v2.3.2 | ✔ |
 | [SpectrumAnalyser](https://snapcraft.io/spectrum-analyser) | v0.2.0-alpha-master | ^ | v0.2.0-alpha | ✔ |
-| [Toot](https://snapcraft.io/toot) | 0.42.0 | 0.42.0 | 0.42.0 | ✔ |
 | [TwineJS](https://snapcraft.io/twinejs) | 2.8.1 | 2.8.1 | 2.8.1 | ✔ |
 | [Defold](https://snapcraft.io/defold) | 1.7.0 | ^ | 1.7.1-beta | ✖ |
 | [emoj](https://snapcraft.io/emoj) | v3.3.0.e60099d | v3.3.0.e60099d | v4.0.1 | ✖ |
@@ -52,6 +51,7 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [Session-Desktop](https://snapcraft.io/session-desktop) | v1.12.0 | v1.12.0 | v1.12.2 | ✖ |
 | [Spot](https://snapcraft.io/spot) | 0.4.0 | 0.4.0 | 0.4.1 | ✖ |
 | [Telegram-Asahi](https://snapcraft.io/telegram-asahi) | 4.16.6      | 4.16.6 | v4.16.6 | ✖ |
+| [Toot](https://snapcraft.io/toot) | 0.42.0 | 0.42.0 | 0.43.0 | ✖ |
 
 ### Notes
 
