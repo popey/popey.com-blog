@@ -13,7 +13,7 @@ There's also the [charts](/blog/charts) page which shows how many weekly active 
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 
-### Mon 15 Apr 09:00:02 BST 2024
+### Mon 15 Apr 10:00:03 BST 2024
 | Snap | Stable | Edge | Upstream | OK? |
 | - | - | - | - | - |
 | [Azimuth](https://snapcraft.io/azimuth) | v1.0.3 | v1.0.3 | v1.0.3 | ✔ |
@@ -38,12 +38,12 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [NotepadNext](https://snapcraft.io/notepadnext) | v0.7 | v0.7 | v0.7 | ✔ |
 | [Pencil](https://snapcraft.io/pencil) | 3.1.1 | ^ | 3.1.1 | ✔ |
 | [PioneerSpaceSimulator](https://snapcraft.io/pioneer) | 20240314 | 20240314 | 20240314 | ✔ |
-| [Rustscan](https://snapcraft.io/rustscan) | 2.1.1 | 2.1.1-44-ge4a097c | 2.1.1 | ✔ |
+| [Rustscan](https://snapcraft.io/rustscan) | 2.1.1 | 2.1.1-45-gb9337d8 | 2.1.1 | ✔ |
 | [Shattered-Pixel-Dungeon](https://snapcraft.io/shattered-pixel-dungeon) | v2.3.2 | v2.3.2 | v2.3.2 | ✔ |
 | [SpectrumAnalyser](https://snapcraft.io/spectrum-analyser) | v0.2.0-alpha-master | ^ | v0.2.0-alpha | ✔ |
 | [Toot](https://snapcraft.io/toot) | 0.43.0 | 0.43.0 | 0.43.0 | ✔ |
 | [TwineJS](https://snapcraft.io/twinejs) | 2.8.1 | 2.8.1 | 2.8.1 | ✔ |
-| [Defold](https://snapcraft.io/defold) | 1.7.0 | ^ | 1.7.1-beta | ✖ |
+| [Defold](https://snapcraft.io/defold) | 1.7.0 | ^ | 1.8.0-beta | ✖ |
 | [emoj](https://snapcraft.io/emoj) | v3.3.0.e60099d | v3.3.0.e60099d | v4.0.1 | ✖ |
 | [Lapin](https://snapcraft.io/lapin) | a6b34c9 | ^ | - | ✖ |
 | [Libation](https://snapcraft.io/libation) | 11.1.0 | 11.3.7 | v11.3.7 | ✖ |
