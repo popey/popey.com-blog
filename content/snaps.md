@@ -13,13 +13,12 @@ There's also the [charts](/blog/charts) page which shows how many weekly active 
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 
-### Wed 24 Apr 18:00:02 BST 2024
+### Wed 24 Apr 19:00:03 BST 2024
 | Snap | Stable | Edge | Upstream | OK? |
 | - | - | - | - | - |
 | [Azimuth](https://snapcraft.io/azimuth) | v1.0.3 | v1.0.3 | v1.0.3 | ✔ |
 | [B2](https://snapcraft.io/b2) | b2-20231011-172305-4bd1939 | b2-20231011-172305-4bd1939 | b2-20231011-172305-4bd1939 | ✔ |
 | [Bandwhich](https://snapcraft.io/bandwhich) | v0.22.2.5f5cc7e | v0.22.2.c255c08 | v0.22.2 | ✔ |
-| [BombSquad](https://snapcraft.io/bombsquad) | 1.7.33 | 1.7.33 | 1.7.33 | ✔ |
 | [ClassiCube](https://snapcraft.io/classicube) | 1.3.6 | 1.3.6-560-g1b3987a7d | 1.3.6 | ✔ |
 | [Dog](https://snapcraft.io/dog) | v0.1.0 | v0.1.0 | v0.1.0 | ✔ |
 | [DOSBox-Staging](https://snapcraft.io/dosbox-staging) | v0.81.0 | v0.81.0 | v0.81.0 | ✔ |
@@ -30,7 +29,6 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [iamb](https://snapcraft.io/iamb) | v0.0.9 | latest-10-g3971801 | v0.0.9 | ✔ |
 | [Ladder](https://snapcraft.io/ladder) | v0.0.21.3918cf3 | v0.0.21.3918cf3 | v0.0.21 | ✔ |
 | [Lapin](https://snapcraft.io/lapin) | a6b34c9 | a6b34c9 | a6b34c9 | ✔ |
-| [MAME](https://snapcraft.io/mame) | mame0264 | mame0264 | mame0264 | ✔ |
 | [MatterBridge](https://snapcraft.io/matterbridge) | v1.26.0 | v1.26.0 | v1.26.0 | ✔ |
 | [Mindustry](https://snapcraft.io/mindustry) | v146 | v146 | v146 | ✔ |
 | [Monolith](https://snapcraft.io/monolith) | v2.8.1 | v2.8.1 | v2.8.1 | ✔ |
@@ -42,10 +40,12 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [SpectrumAnalyser](https://snapcraft.io/spectrum-analyser) | v0.2.0-alpha-master | ^ | v0.2.0-alpha | ✔ |
 | [Toot](https://snapcraft.io/toot) | 0.43.0 | 0.43.0 | 0.43.0 | ✔ |
 | [TwineJS](https://snapcraft.io/twinejs) | 2.8.1 | 2.8.1 | 2.8.1 | ✔ |
+| [BombSquad](https://snapcraft.io/bombsquad) | 1.7.33 | 1.7.33 | 1.7.34 | ✖ |
 | [Defold](https://snapcraft.io/defold) | 1.7.0 | ^ | 1.8.0 | ✖ |
 | [emoj](https://snapcraft.io/emoj) | v3.3.0.e60099d | v3.3.0.e60099d | v4.0.1 | ✖ |
 | [Forgejo](https://snapcraft.io/forgejo) | v1.21.11-1 | ^ | v7.0.0 | ✖ |
 | [Libation](https://snapcraft.io/libation) | 11.1.0 | 11.3.7 | v11.3.7 | ✖ |
+| [MAME](https://snapcraft.io/mame) | mame0264 | mame0264 | mame0265 | ✖ |
 | [OpenBoardView](https://snapcraft.io/openboardview) | 8.0 | 8.0 | v0.4 | ✖ |
 | [PWBM](https://snapcraft.io/pwbm) | 0.1 | 0.1 | - | ✖ |
 | [Rustscan](https://snapcraft.io/rustscan) | 2.1.1 | 2.2.2 | 2.2.2 | ✖ |
