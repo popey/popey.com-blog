@@ -16,7 +16,7 @@ Here's the "script":
 `time perl -e 'for($i=0;$i<1e8;$i++) { }'`
 
 Here's the resulting output, as produced on a typical Linux system:
-```
+```text
 real 0m2.868s
 user 0m2.828s
 sys 0m0.016s
