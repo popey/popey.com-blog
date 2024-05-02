@@ -11,7 +11,7 @@ description = "Install base of popey's snaps"
 These charts show the userbase of snaps I publish in the snap store over the last 30 days. They show the usage by country, version, OS (Linux distro) and channel. The first three only show up to 25 entries for each category. 
 
 There's also the [snaps](/blog/snaps) page which lists all the snaps I maintain with their versions, and whether they're in sync with upstream releases. 
-#### Thu 2 May 03:00:02 BST 2024
+#### Thu 2 May 16:54:49 BST 2024
 
 # [azimuth](https://snapcraft.io/azimuth)
 
@@ -33,6 +33,11 @@ There's also the [snaps](/blog/snaps) page which lists all the snaps I maintain 
 ## Install base by  Country ([ azimuth ](https://snapcraft.io/azimuth) )
 
 [![Install base by Country](https://popey.com/~alan/snap_charts/azimuth-Country-50.png)](https://popey.com/~alan/snap_charts/azimuth-Country.png)
+
+
+## Install base by  Architecture ([ azimuth ](https://snapcraft.io/azimuth) )
+
+[![Install base by Architecture](https://popey.com/~alan/snap_charts/azimuth-Architecture-50.png)](https://popey.com/~alan/snap_charts/azimuth-Architecture.png)
 
 
 # [b2](https://snapcraft.io/b2)
@@ -57,6 +62,11 @@ There's also the [snaps](/blog/snaps) page which lists all the snaps I maintain 
 [![Install base by Country](https://popey.com/~alan/snap_charts/b2-Country-50.png)](https://popey.com/~alan/snap_charts/b2-Country.png)
 
 
+## Install base by  Architecture ([ b2 ](https://snapcraft.io/b2) )
+
+[![Install base by Architecture](https://popey.com/~alan/snap_charts/b2-Architecture-50.png)](https://popey.com/~alan/snap_charts/b2-Architecture.png)
+
+
 # [bandwhich](https://snapcraft.io/bandwhich)
 
 ## Install base by  OS ([ bandwhich ](https://snapcraft.io/bandwhich) )
@@ -77,6 +87,11 @@ There's also the [snaps](/blog/snaps) page which lists all the snaps I maintain 
 ## Install base by  Country ([ bandwhich ](https://snapcraft.io/bandwhich) )
 
 [![Install base by Country](https://popey.com/~alan/snap_charts/bandwhich-Country-50.png)](https://popey.com/~alan/snap_charts/bandwhich-Country.png)
+
+
+## Install base by  Architecture ([ bandwhich ](https://snapcraft.io/bandwhich) )
+
+[![Install base by Architecture](https://popey.com/~alan/snap_charts/bandwhich-Architecture-50.png)](https://popey.com/~alan/snap_charts/bandwhich-Architecture.png)
 
 
 # [bombsquad](https://snapcraft.io/bombsquad)
@@ -101,6 +116,11 @@ There's also the [snaps](/blog/snaps) page which lists all the snaps I maintain 
 [![Install base by Country](https://popey.com/~alan/snap_charts/bombsquad-Country-50.png)](https://popey.com/~alan/snap_charts/bombsquad-Country.png)
 
 
+## Install base by  Architecture ([ bombsquad ](https://snapcraft.io/bombsquad) )
+
+[![Install base by Architecture](https://popey.com/~alan/snap_charts/bombsquad-Architecture-50.png)](https://popey.com/~alan/snap_charts/bombsquad-Architecture.png)
+
+
 # [classicube](https://snapcraft.io/classicube)
 
 ## Install base by  OS ([ classicube ](https://snapcraft.io/classicube) )
@@ -121,6 +141,11 @@ There's also the [snaps](/blog/snaps) page which lists all the snaps I maintain 
 ## Install base by  Country ([ classicube ](https://snapcraft.io/classicube) )
 
 [![Install base by Country](https://popey.com/~alan/snap_charts/classicube-Country-50.png)](https://popey.com/~alan/snap_charts/classicube-Country.png)
+
+
+## Install base by  Architecture ([ classicube ](https://snapcraft.io/classicube) )
+
+[![Install base by Architecture](https://popey.com/~alan/snap_charts/classicube-Architecture-50.png)](https://popey.com/~alan/snap_charts/classicube-Architecture.png)
 
 
 # [defold](https://snapcraft.io/defold)
@@ -145,6 +170,11 @@ There's also the [snaps](/blog/snaps) page which lists all the snaps I maintain 
 [![Install base by Country](https://popey.com/~alan/snap_charts/defold-Country-50.png)](https://popey.com/~alan/snap_charts/defold-Country.png)
 
 
+## Install base by  Architecture ([ defold ](https://snapcraft.io/defold) )
+
+[![Install base by Architecture](https://popey.com/~alan/snap_charts/defold-Architecture-50.png)](https://popey.com/~alan/snap_charts/defold-Architecture.png)
+
+
 # [dog](https://snapcraft.io/dog)
 
 ## Install base by  OS ([ dog ](https://snapcraft.io/dog) )
@@ -165,6 +195,11 @@ There's also the [snaps](/blog/snaps) page which lists all the snaps I maintain 
 ## Install base by  Country ([ dog ](https://snapcraft.io/dog) )
 
 [![Install base by Country](https://popey.com/~alan/snap_charts/dog-Country-50.png)](https://popey.com/~alan/snap_charts/dog-Country.png)
+
+
+## Install base by  Architecture ([ dog ](https://snapcraft.io/dog) )
+
+[![Install base by Architecture](https://popey.com/~alan/snap_charts/dog-Architecture-50.png)](https://popey.com/~alan/snap_charts/dog-Architecture.png)
 
 
 # [dosbox-staging](https://snapcraft.io/dosbox-staging)
@@ -189,6 +224,11 @@ There's also the [snaps](/blog/snaps) page which lists all the snaps I maintain 
 [![Install base by Country](https://popey.com/~alan/snap_charts/dosbox-staging-Country-50.png)](https://popey.com/~alan/snap_charts/dosbox-staging-Country.png)
 
 
+## Install base by  Architecture ([ dosbox-staging ](https://snapcraft.io/dosbox-staging) )
+
+[![Install base by Architecture](https://popey.com/~alan/snap_charts/dosbox-staging-Architecture-50.png)](https://popey.com/~alan/snap_charts/dosbox-staging-Architecture.png)
+
+
 # [dynahack](https://snapcraft.io/dynahack)
 
 ## Install base by  OS ([ dynahack ](https://snapcraft.io/dynahack) )
@@ -209,6 +249,11 @@ There's also the [snaps](/blog/snaps) page which lists all the snaps I maintain 
 ## Install base by  Country ([ dynahack ](https://snapcraft.io/dynahack) )
 
 [![Install base by Country](https://popey.com/~alan/snap_charts/dynahack-Country-50.png)](https://popey.com/~alan/snap_charts/dynahack-Country.png)
+
+
+## Install base by  Architecture ([ dynahack ](https://snapcraft.io/dynahack) )
+
+[![Install base by Architecture](https://popey.com/~alan/snap_charts/dynahack-Architecture-50.png)](https://popey.com/~alan/snap_charts/dynahack-Architecture.png)
 
 
 # [emoj](https://snapcraft.io/emoj)
@@ -233,6 +278,11 @@ There's also the [snaps](/blog/snaps) page which lists all the snaps I maintain 
 [![Install base by Country](https://popey.com/~alan/snap_charts/emoj-Country-50.png)](https://popey.com/~alan/snap_charts/emoj-Country.png)
 
 
+## Install base by  Architecture ([ emoj ](https://snapcraft.io/emoj) )
+
+[![Install base by Architecture](https://popey.com/~alan/snap_charts/emoj-Architecture-50.png)](https://popey.com/~alan/snap_charts/emoj-Architecture.png)
+
+
 # [emu2](https://snapcraft.io/emu2)
 
 ## Install base by  OS ([ emu2 ](https://snapcraft.io/emu2) )
@@ -253,6 +303,11 @@ There's also the [snaps](/blog/snaps) page which lists all the snaps I maintain 
 ## Install base by  Country ([ emu2 ](https://snapcraft.io/emu2) )
 
 [![Install base by Country](https://popey.com/~alan/snap_charts/emu2-Country-50.png)](https://popey.com/~alan/snap_charts/emu2-Country.png)
+
+
+## Install base by  Architecture ([ emu2 ](https://snapcraft.io/emu2) )
+
+[![Install base by Architecture](https://popey.com/~alan/snap_charts/emu2-Architecture-50.png)](https://popey.com/~alan/snap_charts/emu2-Architecture.png)
 
 
 # [fab-agon-emulator](https://snapcraft.io/fab-agon-emulator)
@@ -277,6 +332,11 @@ There's also the [snaps](/blog/snaps) page which lists all the snaps I maintain 
 [![Install base by Country](https://popey.com/~alan/snap_charts/fab-agon-emulator-Country-50.png)](https://popey.com/~alan/snap_charts/fab-agon-emulator-Country.png)
 
 
+## Install base by  Architecture ([ fab-agon-emulator ](https://snapcraft.io/fab-agon-emulator) )
+
+[![Install base by Architecture](https://popey.com/~alan/snap_charts/fab-agon-emulator-Architecture-50.png)](https://popey.com/~alan/snap_charts/fab-agon-emulator-Architecture.png)
+
+
 # [forgejo](https://snapcraft.io/forgejo)
 
 ## Install base by  OS ([ forgejo ](https://snapcraft.io/forgejo) )
@@ -297,6 +357,11 @@ There's also the [snaps](/blog/snaps) page which lists all the snaps I maintain 
 ## Install base by  Country ([ forgejo ](https://snapcraft.io/forgejo) )
 
 [![Install base by Country](https://popey.com/~alan/snap_charts/forgejo-Country-50.png)](https://popey.com/~alan/snap_charts/forgejo-Country.png)
+
+
+## Install base by  Architecture ([ forgejo ](https://snapcraft.io/forgejo) )
+
+[![Install base by Architecture](https://popey.com/~alan/snap_charts/forgejo-Architecture-50.png)](https://popey.com/~alan/snap_charts/forgejo-Architecture.png)
 
 
 # [halloy](https://snapcraft.io/halloy)
@@ -321,6 +386,11 @@ There's also the [snaps](/blog/snaps) page which lists all the snaps I maintain 
 [![Install base by Country](https://popey.com/~alan/snap_charts/halloy-Country-50.png)](https://popey.com/~alan/snap_charts/halloy-Country.png)
 
 
+## Install base by  Architecture ([ halloy ](https://snapcraft.io/halloy) )
+
+[![Install base by Architecture](https://popey.com/~alan/snap_charts/halloy-Architecture-50.png)](https://popey.com/~alan/snap_charts/halloy-Architecture.png)
+
+
 # [hey-morty-wubba-lubba-dub-dub](https://snapcraft.io/hey-morty-wubba-lubba-dub-dub)
 
 ## Install base by  OS ([ hey-morty-wubba-lubba-dub-dub ](https://snapcraft.io/hey-morty-wubba-lubba-dub-dub) )
@@ -341,6 +411,11 @@ There's also the [snaps](/blog/snaps) page which lists all the snaps I maintain 
 ## Install base by  Country ([ hey-morty-wubba-lubba-dub-dub ](https://snapcraft.io/hey-morty-wubba-lubba-dub-dub) )
 
 [![Install base by Country](https://popey.com/~alan/snap_charts/hey-morty-wubba-lubba-dub-dub-Country-50.png)](https://popey.com/~alan/snap_charts/hey-morty-wubba-lubba-dub-dub-Country.png)
+
+
+## Install base by  Architecture ([ hey-morty-wubba-lubba-dub-dub ](https://snapcraft.io/hey-morty-wubba-lubba-dub-dub) )
+
+[![Install base by Architecture](https://popey.com/~alan/snap_charts/hey-morty-wubba-lubba-dub-dub-Architecture-50.png)](https://popey.com/~alan/snap_charts/hey-morty-wubba-lubba-dub-dub-Architecture.png)
 
 
 # [iamb](https://snapcraft.io/iamb)
@@ -365,6 +440,11 @@ There's also the [snaps](/blog/snaps) page which lists all the snaps I maintain 
 [![Install base by Country](https://popey.com/~alan/snap_charts/iamb-Country-50.png)](https://popey.com/~alan/snap_charts/iamb-Country.png)
 
 
+## Install base by  Architecture ([ iamb ](https://snapcraft.io/iamb) )
+
+[![Install base by Architecture](https://popey.com/~alan/snap_charts/iamb-Architecture-50.png)](https://popey.com/~alan/snap_charts/iamb-Architecture.png)
+
+
 # [ladder](https://snapcraft.io/ladder)
 
 ## Install base by  OS ([ ladder ](https://snapcraft.io/ladder) )
@@ -385,6 +465,11 @@ There's also the [snaps](/blog/snaps) page which lists all the snaps I maintain 
 ## Install base by  Country ([ ladder ](https://snapcraft.io/ladder) )
 
 [![Install base by Country](https://popey.com/~alan/snap_charts/ladder-Country-50.png)](https://popey.com/~alan/snap_charts/ladder-Country.png)
+
+
+## Install base by  Architecture ([ ladder ](https://snapcraft.io/ladder) )
+
+[![Install base by Architecture](https://popey.com/~alan/snap_charts/ladder-Architecture-50.png)](https://popey.com/~alan/snap_charts/ladder-Architecture.png)
 
 
 # [lapin](https://snapcraft.io/lapin)
@@ -409,6 +494,11 @@ There's also the [snaps](/blog/snaps) page which lists all the snaps I maintain 
 [![Install base by Country](https://popey.com/~alan/snap_charts/lapin-Country-50.png)](https://popey.com/~alan/snap_charts/lapin-Country.png)
 
 
+## Install base by  Architecture ([ lapin ](https://snapcraft.io/lapin) )
+
+[![Install base by Architecture](https://popey.com/~alan/snap_charts/lapin-Architecture-50.png)](https://popey.com/~alan/snap_charts/lapin-Architecture.png)
+
+
 # [libation](https://snapcraft.io/libation)
 
 ## Install base by  OS ([ libation ](https://snapcraft.io/libation) )
@@ -429,6 +519,11 @@ There's also the [snaps](/blog/snaps) page which lists all the snaps I maintain 
 ## Install base by  Country ([ libation ](https://snapcraft.io/libation) )
 
 [![Install base by Country](https://popey.com/~alan/snap_charts/libation-Country-50.png)](https://popey.com/~alan/snap_charts/libation-Country.png)
+
+
+## Install base by  Architecture ([ libation ](https://snapcraft.io/libation) )
+
+[![Install base by Architecture](https://popey.com/~alan/snap_charts/libation-Architecture-50.png)](https://popey.com/~alan/snap_charts/libation-Architecture.png)
 
 
 # [linuxtycoon](https://snapcraft.io/linuxtycoon)
@@ -453,6 +548,11 @@ There's also the [snaps](/blog/snaps) page which lists all the snaps I maintain 
 [![Install base by Country](https://popey.com/~alan/snap_charts/linuxtycoon-Country-50.png)](https://popey.com/~alan/snap_charts/linuxtycoon-Country.png)
 
 
+## Install base by  Architecture ([ linuxtycoon ](https://snapcraft.io/linuxtycoon) )
+
+[![Install base by Architecture](https://popey.com/~alan/snap_charts/linuxtycoon-Architecture-50.png)](https://popey.com/~alan/snap_charts/linuxtycoon-Architecture.png)
+
+
 # [mame](https://snapcraft.io/mame)
 
 ## Install base by  OS ([ mame ](https://snapcraft.io/mame) )
@@ -473,6 +573,11 @@ There's also the [snaps](/blog/snaps) page which lists all the snaps I maintain 
 ## Install base by  Country ([ mame ](https://snapcraft.io/mame) )
 
 [![Install base by Country](https://popey.com/~alan/snap_charts/mame-Country-50.png)](https://popey.com/~alan/snap_charts/mame-Country.png)
+
+
+## Install base by  Architecture ([ mame ](https://snapcraft.io/mame) )
+
+[![Install base by Architecture](https://popey.com/~alan/snap_charts/mame-Architecture-50.png)](https://popey.com/~alan/snap_charts/mame-Architecture.png)
 
 
 # [matterbridge](https://snapcraft.io/matterbridge)
@@ -497,6 +602,11 @@ There's also the [snaps](/blog/snaps) page which lists all the snaps I maintain 
 [![Install base by Country](https://popey.com/~alan/snap_charts/matterbridge-Country-50.png)](https://popey.com/~alan/snap_charts/matterbridge-Country.png)
 
 
+## Install base by  Architecture ([ matterbridge ](https://snapcraft.io/matterbridge) )
+
+[![Install base by Architecture](https://popey.com/~alan/snap_charts/matterbridge-Architecture-50.png)](https://popey.com/~alan/snap_charts/matterbridge-Architecture.png)
+
+
 # [mindustry](https://snapcraft.io/mindustry)
 
 ## Install base by  OS ([ mindustry ](https://snapcraft.io/mindustry) )
@@ -517,6 +627,11 @@ There's also the [snaps](/blog/snaps) page which lists all the snaps I maintain 
 ## Install base by  Country ([ mindustry ](https://snapcraft.io/mindustry) )
 
 [![Install base by Country](https://popey.com/~alan/snap_charts/mindustry-Country-50.png)](https://popey.com/~alan/snap_charts/mindustry-Country.png)
+
+
+## Install base by  Architecture ([ mindustry ](https://snapcraft.io/mindustry) )
+
+[![Install base by Architecture](https://popey.com/~alan/snap_charts/mindustry-Architecture-50.png)](https://popey.com/~alan/snap_charts/mindustry-Architecture.png)
 
 
 # [monolith](https://snapcraft.io/monolith)
@@ -541,6 +656,11 @@ There's also the [snaps](/blog/snaps) page which lists all the snaps I maintain 
 [![Install base by Country](https://popey.com/~alan/snap_charts/monolith-Country-50.png)](https://popey.com/~alan/snap_charts/monolith-Country.png)
 
 
+## Install base by  Architecture ([ monolith ](https://snapcraft.io/monolith) )
+
+[![Install base by Architecture](https://popey.com/~alan/snap_charts/monolith-Architecture-50.png)](https://popey.com/~alan/snap_charts/monolith-Architecture.png)
+
+
 # [natron](https://snapcraft.io/natron)
 
 ## Install base by  OS ([ natron ](https://snapcraft.io/natron) )
@@ -561,6 +681,11 @@ There's also the [snaps](/blog/snaps) page which lists all the snaps I maintain 
 ## Install base by  Country ([ natron ](https://snapcraft.io/natron) )
 
 [![Install base by Country](https://popey.com/~alan/snap_charts/natron-Country-50.png)](https://popey.com/~alan/snap_charts/natron-Country.png)
+
+
+## Install base by  Architecture ([ natron ](https://snapcraft.io/natron) )
+
+[![Install base by Architecture](https://popey.com/~alan/snap_charts/natron-Architecture-50.png)](https://popey.com/~alan/snap_charts/natron-Architecture.png)
 
 
 # [ncspot](https://snapcraft.io/ncspot)
@@ -585,6 +710,11 @@ There's also the [snaps](/blog/snaps) page which lists all the snaps I maintain 
 [![Install base by Country](https://popey.com/~alan/snap_charts/ncspot-Country-50.png)](https://popey.com/~alan/snap_charts/ncspot-Country.png)
 
 
+## Install base by  Architecture ([ ncspot ](https://snapcraft.io/ncspot) )
+
+[![Install base by Architecture](https://popey.com/~alan/snap_charts/ncspot-Architecture-50.png)](https://popey.com/~alan/snap_charts/ncspot-Architecture.png)
+
+
 # [newsflash](https://snapcraft.io/newsflash)
 
 ## Install base by  OS ([ newsflash ](https://snapcraft.io/newsflash) )
@@ -605,6 +735,11 @@ There's also the [snaps](/blog/snaps) page which lists all the snaps I maintain 
 ## Install base by  Country ([ newsflash ](https://snapcraft.io/newsflash) )
 
 [![Install base by Country](https://popey.com/~alan/snap_charts/newsflash-Country-50.png)](https://popey.com/~alan/snap_charts/newsflash-Country.png)
+
+
+## Install base by  Architecture ([ newsflash ](https://snapcraft.io/newsflash) )
+
+[![Install base by Architecture](https://popey.com/~alan/snap_charts/newsflash-Architecture-50.png)](https://popey.com/~alan/snap_charts/newsflash-Architecture.png)
 
 
 # [notepadnext](https://snapcraft.io/notepadnext)
@@ -629,6 +764,11 @@ There's also the [snaps](/blog/snaps) page which lists all the snaps I maintain 
 [![Install base by Country](https://popey.com/~alan/snap_charts/notepadnext-Country-50.png)](https://popey.com/~alan/snap_charts/notepadnext-Country.png)
 
 
+## Install base by  Architecture ([ notepadnext ](https://snapcraft.io/notepadnext) )
+
+[![Install base by Architecture](https://popey.com/~alan/snap_charts/notepadnext-Architecture-50.png)](https://popey.com/~alan/snap_charts/notepadnext-Architecture.png)
+
+
 # [null](https://snapcraft.io/null)
 
 ## Install base by  OS ([ null ](https://snapcraft.io/null) )
@@ -649,6 +789,11 @@ There's also the [snaps](/blog/snaps) page which lists all the snaps I maintain 
 ## Install base by  Country ([ null ](https://snapcraft.io/null) )
 
 [![Install base by Country](https://popey.com/~alan/snap_charts/null-Country-50.png)](https://popey.com/~alan/snap_charts/null-Country.png)
+
+
+## Install base by  Architecture ([ null ](https://snapcraft.io/null) )
+
+[![Install base by Architecture](https://popey.com/~alan/snap_charts/null-Architecture-50.png)](https://popey.com/~alan/snap_charts/null-Architecture.png)
 
 
 # [openboardview](https://snapcraft.io/openboardview)
@@ -673,6 +818,11 @@ There's also the [snaps](/blog/snaps) page which lists all the snaps I maintain 
 [![Install base by Country](https://popey.com/~alan/snap_charts/openboardview-Country-50.png)](https://popey.com/~alan/snap_charts/openboardview-Country.png)
 
 
+## Install base by  Architecture ([ openboardview ](https://snapcraft.io/openboardview) )
+
+[![Install base by Architecture](https://popey.com/~alan/snap_charts/openboardview-Architecture-50.png)](https://popey.com/~alan/snap_charts/openboardview-Architecture.png)
+
+
 # [openspades](https://snapcraft.io/openspades)
 
 ## Install base by  OS ([ openspades ](https://snapcraft.io/openspades) )
@@ -693,6 +843,11 @@ There's also the [snaps](/blog/snaps) page which lists all the snaps I maintain 
 ## Install base by  Country ([ openspades ](https://snapcraft.io/openspades) )
 
 [![Install base by Country](https://popey.com/~alan/snap_charts/openspades-Country-50.png)](https://popey.com/~alan/snap_charts/openspades-Country.png)
+
+
+## Install base by  Architecture ([ openspades ](https://snapcraft.io/openspades) )
+
+[![Install base by Architecture](https://popey.com/~alan/snap_charts/openspades-Architecture-50.png)](https://popey.com/~alan/snap_charts/openspades-Architecture.png)
 
 
 # [pencil](https://snapcraft.io/pencil)
@@ -717,6 +872,11 @@ There's also the [snaps](/blog/snaps) page which lists all the snaps I maintain 
 [![Install base by Country](https://popey.com/~alan/snap_charts/pencil-Country-50.png)](https://popey.com/~alan/snap_charts/pencil-Country.png)
 
 
+## Install base by  Architecture ([ pencil ](https://snapcraft.io/pencil) )
+
+[![Install base by Architecture](https://popey.com/~alan/snap_charts/pencil-Architecture-50.png)](https://popey.com/~alan/snap_charts/pencil-Architecture.png)
+
+
 # [pwbm](https://snapcraft.io/pwbm)
 
 ## Install base by  OS ([ pwbm ](https://snapcraft.io/pwbm) )
@@ -737,6 +897,11 @@ There's also the [snaps](/blog/snaps) page which lists all the snaps I maintain 
 ## Install base by  Country ([ pwbm ](https://snapcraft.io/pwbm) )
 
 [![Install base by Country](https://popey.com/~alan/snap_charts/pwbm-Country-50.png)](https://popey.com/~alan/snap_charts/pwbm-Country.png)
+
+
+## Install base by  Architecture ([ pwbm ](https://snapcraft.io/pwbm) )
+
+[![Install base by Architecture](https://popey.com/~alan/snap_charts/pwbm-Architecture-50.png)](https://popey.com/~alan/snap_charts/pwbm-Architecture.png)
 
 
 # [rustscan](https://snapcraft.io/rustscan)
@@ -761,6 +926,11 @@ There's also the [snaps](/blog/snaps) page which lists all the snaps I maintain 
 [![Install base by Country](https://popey.com/~alan/snap_charts/rustscan-Country-50.png)](https://popey.com/~alan/snap_charts/rustscan-Country.png)
 
 
+## Install base by  Architecture ([ rustscan ](https://snapcraft.io/rustscan) )
+
+[![Install base by Architecture](https://popey.com/~alan/snap_charts/rustscan-Architecture-50.png)](https://popey.com/~alan/snap_charts/rustscan-Architecture.png)
+
+
 # [rota](https://snapcraft.io/rota)
 
 ## Install base by  OS ([ rota ](https://snapcraft.io/rota) )
@@ -781,6 +951,11 @@ There's also the [snaps](/blog/snaps) page which lists all the snaps I maintain 
 ## Install base by  Country ([ rota ](https://snapcraft.io/rota) )
 
 [![Install base by Country](https://popey.com/~alan/snap_charts/rota-Country-50.png)](https://popey.com/~alan/snap_charts/rota-Country.png)
+
+
+## Install base by  Architecture ([ rota ](https://snapcraft.io/rota) )
+
+[![Install base by Architecture](https://popey.com/~alan/snap_charts/rota-Architecture-50.png)](https://popey.com/~alan/snap_charts/rota-Architecture.png)
 
 
 # [session-desktop](https://snapcraft.io/session-desktop)
@@ -805,6 +980,11 @@ There's also the [snaps](/blog/snaps) page which lists all the snaps I maintain 
 [![Install base by Country](https://popey.com/~alan/snap_charts/session-desktop-Country-50.png)](https://popey.com/~alan/snap_charts/session-desktop-Country.png)
 
 
+## Install base by  Architecture ([ session-desktop ](https://snapcraft.io/session-desktop) )
+
+[![Install base by Architecture](https://popey.com/~alan/snap_charts/session-desktop-Architecture-50.png)](https://popey.com/~alan/snap_charts/session-desktop-Architecture.png)
+
+
 # [sfxr](https://snapcraft.io/sfxr)
 
 ## Install base by  OS ([ sfxr ](https://snapcraft.io/sfxr) )
@@ -825,6 +1005,11 @@ There's also the [snaps](/blog/snaps) page which lists all the snaps I maintain 
 ## Install base by  Country ([ sfxr ](https://snapcraft.io/sfxr) )
 
 [![Install base by Country](https://popey.com/~alan/snap_charts/sfxr-Country-50.png)](https://popey.com/~alan/snap_charts/sfxr-Country.png)
+
+
+## Install base by  Architecture ([ sfxr ](https://snapcraft.io/sfxr) )
+
+[![Install base by Architecture](https://popey.com/~alan/snap_charts/sfxr-Architecture-50.png)](https://popey.com/~alan/snap_charts/sfxr-Architecture.png)
 
 
 # [shattered-pixel-dungeon](https://snapcraft.io/shattered-pixel-dungeon)
@@ -849,6 +1034,11 @@ There's also the [snaps](/blog/snaps) page which lists all the snaps I maintain 
 [![Install base by Country](https://popey.com/~alan/snap_charts/shattered-pixel-dungeon-Country-50.png)](https://popey.com/~alan/snap_charts/shattered-pixel-dungeon-Country.png)
 
 
+## Install base by  Architecture ([ shattered-pixel-dungeon ](https://snapcraft.io/shattered-pixel-dungeon) )
+
+[![Install base by Architecture](https://popey.com/~alan/snap_charts/shattered-pixel-dungeon-Architecture-50.png)](https://popey.com/~alan/snap_charts/shattered-pixel-dungeon-Architecture.png)
+
+
 # [spectrum-analyser](https://snapcraft.io/spectrum-analyser)
 
 ## Install base by  OS ([ spectrum-analyser ](https://snapcraft.io/spectrum-analyser) )
@@ -869,6 +1059,11 @@ There's also the [snaps](/blog/snaps) page which lists all the snaps I maintain 
 ## Install base by  Country ([ spectrum-analyser ](https://snapcraft.io/spectrum-analyser) )
 
 [![Install base by Country](https://popey.com/~alan/snap_charts/spectrum-analyser-Country-50.png)](https://popey.com/~alan/snap_charts/spectrum-analyser-Country.png)
+
+
+## Install base by  Architecture ([ spectrum-analyser ](https://snapcraft.io/spectrum-analyser) )
+
+[![Install base by Architecture](https://popey.com/~alan/snap_charts/spectrum-analyser-Architecture-50.png)](https://popey.com/~alan/snap_charts/spectrum-analyser-Architecture.png)
 
 
 # [spek](https://snapcraft.io/spek)
@@ -893,6 +1088,11 @@ There's also the [snaps](/blog/snaps) page which lists all the snaps I maintain 
 [![Install base by Country](https://popey.com/~alan/snap_charts/spek-Country-50.png)](https://popey.com/~alan/snap_charts/spek-Country.png)
 
 
+## Install base by  Architecture ([ spek ](https://snapcraft.io/spek) )
+
+[![Install base by Architecture](https://popey.com/~alan/snap_charts/spek-Architecture-50.png)](https://popey.com/~alan/snap_charts/spek-Architecture.png)
+
+
 # [spot](https://snapcraft.io/spot)
 
 ## Install base by  OS ([ spot ](https://snapcraft.io/spot) )
@@ -913,6 +1113,11 @@ There's also the [snaps](/blog/snaps) page which lists all the snaps I maintain 
 ## Install base by  Country ([ spot ](https://snapcraft.io/spot) )
 
 [![Install base by Country](https://popey.com/~alan/snap_charts/spot-Country-50.png)](https://popey.com/~alan/snap_charts/spot-Country.png)
+
+
+## Install base by  Architecture ([ spot ](https://snapcraft.io/spot) )
+
+[![Install base by Architecture](https://popey.com/~alan/snap_charts/spot-Architecture-50.png)](https://popey.com/~alan/snap_charts/spot-Architecture.png)
 
 
 # [suckit](https://snapcraft.io/suckit)
@@ -937,6 +1142,11 @@ There's also the [snaps](/blog/snaps) page which lists all the snaps I maintain 
 [![Install base by Country](https://popey.com/~alan/snap_charts/suckit-Country-50.png)](https://popey.com/~alan/snap_charts/suckit-Country.png)
 
 
+## Install base by  Architecture ([ suckit ](https://snapcraft.io/suckit) )
+
+[![Install base by Architecture](https://popey.com/~alan/snap_charts/suckit-Architecture-50.png)](https://popey.com/~alan/snap_charts/suckit-Architecture.png)
+
+
 # [telegram-asahi](https://snapcraft.io/telegram-asahi)
 
 ## Install base by  OS ([ telegram-asahi ](https://snapcraft.io/telegram-asahi) )
@@ -957,6 +1167,11 @@ There's also the [snaps](/blog/snaps) page which lists all the snaps I maintain 
 ## Install base by  Country ([ telegram-asahi ](https://snapcraft.io/telegram-asahi) )
 
 [![Install base by Country](https://popey.com/~alan/snap_charts/telegram-asahi-Country-50.png)](https://popey.com/~alan/snap_charts/telegram-asahi-Country.png)
+
+
+## Install base by  Architecture ([ telegram-asahi ](https://snapcraft.io/telegram-asahi) )
+
+[![Install base by Architecture](https://popey.com/~alan/snap_charts/telegram-asahi-Architecture-50.png)](https://popey.com/~alan/snap_charts/telegram-asahi-Architecture.png)
 
 
 # [themirror](https://snapcraft.io/themirror)
@@ -981,6 +1196,11 @@ There's also the [snaps](/blog/snaps) page which lists all the snaps I maintain 
 [![Install base by Country](https://popey.com/~alan/snap_charts/themirror-Country-50.png)](https://popey.com/~alan/snap_charts/themirror-Country.png)
 
 
+## Install base by  Architecture ([ themirror ](https://snapcraft.io/themirror) )
+
+[![Install base by Architecture](https://popey.com/~alan/snap_charts/themirror-Architecture-50.png)](https://popey.com/~alan/snap_charts/themirror-Architecture.png)
+
+
 # [toot](https://snapcraft.io/toot)
 
 ## Install base by  OS ([ toot ](https://snapcraft.io/toot) )
@@ -1001,6 +1221,11 @@ There's also the [snaps](/blog/snaps) page which lists all the snaps I maintain 
 ## Install base by  Country ([ toot ](https://snapcraft.io/toot) )
 
 [![Install base by Country](https://popey.com/~alan/snap_charts/toot-Country-50.png)](https://popey.com/~alan/snap_charts/toot-Country.png)
+
+
+## Install base by  Architecture ([ toot ](https://snapcraft.io/toot) )
+
+[![Install base by Architecture](https://popey.com/~alan/snap_charts/toot-Architecture-50.png)](https://popey.com/~alan/snap_charts/toot-Architecture.png)
 
 
 # [twinejs](https://snapcraft.io/twinejs)
@@ -1025,6 +1250,11 @@ There's also the [snaps](/blog/snaps) page which lists all the snaps I maintain 
 [![Install base by Country](https://popey.com/~alan/snap_charts/twinejs-Country-50.png)](https://popey.com/~alan/snap_charts/twinejs-Country.png)
 
 
+## Install base by  Architecture ([ twinejs ](https://snapcraft.io/twinejs) )
+
+[![Install base by Architecture](https://popey.com/~alan/snap_charts/twinejs-Architecture-50.png)](https://popey.com/~alan/snap_charts/twinejs-Architecture.png)
+
+
 # [word-salad](https://snapcraft.io/word-salad)
 
 ## Install base by  OS ([ word-salad ](https://snapcraft.io/word-salad) )
@@ -1045,6 +1275,11 @@ There's also the [snaps](/blog/snaps) page which lists all the snaps I maintain 
 ## Install base by  Country ([ word-salad ](https://snapcraft.io/word-salad) )
 
 [![Install base by Country](https://popey.com/~alan/snap_charts/word-salad-Country-50.png)](https://popey.com/~alan/snap_charts/word-salad-Country.png)
+
+
+## Install base by  Architecture ([ word-salad ](https://snapcraft.io/word-salad) )
+
+[![Install base by Architecture](https://popey.com/~alan/snap_charts/word-salad-Architecture-50.png)](https://popey.com/~alan/snap_charts/word-salad-Architecture.png)
 
 
 # [x16emu](https://snapcraft.io/x16emu)
@@ -1069,6 +1304,11 @@ There's also the [snaps](/blog/snaps) page which lists all the snaps I maintain 
 [![Install base by Country](https://popey.com/~alan/snap_charts/x16emu-Country-50.png)](https://popey.com/~alan/snap_charts/x16emu-Country.png)
 
 
+## Install base by  Architecture ([ x16emu ](https://snapcraft.io/x16emu) )
+
+[![Install base by Architecture](https://popey.com/~alan/snap_charts/x16emu-Architecture-50.png)](https://popey.com/~alan/snap_charts/x16emu-Architecture.png)
+
+
 # [zzt](https://snapcraft.io/zzt)
 
 ## Install base by  OS ([ zzt ](https://snapcraft.io/zzt) )
@@ -1089,4 +1329,9 @@ There's also the [snaps](/blog/snaps) page which lists all the snaps I maintain 
 ## Install base by  Country ([ zzt ](https://snapcraft.io/zzt) )
 
 [![Install base by Country](https://popey.com/~alan/snap_charts/zzt-Country-50.png)](https://popey.com/~alan/snap_charts/zzt-Country.png)
+
+
+## Install base by  Architecture ([ zzt ](https://snapcraft.io/zzt) )
+
+[![Install base by Architecture](https://popey.com/~alan/snap_charts/zzt-Architecture-50.png)](https://popey.com/~alan/snap_charts/zzt-Architecture.png)
 
