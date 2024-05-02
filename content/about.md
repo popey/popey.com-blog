@@ -7,7 +7,7 @@ description = "Things about me."
 
 ## About
 
-1972 vintage human meatbag. By day I work as a Developer Advocate for [Axiom](https://www.axiom.co/). By night I'm a married dad to two amazing kids. I also like cats, but really want a dog.
+1972 vintage human meatbag. By day I work as a Director of Developer Relations, at [Anchore](https://www.anchore.com/). By night I'm a married dad to two amazing kids. I also like cats, but really want a dog.
 
 ---
 
