@@ -13,7 +13,7 @@ There's also the [charts](/blog/charts) page which shows how many weekly active 
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 
-### Fri 3 May 10:00:03 BST 2024
+### Fri 3 May 11:00:02 BST 2024
 | Snap | Stable | Edge | Upstream | OK? |
 | - | - | - | - | - |
 | [](https://snapcraft.io/) |  | | r47 | ✖ |
@@ -27,6 +27,7 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [DynaHack](https://snapcraft.io/dynahack) | v0.6.0 | v0.6.0 | v0.6.0 | ✔ |
 | [emu2](https://snapcraft.io/emu2) | v2021.01 | v2021.01 | v2021.01 | ✔ |
 | [Fab-Agon-Emulator](https://snapcraft.io/fab-agon-emulator) | 0.9.43 | 7525fe1 | 0.9.43 | ✔ |
+| [Forgejo](https://snapcraft.io/forgejo) | v7.0.2 | ^ | v7.0.2 | ✔ |
 | [halloy](https://snapcraft.io/halloy) | 2024.6.7068008 | 2024.6.0acaf1d | 2024.6 | ✔ |
 | [iamb](https://snapcraft.io/iamb) | v0.0.9 | latest-12-gc6982c9 | v0.0.9 | ✔ |
 | [Ladder](https://snapcraft.io/ladder) | v0.0.21.3918cf3 | v0.0.21.3918cf3 | v0.0.21 | ✔ |
@@ -45,7 +46,6 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [X16EMU](https://snapcraft.io/x16emu) | r47 | r47 | r47 | ✔ |
 | [BombSquad](https://snapcraft.io/bombsquad) | 1.7.33 | 1.7.34 | 1.7.34 | ✖ |
 | [emoj](https://snapcraft.io/emoj) | v3.3.0.e60099d | v3.3.0.e60099d | v4.0.1 | ✖ |
-| [Forgejo](https://snapcraft.io/forgejo) | v7.0.1 | ^ | v7.0.2 | ✖ |
 | [Libation](https://snapcraft.io/libation) | 11.1.0 | 11.3.7 | v11.3.7 | ✖ |
 | [MAME](https://snapcraft.io/mame) | mame0264 | mame0264 | mame0265 | ✖ |
 | [OpenBoardView](https://snapcraft.io/openboardview) | 8.0 | 8.0 | v0.4 | ✖ |
