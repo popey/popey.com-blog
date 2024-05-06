@@ -13,7 +13,7 @@ There's also the [charts](/blog/charts) page which shows how many weekly active 
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 
-### Mon 6 May 21:00:03 BST 2024
+### Mon 6 May 22:00:03 BST 2024
 | Snap | Stable | Edge | Upstream | OK? |
 | - | - | - | - | - |
 | [](https://snapcraft.io/) |  | | r47 | ✖ |
@@ -46,14 +46,14 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [X16EMU](https://snapcraft.io/x16emu) | r47 | r47 | r47 | ✔ |
 | [BombSquad](https://snapcraft.io/bombsquad) | 1.7.33 | 1.7.34 | 1.7.34 | ✖ |
 | [emoj](https://snapcraft.io/emoj) | v3.3.0.e60099d | v3.3.0.e60099d | v4.0.1 | ✖ |
-| [Libation](https://snapcraft.io/libation) | 11.1.0 | 11.3.7 | v11.3.8 | ✖ |
+| [Libation](https://snapcraft.io/libation) | 11.1.0 | 11.3.8 | v11.3.8 | ✖ |
 | [MAME](https://snapcraft.io/mame) | mame0264 | mame0264 | mame0265 | ✖ |
 | [OpenBoardView](https://snapcraft.io/openboardview) | 8.0 | 8.0 | v0.4 | ✖ |
 | [PWBM](https://snapcraft.io/pwbm) | 0.1 | 0.1 | - | ✖ |
 | [Session-Desktop](https://snapcraft.io/session-desktop) | v1.12.0 | v1.12.0 | v1.12.3 | ✖ |
 | [Shattered-Pixel-Dungeon](https://snapcraft.io/shattered-pixel-dungeon) | v2.3.2 | v2.3.2 | 2.4.0-BETA | ✖ |
 | [Spot](https://snapcraft.io/spot) | 0.4.0 | 0.4.0 | 0.4.1 | ✖ |
-| [Telegram-Asahi](https://snapcraft.io/telegram-asahi) | 5.0.0       | 4.16.8 | v5.0.1 | ✖ |
+| [Telegram-Asahi](https://snapcraft.io/telegram-asahi) | 5.0.1       | 4.16.8 | v5.0.1 | ✖ |
 
 ### Notes
 
