@@ -13,7 +13,7 @@ There's also the [charts](/blog/charts) page which shows how many weekly active 
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 
-### Wed 8 May 08:00:02 BST 2024
+### Wed 8 May 09:00:02 BST 2024
 | Snap | Stable | Edge | Upstream | OK? |
 | - | - | - | - | - |
 | [](https://snapcraft.io/) |  | | r47 | ✖ |
@@ -26,7 +26,7 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [DOSBox-Staging](https://snapcraft.io/dosbox-staging) | v0.81.0 | v0.81.0 | v0.81.0 | ✔ |
 | [DynaHack](https://snapcraft.io/dynahack) | v0.6.0 | v0.6.0 | v0.6.0 | ✔ |
 | [emu2](https://snapcraft.io/emu2) | v2021.01 | v2021.01 | v2021.01 | ✔ |
-| [Fab-Agon-Emulator](https://snapcraft.io/fab-agon-emulator) | 0.9.43 | 7525fe1 | 0.9.43 | ✔ |
+| [Fab-Agon-Emulator](https://snapcraft.io/fab-agon-emulator) | 0.9.43 | d8b00ea | 0.9.43 | ✔ |
 | [Forgejo](https://snapcraft.io/forgejo) | v7.0.2 | ^ | v7.0.2 | ✔ |
 | [halloy](https://snapcraft.io/halloy) | 2024.7.08f4db0 | ^ | 2024.7 | ✔ |
 | [iamb](https://snapcraft.io/iamb) | v0.0.9 | latest-12-gc6982c9 | v0.0.9 | ✔ |
