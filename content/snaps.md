@@ -13,7 +13,7 @@ There's also the [charts](/blog/charts) page which shows how many weekly active 
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 
-### Fri 10 May 14:00:03 BST 2024
+### Fri 10 May 15:00:02 BST 2024
 | Snap | Stable | Edge | Upstream | OK? |
 | - | - | - | - | - |
 | [](https://snapcraft.io/) |  | | r47 | ✖ |
@@ -35,7 +35,6 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [MatterBridge](https://snapcraft.io/matterbridge) | v1.26.0 | v1.26.0 | v1.26.0 | ✔ |
 | [Mindustry](https://snapcraft.io/mindustry) | v146 | v146 | v146 | ✔ |
 | [Monolith](https://snapcraft.io/monolith) | v2.8.1 | v2.8.1 | v2.8.1 | ✔ |
-| [ncspot](https://snapcraft.io/ncspot) | v1.1.0 | v1.1.0 | v1.1.0 | ✔ |
 | [NotepadNext](https://snapcraft.io/notepadnext) | v0.7 | v0.7 | v0.7 | ✔ |
 | [Pencil](https://snapcraft.io/pencil) | 3.1.1 | ^ | 3.1.1 | ✔ |
 | [PioneerSpaceSimulator](https://snapcraft.io/pioneer) | 20240314 | 20240314 | 20240314 | ✔ |
@@ -48,6 +47,7 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [emoj](https://snapcraft.io/emoj) | v3.3.0.e60099d | v3.3.0.e60099d | v4.0.1 | ✖ |
 | [Libation](https://snapcraft.io/libation) | 11.1.0 | 11.3.9 | v11.3.9 | ✖ |
 | [MAME](https://snapcraft.io/mame) | mame0264 | mame0264 | mame0265 | ✖ |
+| [ncspot](https://snapcraft.io/ncspot) | v1.1.0 | v1.1.0 | v1.1.1 | ✖ |
 | [OpenBoardView](https://snapcraft.io/openboardview) | 8.0 | 8.0 | v0.4 | ✖ |
 | [PWBM](https://snapcraft.io/pwbm) | 0.1 | 0.1 | - | ✖ |
 | [Session-Desktop](https://snapcraft.io/session-desktop) | v1.12.0 | v1.12.0 | v1.12.3 | ✖ |
