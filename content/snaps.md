@@ -13,20 +13,20 @@ There's also the [charts](/blog/charts) page which shows how many weekly active 
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 
-### Sat 11 May 08:00:02 BST 2024
+### Sat 11 May 09:00:02 BST 2024
 | Snap | Stable | Edge | Upstream | OK? |
 | - | - | - | - | - |
 | [](https://snapcraft.io/) |  | | r47 | ✖ |
 | [Azimuth](https://snapcraft.io/azimuth) | v1.0.3 | v1.0.3 | v1.0.3 | ✔ |
 | [B2](https://snapcraft.io/b2) | b2-20231011-172305-4bd1939 | b2-20231011-172305-4bd1939 | b2-20231011-172305-4bd1939 | ✔ |
 | [Bandwhich](https://snapcraft.io/bandwhich) | v0.22.2.5f5cc7e | v0.22.2.c255c08 | v0.22.2 | ✔ |
-| [ClassiCube](https://snapcraft.io/classicube) | 1.3.6 | 1.3.6-662-g3ee1b1e92 | 1.3.6 | ✔ |
+| [ClassiCube](https://snapcraft.io/classicube) | 1.3.6 | 1.3.6-670-g4a96f653b | 1.3.6 | ✔ |
 | [Defold](https://snapcraft.io/defold) | 1.8.0 | ^ | 1.8.0 | ✔ |
 | [Dog](https://snapcraft.io/dog) | v0.1.0 | v0.1.0 | v0.1.0 | ✔ |
 | [DOSBox-Staging](https://snapcraft.io/dosbox-staging) | v0.81.0 | v0.81.0 | v0.81.0 | ✔ |
 | [DynaHack](https://snapcraft.io/dynahack) | v0.6.0 | v0.6.0 | v0.6.0 | ✔ |
 | [emu2](https://snapcraft.io/emu2) | v2021.01 | v2021.01 | v2021.01 | ✔ |
-| [Fab-Agon-Emulator](https://snapcraft.io/fab-agon-emulator) | 0.9.43 | d8b00ea | 0.9.43 | ✔ |
+| [Fab-Agon-Emulator](https://snapcraft.io/fab-agon-emulator) | 0.9.43 | d693ee0 | 0.9.43 | ✔ |
 | [Forgejo](https://snapcraft.io/forgejo) | v7.0.2 | ^ | v7.0.2 | ✔ |
 | [halloy](https://snapcraft.io/halloy) | 2024.7.08f4db0 | ^ | 2024.7 | ✔ |
 | [iamb](https://snapcraft.io/iamb) | v0.0.9 | latest-12-gc6982c9 | v0.0.9 | ✔ |
