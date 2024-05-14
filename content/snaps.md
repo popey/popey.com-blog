@@ -13,7 +13,7 @@ There's also the [charts](/blog/charts) page which shows how many weekly active 
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 
-### Tue 14 May 18:00:03 BST 2024
+### Tue 14 May 19:00:03 BST 2024
 | Snap | Stable | Edge | Upstream | OK? |
 | - | - | - | - | - |
 | [](https://snapcraft.io/) |  | | r47 | ✖ |
@@ -45,7 +45,7 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [BombSquad](https://snapcraft.io/bombsquad) | 1.7.33 | 1.7.34 | 1.7.34 | ✖ |
 | [Defold](https://snapcraft.io/defold) | 1.8.0 | ^ | 1.8.1-beta | ✖ |
 | [emoj](https://snapcraft.io/emoj) | v3.3.0.e60099d | v3.3.0.e60099d | v4.1.0 | ✖ |
-| [Libation](https://snapcraft.io/libation) | 11.1.0 | 11.3.9 | v11.3.11 | ✖ |
+| [Libation](https://snapcraft.io/libation) | 11.1.0 | 11.3.11 | v11.3.11 | ✖ |
 | [MAME](https://snapcraft.io/mame) | mame0264 | mame0264 | mame0265 | ✖ |
 | [ncspot](https://snapcraft.io/ncspot) | v1.1.0 | v1.1.1 | v1.1.1 | ✖ |
 | [OpenBoardView](https://snapcraft.io/openboardview) | 8.0 | 8.0 | v0.4 | ✖ |
