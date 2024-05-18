@@ -13,7 +13,7 @@ There's also the [charts](/blog/charts) page which shows how many weekly active 
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 
-### Sat 18 May 14:00:01 BST 2024
+### Sat 18 May 15:00:02 BST 2024
 | Snap | Stable | Edge | Upstream | OK? |
 | - | - | - | - | - |
 | [Azimuth](https://snapcraft.io/azimuth) | v1.0.3 | v1.0.3 | v1.0.3 | ✔ |
@@ -36,7 +36,6 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [NotepadNext](https://snapcraft.io/notepadnext) | v0.7 | v0.7 | v0.7 | ✔ |
 | [Pencil](https://snapcraft.io/pencil) | 3.1.1 | ^ | 3.1.1 | ✔ |
 | [PioneerSpaceSimulator](https://snapcraft.io/pioneer) | 20240314 | 20240314 | 20240314 | ✔ |
-| [Rustscan](https://snapcraft.io/rustscan) | 2.2.3 | 2.2.3-5-g457c164 | 2.2.3 | ✔ |
 | [Shattered-Pixel-Dungeon](https://snapcraft.io/shattered-pixel-dungeon) | v2.4.0 | v2.4.0 | v2.4.0 | ✔ |
 | [SpectrumAnalyser](https://snapcraft.io/spectrum-analyser) | v0.2.0-alpha-master | ^ | v0.2.0-alpha | ✔ |
 | [Toot](https://snapcraft.io/toot) | 0.43.0 | 0.43.0 | 0.43.0 | ✔ |
@@ -50,6 +49,7 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [ncspot](https://snapcraft.io/ncspot) | v1.1.0 | v1.1.1 | v1.1.1 | ✖ |
 | [OpenBoardView](https://snapcraft.io/openboardview) | 8.0 | 8.0 | v0.4 | ✖ |
 | [PWBM](https://snapcraft.io/pwbm) | 0.1 | 0.1 | - | ✖ |
+| [Rustscan](https://snapcraft.io/rustscan) | 2.2.3 | 2.2.3-5-g457c164 | untagged-544fc861a2260fa82810 | ✖ |
 | [Session-Desktop](https://snapcraft.io/session-desktop) | v1.12.0 | v1.12.0 | v1.12.3 | ✖ |
 | [Spot](https://snapcraft.io/spot) | 0.4.0 | 0.4.0 | 0.4.1 | ✖ |
 | [Telegram-Asahi](https://snapcraft.io/telegram-asahi) | 5.0.1       | 5.0.1 | v5.0.1 | ✖ |
