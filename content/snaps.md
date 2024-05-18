@@ -13,7 +13,7 @@ There's also the [charts](/blog/charts) page which shows how many weekly active 
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 
-### Sat 18 May 20:00:02 BST 2024
+### Sat 18 May 21:00:02 BST 2024
 | Snap | Stable | Edge | Upstream | OK? |
 | - | - | - | - | - |
 | [Azimuth](https://snapcraft.io/azimuth) | v1.0.3 | v1.0.3 | v1.0.3 | ✔ |
@@ -24,7 +24,6 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [DOSBox-Staging](https://snapcraft.io/dosbox-staging) | v0.81.1 | v0.81.1 | v0.81.1 | ✔ |
 | [DynaHack](https://snapcraft.io/dynahack) | v0.6.0 | v0.6.0 | v0.6.0 | ✔ |
 | [emu2](https://snapcraft.io/emu2) | v2021.01 | v2021.01 | v2021.01 | ✔ |
-| [Fab-Agon-Emulator](https://snapcraft.io/fab-agon-emulator) | 0.9.43 | d693ee0 | 0.9.43 | ✔ |
 | [Forgejo](https://snapcraft.io/forgejo) | v7.0.2 | ^ | v7.0.2 | ✔ |
 | [halloy](https://snapcraft.io/halloy) | 2024.7.08f4db0 | 2024.7.d703539 | 2024.7 | ✔ |
 | [iamb](https://snapcraft.io/iamb) | v0.0.9 | latest-12-gc6982c9 | v0.0.9 | ✔ |
@@ -44,6 +43,7 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [BombSquad](https://snapcraft.io/bombsquad) | 1.7.33 | 1.7.34 | 1.7.35 | ✖ |
 | [Defold](https://snapcraft.io/defold) | 1.8.0 | ^ | 1.8.1-beta | ✖ |
 | [emoj](https://snapcraft.io/emoj) | v3.3.0.e60099d | v3.3.0.e60099d | v4.1.0 | ✖ |
+| [Fab-Agon-Emulator](https://snapcraft.io/fab-agon-emulator) | 0.9.43 | d693ee0 | 0.9.50 | ✖ |
 | [Libation](https://snapcraft.io/libation) | 11.1.0 | 11.3.13 | v11.3.13 | ✖ |
 | [MAME](https://snapcraft.io/mame) | mame0264 | mame0264 | mame0265 | ✖ |
 | [ncspot](https://snapcraft.io/ncspot) | v1.1.0 | v1.1.1 | v1.1.1 | ✖ |
