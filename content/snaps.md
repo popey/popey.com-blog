@@ -13,7 +13,7 @@ There's also the [charts](/blog/charts) page which shows how many weekly active 
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 
-### Tue 28 May 09:00:02 BST 2024
+### Tue 28 May 10:00:02 BST 2024
 | Snap | Stable | Edge | Upstream | OK? |
 | - | - | - | - | - |
 | [Azimuth](https://snapcraft.io/azimuth) | v1.0.3 | v1.0.3 | v1.0.3 | ✔ |
@@ -26,7 +26,7 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [emu2](https://snapcraft.io/emu2) | v2021.01 | v2021.01 | v2021.01 | ✔ |
 | [Fab-Agon-Emulator](https://snapcraft.io/fab-agon-emulator) | 0.9.50 | 1581f35 | 0.9.50 | ✔ |
 | [Forgejo](https://snapcraft.io/forgejo) | v7.0.3 | ^ | v7.0.3 | ✔ |
-| [halloy](https://snapcraft.io/halloy) | 2024.7.08f4db0 | 2024.7.f8c0330 | 2024.7 | ✔ |
+| [halloy](https://snapcraft.io/halloy) | 2024.7.08f4db0 | 2024.7.53cfdd9 | 2024.7 | ✔ |
 | [iamb](https://snapcraft.io/iamb) | v0.0.9 | latest-18-g497be7f | v0.0.9 | ✔ |
 | [Ladder](https://snapcraft.io/ladder) | v0.0.21.3918cf3 | v0.0.21.3918cf3 | v0.0.21 | ✔ |
 | [Lapin](https://snapcraft.io/lapin) | a6b34c9 | a6b34c9 | a6b34c9 | ✔ |
@@ -40,7 +40,7 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [SpectrumAnalyser](https://snapcraft.io/spectrum-analyser) | v0.2.0-alpha-master | ^ | v0.2.0-alpha | ✔ |
 | [Toot](https://snapcraft.io/toot) | 0.43.0 | 0.43.0 | 0.43.0 | ✔ |
 | [TwineJS](https://snapcraft.io/twinejs) | 2.8.1 | 2.8.1 | 2.8.1 | ✔ |
-| [X16EMU](https://snapcraft.io/x16emu) | r47 | 5a97d85 | r47 | ✔ |
+| [X16EMU](https://snapcraft.io/x16emu) | r47 | e792d45 | r47 | ✔ |
 | [BombSquad](https://snapcraft.io/bombsquad) | 1.7.33 | 1.7.34 | 1.7.35 | ✖ |
 | [Defold](https://snapcraft.io/defold) | 1.8.0 | ^ | 1.8.1-beta | ✖ |
 | [emoj](https://snapcraft.io/emoj) | v3.3.0.e60099d | v3.3.0.e60099d | v4.1.0 | ✖ |
