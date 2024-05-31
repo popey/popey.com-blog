@@ -13,13 +13,13 @@ There's also the [charts](/blog/charts) page which shows how many weekly active 
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 
-### Fri 31 May 09:00:02 BST 2024
+### Fri 31 May 10:00:02 BST 2024
 | Snap | Stable | Edge | Upstream | OK? |
 | - | - | - | - | - |
 | [Azimuth](https://snapcraft.io/azimuth) | v1.0.3 | v1.0.3 | v1.0.3 | ✔ |
 | [B2](https://snapcraft.io/b2) | b2-20231011-172305-4bd1939 | b2-20231011-172305-4bd1939 | b2-20231011-172305-4bd1939 | ✔ |
 | [Bandwhich](https://snapcraft.io/bandwhich) | v0.22.2.5f5cc7e | v0.22.2.c255c08 | v0.22.2 | ✔ |
-| [ClassiCube](https://snapcraft.io/classicube) | 1.3.6 | 1.3.6-803-g8c014a5d2 | 1.3.6 | ✔ |
+| [ClassiCube](https://snapcraft.io/classicube) | 1.3.6 | 1.3.6-808-gcbaf42c88 | 1.3.6 | ✔ |
 | [Defold](https://snapcraft.io/defold) | 1.8.1 | ^ | 1.8.1 | ✔ |
 | [Dog](https://snapcraft.io/dog) | v0.1.0 | v0.1.0 | v0.1.0 | ✔ |
 | [DOSBox-Staging](https://snapcraft.io/dosbox-staging) | v0.81.1 | v0.81.1 | v0.81.1 | ✔ |
@@ -40,6 +40,7 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [PioneerSpaceSimulator](https://snapcraft.io/pioneer) | 20240314 | 20240314 | 20240314 | ✔ |
 | [Shattered-Pixel-Dungeon](https://snapcraft.io/shattered-pixel-dungeon) | v2.4.1 | v2.4.1 | v2.4.1 | ✔ |
 | [SpectrumAnalyser](https://snapcraft.io/spectrum-analyser) | v0.2.0-alpha-master | ^ | v0.2.0-alpha | ✔ |
+| [Spot](https://snapcraft.io/spot) | 0.4.1 | 0.4.1 | 0.4.1 | ✔ |
 | [Toot](https://snapcraft.io/toot) | 0.43.0 | 0.43.0 | 0.43.0 | ✔ |
 | [TwineJS](https://snapcraft.io/twinejs) | 2.8.1 | 2.8.1 | 2.8.1 | ✔ |
 | [X16EMU](https://snapcraft.io/x16emu) | r47 | 33f14cd | r47 | ✔ |
@@ -51,7 +52,6 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [PWBM](https://snapcraft.io/pwbm) | 0.1 | 0.1 | - | ✖ |
 | [Rustscan](https://snapcraft.io/rustscan) | 2.2.3 | 2.2.3-5-g457c164 | untagged-544fc861a2260fa82810 | ✖ |
 | [Session-Desktop](https://snapcraft.io/session-desktop) | v1.12.0 | v1.12.0 | v1.12.3 | ✖ |
-| [Spot](https://snapcraft.io/spot) | 0.4.0 | 0.4.0 | 0.4.1 | ✖ |
 | [Telegram-Asahi](https://snapcraft.io/telegram-asahi) | 5.0.4       | 5.0.4 | v5.0.4 | ✖ |
 
 ### Notes
