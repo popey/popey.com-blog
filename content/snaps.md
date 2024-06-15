@@ -13,7 +13,7 @@ There's also the [charts](/blog/charts) page which shows how many weekly active 
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 
-### Sat 15 Jun 17:00:03 BST 2024
+### Sat 15 Jun 18:00:02 BST 2024
 | Snap | Stable | Edge | Upstream | OK? |
 | - | - | - | - | - |
 | [Azimuth](https://snapcraft.io/azimuth) | v1.0.3 | v1.0.3 | v1.0.3 | ✔ |
@@ -52,7 +52,7 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [PWBM](https://snapcraft.io/pwbm) | 0.1 | 0.1 | - | ✖ |
 | [Rustscan](https://snapcraft.io/rustscan) | 2.2.3 | untagged-544fc861a2260fa82810 | untagged-544fc861a2260fa82810 | ✖ |
 | [Session-Desktop](https://snapcraft.io/session-desktop) | v1.12.0 | v1.12.0 | v1.12.3 | ✖ |
-| [Telegram-Asahi](https://snapcraft.io/telegram-asahi) | 5.1.6       | 5.1.5 | v5.1.7 | ✖ |
+| [Telegram-Asahi](https://snapcraft.io/telegram-asahi) | 5.1.6       | 5.1.6 | v5.1.7 | ✖ |
 
 ### Notes
 
