@@ -13,7 +13,7 @@ There's also the [charts](/blog/charts) page which shows how many weekly active 
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 
-### Sun 16 Jun 21:00:02 BST 2024
+### Sun 16 Jun 22:00:02 BST 2024
 | Snap | Stable | Edge | Upstream | OK? |
 | - | - | - | - | - |
 | [Azimuth](https://snapcraft.io/azimuth) | v1.0.3 | v1.0.3 | v1.0.3 | ✔ |
@@ -40,7 +40,6 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [SpectrumAnalyser](https://snapcraft.io/spectrum-analyser) | v0.2.0-alpha-master | ^ | v0.2.0-alpha | ✔ |
 | [Spot](https://snapcraft.io/spot) | 0.4.1 | 0.4.1 | 0.4.1 | ✔ |
 | [Toot](https://snapcraft.io/toot) | 0.43.0 | 0.43.0 | 0.43.0 | ✔ |
-| [TwineJS](https://snapcraft.io/twinejs) | 2.8.1 | 2.8.1 | 2.8.1 | ✔ |
 | [X16EMU](https://snapcraft.io/x16emu) | r47 | 7014d7a | r47 | ✔ |
 | [BombSquad](https://snapcraft.io/bombsquad) | 1.7.33 | 1.7.35 | 1.7.35 | ✖ |
 | [Defold](https://snapcraft.io/defold) | 1.8.1 | ^ | 1.9.0-beta | ✖ |
@@ -53,6 +52,7 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [Rustscan](https://snapcraft.io/rustscan) | 2.2.3 | untagged-544fc861a2260fa82810 | untagged-544fc861a2260fa82810 | ✖ |
 | [Session-Desktop](https://snapcraft.io/session-desktop) | v1.12.0 | v1.12.0 | v1.12.3 | ✖ |
 | [Telegram-Asahi](https://snapcraft.io/telegram-asahi) | 5.1.6       | 5.1.7 | v5.1.7 | ✖ |
+| [TwineJS](https://snapcraft.io/twinejs) | 2.8.1 | 2.8.1 | 2.9.0 | ✖ |
 
 ### Notes
 
