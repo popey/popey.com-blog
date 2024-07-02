@@ -13,7 +13,7 @@ There's also the [charts](/blog/charts) page which shows how many weekly active 
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 
-### Tue 2 Jul 09:00:02 BST 2024
+### Tue 2 Jul 09:32:46 BST 2024
 | Snap | Stable | Edge | Upstream | OK? |
 | - | - | - | - | - |
 | [Azimuth](https://snapcraft.io/azimuth) | v1.0.3 | v1.0.3 | v1.0.3 | ✔ |
@@ -40,9 +40,10 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [Shattered-Pixel-Dungeon](https://snapcraft.io/shattered-pixel-dungeon) | v2.4.2 | v2.4.2 | v2.4.2 | ✔ |
 | [SpectrumAnalyser](https://snapcraft.io/spectrum-analyser) | v0.2.0-alpha-master | ^ | v0.2.0-alpha | ✔ |
 | [Spot](https://snapcraft.io/spot) | 0.4.1 | 0.4.1 | 0.4.1 | ✔ |
+| [Telegram-Asahi](https://snapcraft.io/telegram-asahi) | 5.2.1       | 5.2.1 | 5.2.1 | ✔ |
 | [Toot](https://snapcraft.io/toot) | 0.43.0 | 0.43.0 | 0.43.0 | ✔ |
 | [TwineJS](https://snapcraft.io/twinejs) | 2.9.0 | 2.9.0 | 2.9.0 | ✔ |
-| [X16EMU](https://snapcraft.io/x16emu) | r47 | c310488 | r47 | ✔ |
+| [X16EMU](https://snapcraft.io/x16emu) | r47 | d8c4a4a | r47 | ✔ |
 | [BombSquad](https://snapcraft.io/bombsquad) | 1.7.33 | 1.7.36 | 1.7.36 | ✖ |
 | [emoj](https://snapcraft.io/emoj) | v3.3.0.e60099d | v3.3.0.e60099d | v4.1.0 | ✖ |
 | [Libation](https://snapcraft.io/libation) | 11.1.0 | 11.3.14.2 | v11.3.14.2 | ✖ |
@@ -52,7 +53,6 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [PWBM](https://snapcraft.io/pwbm) | 0.1 | 0.1 | - | ✖ |
 | [Rustscan](https://snapcraft.io/rustscan) | 2.2.3 | untagged-544fc861a2260fa82810 | untagged-544fc861a2260fa82810 | ✖ |
 | [Session-Desktop](https://snapcraft.io/session-desktop) | v1.12.0 | v1.12.0 | v1.12.4 | ✖ |
-| [Telegram-Asahi](https://snapcraft.io/telegram-asahi) | 5.2.1       | 5.2.1 | v5.2.1 | ✖ |
 
 ### Notes
 
