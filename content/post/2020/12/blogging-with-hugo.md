@@ -12,13 +12,13 @@ More recently I discovered [Hugo](https://gohugo.io/), and used it for a couple 
 
 ![popeyspades site](/blog/images/2020-12-21/popeyspades.png)
 
-[Make A Linux App](https://makealinux.app/) is a single-serving site, which seeks to promote app development for Linux, and disuade the proliferation of Linux distributions. 
+[Make A Linux App](https://makealinux.app/) is a single-serving site that seeks to promote app development for Linux and discourage the proliferation of Linux distributions. 
 
 ![makealinuxapp site](/blog/images/2020-12-21/makealinuxapp.png)
 
 Hugo is pretty versatile. I really like it.
 
-When I setup [Make A Linux App](https://makealinux.app/), I put the source for the site on [GitHub](https://github.com/popey/makealinux.app), and created some simple infrastructure to automate publishing of updates. I found the blogging part of Hugo pleasant, and the automation very easy to implement, so I decided to reboot my [popey.com/blog](https://popey.com/blog). 
+When I set up [Make A Linux App](https://makealinux.app/), I put the site's source on [GitHub](https://github.com/popey/makealinux.app) and created some simple infrastructure to automate update publishing. I found Hugo's blogging part pleasant and the automation very easy to implement, so I decided to reboot my [popey.com/blog](https://popey.com/blog). 
 
 Here's the basics of what I did to gets started, in case anyone else fancies running a blog on [Hugo](https://gohugo.io/). This is mostly a loose set of notes I made while setting up. Refer to the [Hugo documentation](https://gohugo.io/getting-started/) for more professional docs ;)
 
@@ -36,7 +36,7 @@ On my laptop, desktop or wherever I want to blog:
 
 ### Create a site
 
-```
+```text
 $ mkdir ~/hugo/
 $ cd ~/hugo
 $ hugo new site popey.com-blog
@@ -52,7 +52,7 @@ Grab the release tarball, and unpack it in `~/hugo/popey.com-blog/themes` such t
 
 Edit `~/hugo/popey.com-blog/config.toml` and tweak as per the [Hugo documentation](https://gohugo.io/getting-started/configuration/). Here's some ideas for what mine looked like at this point:
 
-```
+```toml
 baseurl = "https://popey.com/blog/"
 title = "popey.com/blog"
 languageCode = "en-gb"
@@ -78,14 +78,14 @@ theme = "ghostwriter"
 
 Hugo can serve the pages up locally, before any embarassing errors are published for the world to see. Simply run `hugo serve` in the directory:
 
-```
+```text
 $ cd ~/hugo/popey.com-blog/
 $ hugo serve
 ```
 
 You'll get output like this, and can then visit the posted local URL (e.g. http://localhost:1313/blog/) in a browser to test.
 
-```
+```text
 $ hugo serve --buildFuture
 Start building sites … 
 
@@ -117,11 +117,13 @@ If you plan to post-date articles, add the `--buildFuture` flag to the `hugo ser
 
 To create a post, use the `hugo new` command with the path to the blog post filename. I have arranged mine by year and month, and use markdown as my language of choice.
 
-`$ hugo new post/2020/12/blogging-with-hugo.md`
+```text
+$ hugo new post/2020/12/blogging-with-hugo.md
+```
 
 The file `./content/post/2020/12/blogging-with-hugo.md` will be created with boilerplate metadata:
 
-```
+```toml
 ---
 title: "Blogging With Hugo"
 date: 2020-12-21T21:18:38Z
@@ -133,15 +135,17 @@ Start editing with your text editor.
 
 ![Sublime Text](/blog/images/2020-12-21/st-preview_50.png)
 
-The post should show up in your browser once you start maintaining content. The `hugo serve` command will dynamically rebuild the page each time the markdown file is saved, making it super easy to quickly iterate on the content.
+Once you start maintaining content, the post should show up in your browser. The `hugo serve` command will dynamically rebuild the page each time the markdown file is saved, making it super easy to iterate on the content quickly.
 
 ![Browser preview](/blog/images/2020-12-21/browser_50.png)
 
 ### Adding images
 
-I place images in `./static/images/` in a 'neat' directory hierarchy. Then use this syntax to embed it in the posts.
+I place images in `./static/images/` in a 'neat' directory hierarchy and then use this syntax to embed them in the posts.
 
-`![Alt text description](/blog/images/2020-12-21/filename.png)`
+```markdown
+![Alt text description](/blog/images/2020-12-21/filename.png)
+````
 
 ## Push changes
 
@@ -153,17 +157,17 @@ Other options include [GitKraken](https://www.gitkraken.com/), [GitHub Desktop](
 
 ## Server config
 
-I'm not going to cover how you go about setting up the server, because there's a billion guides online for setting up a VPS with Apache or whatever webserver you prefer. 
+I'm not going to cover how you set up the server because there are a billion guides online for setting up a VPS with Apache or whatever webserver you prefer. 
 
 ### Webserver
 
-My webserver is configured to serve from `/srv/<domain>/www` so, `/srv/popey.com/www/`. The blog lives under `/srv/popey.com/www/blog`.
+My web server is configured to serve from `/srv/<domain>/www` so, `/srv/popey.com/www/`. The blog lives under `/srv/popey.com/www/blog`.
 
 ### Cron job
 
-I threw together this shell script which updates a local directory from GitHub via a simple `git pull`, then uses the `hugo` command to build the public pages in `public/` which, if successful is copied to the webserver directory.
+I threw together this shell script, which updates a local directory from GitHub via a simple `git pull`. It then uses the `hugo` command to build the public pages in `public/`, which, if successful, is copied to the webserver directory.
 
-```
+```bash
 #!/bin/bash
 
 cd "/home/alan/blog/popey.com-blog"
@@ -177,16 +181,18 @@ fi
 
 I have configured this cron job to run at 45 mins past each hour.
 
-`45 * * * * cd /home/alan/blog && ./updateblog.sh`
+```text
+45 * * * * cd /home/alan/blog && ./updateblog.sh
+```
 
-I can optionally `ssh` into the server and manually run that script if I want to promtly update some content which has been pushed to the git repo.
+I can optionally `ssh` into the server and manually run that script if I want to update some content that has been pushed to the git repo immediately.
 
 ## Updating content
 
-Typically I'll clone the repo, and go through the above process again to edit content. Alternatively for ninja "in production" edits, I might use the web based editor built into GitHub.
+Typically, I'll clone the repo and go through the above process again to edit content. Alternatively, for ninja "in production" edits, I might use the web-based editor built into GitHub.
 
-That's essentially it. I can schedule posts to only appear on the site at a particular date/time, by setting a future time in the `date` field in each post meta-data. They're public in the git repo as soon as I push of course, but they'll only get publicly shown on the blog when the next cron job runs after the time specified. Good enough for me! 
+That's essentially it. I can schedule posts to appear on the site only at a particular date/time by setting a future time in the `date` field in each post meta-data. Of course, they're public in the git repo as soon as I push, but they'll only get publicly shown on the blog when the next cron job runs after the time specified. That's good enough for me! 
 
 ## Conclusion
 
-I find Hugo to be a super friendly, well-documented and easy to modify way to create and publish content on my own site. No PHP or MySQL needed ;)
+I find Hugo to be a super friendly, well-documented, and easy-to-modify way to create and publish content on my own site. No PHP or MySQL is needed ;)
