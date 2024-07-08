@@ -13,20 +13,20 @@ There's also the [charts](/blog/charts) page which shows how many weekly active 
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 
-### Mon 8 Jul 12:00:01 BST 2024
+### Mon 8 Jul 13:00:02 BST 2024
 | Snap | Stable | Edge | Upstream | OK? |
 | - | - | - | - | - |
 | [Azimuth](https://snapcraft.io/azimuth) | v1.0.3 | v1.0.3 | v1.0.3 | ✔ |
 | [B2](https://snapcraft.io/b2) | b2-20231011-172305-4bd1939 | 20240706-142620-4b15cf5 | b2-20231011-172305-4bd1939 | ✔ |
 | [Bandwhich](https://snapcraft.io/bandwhich) | v0.22.2.5f5cc7e | v0.22.2.8e1a5dc | v0.22.2 | ✔ |
 | [ClassiCube](https://snapcraft.io/classicube) | 1.3.6 | 1.3.6-1037-g843173a11 | 1.3.6 | ✔ |
-| [Defold](https://snapcraft.io/defold) | 1.9.0 | ^ | 1.9.0 | ✔ |
 | [Dog](https://snapcraft.io/dog) | v0.1.0 | v0.1.0 | v0.1.0 | ✔ |
 | [DOSBox-Staging](https://snapcraft.io/dosbox-staging) | v0.81.1 | v0.81.1 | v0.81.1 | ✔ |
 | [DynaHack](https://snapcraft.io/dynahack) | v0.6.0 | v0.6.0 | v0.6.0 | ✔ |
 | [emu2](https://snapcraft.io/emu2) | v2021.01 | v2021.01-63-g6dd25eb | v2021.01 | ✔ |
 | [Fab-Agon-Emulator](https://snapcraft.io/fab-agon-emulator) | 0.9.50 | f95dadf | 0.9.50 | ✔ |
 | [Forgejo](https://snapcraft.io/forgejo) | v7.0.5 | ^ | v7.0.5 | ✔ |
+| [halloy](https://snapcraft.io/halloy) | 2024.8.6b63c40 | 2024.8.6b63c40 | 2024.8 | ✔ |
 | [iamb](https://snapcraft.io/iamb) | v0.0.9 | latest-18-g497be7f | v0.0.9 | ✔ |
 | [Ladder](https://snapcraft.io/ladder) | v0.0.21.3918cf3 | v0.0.21.3918cf3 | v0.0.21 | ✔ |
 | [Lapin](https://snapcraft.io/lapin) | a6b34c9 | a6b34c9 | a6b34c9 | ✔ |
@@ -43,8 +43,8 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [TwineJS](https://snapcraft.io/twinejs) | 2.9.0 | 2.9.0 | 2.9.0 | ✔ |
 | [X16EMU](https://snapcraft.io/x16emu) | r47 | d8c4a4a | r47 | ✔ |
 | [BombSquad](https://snapcraft.io/bombsquad) | 1.7.33 | 1.7.36 | 1.7.36 | ✖ |
+| [Defold](https://snapcraft.io/defold) | 1.9.0 | ^ | 1.9.1-beta | ✖ |
 | [emoj](https://snapcraft.io/emoj) | v3.3.0.e60099d | v3.3.0.e60099d | v4.1.0 | ✖ |
-| [halloy](https://snapcraft.io/halloy) | 2024.7.08f4db0 | 2024.8.6b63c40 | 2024.8 | ✖ |
 | [Libation](https://snapcraft.io/libation) | 11.1.0 | 11.3.14.2 | v11.3.14.2 | ✖ |
 | [MAME](https://snapcraft.io/mame) | mame0264 | mame0264 | mame0267 | ✖ |
 | [NotepadNext](https://snapcraft.io/notepadnext) | v0.7 | v0.8 | v0.8 | ✖ |
