@@ -13,12 +13,12 @@ There's also the [charts](/blog/charts) page which shows how many weekly active 
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 
-### Sat 20 Jul 09:00:02 BST 2024
+### Sat 20 Jul 10:00:02 BST 2024
 | Snap | Stable | Edge | Upstream | OK? |
 | - | - | - | - | - |
 | [Azimuth](https://snapcraft.io/azimuth) | v1.0.3 | v1.0.3 | v1.0.3 | ✔ |
 | [Bandwhich](https://snapcraft.io/bandwhich) | v0.22.2.5f5cc7e | v0.22.2.8e1a5dc | v0.22.2 | ✔ |
-| [ClassiCube](https://snapcraft.io/classicube) | 1.3.6 | 1.3.6-1088-gf06796195 | 1.3.6 | ✔ |
+| [ClassiCube](https://snapcraft.io/classicube) | 1.3.6 | 1.3.6-1093-g97c3dd837 | 1.3.6 | ✔ |
 | [Dog](https://snapcraft.io/dog) | v0.1.0 | v0.1.0 | v0.1.0 | ✔ |
 | [DOSBox-Staging](https://snapcraft.io/dosbox-staging) | v0.81.1 | v0.81.1 | v0.81.1 | ✔ |
 | [DynaHack](https://snapcraft.io/dynahack) | v0.6.0 | v0.6.0 | v0.6.0 | ✔ |
