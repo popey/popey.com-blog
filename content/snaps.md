@@ -13,7 +13,7 @@ There's also the [charts](/blog/charts) page which shows how many weekly active 
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 
-### Mon 22 Jul 13:00:02 BST 2024
+### Tue 23 Jul 04:00:03 BST 2024
 | Snap | Stable | Edge | Upstream | OK? |
 | - | - | - | - | - |
 | [Azimuth](https://snapcraft.io/azimuth) | v1.0.3 | v1.0.3 | v1.0.3 | ✔ |
@@ -31,6 +31,7 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [MatterBridge](https://snapcraft.io/matterbridge) | v1.26.0 | v1.26.0 | v1.26.0 | ✔ |
 | [Mindustry](https://snapcraft.io/mindustry) | v146 | v146 | v146 | ✔ |
 | [Monolith](https://snapcraft.io/monolith) | v2.8.1 | v2.8.1 | v2.8.1 | ✔ |
+| [ncspot](https://snapcraft.io/ncspot) | v1.1.2 | ^ | v1.1.2 | ✔ |
 | [Pencil](https://snapcraft.io/pencil) | 3.1.1 | ^ | 3.1.1 | ✔ |
 | [PioneerSpaceSimulator](https://snapcraft.io/pioneer) | 20240710 | 20240710 | 20240710 | ✔ |
 | [Rustscan](https://snapcraft.io/rustscan) | 2.3.0 | 2.3.0-2-g9f35cd4 | 2.3.0 | ✔ |
@@ -42,17 +43,16 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [X16EMU](https://snapcraft.io/x16emu) | r47 | d8c4a4a | r47 | ✔ |
 | [B2](https://snapcraft.io/b2) | 20240711-231524-658e05b | 20240720-010024-9f95270 | b2-20240720-010024-9f95270 | ✖ |
 | [BombSquad](https://snapcraft.io/bombsquad) | 1.7.33 | 1.7.36 | 1.7.36 | ✖ |
-| [Defold](https://snapcraft.io/defold) | 1.9.0 | ^ | 1.9.1 | ✖ |
-| [DOSBox-Staging](https://snapcraft.io/dosbox-staging) | v0.81.1 | v0.81.1 | v0.81.2 | ✖ |
+| [Defold](https://snapcraft.io/defold) | 1.9.0 | 1.9.1 | 1.9.1 | ✖ |
+| [DOSBox-Staging](https://snapcraft.io/dosbox-staging) | v0.81.1 | v0.81.2 | v0.81.2 | ✖ |
 | [emoj](https://snapcraft.io/emoj) | v3.3.0.e60099d | v3.3.0.e60099d | v4.1.0 | ✖ |
 | [Libation](https://snapcraft.io/libation) | 11.1.0 | 11.3.14.2 | v11.3.14.2 | ✖ |
 | [MAME](https://snapcraft.io/mame) | mame0264 | mame0264 | mame0267 | ✖ |
-| [ncspot](https://snapcraft.io/ncspot) | v1.1.1 | v1.1.2 | v1.1.2 | ✖ |
 | [NotepadNext](https://snapcraft.io/notepadnext) | v0.7 | v0.8 | v0.8 | ✖ |
 | [OpenBoardView](https://snapcraft.io/openboardview) | 8.0 | 8.0 | - | ✖ |
 | [PWBM](https://snapcraft.io/pwbm) | 0.1 | 0.1 | - | ✖ |
 | [Session-Desktop](https://snapcraft.io/session-desktop) | v1.12.0 | v1.12.0 | v1.12.4 | ✖ |
-| [TwineJS](https://snapcraft.io/twinejs) | 2.9.0 | 2.9.0 | 2.9.1 | ✖ |
+| [TwineJS](https://snapcraft.io/twinejs) | 2.9.0 | 2.9.1 | 2.9.1 | ✖ |
 
 ### Notes
 
