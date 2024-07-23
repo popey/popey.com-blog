@@ -13,12 +13,13 @@ There's also the [charts](/blog/charts) page which shows how many weekly active 
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 
-### Tue 23 Jul 19:00:01 BST 2024
+### Tue 23 Jul 20:00:02 BST 2024
 | Snap | Stable | Edge | Upstream | OK? |
 | - | - | - | - | - |
 | [Azimuth](https://snapcraft.io/azimuth) | v1.0.3 | v1.0.3 | v1.0.3 | ✔ |
 | [Bandwhich](https://snapcraft.io/bandwhich) | v0.22.2.5f5cc7e | v0.22.2.8e1a5dc | v0.22.2 | ✔ |
 | [ClassiCube](https://snapcraft.io/classicube) | 1.3.6 | 1.3.6-1093-g97c3dd837 | 1.3.6 | ✔ |
+| [Defold](https://snapcraft.io/defold) | 1.9.1 | ^ | 1.9.1 | ✔ |
 | [Dog](https://snapcraft.io/dog) | v0.1.0 | v0.1.0 | v0.1.0 | ✔ |
 | [DynaHack](https://snapcraft.io/dynahack) | v0.6.0 | v0.6.0 | v0.6.0 | ✔ |
 | [emu2](https://snapcraft.io/emu2) | v2021.01 | v2021.01-65-g56e82ab | v2021.01 | ✔ |
@@ -43,7 +44,6 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [X16EMU](https://snapcraft.io/x16emu) | r47 | d8c4a4a | r47 | ✔ |
 | [B2](https://snapcraft.io/b2) | 20240711-231524-658e05b | 20240720-010024-9f95270 | b2-20240720-010024-9f95270 | ✖ |
 | [BombSquad](https://snapcraft.io/bombsquad) | 1.7.33 | 1.7.36 | 1.7.36 | ✖ |
-| [Defold](https://snapcraft.io/defold) | 1.9.0 | 1.9.1 | 1.9.1 | ✖ |
 | [DOSBox-Staging](https://snapcraft.io/dosbox-staging) | v0.81.1 | v0.81.2 | v0.81.2 | ✖ |
 | [emoj](https://snapcraft.io/emoj) | v3.3.0.e60099d | v3.3.0.e60099d | v4.1.0 | ✖ |
 | [Libation](https://snapcraft.io/libation) | 11.1.0 | 11.3.14.2 | v11.3.14.2 | ✖ |
