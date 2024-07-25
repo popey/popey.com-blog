@@ -13,7 +13,7 @@ There's also the [charts](/blog/charts) page which shows how many weekly active 
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 
-### Thu 25 Jul 08:00:02 BST 2024
+### Thu 25 Jul 09:00:02 BST 2024
 | Snap | Stable | Edge | Upstream | OK? |
 | - | - | - | - | - |
 | [Azimuth](https://snapcraft.io/azimuth) | v1.0.3 | v1.0.3 | v1.0.3 | ✔ |
@@ -39,7 +39,6 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [Shattered-Pixel-Dungeon](https://snapcraft.io/shattered-pixel-dungeon) | v2.4.2 | v2.4.2 | v2.4.2 | ✔ |
 | [SpectrumAnalyser](https://snapcraft.io/spectrum-analyser) | v0.2.0-alpha-master | ^ | v0.2.0-alpha | ✔ |
 | [Spot](https://snapcraft.io/spot) | 0.4.1 | 0.4.1 | 0.4.1 | ✔ |
-| [Telegram-Asahi](https://snapcraft.io/telegram-asahi) | 5.2.3       | 5.2.3 | 5.2.3 | ✔ |
 | [Toot](https://snapcraft.io/toot) | 0.43.0 | 0.43.0 | 0.43.0 | ✔ |
 | [X16EMU](https://snapcraft.io/x16emu) | r47 | d8c4a4a | r47 | ✔ |
 | [B2](https://snapcraft.io/b2) | 20240711-231524-658e05b | 20240720-010024-9f95270 | b2-20240720-010024-9f95270 | ✖ |
@@ -52,6 +51,7 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [OpenBoardView](https://snapcraft.io/openboardview) | 8.0 | 8.0 | - | ✖ |
 | [PWBM](https://snapcraft.io/pwbm) | 0.1 | 0.1 | - | ✖ |
 | [Session-Desktop](https://snapcraft.io/session-desktop) | v1.12.0 | v1.12.0 | v1.12.5 | ✖ |
+| [Telegram-Asahi](https://snapcraft.io/telegram-asahi) | 5.2.3       | 5.2.3 | 5.2.4 | ✖ |
 | [TwineJS](https://snapcraft.io/twinejs) | 2.9.0 | 2.9.1 | 2.9.1 | ✖ |
 
 ### Notes
