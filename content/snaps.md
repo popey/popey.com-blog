@@ -13,7 +13,7 @@ There's also the [charts](/blog/charts) page which shows how many weekly active 
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 
-### Mon 29 Jul 15:00:02 BST 2024
+### Mon 29 Jul 16:00:01 BST 2024
 | Snap | Stable | Edge | Upstream | OK? |
 | - | - | - | - | - |
 | [Azimuth](https://snapcraft.io/azimuth) | v1.0.3 | v1.0.3 | v1.0.3 | ✔ |
@@ -41,6 +41,7 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [SpectrumAnalyser](https://snapcraft.io/spectrum-analyser) | v0.2.0-alpha-master | ^ | v0.2.0-alpha | ✔ |
 | [Spot](https://snapcraft.io/spot) | 0.4.1 | 0.4.1 | 0.4.1 | ✔ |
 | [Toot](https://snapcraft.io/toot) | 0.43.0 | 0.43.0 | 0.43.0 | ✔ |
+| [TwineJS](https://snapcraft.io/twinejs) | 2.9.2 | 2.9.2 | 2.9.2 | ✔ |
 | [X16EMU](https://snapcraft.io/x16emu) | r47 | d8c4a4a | r47 | ✔ |
 | [B2](https://snapcraft.io/b2) | 20240711-231524-658e05b | 20240720-010024-9f95270 | b2-20240720-010024-9f95270 | ✖ |
 | [BombSquad](https://snapcraft.io/bombsquad) | 1.7.33 | 1.7.36 | 1.7.36 | ✖ |
@@ -52,7 +53,6 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [PWBM](https://snapcraft.io/pwbm) | 0.1 | 0.1 | - | ✖ |
 | [Session-Desktop](https://snapcraft.io/session-desktop) | v1.12.0 | v1.12.0 | v1.12.5 | ✖ |
 | [Telegram-Asahi](https://snapcraft.io/telegram-asahi) | 5.2.3       | 5.2.3 | 5.2.6 | ✖ |
-| [TwineJS](https://snapcraft.io/twinejs) | 2.9.1 | 2.9.2 | 2.9.2 | ✖ |
 
 ### Notes
 
