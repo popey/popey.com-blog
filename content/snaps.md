@@ -13,9 +13,12 @@ There's also the [charts](/blog/charts) page which shows how many weekly active 
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 
-### Tue 30 Jul 10:00:02 BST 2024
+### Tue 30 Jul 11:00:03 BST 2024
 | Snap | Stable | Edge | Upstream | OK? |
 | - | - | - | - | - |
+| [grant](https://snapcraft.io/grant) |  | | v0.2.1 | ✖ |
+| [grype](https://snapcraft.io/grype) |  | | v0.79.3 | ✖ |
+| [syft](https://snapcraft.io/syft) |  | | v1.9.0 | ✖ |
 | [Azimuth](https://snapcraft.io/azimuth) | v1.0.3 | v1.0.3 | v1.0.3 | ✔ |
 | [Bandwhich](https://snapcraft.io/bandwhich) | v0.22.2.5f5cc7e | v0.22.2.4b0a711 | v0.22.2 | ✔ |
 | [ClassiCube](https://snapcraft.io/classicube) | 1.3.6 | 1.3.6-1117-g76dc08d9a | 1.3.6 | ✔ |
@@ -26,6 +29,7 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [emu2](https://snapcraft.io/emu2) | v2021.01 | v2021.01-65-g56e82ab | v2021.01 | ✔ |
 | [Fab-Agon-Emulator](https://snapcraft.io/fab-agon-emulator) | 0.9.55 | de243df | 0.9.55 | ✔ |
 | [Forgejo](https://snapcraft.io/forgejo) | v7.0.5 | ^ | v7.0.5 | ✔ |
+| [halloy](https://snapcraft.io/halloy) | 2024.9 | 2024.9 | 2024.9 | ✔ |
 | [iamb](https://snapcraft.io/iamb) | v0.0.9 | latest-18-g497be7f | v0.0.9 | ✔ |
 | [Ladder](https://snapcraft.io/ladder) | v0.0.21.3918cf3 | v0.0.21.3918cf3 | v0.0.21 | ✔ |
 | [Lapin](https://snapcraft.io/lapin) | a6b34c9 | ^ | a6b34c9 | ✔ |
@@ -45,7 +49,6 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [B2](https://snapcraft.io/b2) | 20240711-231524-658e05b | 20240720-010024-9f95270 | b2-20240720-010024-9f95270 | ✖ |
 | [BombSquad](https://snapcraft.io/bombsquad) | 1.7.33 | 1.7.36 | 1.7.36 | ✖ |
 | [emoj](https://snapcraft.io/emoj) | v3.3.0.e60099d | v3.3.0.e60099d | v4.1.0 | ✖ |
-| [halloy](https://snapcraft.io/halloy) | 2024.8.6b63c40 | 2024.9 | 2024.9 | ✖ |
 | [Libation](https://snapcraft.io/libation) | 11.1.0 | 11.3.14.2 | v11.3.14.2 | ✖ |
 | [MAME](https://snapcraft.io/mame) | mame0264 | mame0264 | mame0267 | ✖ |
 | [NotepadNext](https://snapcraft.io/notepadnext) | v0.7 | v0.8 | v0.8 | ✖ |
