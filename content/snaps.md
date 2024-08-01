@@ -13,7 +13,7 @@ There's also the [charts](/blog/charts) page which shows how many weekly active 
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 
-### Thu 1 Aug 09:00:02 BST 2024
+### Thu 1 Aug 10:00:02 BST 2024
 | Snap | Stable | Edge | Upstream | OK? |
 | - | - | - | - | - |
 | [grant](https://snapcraft.io/grant) |  | | v0.2.1 | ✖ |
@@ -21,7 +21,7 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [syft](https://snapcraft.io/syft) |  | | v1.10.0 | ✖ |
 | [Azimuth](https://snapcraft.io/azimuth) | v1.0.3 | v1.0.3 | v1.0.3 | ✔ |
 | [Bandwhich](https://snapcraft.io/bandwhich) | v0.22.2.5f5cc7e | v0.22.2.4b0a711 | v0.22.2 | ✔ |
-| [ClassiCube](https://snapcraft.io/classicube) | 1.3.6 | 1.3.6-1117-g76dc08d9a | 1.3.6 | ✔ |
+| [ClassiCube](https://snapcraft.io/classicube) | 1.3.6 | 1.3.6-1125-geb0f36ce5 | 1.3.6 | ✔ |
 | [Defold](https://snapcraft.io/defold) | 1.9.1 | ^ | 1.9.1 | ✔ |
 | [Dog](https://snapcraft.io/dog) | v0.1.0 | 0.1.0 | v0.1.0 | ✔ |
 | [DOSBox-Staging](https://snapcraft.io/dosbox-staging) | v0.81.2 | 0.81.2 | v0.81.2 | ✔ |
