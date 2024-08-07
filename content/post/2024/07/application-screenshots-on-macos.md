@@ -3,7 +3,7 @@ date = "2024-07-28T10:28:00+00:00"
 title = "Application Screenshots on macOS"
 slug = "2024/07/application-screenshots-on-macos"
 author = "Alan Pope"
-tags = ['macos', 'bash', 'screenshot', 'scripting', 'streaming']
+tags = ['macos', 'bash', 'screenshot', 'scripting', 'streaming', 'newsletter-meta']
 +++
 
 I initially started typing this as *short* `-[ Contrafibularities ]-` segment for my free, weekly [newsletter](https://newsletter.popey.com/). But it got a bit long, so I broke it out into a blog post instead.
