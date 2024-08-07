@@ -78,7 +78,7 @@ I'd prefer no :::: W I D E - L O A D :::: electron monsters. Also, not Notion or
 
 Bonus points if you have a suggestion where one of the selling points *isn't* "AI"§.
 
-Perhaps isn't a great plain text editor that fulfills all my requirements. I'm open to hearing suggestions from readers of this [blog](https://popey.com/) or the [newsletter](https://newsletter.popey.com/). My contact details are here [somewhere](https://popey.me/).
+Perhaps there isn't a great plain text editor that fulfills all my requirements. I'm open to hearing suggestions from readers of this [blog](https://popey.com/) or the [newsletter](https://newsletter.popey.com/). My contact details are here [somewhere](https://popey.me/).
 
 ----
 
