@@ -13,7 +13,7 @@ There's also the [charts](/blog/charts) page which shows how many weekly active 
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 
-### Fri 9 Aug 23:00:01 BST 2024
+### Sat 10 Aug 00:00:02 BST 2024
 | Snap | Stable | Edge | Upstream | OK? |
 | - | - | - | - | - |
 | [grant](https://snapcraft.io/grant) |  | | v0.2.1 | ✖ |
@@ -25,6 +25,7 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [DynaHack](https://snapcraft.io/dynahack) | v0.6.0 | v0.6.0 | v0.6.0 | ✔ |
 | [emu2](https://snapcraft.io/emu2) | v2021.01 | v2021.01-69-g35cb97c | v2021.01 | ✔ |
 | [Fab-Agon-Emulator](https://snapcraft.io/fab-agon-emulator) | 0.9.55 | de243df | 0.9.55 | ✔ |
+| [grype](https://snapcraft.io/grype) | v0.79.5 | v0.79.5 | v0.79.5 | ✔ |
 | [halloy](https://snapcraft.io/halloy) | 2024.10 | 2024.10 | 2024.10 | ✔ |
 | [iamb](https://snapcraft.io/iamb) | v0.0.9 | latest-18-g497be7f | v0.0.9 | ✔ |
 | [Ladder](https://snapcraft.io/ladder) | v0.0.21.3918cf3 | v0.0.21.3918cf3 | v0.0.21 | ✔ |
@@ -39,6 +40,7 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [Shattered-Pixel-Dungeon](https://snapcraft.io/shattered-pixel-dungeon) | v2.4.2 | v2.4.2 | v2.4.2 | ✔ |
 | [SpectrumAnalyser](https://snapcraft.io/spectrum-analyser) | v0.2.0-alpha-master | ^ | v0.2.0-alpha | ✔ |
 | [Spot](https://snapcraft.io/spot) | 0.4.1 | 0.4.1 | 0.4.1 | ✔ |
+| [syft](https://snapcraft.io/syft) | v1.11.0 | v1.11.0 | v1.11.0 | ✔ |
 | [Toot](https://snapcraft.io/toot) | 0.43.0 | 0.43.0 | 0.43.0 | ✔ |
 | [TwineJS](https://snapcraft.io/twinejs) | 2.9.2 | 2.9.2 | 2.9.2 | ✔ |
 | [X16EMU](https://snapcraft.io/x16emu) | r47 | f4ec923 | r47 | ✔ |
@@ -47,14 +49,12 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [Defold](https://snapcraft.io/defold) | 1.9.1 | ^ | 1.9.2-beta | ✖ |
 | [emoj](https://snapcraft.io/emoj) | v3.3.0.e60099d | v3.3.0.e60099d | v4.1.0 | ✖ |
 | [Forgejo](https://snapcraft.io/forgejo) | 8.0.0 | ^ | v8.0.1 | ✖ |
-| [grype](https://snapcraft.io/grype) | 0.79.4 | v0.79.5 | v0.79.5 | ✖ |
 | [Libation](https://snapcraft.io/libation) | 11.1.0 | 11.3.14.2 | v11.3.14.2 | ✖ |
 | [MAME](https://snapcraft.io/mame) | mame0264 | mame0264 | mame0268 | ✖ |
 | [NotepadNext](https://snapcraft.io/notepadnext) | v0.7 | v0.8 | v0.8 | ✖ |
 | [OpenBoardView](https://snapcraft.io/openboardview) | 8.0 | 8.0 | - | ✖ |
 | [PWBM](https://snapcraft.io/pwbm) | 0.1 | 0.1 | - | ✖ |
 | [Session-Desktop](https://snapcraft.io/session-desktop) | v1.12.0 | v1.12.0 | v1.12.5 | ✖ |
-| [syft](https://snapcraft.io/syft) | 1.10.0 | v1.11.0 | v1.11.0 | ✖ |
 | [Telegram-Asahi](https://snapcraft.io/telegram-asahi) | 5.2.3       | 5.2.3 | 5.3.2 | ✖ |
 
 ### Notes
