@@ -13,13 +13,12 @@ There's also the [charts](/blog/charts) page which shows how many weekly active 
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 
-### Mon 12 Aug 08:00:02 BST 2024
+### Mon 12 Aug 09:00:02 BST 2024
 | Snap | Stable | Edge | Upstream | OK? |
 | - | - | - | - | - |
 | [grant](https://snapcraft.io/grant) |  | | v0.2.1 | ✖ |
 | [Azimuth](https://snapcraft.io/azimuth) | v1.0.3 | v1.0.3 | v1.0.3 | ✔ |
 | [Bandwhich](https://snapcraft.io/bandwhich) | v0.22.2.5f5cc7e | v0.22.2.4dba563 | v0.22.2 | ✔ |
-| [ClassiCube](https://snapcraft.io/classicube) | 1.3.6 | 1.3.6-1143-g99916b03b | 1.3.6 | ✔ |
 | [Dog](https://snapcraft.io/dog) | v0.1.0 | 0.1.0 | v0.1.0 | ✔ |
 | [DOSBox-Staging](https://snapcraft.io/dosbox-staging) | v0.81.2 | 0.81.2 | v0.81.2 | ✔ |
 | [DynaHack](https://snapcraft.io/dynahack) | v0.6.0 | v0.6.0 | v0.6.0 | ✔ |
@@ -47,6 +46,7 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [X16EMU](https://snapcraft.io/x16emu) | r47 | f4ec923 | r47 | ✔ |
 | [B2](https://snapcraft.io/b2) | 20240711-231524-658e05b | 20240720-010024-9f95270 | b2-20240720-010024-9f95270 | ✖ |
 | [BombSquad](https://snapcraft.io/bombsquad) | 1.7.33 | 1.7.36 | 1.7.37 | ✖ |
+| [ClassiCube](https://snapcraft.io/classicube) | 1.3.6 | 1.3.6-1143-g99916b03b | - | ✖ |
 | [Defold](https://snapcraft.io/defold) | 1.9.1 | ^ | 1.9.2-beta | ✖ |
 | [emoj](https://snapcraft.io/emoj) | v3.3.0.e60099d | v3.3.0.e60099d | v4.1.0 | ✖ |
 | [Libation](https://snapcraft.io/libation) | 11.1.0 | 11.3.14.2 | v11.3.14.2 | ✖ |
@@ -54,7 +54,7 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [NotepadNext](https://snapcraft.io/notepadnext) | v0.7 | v0.8 | v0.8 | ✖ |
 | [OpenBoardView](https://snapcraft.io/openboardview) | 8.0 | 8.0 | - | ✖ |
 | [PWBM](https://snapcraft.io/pwbm) | 0.1 | 0.1 | - | ✖ |
-| [Session-Desktop](https://snapcraft.io/session-desktop) | v1.12.0 | v1.12.0 | v1.12.5 | ✖ |
+| [Session-Desktop](https://snapcraft.io/session-desktop) | v1.12.0 | v1.12.0 | v1.13.0 | ✖ |
 | [Telegram-Asahi](https://snapcraft.io/telegram-asahi) | 5.2.3       | 5.2.3 | 5.3.2 | ✖ |
 
 ### Notes
