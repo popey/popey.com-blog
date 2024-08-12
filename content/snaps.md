@@ -13,7 +13,7 @@ There's also the [charts](/blog/charts) page which shows how many weekly active 
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 
-### Mon 12 Aug 10:00:02 BST 2024
+### Mon 12 Aug 11:00:02 BST 2024
 | Snap | Stable | Edge | Upstream | OK? |
 | - | - | - | - | - |
 | [grant](https://snapcraft.io/grant) |  | | v0.2.1 | ✖ |
@@ -45,7 +45,7 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [Toot](https://snapcraft.io/toot) | 0.43.0 | 0.43.0 | 0.43.0 | ✔ |
 | [TwineJS](https://snapcraft.io/twinejs) | 2.9.2 | 2.9.2 | 2.9.2 | ✔ |
 | [X16EMU](https://snapcraft.io/x16emu) | r47 | f4ec923 | r47 | ✔ |
-| [B2](https://snapcraft.io/b2) | 20240711-231524-658e05b | 20240720-010024-9f95270 | b2-20240720-010024-9f95270 | ✖ |
+| [B2](https://snapcraft.io/b2) | 20240720-010024-9f95270 | 20240720-010024-9f95270 | b2-20240720-010024-9f95270 | ✖ |
 | [BombSquad](https://snapcraft.io/bombsquad) | 1.7.33 | 1.7.36 | 1.7.37 | ✖ |
 | [Defold](https://snapcraft.io/defold) | 1.9.1 | ^ | 1.9.2-beta | ✖ |
 | [emoj](https://snapcraft.io/emoj) | v3.3.0.e60099d | v3.3.0.e60099d | v4.1.0 | ✖ |
