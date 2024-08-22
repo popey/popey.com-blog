@@ -13,7 +13,7 @@ There's also the [charts](/blog/charts) page which shows how many weekly active 
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 
-### Thu 22 Aug 10:00:02 BST 2024
+### Thu 22 Aug 11:00:02 BST 2024
 | Snap | Stable | Edge | Upstream | OK? |
 | - | - | - | - | - |
 | [grant](https://snapcraft.io/grant) |  | | v0.2.1 | ✖ |
@@ -34,7 +34,7 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [ncspot](https://snapcraft.io/ncspot) | v1.1.2 | 1.1.2 | v1.1.2 | ✔ |
 | [Pencil](https://snapcraft.io/pencil) | 3.1.1 | ^ | 3.1.1 | ✔ |
 | [PioneerSpaceSimulator](https://snapcraft.io/pioneer) | 20240710 | 20240710 | 20240710 | ✔ |
-| [Rustscan](https://snapcraft.io/rustscan) | 2.3.0 | 2.3.0-5-gd6cd939 | 2.3.0 | ✔ |
+| [Rustscan](https://snapcraft.io/rustscan) | 2.3.0 | 2.3.0-6-gefc42af | 2.3.0 | ✔ |
 | [Shattered-Pixel-Dungeon](https://snapcraft.io/shattered-pixel-dungeon) | v2.4.2 | v2.4.2 | v2.4.2 | ✔ |
 | [SpectrumAnalyser](https://snapcraft.io/spectrum-analyser) | v0.2.0-alpha-master | ^ | v0.2.0-alpha | ✔ |
 | [Spot](https://snapcraft.io/spot) | 0.4.1 | 0.4.1 | 0.4.1 | ✔ |
@@ -45,7 +45,7 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [B2](https://snapcraft.io/b2) | 20240720-010024-9f95270 | 20240720-010024-9f95270 | b2-20240720-010024-9f95270 | ✖ |
 | [Bandwhich](https://snapcraft.io/bandwhich) | v0.22.2.5f5cc7e | v0.23.0.1ca69e0 | v0.23.0 | ✖ |
 | [BombSquad](https://snapcraft.io/bombsquad) | 1.7.33 | 1.7.36 | 1.7.37 | ✖ |
-| [Defold](https://snapcraft.io/defold) | 1.9.1 | 1.9.2 | 1.9.2 | ✖ |
+| [Defold](https://snapcraft.io/defold) | 1.9.1 | ^ | 1.9.2 | ✖ |
 | [DOSBox-Staging](https://snapcraft.io/dosbox-staging) | v0.81.2 | 0.82.0-rc1 | v0.82.0-rc1 | ✖ |
 | [emoj](https://snapcraft.io/emoj) | v3.3.0.e60099d | v3.3.0.e60099d | v4.1.0 | ✖ |
 | [Fab-Agon-Emulator](https://snapcraft.io/fab-agon-emulator) | 0.9.55 | de243df | 0.9.57 | ✖ |
