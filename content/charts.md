@@ -11,7 +11,7 @@ description = "Install base of popey's snaps"
 These charts show the userbase of snaps I publish in the snap store over the last 30 days. They show the usage by country, version, OS (Linux distro) and channel. The first three only show up to 25 entries for each category. 
 
 There's also the [snaps](/blog/snaps) page which lists all the snaps I maintain with their versions, and whether they're in sync with upstream releases. 
-#### Fri 23 Aug 03:00:01 BST 2024
+#### Sat 24 Aug 03:00:02 BST 2024
 
 # [azimuth](https://snapcraft.io/azimuth)
 
