@@ -13,7 +13,7 @@ There's also the [charts](/blog/charts) page which shows how many weekly active 
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 
-### Tue 3 Sep 07:00:02 BST 2024
+### Tue 3 Sep 08:00:02 BST 2024
 | Snap | Stable | Edge | Upstream | OK? |
 | - | - | - | - | - |
 | [grant](https://snapcraft.io/grant) |  | | v0.2.1 | ✖ |
@@ -49,7 +49,7 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [Fab-Agon-Emulator](https://snapcraft.io/fab-agon-emulator) | 0.9.55 | de243df | 0.9.60 | ✖ |
 | [Libation](https://snapcraft.io/libation) | 11.1.0 | 11.3.14.2 | v11.3.14.2 | ✖ |
 | [MAME](https://snapcraft.io/mame) | mame0264 | mame0264 | mame0269 | ✖ |
-| [Monolith](https://snapcraft.io/monolith) | v2.8.1 | v2.8.1 | v2.8.2 | ✖ |
+| [Monolith](https://snapcraft.io/monolith) | v2.8.1 | v2.8.2 | v2.8.2 | ✖ |
 | [NotepadNext](https://snapcraft.io/notepadnext) | v0.7 | v0.8 | v0.8 | ✖ |
 | [OpenBoardView](https://snapcraft.io/openboardview) | 8.0 | 8.0 | - | ✖ |
 | [PWBM](https://snapcraft.io/pwbm) | 0.1 | 0.1 | - | ✖ |
