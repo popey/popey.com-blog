@@ -1,10 +1,9 @@
 +++
-date = "2024-09-06T15:00:00+01:00"
+date = "2024-09-06T14:40:00+01:00"
 title = "Windows 3.11 on QEMU 5.2.0"
 slug = "2024/09/windows-3.11-on-qemu-5.2.0"
 author = "Alan Pope"
 tags = ['emulation', 'windows']
-draft = true
 +++
 
 This is mostly an informational PSA for anyone struggling to get Windows 3.11 working in modern versions of QEMU. Yeah, I know, not exactly a massively viral target audience. 
@@ -58,7 +57,9 @@ I pondered a different way, in which I'd build a very simple proof of concept na
 
 My mind settled on [Borland Delphi](https://en.wikipedia.org/wiki/Delphi_(software)), which I'd never used, but looked similar enough for a silly project to [Borland Turbo Pascal 7.0 for DOS](https://en.wikipedia.org/wiki/Turbo_Pascal), which I had. So I set about installing Borland Delphi 1.0 from **fifteen** (virtual) floppy disks, onto my Windows 3.11 "Workstation" VM.
 
-SCREEENSHOT OF DELPHI ON MY IMAGE
+{{< rawhtml >}}
+<center><a href="/blog/images/2024-09-06/delphi.png"><img src="/blog/images/2024-09-06/delphi.png" width="540" alt="Windows 3.11, with a Borland Delphi window open"></a></center>
+{{</ rawhtml >}}
 
 Thank you, whoever added the `change floppy0` option to the QEMU Monitor. That saved a lot of time, and was reduced down to a loop of this fourteen times:
 
