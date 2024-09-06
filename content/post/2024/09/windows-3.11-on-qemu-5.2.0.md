@@ -99,7 +99,7 @@ However, after downloading it, I got the same "black screen after splash" as wit
 
 > It works for me and many others. Have you followed the instructions? At which point do you see the black screen?
 
-The key to finding the solution was a comment from Jaap Joris pointed out that the disk image "*hasn't changed since it was first committed 3 years ago*", implying it must have worked back then, but doesn't now.
+The key to finding the solution was a comment from Jaap Joris pointing out that the disk image "*hasn't changed since it was first committed 3 years ago*", implying it must have worked back then, but doesn't now.
 
 ## Joy of Open Source
 
