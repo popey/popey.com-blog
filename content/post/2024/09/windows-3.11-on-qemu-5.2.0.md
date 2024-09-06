@@ -105,7 +105,7 @@ The key to finding the solution was a comment from Jaap Joris pointing out that 
 
 I figured that if the original uploader had at least some success when the image was created and uploaded, it is indeed likely QEMU or some other component it uses may have (been) broken in the meantime.
 
-So I went rummaging in the source [archives](https://download.qemu.org/), looking for the most recent release of QEMU, immediately prior to the upload. [QEMU 5.2.0](https://download.qemu.org/qemu-5.2.0.tar.xz) looked like a good candidate, dated 8th December 2020, a good month before 18th January 2021 when the `hda.img` file was [uploaded](https://github.com/rtts/win311/commit/293f4e6bc63690d1c01d482201067c21d8ed8ccf).
+So I went rummaging in the source [archives](https://download.qemu.org/), looking for the most recent release of QEMU, immediately prior to the upload. [QEMU 5.2.0](https://download.qemu.org/qemu-5.2.0.tar.xz) looked like a good candidate, dated 8th December 2020, a solid month before 18th January 2021 when the `hda.img` file was [uploaded](https://github.com/rtts/win311/commit/293f4e6bc63690d1c01d482201067c21d8ed8ccf).
 
 ## If you build it, they will run
 
