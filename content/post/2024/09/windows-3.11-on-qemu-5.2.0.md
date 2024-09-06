@@ -71,7 +71,7 @@ CTRL+ALT+1
 [ENTER]
 ```
 
-During my research for thos blog, I found a delightful, nearly decade-old video of [David Intersimone](https://www.linkedin.com/in/davidi99) ("David I") running [Borland Delphi 1 on Windows 3.11](https://www.youtube.com/watch?v=m_3K_0vjUhk). David makes it all look so easy. Watch this to get a moving-pictures-with-sound idea of what I was looking at in my VM.
+During my research for this blog, I found a delightful, nearly decade-old video of [David Intersimone](https://www.linkedin.com/in/davidi99) ("David I") running [Borland Delphi 1 on Windows 3.11](https://www.youtube.com/watch?v=m_3K_0vjUhk). David makes it all look so easy. Watch this to get a moving-pictures-with-sound idea of what I was looking at in my VM.
 
 Once Delphi was installed, I started pondering the network design. But that thought wasn't resident in my head for long, because it was immediately replaced with the reason why I didn't use that Windows 3.11 VM much beyond the original base install. 
 
