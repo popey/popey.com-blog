@@ -13,7 +13,7 @@ There's also the [charts](/blog/charts) page which shows how many weekly active 
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 
-### Wed 11 Sep 08:00:02 BST 2024
+### Wed 11 Sep 09:00:02 BST 2024
 | Snap | Stable | Edge | Upstream | OK? |
 | - | - | - | - | - |
 | [grant](https://snapcraft.io/grant) |  | | v0.2.1 | ✖ |
@@ -21,7 +21,7 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [ClassiCube](https://snapcraft.io/classicube) | 1.3.6 | 1.3.6-1219-g8dc2b4582 | 1.3.6 | ✔ |
 | [Dog](https://snapcraft.io/dog) | v0.1.0 | 0.1.0 | v0.1.0 | ✔ |
 | [DynaHack](https://snapcraft.io/dynahack) | v0.6.0 | v0.6.0 | v0.6.0 | ✔ |
-| [emu2](https://snapcraft.io/emu2) | v2021.01 | v2021.01-69-g35cb97c | v2021.01 | ✔ |
+| [emu2](https://snapcraft.io/emu2) | v2021.01 | v2021.01-71-gc7e0933 | v2021.01 | ✔ |
 | [grype](https://snapcraft.io/grype) | v0.80.0 | ^ | v0.80.0 | ✔ |
 | [halloy](https://snapcraft.io/halloy) | 2024.11 | 2024.11 | 2024.11 | ✔ |
 | [iamb](https://snapcraft.io/iamb) | v0.0.10 | ^ | v0.0.10 | ✔ |
@@ -39,7 +39,7 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [syft](https://snapcraft.io/syft) | v1.11.1 | ^ | v1.11.1 | ✔ |
 | [Toot](https://snapcraft.io/toot) | 0.43.0 | 0.43.0 | 0.43.0 | ✔ |
 | [TwineJS](https://snapcraft.io/twinejs) | 2.9.2 | 2.9.2 | 2.9.2 | ✔ |
-| [X16EMU](https://snapcraft.io/x16emu) | r48 | r48 | r48 | ✔ |
+| [X16EMU](https://snapcraft.io/x16emu) | r48 | 2985bfd | r48 | ✔ |
 | [B2](https://snapcraft.io/b2) | 20240720-010024-9f95270 | 20240720-010024-9f95270 | b2-20240720-010024-9f95270 | ✖ |
 | [Bandwhich](https://snapcraft.io/bandwhich) | v0.22.2.5f5cc7e | v0.23.0.1ca69e0 | v0.23.0 | ✖ |
 | [BombSquad](https://snapcraft.io/bombsquad) | 1.7.33 | 1.7.36 | 1.7.37 | ✖ |
