@@ -13,7 +13,7 @@ There's also the [charts](/blog/charts) page which shows how many weekly active 
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 
-### Wed 11 Sep 15:00:01 BST 2024
+### Wed 11 Sep 16:00:02 BST 2024
 | Snap | Stable | Edge | Upstream | OK? |
 | - | - | - | - | - |
 | [grant](https://snapcraft.io/grant) |  | | v0.2.1 | ✖ |
@@ -36,7 +36,7 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [Rustscan](https://snapcraft.io/rustscan) | 2.3.0 | 2.3.0-10-ga6f04c5 | 2.3.0 | ✔ |
 | [SpectrumAnalyser](https://snapcraft.io/spectrum-analyser) | v0.2.0-alpha-master | ^ | v0.2.0-alpha | ✔ |
 | [Spot](https://snapcraft.io/spot) | 0.4.1 | 0.4.1 | 0.4.1 | ✔ |
-| [syft](https://snapcraft.io/syft) | v1.11.1 | ^ | v1.11.1 | ✔ |
+| [syft](https://snapcraft.io/syft) | v1.12.2 | v1.12.2 | v1.12.2 | ✔ |
 | [Toot](https://snapcraft.io/toot) | 0.43.0 | 0.43.0 | 0.43.0 | ✔ |
 | [TwineJS](https://snapcraft.io/twinejs) | 2.9.2 | 2.9.2 | 2.9.2 | ✔ |
 | [X16EMU](https://snapcraft.io/x16emu) | r48 | 2985bfd | r48 | ✔ |
