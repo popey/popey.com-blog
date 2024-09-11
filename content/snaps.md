@@ -13,7 +13,7 @@ There's also the [charts](/blog/charts) page which shows how many weekly active 
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 
-### Wed 11 Sep 18:00:02 BST 2024
+### Wed 11 Sep 19:00:01 BST 2024
 | Snap | Stable | Edge | Upstream | OK? |
 | - | - | - | - | - |
 | [grant](https://snapcraft.io/grant) |  | | v0.2.1 | ✖ |
@@ -22,7 +22,6 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [Dog](https://snapcraft.io/dog) | v0.1.0 | 0.1.0 | v0.1.0 | ✔ |
 | [DynaHack](https://snapcraft.io/dynahack) | v0.6.0 | v0.6.0 | v0.6.0 | ✔ |
 | [emu2](https://snapcraft.io/emu2) | v2021.01 | v2021.01-71-gc7e0933 | v2021.01 | ✔ |
-| [grype](https://snapcraft.io/grype) | v0.80.0 | ^ | v0.80.0 | ✔ |
 | [halloy](https://snapcraft.io/halloy) | 2024.11 | 2024.11 | 2024.11 | ✔ |
 | [iamb](https://snapcraft.io/iamb) | v0.0.10 | ^ | v0.0.10 | ✔ |
 | [Ladder](https://snapcraft.io/ladder) | v0.0.21.3918cf3 | v0.0.21.3918cf3 | v0.0.21 | ✔ |
@@ -48,14 +47,15 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [emoj](https://snapcraft.io/emoj) | v3.3.0.e60099d | v3.3.0.e60099d | v4.1.0 | ✖ |
 | [Fab-Agon-Emulator](https://snapcraft.io/fab-agon-emulator) | 0.9.55 | de243df | 0.9.60 | ✖ |
 | [Forgejo](https://snapcraft.io/forgejo) | v8.0.2 | ^ | v8.0.3 | ✖ |
+| [grype](https://snapcraft.io/grype) | v0.80.0 | ^ | v0.80.1 | ✖ |
 | [Libation](https://snapcraft.io/libation) | 11.1.0 | 11.4.0 | v11.4.0 | ✖ |
 | [MAME](https://snapcraft.io/mame) | mame0264 | mame0264 | mame0269 | ✖ |
 | [NotepadNext](https://snapcraft.io/notepadnext) | v0.7 | v0.8 | v0.8 | ✖ |
 | [OpenBoardView](https://snapcraft.io/openboardview) | 8.0 | 8.0 | - | ✖ |
 | [PWBM](https://snapcraft.io/pwbm) | 0.1 | 0.1 | - | ✖ |
 | [Session-Desktop](https://snapcraft.io/session-desktop) | v1.12.0 | v1.12.0 | v1.13.2 | ✖ |
-| [Shattered-Pixel-Dungeon](https://snapcraft.io/shattered-pixel-dungeon) | v2.4.2 | v2.4.2 | v2.5.0 | ✖ |
-| [Telegram-Asahi](https://snapcraft.io/telegram-asahi) | 5.4.1       | 5.4.1 | 5.5.3 | ✖ |
+| [Shattered-Pixel-Dungeon](https://snapcraft.io/shattered-pixel-dungeon) | v2.4.2 | v2.5.0 | v2.5.0 | ✖ |
+| [Telegram-Asahi](https://snapcraft.io/telegram-asahi) | 5.5.1       | 5.4.1 | 5.5.3 | ✖ |
 
 ### Notes
 
