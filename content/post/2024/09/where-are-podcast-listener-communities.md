@@ -30,7 +30,7 @@ Prior to the channel's existence, we used the Ubuntu UK Local Community (LoCo) T
 
 We also re-branded our existing Mastodon accounts from the old Ubuntu Podcast to Linux Matters.
 
-We mostly continue using Telegram and Mastodon as our primary methods of communication because on the whole they're fast, reliable, stay synced across devices, have the features we enjoy, and at least one of them isn't run by a wierd billionaire. 
+We mostly continue using Telegram and Mastodon as our primary methods of communication because on the whole they're fast, reliable, stay synced across devices, have the features we enjoy, and at least one of them isn't run by a weird billionaire. 
 
 ## Other options
 
