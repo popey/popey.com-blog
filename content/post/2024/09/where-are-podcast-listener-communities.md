@@ -56,7 +56,7 @@ Plus, often times, especially on decentralised platforms, the *audience* can be 
 
 So rather than ask **our** audience, I thought I'd see what **other** podcasters promote for feedback and chatter on *their* websites. 
 
-I picked a random set from shows I have heard of, and may have listened to, plus a few extra ones I haven't. None of this is endorsement or approval, I just wanted the facts ma'am, just the [fax](https://www.youtube.com/watch?v=W2Ct0ouRooY), ma'am. 
+I picked a random set from shows I have heard of, and may have listened to, plus a few extra ones I haven't. None of this is endorsement or approval, I wanted the facts, just the [fax](https://www.youtube.com/watch?v=W2Ct0ouRooY), ma'am. 
 
 I collated the data in a [json](https://gist.github.com/popey/b86a12e0b1cf8dd832fd6b56a4231c4f) file for some reason, then generated the tables below. I don't know what to do with this information, but it's a bit of data we may use if we ever decide to move away from Telegram.
 
