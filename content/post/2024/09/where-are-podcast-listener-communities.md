@@ -66,8 +66,6 @@ The table shows some nerdy podcasts along with their primary means (as far as I 
 
 It doesn't matter for this research, I just thought it was interesting that some podcasters don't feel the need to break out their contact details to a separate page, or make it more obvious. Perhaps they feel that listeners are likely to be viewing an episode page, or looking at a specific show metadata, so it's better putting the contact details there.
 
-Some podcasts have the contact details buried inside episode notes. They have nothing on the home page, and no "contact" or "about" pages exist. Each to their own.
-
 *I haven't included YouTube, where many shows publish and discuss, in addition to a podcast feed.*
 
 I am also aware that some people exclusively, or perhaps primarily publish on YouTube (or other video platforms). Those aren't podcasts [IMNSHO](https://idioms.thefreedictionary.com/IMNSHO).
