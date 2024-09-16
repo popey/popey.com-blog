@@ -13,7 +13,7 @@ There's also the [charts](/blog/charts) page which shows how many weekly active 
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 
-### Mon 16 Sep 21:00:02 BST 2024
+### Mon 16 Sep 22:00:02 BST 2024
 | Snap | Stable | Edge | Upstream | OK? |
 | - | - | - | - | - |
 | [grant](https://snapcraft.io/grant) |  | | v0.2.1 | ✖ |
@@ -36,7 +36,6 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [Pencil](https://snapcraft.io/pencil) | 3.1.1 | ^ | 3.1.1 | ✔ |
 | [PioneerSpaceSimulator](https://snapcraft.io/pioneer) | 20240710 | 20240710 | 20240710 | ✔ |
 | [Rustscan](https://snapcraft.io/rustscan) | 2.3.0 | 2.3.0-11-g45fa80a | 2.3.0 | ✔ |
-| [Shattered-Pixel-Dungeon](https://snapcraft.io/shattered-pixel-dungeon) | v2.5.0 | v2.5.0 | v2.5.0 | ✔ |
 | [SpectrumAnalyser](https://snapcraft.io/spectrum-analyser) | v0.2.0-alpha-master | ^ | v0.2.0-alpha | ✔ |
 | [Spot](https://snapcraft.io/spot) | 0.4.1 | 0.4.1 | 0.4.1 | ✔ |
 | [syft](https://snapcraft.io/syft) | v1.12.2 | v1.12.2 | v1.12.2 | ✔ |
@@ -55,6 +54,7 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [OpenBoardView](https://snapcraft.io/openboardview) | 8.0 | 8.0 | - | ✖ |
 | [PWBM](https://snapcraft.io/pwbm) | 0.1 | 0.1 | - | ✖ |
 | [Session-Desktop](https://snapcraft.io/session-desktop) | v1.12.0 | v1.12.0 | v1.13.2 | ✖ |
+| [Shattered-Pixel-Dungeon](https://snapcraft.io/shattered-pixel-dungeon) | v2.5.0 | v2.5.0 | v2.5.1 | ✖ |
 | [Telegram-Asahi](https://snapcraft.io/telegram-asahi) | 5.5.4       | 5.4.1 | 5.5.5 | ✖ |
 
 ### Notes
