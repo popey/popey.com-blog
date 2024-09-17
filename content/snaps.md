@@ -13,11 +13,10 @@ There's also the [charts](/blog/charts) page which shows how many weekly active 
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 
-### Tue 17 Sep 20:00:02 BST 2024
+### Tue 17 Sep 21:00:02 BST 2024
 | Snap | Stable | Edge | Upstream | OK? |
 | - | - | - | - | - |
 | [grant](https://snapcraft.io/grant) |  | | v0.2.1 | ✖ |
-| [X16EMU](https://snapcraft.io/x16emu) |  | 2985bfd | r48 | ✖ |
 | [Azimuth](https://snapcraft.io/azimuth) | v1.0.3 | v1.0.3 | v1.0.3 | ✔ |
 | [Bandwhich](https://snapcraft.io/bandwhich) | v0.23.0 | v0.23.0 | v0.23.0 | ✔ |
 | [BombSquad](https://snapcraft.io/bombsquad) | 1.7.37 | 1.7.37 | 1.7.37 | ✔ |
@@ -45,6 +44,7 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [syft](https://snapcraft.io/syft) | v1.12.2 | v1.12.2 | v1.12.2 | ✔ |
 | [Toot](https://snapcraft.io/toot) | 0.43.0 | 0.43.0 | 0.43.0 | ✔ |
 | [TwineJS](https://snapcraft.io/twinejs) | 2.9.2 | 2.9.2 | 2.9.2 | ✔ |
+| [X16EMU](https://snapcraft.io/x16emu) | r48 | 2985bfd | r48 | ✔ |
 | [B2](https://snapcraft.io/b2) | 20240720-010024-9f95270 | 20240720-010024-9f95270 | b2-20240720-010024-9f95270 | ✖ |
 | [DOSBox-Staging](https://snapcraft.io/dosbox-staging) | v0.81.2 | ^ | v0.82.0-rc1 | ✖ |
 | [emoj](https://snapcraft.io/emoj) | v3.3.0.e60099d | v3.3.0.e60099d | v4.1.0 | ✖ |
