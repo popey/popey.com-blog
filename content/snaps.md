@@ -13,11 +13,12 @@ There's also the [charts](/blog/charts) page which shows how many weekly active 
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 
-### Tue 17 Sep 11:00:02 BST 2024
+### Tue 17 Sep 12:00:02 BST 2024
 | Snap | Stable | Edge | Upstream | OK? |
 | - | - | - | - | - |
 | [grant](https://snapcraft.io/grant) |  | | v0.2.1 | ✖ |
 | [Azimuth](https://snapcraft.io/azimuth) | v1.0.3 | v1.0.3 | v1.0.3 | ✔ |
+| [Bandwhich](https://snapcraft.io/bandwhich) | v0.23.0 | v0.23.0 | v0.23.0 | ✔ |
 | [ClassiCube](https://snapcraft.io/classicube) | 1.3.6 | 1.3.6-1255-g07c3018b4 | 1.3.6 | ✔ |
 | [Defold](https://snapcraft.io/defold) | 1.9.3 | 1.9.3 | 1.9.3 | ✔ |
 | [Dog](https://snapcraft.io/dog) | v0.1.0 | 0.1.0 | v0.1.0 | ✔ |
@@ -36,6 +37,7 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [Pencil](https://snapcraft.io/pencil) | 3.1.1 | ^ | 3.1.1 | ✔ |
 | [PioneerSpaceSimulator](https://snapcraft.io/pioneer) | 20240710 | 20240710 | 20240710 | ✔ |
 | [Rustscan](https://snapcraft.io/rustscan) | 2.3.0 | 2.3.0-11-g45fa80a | 2.3.0 | ✔ |
+| [Shattered-Pixel-Dungeon](https://snapcraft.io/shattered-pixel-dungeon) | v2.5.1 | v2.5.1 | v2.5.1 | ✔ |
 | [SpectrumAnalyser](https://snapcraft.io/spectrum-analyser) | v0.2.0-alpha-master | ^ | v0.2.0-alpha | ✔ |
 | [Spot](https://snapcraft.io/spot) | 0.4.1 | 0.4.1 | 0.4.1 | ✔ |
 | [syft](https://snapcraft.io/syft) | v1.12.2 | v1.12.2 | v1.12.2 | ✔ |
@@ -43,18 +45,16 @@ The list is sorted by the "OK" column which either has a ✔ or ✖ to give a ro
 | [TwineJS](https://snapcraft.io/twinejs) | 2.9.2 | 2.9.2 | 2.9.2 | ✔ |
 | [X16EMU](https://snapcraft.io/x16emu) | r48 | 2985bfd | r48 | ✔ |
 | [B2](https://snapcraft.io/b2) | 20240720-010024-9f95270 | 20240720-010024-9f95270 | b2-20240720-010024-9f95270 | ✖ |
-| [Bandwhich](https://snapcraft.io/bandwhich) | v0.22.2.5f5cc7e | v0.23.0.1ca69e0 | v0.23.0 | ✖ |
 | [BombSquad](https://snapcraft.io/bombsquad) | 1.7.33 | 1.7.37 | 1.7.37 | ✖ |
-| [DOSBox-Staging](https://snapcraft.io/dosbox-staging) | v0.81.2 | 0.82.0-rc1 | v0.82.0-rc1 | ✖ |
+| [DOSBox-Staging](https://snapcraft.io/dosbox-staging) | v0.81.2 | ^ | v0.82.0-rc1 | ✖ |
 | [emoj](https://snapcraft.io/emoj) | v3.3.0.e60099d | v3.3.0.e60099d | v4.1.0 | ✖ |
 | [Fab-Agon-Emulator](https://snapcraft.io/fab-agon-emulator) | 0.9.55 | de243df | 0.9.60 | ✖ |
 | [Libation](https://snapcraft.io/libation) | 11.1.0 | 11.4.0 | v11.4.0 | ✖ |
-| [MAME](https://snapcraft.io/mame) | mame0264 | mame0264 | mame0269 | ✖ |
+| [MAME](https://snapcraft.io/mame) | mame0264 | mame0269 | mame0269 | ✖ |
 | [NotepadNext](https://snapcraft.io/notepadnext) | v0.7 | v0.8 | v0.8 | ✖ |
 | [OpenBoardView](https://snapcraft.io/openboardview) | 8.0 | 8.0 | - | ✖ |
 | [PWBM](https://snapcraft.io/pwbm) | 0.1 | 0.1 | - | ✖ |
 | [Session-Desktop](https://snapcraft.io/session-desktop) | v1.12.0 | v1.12.0 | v1.13.2 | ✖ |
-| [Shattered-Pixel-Dungeon](https://snapcraft.io/shattered-pixel-dungeon) | v2.5.0 | v2.5.1 | v2.5.1 | ✖ |
 | [Telegram-Asahi](https://snapcraft.io/telegram-asahi) | 5.5.4       | 5.4.1 | 5.5.5 | ✖ |
 
 ### Notes
