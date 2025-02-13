@@ -57,15 +57,15 @@ paginate = 20
     name = "Links"
     weight = 6
 
-[[menu.main]]
-    url = "snaps"
-    name = "Snaps"
-    weight = 7
+#[[menu.main]]
+#    url = "snaps"
+#    name = "Snaps"
+#    weight = 7
 
-[[menu.main]]
-    url = "charts"
-    name = "Charts"
-    weight = 8
+#[[menu.main]]
+#    url = "charts"
+#    name = "Charts"
+#    weight = 8
 
 [[menu.main]]
     url = "index.xml"
