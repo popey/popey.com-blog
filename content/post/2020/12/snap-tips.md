@@ -22,7 +22,7 @@ Search for snaps which are published for the *current architecture* using the wo
 
 `$ snap find ohmygiraffe`
 
-```
+```text
 Name         Version  Publisher  Notes  Summary
 ohmygiraffe  1.1.0a   popey      -      oh my giraffe
 ```
@@ -35,7 +35,7 @@ Sections are like categories. Publishers can choose which section to put their a
 
 `$ snap find --section`
 
-```
+```text
 No section specified. Available sections:
  * art-and-design
  * books-and-reference
@@ -64,7 +64,7 @@ Please try 'snap find --section=<selected section>'
 
 `$ snap find ohmygiraffe --section=games`
 
-```
+```text
 Name         Version  Publisher  Notes  Summary
 ohmygiraffe  1.1.0a   popey      -      oh my giraffe
 ```
@@ -75,7 +75,7 @@ Includes application description, license and other, full metadata.
 
 `$ snap info ohmygiraffe`
 
-```
+```text
 name:      ohmygiraffe
 summary:   oh my giraffe
 publisher: Alan Pope (popey)
@@ -103,7 +103,7 @@ Only shows the channel map.
 
 `$ snap info ohmygiraffe | sed -n "/channels/,$ p"`
 
-```
+```text
 channels:
   latest/stable:    1.1.0a 2020-11-04  (7) 40MB -
   latest/candidate: ^                           
@@ -119,7 +119,7 @@ Install a snap from the stable channel.
 
 `$ snap install ohmygiraffe`
 
-```
+```text
 ohmygiraffe 1.1.0a from Alan Pope (popey) installed
 ```
 
@@ -131,20 +131,20 @@ ohmygiraffe 1.1.0a from Alan Pope (popey) installed
 
 `$ snap switch ohmygiraffe --edge`
 
-```
+```text
 "ohmygiraffe" switched to the "latest/edge" channel
 ```
 
 `$ snap refresh ohmygiraffe`
 
-```
+```text
 ohmygiraffe (edge) 1.1.0a from Alan Pope (popey) refreshed
 ```
 *or*
 
 `$ snap refresh ohmygiraffe --edge`
 
-```
+```text
 ohmygiraffe (edge) 1.1.0a from Alan Pope (popey) refreshed
 ```
 
@@ -154,7 +154,7 @@ Classic confined snaps have no confinement. If you try to install them without s
 
 `$ snap install snapcraft`
 
-```
+```text
 error: This revision of snap "snapcraft" was published using classic
        confinement and thus may perform arbitrary system changes outside of the
        security sandbox that snaps are usually confined to, which may put your
@@ -171,7 +171,7 @@ error: This revision of snap "snapcraft" was published using classic
 
 `$ snap install snapcraft --classic`
 
-```
+```text
 snapcraft 4.4.4 from Canonical✓ installed
 ```
 
@@ -185,7 +185,7 @@ Only the data in `$HOME/snap/(snapname)/` and/or `/var/snap/(snapname)` (if used
 
 `$ snap remove ohmygiraffe`
 
-```
+```text
 ohmygiraffe removed
 ```
 
@@ -195,7 +195,7 @@ Some snaps generate huge datasets (e.g. crypto nonsense) and may be too large, o
 
 `$ snap remove ohmygiraffe --purge`
 
-```
+```text
 ohmygiraffe removed
 ```
 
@@ -205,13 +205,13 @@ If a snap fails to install, or an update is undesireable after it's been install
 
 `$ snap revert zoom-client`
 
-```
+```text
 zoom-client reverted to 5.4.54779.1115
 ```
 
 To further illustrate, here's the channel map for that snap, showing I'm tracking `latest/stable` but not running the version currently published there - revision 118 vs revision 125, at the time of writing.
 
-```
+```text
 tracking:     latest/stable
 refresh-date: today at 19:34 GMT
 channels:
@@ -230,7 +230,7 @@ To get a list of the most recent changes (installations, removals etc) of snaps,
 
 `$ snap changes`
 
-```
+```text
 ID ID   Status  Spawn                     Ready                     Summary
   Status  Spawn                     Ready                     Summary
 860  Done    today at 18:02 GMT        today at 18:02 GMT        Switch "ohmygiraffe" snap to channel "edge"
@@ -246,7 +246,7 @@ To view all the steps performed during a task, use the following command, specif
 
 `$ snap change 864`
 
-```
+```text
 Status  Spawn               Ready               Summary
 Done    today at 18:20 GMT  today at 18:20 GMT  Stop snap "ohmygiraffe" services
 Done    today at 18:20 GMT  today at 18:20 GMT  Run remove hook of "ohmygiraffe" snap if present
@@ -281,7 +281,7 @@ As `snapd` updates in the background, warnings may not be seen by the user. So w
 
 `$ snap warnings`
 
-```
+```text
 last-occurrence:  23 days ago, at 00:42 GMT
 warning: |
   snap "standard-notes" is currently in use. Its refresh will be postponed for up to 7 days to wait
@@ -303,7 +303,7 @@ The warnings triggered by `snapd` are kept until acknowledged. Acknowledge them 
 
 The command produces no output. However, subsequently running `snap warnings` yields a new message:
 
-```
+```text
 No further warnings.
 ```
 
@@ -315,7 +315,7 @@ Each snapshot is simply a root-owned zip file stored in `/var/lib/snapd/snapshot
 
 `$ snap saved`
 
-```
+```text
 Set  Snap         Age    Version  Rev  Size    Notes
 21   emoj         94.2m  v2.0.0   53     124B  auto
 22   ohmygiraffe  92.2m  1.1.0a   x1    4176B  -
@@ -328,7 +328,7 @@ As well as automatic snapshots, the user can manually take a snapshot.
 
 `$ snap save ohmygiraffe`
 
-```
+```text
 Set  Snap         Age    Version  Rev  Size    Notes
 24   ohmygiraffe  104ms  1.1.0a   7      123B  -
 ```
@@ -339,7 +339,7 @@ Use `snap saved` to list snapshots, then use the ID number with `snap restore` t
 
 `$ snap restore 24`
 
-```
+```text
 Restored snapshot #24.
 ```
 
@@ -349,7 +349,7 @@ Any snapshot can be removed manually. In addition, they're automatically removed
 
 `$ snap forget 24`
 
-```
+```text
 Snapshot #24 forgotten.
 ```
 
@@ -369,7 +369,7 @@ The output of `df` can be cluttered with the loopback mounts used by snaps. Thes
 
 `$ df -x squashfs`
 
-```
+```text
 Filesystem                1K-blocks      Used Available Use% Mounted on
 tmpfs                       3275932      3620   3272312   1% /run
 /dev/mapper/vgubuntu-root 958123168 432890148 476493284  48% /
@@ -395,7 +395,7 @@ The output of `mount` can be cluttered with the loopback mounts used by snaps. T
 
 `$ mount -t nosquashfs,nocgroup,nsfs,tmpfs,fuse`
 
-```
+```text
 sysfs on /sys type sysfs (rw,nosuid,nodev,noexec,relatime)
 proc on /proc type proc (rw,nosuid,nodev,noexec,relatime)
 udev on /dev type devtmpfs (rw,nosuid,noexec,relatime,size=16330552k,nr_inodes=4082638,mode=755)
@@ -436,13 +436,13 @@ Snaps update automatically in the background. Some don't like this, and would pr
 
 `$ snap refresh --list`
 
-```
+```text
 All snaps up to date.
 ```
 
 *or* (for example)
 
-```
+```text
 Name        Version    Rev   Publisher     Notes
 dosbox-x    0.83.9     687   snapcrafters  -
 hugo        0.79.1     9698  hugo-authors  -
@@ -460,7 +460,7 @@ By default snap checks the store for updates 4 times a day. So if a publisher pu
 
 `$ snap refresh --time`
 
-```
+```text
 timer: 00:00~24:00/4
 last: today at 18:24 GMT
 next: tomorrow at 04:48 GMT
@@ -472,13 +472,13 @@ By default they're not likely to be held, but if you choose to (see below) then 
 
 `$ sudo snap get system refresh.hold`
 
-```
+```text
 error: snap "core" has no "refresh.hold" configuration option
 ```
 
 *or* (for example)
 
-```
+```text
 2021-01-21T17:30:01+00:00
 ```
 
