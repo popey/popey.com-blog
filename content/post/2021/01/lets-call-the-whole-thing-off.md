@@ -48,4 +48,4 @@ We humans use language and speech to communicate, convey meaning, tell stories a
 
 If I slip up, feel free to point me at this blog post. Sorry.
 
-![I'm doing my part!](/blog/images/2021-01-18/mypart.gif)
+![I'm doing my part!](/images/2021-01-18/mypart.gif)

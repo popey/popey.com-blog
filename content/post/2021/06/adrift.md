@@ -30,7 +30,7 @@ Spoiler: I won!
 
 I made a game which I called Adrift. The idea is you're in a failing space ship. If your hull integrity or life support gets to zero, the ship explodes and you all die, or support systems fail, and you die. Keep the ship in working order by re-charging the systems by holding down the space key, and releasing in one of four quadrants of the controls. Here's what it looks like :)
 
-![Adrift screenshot](/blog/images/2021-06-14/adrift.png)
+![Adrift screenshot](/images/2021-06-14/adrift.png)
 
 In addition if the shield gauge gets low, the hull will fail faster. If engines get low, everything fails faster. The weapons are used to kill enemies who come on screen from the left. They currently don't shoot you, so there's no jeopardy from them, because it's unfinished.
 

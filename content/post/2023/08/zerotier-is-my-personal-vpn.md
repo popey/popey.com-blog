@@ -19,11 +19,11 @@ I have three main computers, and some other devices I use regularly. By 'regular
 
 I do not count this bad boy, as a 'main' computer, for example:
 
-[![Compaq](/blog/images/2023-08-31/compaq.jpeg)](/blog/images/2023-08-31/compaq.jpeg)
+[![Compaq](/images/2023-08-31/compaq.jpeg)](/images/2023-08-31/compaq.jpeg)
 
 But I *am* including this ~~Steam Deck~~ *Gabe Gear*
 
-[![Gabe Gear](/blog/images/2023-08-31/steamdeck.jpeg)](/blog/images/2023-08-31/steamdeck.jpeg)
+[![Gabe Gear](/images/2023-08-31/steamdeck.jpeg)](/images/2023-08-31/steamdeck.jpeg)
 
 My current in-use hardware list is as follows:
 
@@ -70,7 +70,7 @@ I don't actually *like* having a permanently open port to an SSH daemon at home.
 
 I have a Pi at home running [adsb.fi](https://adsb.fi/) and other services to track the planes above my house, and feed that data to community-driven flight trackers. It's fun! The software runs locally inside my house on the Pi in my loft. The web user interface isn't exposed to the outside world. Except with ZeroTier installed on the Pi, now I can spot all those lovely planes from anywhere. 😍
 
-[![Planes, faasands of 'em](/blog/images/2023-08-31/planes.png)](/blog/images/2023-08-31/planes.png)
+[![Planes, faasands of 'em](/images/2023-08-31/planes.png)](/images/2023-08-31/planes.png)
 
 Not only can I look at the planes, it also lets me check that the Pi is functioning correctly, of course.
 

@@ -14,7 +14,7 @@ Personally I've never managed to have much success with GNOME Boxes, so I though
 
 Here's a screenshot of me running Windows XP, Windows 2000, NT Server, NT Workstation, Windows 98 and Windows 95, for lulz. This was all running on a Dell Inspiron XPS Gen 2 back in 2005 (15 years ago!). All under `qemu` on Ubuntu. How time flies.
 
-[![Windows](/blog/images/2021-03-24/windows.png)](/blog/images/2021-03-24/windows.png)
+[![Windows](/images/2021-03-24/windows.png)](/images/2021-03-24/windows.png)
 
 More recently I've been using [qemu-virgil](https://snapcraft.io/qemu-virgil) to run virtual machines of all kinds. On top of that Martin Wimpress made a neat wrapper around qemu-virgil called [quickemu](https://github.com/wimpysworld/quickemu).
 
@@ -79,25 +79,25 @@ Starting gnome40.conf
 
 Then a qemu window pops up and GNOME boots. 
 
-[![qemu](/blog/images/2021-03-24/qemu.png)](/blog/images/2021-03-24/qemu.png)
+[![qemu](/images/2021-03-24/qemu.png)](/images/2021-03-24/qemu.png)
 
 ### Install GNOME 40
 
 Wait a few seconds and...
 
-[![GNOME installer](/blog/images/2021-03-24/gnomeinstaller.png)](/blog/images/2021-03-24/gnomeinstaller.png)
+[![GNOME installer](/images/2021-03-24/gnomeinstaller.png)](/images/2021-03-24/gnomeinstaller.png)
 
 Choose the disk to install onto...
 
-[![Choose disk](/blog/images/2021-03-24/choosedisk.png)](/blog/images/2021-03-24/choosedisk.png)
+[![Choose disk](/images/2021-03-24/choosedisk.png)](/images/2021-03-24/choosedisk.png)
 
 Time passes...
 
-[![Installing](/blog/images/2021-03-24/installing.png)](/blog/images/2021-03-24/installing.png)
+[![Installing](/images/2021-03-24/installing.png)](/images/2021-03-24/installing.png)
 
 Great success...
 
-[![Success](/blog/images/2021-03-24/success.png)](/blog/images/2021-03-24/success.png)
+[![Success](/images/2021-03-24/success.png)](/images/2021-03-24/success.png)
 
 ### Try out GNOME 40
 
@@ -109,27 +109,27 @@ alan@robot:~/quickemu$ ./quickemu --vm gnome40.conf
 
 Run through the initial setup wizard.
 
-[![Firstrun 1](/blog/images/2021-03-24/firstrun1.png)](/blog/images/2021-03-24/firstrun1.png)
+[![Firstrun 1](/images/2021-03-24/firstrun1.png)](/images/2021-03-24/firstrun1.png)
 
-[![Firstrun 2](/blog/images/2021-03-24/firstrun2.png)](/blog/images/2021-03-24/firstrun2.png)
+[![Firstrun 2](/images/2021-03-24/firstrun2.png)](/images/2021-03-24/firstrun2.png)
 
-[![Firstrun 3](/blog/images/2021-03-24/firstrun3.png)](/blog/images/2021-03-24/firstrun3.png)
+[![Firstrun 3](/images/2021-03-24/firstrun3.png)](/images/2021-03-24/firstrun3.png)
 
-[![Firstrun 4](/blog/images/2021-03-24/firstrun4.png)](/blog/images/2021-03-24/firstrun4.png)
+[![Firstrun 4](/images/2021-03-24/firstrun4.png)](/images/2021-03-24/firstrun4.png)
 
-[![Firstrun 5](/blog/images/2021-03-24/firstrun5.png)](/blog/images/2021-03-24/firstrun5.png)
+[![Firstrun 5](/images/2021-03-24/firstrun5.png)](/images/2021-03-24/firstrun5.png)
 
-[![Firstrun 6](/blog/images/2021-03-24/firstrun6.png)](/blog/images/2021-03-24/firstrun6.png)
+[![Firstrun 6](/images/2021-03-24/firstrun6.png)](/images/2021-03-24/firstrun6.png)
 
-[![Firstrun 7](/blog/images/2021-03-24/firstrun7.png)](/blog/images/2021-03-24/firstrun7.png)
+[![Firstrun 7](/images/2021-03-24/firstrun7.png)](/images/2021-03-24/firstrun7.png)
 
-[![Firstrun 8](/blog/images/2021-03-24/firstrun8.png)](/blog/images/2021-03-24/firstrun8.png)
+[![Firstrun 8](/images/2021-03-24/firstrun8.png)](/images/2021-03-24/firstrun8.png)
 
 Done!
 
 ### Time to play
 
-[![Playtime](/blog/images/2021-03-24/playtime.png)](/blog/images/2021-03-24/playtime.png)
+[![Playtime](/images/2021-03-24/playtime.png)](/images/2021-03-24/playtime.png)
 
 
 ### Conclusion

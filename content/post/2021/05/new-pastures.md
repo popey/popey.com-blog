@@ -12,7 +12,7 @@ Well, I left on April 30th, have had two weeks of 'funemployment', and today I s
 
 **I'm now Developer Advocate for [Telegraf](https://www.influxdata.com/time-series-platform/telegraf/) at [InfluxData](https://www.influxdata.com/), and I couldn't be more excited! 🎉**
 
-![Card](/blog/images/2021-05-17/card.png)
+![Card](/images/2021-05-17/card.png)
 
 Telegraf is an Open Source "*agent for collecting, processing, aggregating, and writing metrics.*". I'll be working with the Telegraf team and wider community of contributors. You'll likely find me in the [Telegraf GitHub](https://github.com/influxdata/telegraf) and on the [InfluxData Community Slack](https://influxdata.com/slack)!
 

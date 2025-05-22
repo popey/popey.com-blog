@@ -16,15 +16,15 @@ I say *was* in the past tense, but Unity still exists in the Ubuntu repository. 
 
 In fact on my ThinkPad X220 I have Unity installed on the Ubuntu 21.10 release, which still performs very nicely.
 
-[![Unity](/blog/images/2021-03-07/unity.png)](/blog/images/2021-03-07/unity.png)
+[![Unity](/images/2021-03-07/unity.png)](/images/2021-03-07/unity.png)
 
 The settings dialog has the "Show Previous Reports" button I mentioned above.
 
-[![Privacy settings](/blog/images/2021-03-07/privacy.png)](/blog/images/2021-03-07/privacy.png)
+[![Privacy settings](/images/2021-03-07/privacy.png)](/images/2021-03-07/privacy.png)
 
 This takes the user to a web page at [errors.ubuntu.com](https://errors.ubuntu.com/) showing errors from their PC only. Here's what it looks like for me on my X220.
 
-[![Errors](/blog/images/2021-03-07/errors.png)](/blog/images/2021-03-07/errors.png)
+[![Errors](/images/2021-03-07/errors.png)](/images/2021-03-07/errors.png)
 
 *Note:* clicking through to the details for any crash is limited to a small set of bug triage developers. 
 
@@ -36,6 +36,6 @@ However, it's easy to find the reports for your own PC, whatever the desktop, wi
 
 Here's what that looks like from my Ubuntu Hirsute (21.04) system.
 
-[![Crashes](/blog/images/2021-03-07/crashes.png)](/blog/images/2021-03-07/crashes.png)
+[![Crashes](/images/2021-03-07/crashes.png)](/images/2021-03-07/crashes.png)
 
 Hope that's helpful to someone. Maybe I'll remember it next time *I'm* trying to find my crashes too! :D

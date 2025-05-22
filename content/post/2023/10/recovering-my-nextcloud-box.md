@@ -12,21 +12,21 @@ I just stumbled on an old NextCloud Box in my loft. It's a quiet Sunday in the h
 
 Here's my NextCloud Box in a cardboard box labelled "NextCloud Box".
 
-[![NextCloud Box Box](/blog/images/2023-10-01/boxbox.jpg)](/blog/images/2023-10-01/boxbox.jpg)
+[![NextCloud Box Box](/images/2023-10-01/boxbox.jpg)](/images/2023-10-01/boxbox.jpg)
 
 Here's what the NextCloud box looks like once installed.
 
-[![NextCloud Box front](/blog/images/2023-10-01/front.jpg)](/blog/images/2023-10-01/front.jpg)
+[![NextCloud Box front](/images/2023-10-01/front.jpg)](/images/2023-10-01/front.jpg)
 
 The rear doesn't look too bad, if you don't look at it too hard.
 
-[![NextCloud Box rear](/blog/images/2023-10-01/rear.jpg)](/blog/images/2023-10-01/rear.jpg)
+[![NextCloud Box rear](/images/2023-10-01/rear.jpg)](/images/2023-10-01/rear.jpg)
 
 For those who weren't around, or missed the short-lived NextCloud Box, a short introduction is in order. As I recall this was a collaboration between the (now defunct) WD Labs - a division of Western Digital storage - and NextCloud. Canonical were involved too, I believe. 
 
 The box was really just a two-part plastic case, barely big enough to hold a hard disk and Raspberry Pi. Mine contains a 1TB drive and a Raspberry Pi 2. It was a bit janky, to be fair. The cable routing was poorly done, with the Pi power lead leaking out of the case and back in. Not very elegant.
 
-[![NextCloud Box](/blog/images/2023-10-01/box.jpg)](/blog/images/2023-10-01/box.jpg)
+[![NextCloud Box](/images/2023-10-01/box.jpg)](/images/2023-10-01/box.jpg)
 
 It looks worse in this picture because there is an ethernet cable and USB keyboard attached, without being routed. But you get the idea.
 
@@ -46,7 +46,7 @@ Thankfully I'd put all the pieces in the cardboard box before delegating it to t
 
 I started by plugging the device in without a network connection, thinking I could just login at the console or over SSH and get at the data. It booted just fine, and dropped me at a login prompt.
 
-[![No network](/blog/images/2023-10-01/noip.png)](/blog/images/2023-10-01/noip.png)
+[![No network](/images/2023-10-01/noip.png)](/images/2023-10-01/noip.png)
 
 However there's a flaw here. By default Ubuntu Core (which is the OS on the card) doesn't have any local user accounts you can log in to. On first-run it gathers SSH keys via Ubuntu One / Launchpad.net, enabling network login via SSH. But without a local login, you can't get in easily.
 
@@ -56,11 +56,11 @@ However there's a flaw here. By default Ubuntu Core (which is the OS on the card
 
 I decided it would be fine to plug this old thing onto my network. Once booted, the login screen appears, and I could try and get in over ssh.
 
-[![IP](/blog/images/2023-10-01/ip.png)](/blog/images/2023-10-01/ip.png)
+[![IP](/images/2023-10-01/ip.png)](/images/2023-10-01/ip.png)
 
 I pointed my browser at that IP address and after a short while, got a certificate error. This box hasn't been booted for years, so I am not surprised by this. I skip past this and get to a new (to me) error from NextCloud.
 
-[![NextCloud error](/blog/images/2023-10-01/nextclouderror.jpg)](/blog/images/2023-10-01/nextclouderror.jpg)
+[![NextCloud error](/images/2023-10-01/nextclouderror.jpg)](/images/2023-10-01/nextclouderror.jpg)
 
 The IP address it got was in the range of my home network `192.168.0.0/24`, but the sticker on the box shows `192.168.1.83` which is an old address range I no longer use. This became a bit of a problem.
 
@@ -130,13 +130,13 @@ I then unmounted `umount /media/alan/writable /media/alan/system-boot` and poppe
 
 Once it booted again, I pointed a browser at the home page IP address and, success...
 
-[![NextCloud login](/blog/images/2023-10-01/nextcloudlogin.png)](/blog/images/2023-10-01/nextcloudlogin.png)
+[![NextCloud login](/images/2023-10-01/nextcloudlogin.png)](/images/2023-10-01/nextcloudlogin.png)
 
 Now I just need to remember my username as password.... Wait, it's in my password manager!
 
 We're in!
 
-[![NextCloud logged in](/blog/images/2023-10-01/nextcloudloggedin.png)](/blog/images/2023-10-01/nextcloudloggedin.png)
+[![NextCloud logged in](/images/2023-10-01/nextcloudloggedin.png)](/images/2023-10-01/nextcloudloggedin.png)
 
 From here I could very, very slowly access the Photos in via the web UI. By "slowly" I actually mean "painfully slowly". The Pi2 really wasn't a great machine for NextCloud. 
 
@@ -148,11 +148,11 @@ So SSH it is...
 
 I should also be able to ssh in now I've dropped my key on there.
 
-[![SSH success](/blog/images/2023-10-01/sshin.png)](/blog/images/2023-10-01/sshin.png)
+[![SSH success](/images/2023-10-01/sshin.png)](/images/2023-10-01/sshin.png)
 
 `Welcome to Ubuntu Core 16`
 
-[![Obi](/blog/images/2023-10-01/obi-wan-star-wars.gif)](/blog/images/2023-10-01/obi-wan-star-wars.gif)
+[![Obi](/images/2023-10-01/obi-wan-star-wars.gif)](/images/2023-10-01/obi-wan-star-wars.gif)
 
 Ooh! I haven't been here in a while...
 
@@ -245,7 +245,7 @@ Great success!
 
 Although having looked through the photographs, there's not a lot that's interesting. I'll leave you with this photograph of a lightsaber I made out of a cardboard tube back in 2016.
 
-[![Lightsaber](/blog/images/2023-10-01/lightsaber.jpg)](/blog/images/2023-10-01/lightsaber.jpg)
+[![Lightsaber](/images/2023-10-01/lightsaber.jpg)](/images/2023-10-01/lightsaber.jpg)
 
 Make your lightsaber noises NOW!
 

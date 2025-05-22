@@ -8,7 +8,7 @@ tags = ['steam', 'gaming']
 
 [Steam](https://store.steampowered.com/) - the video game distribution and launching platform from [Valve](https://www.valvesoftware.com/en/), is twenty years old today. Steam has become quite a fixture of PC gaming life in those two decades.
 
-[![Steam](/blog/images/2023-09-12/steam.png)](/blog/images/2023-09-12/steam.png)
+[![Steam](/images/2023-09-12/steam.png)](/images/2023-09-12/steam.png)
 
 I didn't really pay any attention to Steam initially. I wasn't really into PC gaming in 2003.
 
@@ -16,21 +16,21 @@ At least partly because, coincidentally, my daughter also turns twenty today. Sh
 
 A short while later, here we are, __probably__ not thinking about video games.
 
-[![Sophie and me](/blog/images/2023-09-12/sophieandme.jpg)](/blog/images/2023-09-12/sophieandme.jpg)
+[![Sophie and me](/images/2023-09-12/sophieandme.jpg)](/images/2023-09-12/sophieandme.jpg)
 
 ## The beginning
 
 If this email is to be believed, I created a Steam account seven years later, on May 29th, 2010.
 
-[![Steam](/blog/images/2023-09-12/welcomeemail.png)](/blog/images/2023-09-12/welcomeemail.png)
+[![Steam](/images/2023-09-12/welcomeemail.png)](/images/2023-09-12/welcomeemail.png)
 
 The first thing I bought was the exceptionally popular [Orange Box](https://store.steampowered.com/sub/469/) collection.
 
-[![Orange box](/blog/images/2023-09-12/orangebox.png)](/blog/images/2023-09-12/orangebox.png)
+[![Orange box](/images/2023-09-12/orangebox.png)](/images/2023-09-12/orangebox.png)
 
 For just over a [tenner](https://dictionary.cambridge.org/dictionary/english/tenner), I got Portal, Half-Life 2, Half-Life 2: Deathmatch, Half-Life 2: Lost Coast, Half-Life Deathmatch: Source, Half-Life 2: Episode One and Two, Team Fortress 2 and DLC. 
 
-[![Orange box](/blog/images/2023-09-12/orangeboxstore.png)](/blog/images/2023-09-12/orangeboxstore.png)
+[![Orange box](/images/2023-09-12/orangeboxstore.png)](/images/2023-09-12/orangeboxstore.png)
 
 Cumulatively, I've clocked up around 150 hours - nearly a solid week of continuous play - in that one package alone. For comparison, that's approaching the entire Star Wars cinematic and TV output duration for about tenner. Fabulous value for money.
 
@@ -40,7 +40,7 @@ One of the games in the set that I've not played much (5.7h) is Team Fortress 2.
 
 I must have been curious enough to run it on the family iMac at some point because I got these fancy [earbuds](https://wiki.teamfortress.com/wiki/Earbuds) as a gift.
 
-[![TF2 Earbuds](/blog/images/2023-09-12/earbuds.png)](/blog/images/2023-09-12/earbuds.png)
+[![TF2 Earbuds](/images/2023-09-12/earbuds.png)](/images/2023-09-12/earbuds.png)
 
 I used to get people DMing me all the time attempting to buy them off me. Apparently they're rare. Who knew?
 
@@ -48,11 +48,11 @@ I used to get people DMing me all the time attempting to buy them off me. Appare
 
 After that first purchase in May 2010, I didn't buy many more games. Maybe the Orange Box kept me busy initially. Here's everything I bought in 2010 and 2011.
 
-[![2010-2011](/blog/images/2023-09-12/2010-2011.png)](/blog/images/2023-09-12/2010-2011.png)
+[![2010-2011](/images/2023-09-12/2010-2011.png)](/images/2023-09-12/2010-2011.png)
 
 Then, in mid-2012, something [happened](https://web.archive.org/web/20120926151231/http://blogs.valvesoftware.com/linux/steamd-penguins/) that massively accelerated my game purchasing.
 
-[![Steam'd penguins](/blog/images/2023-09-12/steamonlinux.png)](https://web.archive.org/web/20120926151231/http://blogs.valvesoftware.com/linux/steamd-penguins/)
+[![Steam'd penguins](/images/2023-09-12/steamonlinux.png)](https://web.archive.org/web/20120926151231/http://blogs.valvesoftware.com/linux/steamd-penguins/)
 
 Steam came to Linux late in 2012. Ubuntu was the main target, so working at Canonical, a few of us got early Steam builds to play with. In the final two months of 2012, I bought twice as many games as I did in all of 2010 and 2011, after the Orange Box. Then, in 2013, the number of games I purchased had doubled again!
 
@@ -62,7 +62,7 @@ Skipping to 2016 I picked up a [Steam Link](https://store.steampowered.com/app/3
 
 In July 2022, like everyone else, it seems, I plumped down £565 for a 512GB Steam Deck, which I still love. 
 
-[![Gabe Gear](/blog/images/2023-08-31/steamdeck.jpeg)](/blog/images/2023-08-31/steamdeck.jpeg)
+[![Gabe Gear](/images/2023-08-31/steamdeck.jpeg)](/images/2023-08-31/steamdeck.jpeg)
 
 ## Too many games?
 

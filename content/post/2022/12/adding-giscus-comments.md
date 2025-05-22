@@ -6,7 +6,7 @@ author = "Alan Pope"
 tags = ['blog', 'comments', 'giscus', 'hugo']
 +++
 
-My blog at [popey.com/blog](https://popey.com/blog/) has gone through a number of iterations since I started it back in the [1990's](https://web.archive.org/web/19991004142932/http://www.popey.com/). First it was created using Microsoft FrontPage, and hosted on some free web space at [CiX](https://web.archive.org/web/19981111184213/http://www.cix.co.uk/), and has morphed into a self-hosted [WordPress](https://wordpress.org/) site, [Nikola](https://getnikola.com/) static site, and now a [Hugo](https://gohugo.io/) static site.
+My blog at [blog.popey.com](https://blog.popey.com/) has gone through a number of iterations since I started it back in the [1990's](https://web.archive.org/web/19991004142932/http://www.popey.com/). First it was created using Microsoft FrontPage, and hosted on some free web space at [CiX](https://web.archive.org/web/19981111184213/http://www.cix.co.uk/), and has morphed into a self-hosted [WordPress](https://wordpress.org/) site, [Nikola](https://getnikola.com/) static site, and now a [Hugo](https://gohugo.io/) static site.
 
 At various times I've had comment systems available underneath posts. Over the years I've used Microsoft FrontPage extensions (which, amusingly used to crash the entire Web Host at CiX back in the day), WordPress comments, and Disqus to facilitate visitor interaction. I've never really been happy with any of them, so I abandoned them all, their content lost to the mists of time - and possibly the Wayback Machine.
 

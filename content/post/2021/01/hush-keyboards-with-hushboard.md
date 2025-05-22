@@ -35,19 +35,19 @@ He has a [point](/blog/2020/12/keyboards-old-and-new/). Hypothetically I might h
 
 > Stuart: Ok, if i get a chance I'll look into it!
 
-![15 minutes later](/blog/images/2021-01-07/15.png)
+![15 minutes later](/images/2021-01-07/15.png)
 
 Stuart provided me with the first iteration, able to detect keypresses, you know, like a keylogger. We spent approximately 30 seconds brainstorming a name. I came up with `automute` and `unkeeb`. Stuart expressed with some vigor that `unkeeb` was under no circumstances going to be the name. 
 
 A short while later, `unkeeb` was born!
 
-![Unkeeb](/blog/images/2021-01-07/unkeeb.png)
+![Unkeeb](/images/2021-01-07/unkeeb.png)
 
 By late afternoon Stuart had the basics of the utility working. We tested over a Google Meet. It would detect keypresses, mute and unmute the microphone, and display the status in the indicator area. This smelled like a Minimum Viable Product! 
 
 With Stuarts veto on the `unkeeb` name, as the Ideas Man, I had to think of something else. I checked a thesaurus and came up with `calm-ivories` which was even dumber than `unkeeb`. Then it hit me!
 
-[![Hushboard](/blog/images/2021-01-07/hushboard.png)](https://kryogenix.org/code/hushboard/)
+[![Hushboard](/images/2021-01-07/hushboard.png)](https://kryogenix.org/code/hushboard/)
 
 30 seconds of Internet due diligence later, and the name was settled. "**Hushboard**" it is. Who says naming things is hard? Stuart does. All the time. That's why he relies on me for these parts of the project lifecycle. That, and packaging. We were getting close to sharing the creation with the world. We decided, with no surprise to anyone, to make a snap!
 

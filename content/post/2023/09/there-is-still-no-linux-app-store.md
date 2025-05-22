@@ -10,9 +10,9 @@ tags = ['ubuntu', 'linux', 'monetisation', 'development', 'desktop']
 
 Neither of these are "App Stores" in the way average people know them. You can neither buy or sell products in these so-called 'stores'...
 
-[![Flathub](/blog/images/2023-09-28/flathub.png)](https://flathub.org/)
+[![Flathub](/images/2023-09-28/flathub.png)](https://flathub.org/)
 
-[![Snapcraft](/blog/images/2023-09-28/snapcraft.png)](https://snapcraft.io/)
+[![Snapcraft](/images/2023-09-28/snapcraft.png)](https://snapcraft.io/)
 
 ...yet.
 
@@ -104,7 +104,7 @@ Ubuntu alone has made *multiple* attempts in the past to enable paid application
 
 If you ran Ubuntu on your desktop back in 2012/2013 you would have been able to buy paid apps via Ubuntu Software Centre. Third-party application developers could (and did) package their software as a deb and publish for Ubuntu users. Only users who paid for the app were able to download the applications. 
 
-[![Ubuntu Software](/blog/images/2023-09-28/store.jpeg)](/blog/images/2023-09-28/store.jpeg)
+[![Ubuntu Software](/images/2023-09-28/store.jpeg)](/images/2023-09-28/store.jpeg)
 
 There were no in-app purchases, no donations, and no subscriptions. You paid once, then you get the app and updates from a special, private PPA. 
 
@@ -138,7 +138,7 @@ One example partner was [Humble Indie Bundle](https://web.archive.org/web/202101
 
 Just like ARB-published debs, these were made available via private PPAs on Launchpad. Even now, over a decade later, my private PPA subscriptions are all still there, with old builds of those games, sitting there waiting.
 
-[![PPAs](/blog/images/2023-09-28/subs.png)](/blog/images/2023-09-28/subs.png)
+[![PPAs](/images/2023-09-28/subs.png)](/images/2023-09-28/subs.png)
 
 This enabled users to install the games/applications directly from their desktop without having to download random binaries from a third party website. It also helped bolster the reputation of USC, leveraging the goodwill that Humble Indie Bundle had at the time.
 
@@ -190,7 +190,7 @@ Also, you're objectively wrong. The vast majority of applications downloaded fro
 
 Also, also, I never said anything about licenses. 
 
-[![Always has been](/blog/images/2023-09-28/alwayshasbeen.jpg)](/blog/images/2023-09-28/alwayshasbeen.jpg)
+[![Always has been](/images/2023-09-28/alwayshasbeen.jpg)](/images/2023-09-28/alwayshasbeen.jpg)
 
 ### "Nobody pays for apps on Linux!"
 

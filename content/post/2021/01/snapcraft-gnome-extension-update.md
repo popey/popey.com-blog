@@ -98,7 +98,7 @@ Here's [some](https://github.com/snapcrafters/xonotic/pull/8) [examples](https:/
 
 The diffs are mostly just as I outlined above:
 
-[![Xonotic diff](/blog/images/2021-01-26/diff.png)](https://github.com/snapcrafters/xonotic/pull/8/commits/8fa6ec9b41da5b75abcf080cf9a6ba86537ab47d)
+[![Xonotic diff](/images/2021-01-26/diff.png)](https://github.com/snapcrafters/xonotic/pull/8/commits/8fa6ec9b41da5b75abcf080cf9a6ba86537ab47d)
 
 ### Danger Will Robinson
 

@@ -14,7 +14,7 @@ When I joined [Axiom](https://axiom.co/) at the end of 2022, I was given some bu
 
 I'm lazy, and trust Martin's evaluation of the options. So, I also bought a ThinkPad Z13. However, unlike Martin, I bought the one with a higher-resolution touch-screen. It's a pretty gorgeous device.
 
-[![ThinkPad Z13!](/blog/images/2023-08-28/z13_1.jpeg)](/blog/images/2023-08-28/z13_1.jpeg)
+[![ThinkPad Z13!](/images/2023-08-28/z13_1.jpeg)](/images/2023-08-28/z13_1.jpeg)
 
 ## OOTB
 
@@ -24,9 +24,9 @@ The recovery partition still exists, and appears in my boot menu, teasing me to 
 
 ## Whoopsie
 
-I've [previously](https://popey.com/blog/2021/03/finding-ubuntu-crash-reports/) [written](https://popey.com/blog/2021/02/a-tale-of-two-updates/) about the Ubuntu crash reporting system and why I think it's a valuable resource for the developers. Users have mixed opinions on the familiar crash dialog.
+I've [previously](https://blog.popey.com/2021/03/finding-ubuntu-crash-reports/) [written](https://blog.popey.com/2021/02/a-tale-of-two-updates/) about the Ubuntu crash reporting system and why I think it's a valuable resource for the developers. Users have mixed opinions on the familiar crash dialog.
 
-![Whoopsie!](/blog/images/2021-02-24/whoopsie.png)
+![Whoopsie!](/images/2021-02-24/whoopsie.png)
 
 Some users even resort to switching the entire thing off. Each to their own. I leave it switched on, but the crash reporter rarely appears on screen as I've told my system to "Remember this in future." The crash reports silently get submitted in the background.
 
@@ -34,7 +34,7 @@ Some users even resort to switching the entire thing off. Each to their own. I l
 
 I was recently curious about what had crashed in the last six months or so that I've been using the laptop. So I went digging. If you're running Ubuntu, you could do the same and see what's crashing for you. It might be enlightening. Or it might just reinforce already-existing beliefs that a particular culprit will feature in the list.
 
-I wrote up how to find historical crash reports in my post [finding ubuntu crash reports](https://popey.com/blog/2021/03/finding-ubuntu-crash-reports/).
+I wrote up how to find historical crash reports in my post [finding ubuntu crash reports](https://blog.popey.com/2021/03/finding-ubuntu-crash-reports/).
 
 `xdg-open https://errors.ubuntu.com/user/$(sudo cat /var/lib/whoopsie/whoopsie-id)`
 
@@ -42,7 +42,7 @@ You should be taken to a web page similar to this, but with your crash reports.
 
 Note: This image is old crash data from a previous blog post, not from my current machine.
 
-[![Crashes](/blog/images/2021-03-07/crashes.png)](/blog/images/2021-03-07/crashes.png)
+[![Crashes](/images/2021-03-07/crashes.png)](/images/2021-03-07/crashes.png)
 
 If there's none then you're either very lucky, or you probably turned off the crash reporting tool.
 
@@ -50,7 +50,7 @@ If there's none then you're either very lucky, or you probably turned off the cr
 
 I copied the data into a spreadsheet, generated a chart and here's the result. 
 
-[![Crashes](/blog/images/2023-08-28/crashes.png)](/blog/images/2023-08-28/crashes.png)
+[![Crashes](/images/2023-08-28/crashes.png)](/images/2023-08-28/crashes.png)
 
 Here's that data in tabular form
 
@@ -135,7 +135,7 @@ I don't think there's any particular trigger I've seen to cause it.
 
 First of the open source applications, [bottom](https://github.com/ClementTsang/bottom) is (like top) a system resource monitor. Here it is in action, in case you've not seen it before.
 
-[![bottom](/blog/images/2023-08-28/bottom.png)](/blog/images/2023-08-28/bottom.png)
+[![bottom](/images/2023-08-28/bottom.png)](/images/2023-08-28/bottom.png)
 
 |Occurred	|Received|	Problem Type|	Program|
 |--------|-----|--|--|
@@ -154,7 +154,7 @@ I have no idea why all the various GNOME and KDE internal gubbins crash. Those t
 
 I assume someone at Canonical is still regularly looking at the highly ranked errors bubbling up on [errors.ubuntu.com](https://errors.ubuntu.com/). Ideally they should be turned into bug reports either within Ubuntu or within the upstream projects (or both), and resolved. 
 
-[![errors.ubuntu.com](/blog/images/2023-08-28/errors.png)](/blog/images/2023-08-28/errors.png)
+[![errors.ubuntu.com](/images/2023-08-28/errors.png)](/images/2023-08-28/errors.png)
 
 In my experience, these crash reports have been useful for developers but perhaps less so for us end-users. I'll still keep this feature turned on though as I think it's a worthwhile set of data.
 

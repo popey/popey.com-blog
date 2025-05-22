@@ -14,7 +14,7 @@ I could have some kind of alert that lets me know when this happens, but I curre
 
 For some reason, this morning I logged into the [snapcraft](https://snapcraft.io/) page to snoop around, and spotted the broken build. 
 
-[![Broken build](/blog/images/2023-10-03/broken.png)](/blog/images/2023-10-03/broken.png)
+[![Broken build](/images/2023-10-03/broken.png)](/images/2023-10-03/broken.png)
 
 Incidentally, I **detest** these "about 19 hours ago" and "13 days ago" date formats that became popular on the web about five years ago. They need to die in a fire. I don't want "A week last Tuesday", I'd like YYYY-MM-DD HH:MM:SS please.
 
@@ -24,15 +24,15 @@ I don't have time to fix this now, so I'll look at it later. It's on my to-do li
 
 Ok, now I have some time to fix it. I'm currently using the snapcraft build service - which is technically the [launchpad.net](https://launchpad.net/builders) build farm under the covers. You can see from the edge channel that we've recently had successful builds of the tip of git. As recently as last week in fact.
 
-[![Builds](/blog/images/2023-10-03/builds.png)](/blog/images/2023-10-03/builds.png)
+[![Builds](/images/2023-10-03/builds.png)](/images/2023-10-03/builds.png)
 
 But more recently, it's failing.
 
-[![Broken build](/blog/images/2023-10-03/broken.png)](/blog/images/2023-10-03/broken.png)
+[![Broken build](/images/2023-10-03/broken.png)](/images/2023-10-03/broken.png)
 
 We can click on a failed build, and scroll through this page, or click the "View raw" button to go directly to the [build log](https://launchpadlibrarian.net/690090458/buildlog_snap_ubuntu_focal_armhf_5ab406df654dd49ff014a45da042ea16_BUILDING.txt.gz).
 
-[![Fail](/blog/images/2023-10-03/fail.png)](/blog/images/2023-10-03/fail.png)
+[![Fail](/images/2023-10-03/fail.png)](/images/2023-10-03/fail.png)
 
 Here's a snippet from the log. This looks interesting and unfamiliar to me. I know the x16emulator uses cc65 to compile the ROM used by the emulator itself. Something awry with that perhaps.
 
@@ -67,7 +67,7 @@ Given the snap built fine a few days ago, and I haven't touched the yaml for thr
 
 Let's look at the upstream project repo, to see if there have been any changes which may have broken things since the last good builds a few days ago.
 
-[![Upstream changes](/blog/images/2023-10-03/changes.png)](https://github.com/X16Community/x16-emulator/commits/master)
+[![Upstream changes](/images/2023-10-03/changes.png)](https://github.com/X16Community/x16-emulator/commits/master)
 
 {{< rawhtml >}}
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/2FYjduk3sZM?si=QmHlrYvU-_aEd2zh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
@@ -87,7 +87,7 @@ ca65 -I inc -D CPU_65C02=1  -g -D MACHINE_X16=1 --cpu 65SC02 -l build/x16/kernal
 
 The source for the rom is also on github, in [this repo](https://github.com/x16community/x16-rom.git)
 
-[![Upstream ROM changes](/blog/images/2023-10-03/romchanges.png)](https://github.com/X16Community/x16-rom/commits/master)
+[![Upstream ROM changes](/images/2023-10-03/romchanges.png)](https://github.com/X16Community/x16-rom/commits/master)
 
 ## 16:55 
 

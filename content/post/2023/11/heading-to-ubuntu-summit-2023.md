@@ -8,7 +8,7 @@ tags = ['NaBloPoMo', 'ubuntu', 'summit', 'events']
 
 ## Ubuntu Summit
 
-[![Ubuntu Summit](/blog/images/2023-11-01/header.png)](https://events.canonical.com/event/31/)
+[![Ubuntu Summit](/images/2023-11-01/header.png)](https://events.canonical.com/event/31/)
 
 This weekend the [Ubuntu Summit](https://events.canonical.com/event/31/) begins in [Riga](https://en.wikipedia.org/wiki/Riga), [Latvia](https://en.wikipedia.org/wiki/Latvia). I originally had no plans to attend until a recent [change in circumstance](https://www.linkedin.com/posts/alan-pope-uk_today-is-my-last-day-at-the-ever-awesome-activity-7123284623899414529-lLuq), and a late space became available.
 
@@ -48,7 +48,7 @@ Many of the streams had little participation and pitiful post-event viewer numbe
 
 In 2022, Canonical [announced](https://ubuntu.com/blog/uds-is-now-ubuntu-summit) a new summit, taking place in Prague from November 7th to 9th (Monday to Wednesday). I didn't attend, but I'm told by friends who did, that it was a great event, which rekindled some of the spirit of UDS from the past.
 
-[![Ubuntu Summit group photo](/blog/images/2023-11-01/summit2022_crowd.jpg)](https://ubuntu.com/blog/ubuntu-summit-2022-reflections)
+[![Ubuntu Summit group photo](/images/2023-11-01/summit2022_crowd.jpg)](https://ubuntu.com/blog/ubuntu-summit-2022-reflections)
 
 It must have been good because they're doing it again!
 
@@ -62,6 +62,6 @@ I will be taking a laptop in case there are opportunities for hacking, and to up
 
 I am looking forward to meeting old friends from Canonical, and new people from the community I've not seen in person before. I'm also quite intrigued by this "Special Demonstration" on Saturday evening during Game Night.
 
-[![Game Night](/blog/images/2023-11-01/gamenight.png)](https://ubuntu.com/blog/ubuntu-summit-2022-reflections)
+[![Game Night](/images/2023-11-01/gamenight.png)](https://ubuntu.com/blog/ubuntu-summit-2022-reflections)
 
 Maybe see you there. 🛫

@@ -14,7 +14,7 @@ Earlier today I posted a poll on Mastodon.
 
 As I write this, there are fifteen hours left on the poll, and it looks like this with around a hundred votes:
 
-[![Poll](/blog/images/2023-09-18/poll.png)](/blog/images/2023-09-18/poll.png)
+[![Poll](/images/2023-09-18/poll.png)](/images/2023-09-18/poll.png)
 
 Most people seems to think I should wait for a month. That result may change overnight, of course, but I can't wait! I've got a blog post to write, and time on my hands! 
 
@@ -40,11 +40,11 @@ This blog post is *not* an upgrade guide. *Don't* follow blog guides telling you
 
 Go to the official documentation. Let's do a search online. [UpgradeNotes](https://help.ubuntu.com/community/UpgradeNotes) community documentation sounds about right. Wait a minute...
 
-[![Upgrade Notes](/blog/images/2023-09-18/docs1.png)](/blog/images/2023-09-18/docs1.png)
+[![Upgrade Notes](/images/2023-09-18/docs1.png)](/images/2023-09-18/docs1.png)
 
 ___"From 16.04 LTS (or 17.10) to 18.04 LTS"!?___ or ___"From 19.04 to 19.10"___, __"last edited 2019-10-27 07:37:02"__. Well that's not right. Oh, wait, it has a link to [https://ubuntu.com/getubuntu/upgrading](https://ubuntu.com/getubuntu/upgrading)...
 
-[![404](/blog/images/2023-09-18/404.png)](/blog/images/2023-09-18/404.png)
+[![404](/images/2023-09-18/404.png)](/images/2023-09-18/404.png)
 
 Hm. There's got to be some documentation around here somewhere... Our favourite search engine found [this tutorial](https://ubuntu.com/tutorials/upgrading-ubuntu-desktop#1-before-you-start), which looks promising. But it's really aimed at people upgrading to the next supported release, not development releases. Remember, 23.10 isn't out yet!
 
@@ -60,7 +60,7 @@ Ok, let's go.
 
 After discussing backups on [episode 9](https://linuxmatters.sh/9/) of [Linux Matters](https://linuxmatters.sh/), I now backup my desktop using [BorgBackup](https://www.borgbackup.org/). I get an email every hour, too!
 
-[![Mutt](/blog/images/2023-09-18/mutt.png)](/blog/images/2023-09-18/mutt.png)
+[![Mutt](/images/2023-09-18/mutt.png)](/images/2023-09-18/mutt.png)
 
 I have tested these, and the backups work, unlike the [caravan club](/blog/2023/09/backup-the-caravan/).
 
@@ -313,7 +313,7 @@ download has finished, the process cannot be canceled.
 
 Details, shmetails...
 
-[![Punch it](/blog/images/2023-09-18/star-wars-hans-solo.gif)](/blog/images/2023-09-18/star-wars-hans-solo.gif)
+[![Punch it](/images/2023-09-18/star-wars-hans-solo.gif)](/images/2023-09-18/star-wars-hans-solo.gif)
 
 I press "Y".
 
@@ -321,21 +321,21 @@ Time passes...
 
 A lot of this happens...
 
-[![Downloading](/blog/images/2023-09-18/downloading.png)](/blog/images/2023-09-18/downloading.png)
+[![Downloading](/images/2023-09-18/downloading.png)](/images/2023-09-18/downloading.png)
 
 Followed by tons of this...
 
-[![Unpacking](/blog/images/2023-09-18/unpacking.png)](/blog/images/2023-09-18/unpacking.png)
+[![Unpacking](/images/2023-09-18/unpacking.png)](/images/2023-09-18/unpacking.png)
 
 Then oodles of this...
 
-[![Installing](/blog/images/2023-09-18/installing.png)](/blog/images/2023-09-18/installing.png)
+[![Installing](/images/2023-09-18/installing.png)](/images/2023-09-18/installing.png)
 
 All very much the same as any other release upgrade.
 
 Computer go brrr.
 
-[![Brr](/blog/images/2023-09-18/brr.png)](/blog/images/2023-09-18/brr.png)
+[![Brr](/images/2023-09-18/brr.png)](/images/2023-09-18/brr.png)
 
 ## Black screen of doom
 
@@ -354,7 +354,7 @@ _
 My first reaction was "Oh gosh, this seems suboptimal", or words to that effect. 
 
 
-[![Mild shock](/blog/images/2023-09-18/mildshock.gif)](/blog/images/2023-09-18/mildshock.gif)
+[![Mild shock](/images/2023-09-18/mildshock.gif)](/images/2023-09-18/mildshock.gif)
 
 
 The disk light was still flickering like mad though, so I assumed upgrade things were still happening. I wandered off to find a laptop so I could SSH in to have a poke around.
@@ -406,7 +406,7 @@ root     3561731 11.4  0.6 554192 226416 pts/16  Sl+  20:06
 --frontend=DistUpgradeViewText --devel-release 
 ```
 
-[![Kill him](/blog/images/2023-09-18/killhim.gif)](/blog/images/2023-09-18/killhim.gif)
+[![Kill him](/images/2023-09-18/killhim.gif)](/images/2023-09-18/killhim.gif)
 
 `root@nuc:~# kill -9 3561731`
 
@@ -515,7 +515,7 @@ Good enough!
 
 Success!
 
-[![Success](/blog/images/2023-09-18/success.png)](/blog/images/2023-09-18/success.png)
+[![Success](/images/2023-09-18/success.png)](/images/2023-09-18/success.png)
 
 See, I told you Ubuntu upgrades work. 
 

@@ -21,7 +21,7 @@ alan@robot:~$ for host in $(cat computers.txt); do ssh "$host" "uptime"; done
 
 One is a desktop, two are laptops and the others are headless servers. The servers tend to be left up mostly because I don't see any need to reboot them. However I'm also a little scared to, in case they don't come back and I end up having to faff about to fix them.
 
-That's because three of the servers are in the loft, which is a faff to get to. I mean, it's not as much of a faff to get to as say [the](/blog/images/2021-02-04/maldives1.jpg) [Maldives](/blog/images/2021-02-04/maldives2.jpg), obviously, but you know, it's not "Walk over to the computer and press a button" easy. None have displays or HP [ILO](https://www.hpe.com/us/en/servers/integrated-lights-out-ilo.html) stuff either, so I'd have to cart a display up there.
+That's because three of the servers are in the loft, which is a faff to get to. I mean, it's not as much of a faff to get to as say [the](/images/2021-02-04/maldives1.jpg) [Maldives](/images/2021-02-04/maldives2.jpg), obviously, but you know, it's not "Walk over to the computer and press a button" easy. None have displays or HP [ILO](https://www.hpe.com/us/en/servers/integrated-lights-out-ilo.html) stuff either, so I'd have to cart a display up there.
 
 I considered a few times that I should get a small USB powered VGA-connected display. It would likely just sit around doing nothing though. I could get a second hand old monitor and stick it up there, but I don't have any, maybe I'll look out for something suitably compact on fleabay sometime. 
 

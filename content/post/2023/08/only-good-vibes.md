@@ -8,7 +8,7 @@ tags = ['linux', 'podcast', 'linux-matters']
 
 Just a few thoughts about the origin of [Linux Matters](https://linuxmatters.sh) podcast.
 
-[![Linux Matters](/blog/images/2023-08-23/linuxmatters-banner-3000x750.webp)](https://linuxmatters.sh)
+[![Linux Matters](/images/2023-08-23/linuxmatters-banner-3000x750.webp)](https://linuxmatters.sh)
 
 ## Prior art
 

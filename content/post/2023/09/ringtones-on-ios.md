@@ -10,7 +10,7 @@ In a change from our regularly scheduled blogging, I present a short how-to. Thi
 
 I found myself playing some retro games on my SteamDeck today, while the tyres were being replaced on my car. After a bit of time playing Golf in a virtual GameCube, I rolled the clock back further, and played a bit of OG Tetris on a virtual GameBoy.
 
-[![SteamDeck](/blog/images/2023-09-17/IMG_3378_30.jpg)](/blog/images/2023-09-17/IMG_3378_30.jpg)
+[![SteamDeck](/images/2023-09-17/IMG_3378_30.jpg)](/images/2023-09-17/IMG_3378_30.jpg)
 
 Every so often the music in a game will trigger happy nostalgic memories. Last time it was Magical Sound Shower from the Sega OutRun arcade machine. I went through some fiddling to turn that music into a ringtone, which I've had on my iPhone for a while now. 
 

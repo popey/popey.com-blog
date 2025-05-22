@@ -239,7 +239,7 @@ sudo service sddm restart
 
 Boom! Fixed!
 
-![Working](/blog/images/2023-01-05/desktop.jpg)
+![Working](/images/2023-01-05/desktop.jpg)
 
 Was it the packages I reinstalled? 
 Was it just the delayed restart of sddm?

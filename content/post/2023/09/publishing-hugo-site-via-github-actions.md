@@ -6,7 +6,7 @@ author = "Alan Pope"
 tags = ['hugo', 'blog', 'github', 'actions']
 +++
 
-My blog at [popey.com/blog](https://popey.com/blog/) is hosted on a [Bitfolk](https://bitfolk.com/) VPS, built from the [Hugo](https://gohugo.io/) source code in a public [GitHub repo](https://github.com/popey/popey.com-blog).
+My blog at [blog.popey.com](https://blog.popey.com/) was hosted on a [Bitfolk](https://bitfolk.com/) VPS, built from the [Hugo](https://gohugo.io/) source code in a public [GitHub repo](https://github.com/popey/popey.com-blog).
 
 My workflow for publishing a post goes like this:
 
@@ -228,6 +228,6 @@ All I have to do is push to the [main](https://github.com/popey/popey.com-blog/t
 
 I can click through to "▶️ Actions" in the repo to see the logs. 
 
-[![Action run](/blog/images/2023-09-27/deploy.png)](/blog/images/2023-09-27/deploy.png)
+[![Action run](/images/2023-09-27/deploy.png)](/images/2023-09-27/deploy.png)
 
 Great success!

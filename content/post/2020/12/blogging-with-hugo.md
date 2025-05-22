@@ -6,19 +6,19 @@ author = "Alan Pope"
 tags = ['software', 'hugo', 'linux']
 +++
 
-Some years ago I switched my blog from [Wordpress](https://wordpress.com/) to [Nikola](https://getnikola.com/). I wrote a [blog post](https://popey.com/blog/2017/04/switching-from-wordpress-to-nikola/) about the move, but within a year or so, I'd pretty much stopped blogging completely. 
+Some years ago I switched my blog from [Wordpress](https://wordpress.com/) to [Nikola](https://getnikola.com/). I wrote a [blog post](https://blog.popey.com/2017/04/switching-from-wordpress-to-nikola/) about the move, but within a year or so, I'd pretty much stopped blogging completely. 
 
 More recently I discovered [Hugo](https://gohugo.io/), and used it for a couple of other sites I own. [popeyspades](https://popeyspad.es/) is a simple blog to promote a game server I was running at the time. 
 
-![popeyspades site](/blog/images/2020-12-21/popeyspades.png)
+![popeyspades site](/images/2020-12-21/popeyspades.png)
 
 [Make A Linux App](https://makealinux.app/) is a single-serving site that seeks to promote app development for Linux and discourage the proliferation of Linux distributions. 
 
-![makealinuxapp site](/blog/images/2020-12-21/makealinuxapp.png)
+![makealinuxapp site](/images/2020-12-21/makealinuxapp.png)
 
 Hugo is pretty versatile. I really like it.
 
-When I set up [Make A Linux App](https://makealinux.app/), I put the site's source on [GitHub](https://github.com/popey/makealinux.app) and created some simple infrastructure to automate update publishing. I found Hugo's blogging part pleasant and the automation very easy to implement, so I decided to reboot my [popey.com/blog](https://popey.com/blog). 
+When I set up [Make A Linux App](https://makealinux.app/), I put the site's source on [GitHub](https://github.com/popey/makealinux.app) and created some simple infrastructure to automate update publishing. I found Hugo's blogging part pleasant and the automation very easy to implement, so I decided to reboot my [blog.popey.com](https://blog.popey.com). 
 
 Here's the basics of what I did to gets started, in case anyone else fancies running a blog on [Hugo](https://gohugo.io/). This is mostly a loose set of notes I made while setting up. Refer to the [Hugo documentation](https://gohugo.io/getting-started/) for more professional docs ;)
 
@@ -53,8 +53,8 @@ Grab the release tarball, and unpack it in `~/hugo/popey.com-blog/themes` such t
 Edit `~/hugo/popey.com-blog/config.toml` and tweak as per the [Hugo documentation](https://gohugo.io/getting-started/configuration/). Here's some ideas for what mine looked like at this point:
 
 ```toml
-baseurl = "https://popey.com/blog/"
-title = "popey.com/blog"
+baseurl = "https://blog.popey.com/"
+title = "blog.popey.com"
 languageCode = "en-gb"
 theme = "ghostwriter"
 
@@ -133,25 +133,25 @@ draft: true
 
 Start editing with your text editor. 
 
-![Sublime Text](/blog/images/2020-12-21/st-preview_50.png)
+![Sublime Text](/images/2020-12-21/st-preview_50.png)
 
 Once you start maintaining content, the post should show up in your browser. The `hugo serve` command will dynamically rebuild the page each time the markdown file is saved, making it super easy to iterate on the content quickly.
 
-![Browser preview](/blog/images/2020-12-21/browser_50.png)
+![Browser preview](/images/2020-12-21/browser_50.png)
 
 ### Adding images
 
 I place images in `./static/images/` in a 'neat' directory hierarchy and then use this syntax to embed them in the posts.
 
 ```markdown
-![Alt text description](/blog/images/2020-12-21/filename.png)
+![Alt text description](/images/2020-12-21/filename.png)
 ````
 
 ## Push changes
 
 This isn't a git tutorial. Use whatever method you feel comfortable with to push your changes to a git repo somewhere. Personally I use [Sublime Merge](https://snapcraft.io/sublime-merge) which looks like this as I write this post.
 
-![Sublime Merge and Preview](/blog/images/2020-12-21/sm-preview_50.png)
+![Sublime Merge and Preview](/images/2020-12-21/sm-preview_50.png)
 
 Other options include [GitKraken](https://www.gitkraken.com/), [GitHub Desktop](https://desktop.github.com/) and plenty of others. Or you could use `git` on the command line like an actual ~~animal~~ developer.
 

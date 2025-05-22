@@ -14,11 +14,11 @@ I'm certainly no MK afficianado, but I use keyboards all day every day, so like 
 
 This venerable IBM Model M keyboard has been in my possession since the mid 1990's. It's my daily driver. Indeed, I'm typing this very blog post on it right now. It sits on my desk, attached to a desktop computer via a little PS/2 to USB dongle, and gives me hours of pleasure each day as I work.
 
-![IBM Model M](/blog/images/2020-12-25/model-m.jpg)
+![IBM Model M](/images/2020-12-25/model-m.jpg)
 
 Here it is back in 1999, the earliest photo I have of it in use. Take a moment to absorb the nearby glory of a 17" Ilyama monitor, Ricoh SCSI 2x CD burner (with caddy!), Palm III, and even a US Robotics modem (behind Twiglet, the cat). The stapler is the only thing in this photo I still own, aside from the keyboard.
 
-![IBM Model M and Twiglet](/blog/images/2020-12-25/model-m-twiglet.jpg)
+![IBM Model M and Twiglet](/images/2020-12-25/model-m-twiglet.jpg)
 
 Using the Model M is a uniquely pleasurable experience, for the user. For anyone around them, it's likely the most annoying noise in their day. Working from home in your own office has many benefits, and not being shouted at for "typing too loud" is certainly high on the list.
 
@@ -34,7 +34,7 @@ If you'd like to hear the sound of the glorious Model M, you can probably pick o
 
 For years, the IBM ThinkPad keyboard has had a decent reputation. Lenovo buggered about with the keyboard a few years ago, which lost them the crown, in my opinion. However, the traditional 7-row model of the [X220](http://www.thinkwiki.org/wiki/Category:X220)-era is a classic, which I still use today, via these external, USB keyboards. 
 
-![ThinkPad Keyboard](/blog/images/2020-12-25/external-keyboard.jpg)
+![ThinkPad Keyboard](/images/2020-12-25/external-keyboard.jpg)
 
 The [Lenovo SK-8855](https://support.lenovo.com/gb/en/solutions/pd005137-thinkpad-usb-keyboard-with-trackpoint-overview) sports a TrackPoint - "No external mouse required" says the specification document. I get that some people just can't get along with the TrackPoint. It's like riding a bike, once you learn, you can either become a master, and be comfortable with it at any time, or give up and walk everywhere instead. I prefer to cycle the [Information SuperHighway](https://en.wikipedia.org/wiki/Irony) with the glorious red [nipple](https://xkcd.com/243/). 
 
@@ -46,11 +46,11 @@ Some time ago, while browsing r/mk, I saw [images](https://www.reddit.com/r/Mech
 
 Yes! **Look** at it!
 
-![Tex Shinobi Prototype](/blog/images/2020-12-25/ugwzd9cjhfx21.jpg)
+![Tex Shinobi Prototype](/images/2020-12-25/ugwzd9cjhfx21.jpg)
 
 I eagerly awaited the manufacture and sale of these keyboards, until in May I saw they were [available](https://tex.com.tw/products/shinobi). I don't think I've ever bought anything online any faster. It shipped in mid July and I was giddy with excitement when I got the email notification. 
 
-![Tex Shinobi](/blog/images/2020-12-25/shinobi.jpg)
+![Tex Shinobi](/images/2020-12-25/shinobi.jpg)
 
 This thing is amazing. I foolishly didn't opt for the BlueTooth module, so used it attached by a supplied USB C cable. Pretty soon after I ordered the BlueTooth adapter, and life got better by one wire. 
 

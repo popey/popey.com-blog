@@ -18,11 +18,11 @@ I knew they had an api because my Ohme home charger has a feature where they can
 
 Tried to register for [AOS](https://aos.bmwgroup.com/web/oss/start) (BMW Aftersales Online System) for an API key but was rejected because I'm not an "entitled independent operator".
 
-[![AOS says no](/blog/images/2023-09-04/aos-says-no.png)](/blog/images/2023-09-04/aos-says-no.png)
+[![AOS says no](/images/2023-09-04/aos-says-no.png)](/images/2023-09-04/aos-says-no.png)
 
 I tried pushing a little harder and ot redirected to another department, who also rejected me because I quote "do not fit to a publisher of technical information"
 
-[![Also, no](/blog/images/2023-09-04/also-no.png)](/blog/images/2023-09-04/also-no.png)
+[![Also, no](/images/2023-09-04/also-no.png)](/images/2023-09-04/also-no.png)
 
 End of the line for direct API access. I started looking for other options.
 
@@ -144,6 +144,6 @@ Yes, I should probably do this properly in Python. :)
 
 Once I had the data flowing into [Axiom](https://app.axiom.co/), I could start building a dashboard. I've started with the mileage and charge level of the car. 
 
-[![Dashboard](/blog/images/2023-09-04/dashboard.png)](/blog/images/2023-09-04/dashboard.png)
+[![Dashboard](/images/2023-09-04/dashboard.png)](/images/2023-09-04/dashboard.png)
 
 I'd like to add further charts, and add some alerts when services are due, given that data is returned from the API. Maybe even an alert if I've left the sunroof or windows open. 

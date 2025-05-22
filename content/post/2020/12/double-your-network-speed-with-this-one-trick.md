@@ -53,7 +53,7 @@ PowerLine Adapter (attached to wall outlet)
 
 I now get "full beans" Internet in my office. Hurrah.
 
-![Zoom zoom zoom](/blog/images/2020-12-27/fast.png)
+![Zoom zoom zoom](/images/2020-12-27/fast.png)
 
 The moral of this story: [RTFM](https://en.wiktionary.org/wiki/RTFM). I have long known that powerline adapters work better when plugged directly into the wall outlet, but completly let that slip when debugging the problem. 
 

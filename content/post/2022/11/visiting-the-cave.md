@@ -72,11 +72,11 @@ It's not hard to find, and the journey there through the area is very picturesqu
 
 The gate has a couple of RMC logos attached, so you know you're in the right place. There's also a sign outside showing the way to go.
 
-![It's a sign](/blog/images/2022-11-20/rmcsign.jpg)
+![It's a sign](/images/2022-11-20/rmcsign.jpg)
 
 Around the corner is a sign of foreshadowing...
 
-![It's another sign](/blog/images/2022-11-20/rmcsign2.jpg)
+![It's another sign](/images/2022-11-20/rmcsign2.jpg)
 
 Up a few flights of stairs, you'll find The Cave itself. There's a small desk as you enter, staffed by volunteers. Next to that is a kitchen where you can order drinks and snacks. Behind the counter are items for sale including apparel, books and other memorabilia. Once checked in, you're free to wander around, pick up, touch and play with everything out on display.
 
@@ -154,6 +154,6 @@ The other thing to note is the friendlyness of everyone. I went on my own, but I
 
 As I left at 1pm I picked up a [charity calendar](https://rmcretro.store/charity-retro-calendar/), and a copy of Neil's [book](https://rmcretro.store/retro-tea-breaks-vol-1-in-conversation-with-computer-and-video-game-pioneers/). It now sits on the shelf where my arcade games used to languish.
 
-![It's a sign](/blog/images/2022-11-20/book.jpg)
+![It's a sign](/images/2022-11-20/book.jpg)
 
 I'm looking forward to going back, to play with systems I missed, but also to see my donations working in the arcade museum too. Maybe see you there.

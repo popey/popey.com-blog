@@ -10,11 +10,11 @@ I recently [lamented](/blog/2023/09/outdated-snap-packages) that there's a bunch
 
 I thought I'd highlight one or two as I go through them, to highlight any important or interesting changes. Today I took a look at [Spot](https://snapcraft.io/spot), which is a very decent native GNOME Spotify client by [Alexandre Trendel](https://github.com/xou816).
 
-[![Spot](/blog/images/2023-10-10/spot.png)](/blog/images/2023-10-10/spot.png)
+[![Spot](/images/2023-10-10/spot.png)](/images/2023-10-10/spot.png)
 
 As you can probably tell from the build records below, I abandoned this one in frustration over two years ago, in August 2021, and then revisited it yesterday.
 
-[![Spot builds](/blog/images/2023-10-10/spot-builds.png)](/blog/images/2023-10-10/spot-builds.png)
+[![Spot builds](/images/2023-10-10/spot-builds.png)](/images/2023-10-10/spot-builds.png)
 
 If I recall correctly, back in 2021 I was using `base: core20` in this snap. That means the application is building from source inside an Ubuntu 20.04 LTS container or VM. The build will have access to the Ubuntu 20.04 repositories, which means whatever toolchain and library can be found in that release.
 
@@ -56,7 +56,7 @@ The rest of the changes were simple syntax updates in the `snapcraft` internal l
 
 The final updates were to refresh the [store page](https://snapcraft.io/spot) with an updated description, new screenshots and a new icon.
 
-[![Spot](/blog/images/2023-10-10/rick.png)](/blog/images/2023-10-10/rick.png)
+[![Spot](/images/2023-10-10/rick.png)](/images/2023-10-10/rick.png)
 
 Enjoy.
 

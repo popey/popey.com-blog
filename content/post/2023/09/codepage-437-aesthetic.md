@@ -16,7 +16,7 @@ It's the lines, the boxes, the drop-shadow for me.
 
 It's all very [Code Page 437](https://en.wikipedia.org/wiki/Code_page_437). Beautiful. I love it.
 
-[![Code Page 437](/blog/images/2023-09-09/Codepage-437.png)](/blog/images/2023-09-09/Codepage-437.png)
+[![Code Page 437](/images/2023-09-09/Codepage-437.png)](/images/2023-09-09/Codepage-437.png)
 
 As a DOS user in the 1990s, this tingled some nostalgic memories for me. 
 
@@ -26,19 +26,19 @@ At college in the early 90's, I learned a bit of database theory. What database 
 
 Look at this. Beautiful 😍
 
-[![dbase III](/blog/images/2023-09-09/dbaseIII.png)](/blog/images/2023-09-09/dbaseIII.png)
+[![dbase III](/images/2023-09-09/dbaseIII.png)](/images/2023-09-09/dbaseIII.png)
 
 It came on floppy disks, in a cardboard box!
 
-[![dbase III](/blog/images/2023-09-09/disk1.png)](/blog/images/2023-09-09/disk1.png)
+[![dbase III](/images/2023-09-09/disk1.png)](/images/2023-09-09/disk1.png)
 
 Every time I watch [Office Space](https://en.wikipedia.org/wiki/Office_Space), this scene makes me smile.
 
-[![Office Space](/blog/images/2023-09-09/officespace.png)](/blog/images/2023-09-09/officespace.png)
+[![Office Space](/images/2023-09-09/officespace.png)](/images/2023-09-09/officespace.png)
 
 Obviously, other scenes also make me smile. This one does because it makes me do this.
 
-[![Leonardo, pointing](/blog/images/2023-09-09/leo.jpg)](/blog/images/2023-09-09/leo.jpg)
+[![Leonardo, pointing](/images/2023-09-09/leo.jpg)](/images/2023-09-09/leo.jpg)
 
 ## Actual work
 
@@ -112,7 +112,7 @@ I think this probably explains why I'm really enjoying the current design 🌟ae
 
 Finally, a fun fact for you. dBase still exists as [dBASE CLASSIC™](https://dbaseclassic.com/). Yours for the low, low price of [$99](https://store.dbase.com/ProductDetails.asp?ProductCode=DBCLASSIC&CartID=1)!
 
-[![dBASE CLASSIC](/blog/images/2023-09-09/dbase_classic_screen.png)](/blog/images/2023-09-09/dbase_classic_screen.png)
+[![dBASE CLASSIC](/images/2023-09-09/dbase_classic_screen.png)](/images/2023-09-09/dbase_classic_screen.png)
 
 Yes, they should probably have open-sourced it, about twenty years ago.
 

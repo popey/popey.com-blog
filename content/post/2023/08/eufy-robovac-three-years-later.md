@@ -10,24 +10,24 @@ Back in 2021, I [reviewed](/blog/01/eufy-robovac-30c-review) the [Eufy RoboVac 3
 
 So I thought I'd re-visit the blog, and figure out if it's still a decent device, three years after initially buying it.
 
-[![Marketing shot](/blog/images/2021-01-02/marketing.jpg)](https://geni.us/OE72xMe)
+[![Marketing shot](/images/2021-01-02/marketing.jpg)](https://geni.us/OE72xMe)
 
 We named him Harvey. 
 
 Harvey the cleaner, after the character played by Harvey Keitel in Pulp Fiction.
 
-![Harvey](/blog/images/2023-08-24/IMG_3221.JPEG)
+![Harvey](/images/2023-08-24/IMG_3221.JPEG)
 
 
 ## App or Remote
 
 In the review, I detailed the Eufy app I used on an Android device. I now have the same app on my Apple iPhone 13 Mini. The experience is the same on both platforms, unsurprisingly. Scheduling turning Harvey on and off, and manually sending him home is about all you likely need. 
 
-![App](/blog/images/2021-01-02/app.jpg)
+![App](/images/2021-01-02/app.jpg)
 
 They also supplied a remote control, which is handy if your phone isn't nearby, or for anyone who doesn't have the app, or just doesn't want to install it. Here's a photo of the remote. I add that because we lost it, and this is all we have left of the remote. Memories...
 
-![Remote](/blog/images/2021-01-02/remote.jpg)
+![Remote](/images/2021-01-02/remote.jpg)
 
 No idea where that went. Maybe Harvey ate it as a protest.
 

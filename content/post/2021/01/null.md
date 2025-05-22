@@ -24,13 +24,13 @@ Where Fedora used BugZilla for issue tracking, Ubuntu uses [Launchpad](https://l
 
 So from that point onwards, I changed [my LaunchPad profile](https://launchpad.net/~popey) to have emoji in the friendly name field.
 
-![Launchpad](/blog/images/2021-01-13/launchpad.png)
+![Launchpad](/images/2021-01-13/launchpad.png)
 
 ## Thunder 🐦
 
 As Launchpad has a bug tracker, which sends emails, and I was an active bug reporter, developers would receive mails from me, via Launchpad. Those developers who used Thunderbird experienced something like this:
 
-![Thunderbird](/blog/images/2021-01-13/thunderbird.png)
+![Thunderbird](/images/2021-01-13/thunderbird.png)
 
 *I couldn't find a screenshot someone sent me of their email client with my mails in it, so I used the above from [bug 1779569](https://bugs.launchpad.net/ubuntu/+source/thunderbird/+bug/1779569)*
 
@@ -44,7 +44,7 @@ I went through a phase a while back of holding down keys to see what they did. T
 
 My ThinkPads have a hardware microphone mute button in the top row. The button has an LED inside, so the user can see the state of mutedness. When the LED is on, the microphone is muted.
 
-![Thinkpad](/blog/images/2020-12-25/external-keyboard.jpg)
+![Thinkpad](/images/2020-12-25/external-keyboard.jpg)
 
 I discovered that when holding down the mute button, it would auto-repeat. That's fair enough, but there was an indicator in the top right of the screen, showing the state of mutedness or not. Unfortunately after holding down mute for a second or two, the LED and the indicator would eventually get out of sync. The LED would suggest you're muted, but the indicator would show the opposite. This could be embarrassing if you're on a call and think you're muted!
 
@@ -78,7 +78,7 @@ When snaps are uploaded, there are security and sanity checks which run against 
 
 The backend bug was reported by Daniel and fixed very promptly. My fun [null snap](https://snapcraft.io/null) is now successfully published, and unfathomably has almost 100 "users"!
 
-![null](/blog/images/2021-01-13/null.png)
+![null](/images/2021-01-13/null.png)
 
 ## The gift that keeps on giving
 
@@ -88,7 +88,7 @@ The fun thing about doing these things like setting emoji in your name, or namin
 
 Publishers of snaps get an email once a month titled "Your Month In Snaps" which gives them a summary of the number of active users for each of their snaps. 
 
-![YMIS](/blog/images/2021-01-13/ymis.png)
+![YMIS](/images/2021-01-13/ymis.png)
 
 I recently received one such summary mail which was truncated where it got to the `null` and stopped. This is 18 months after my lightning talk, long after the snap was published. It's a poisonous well of endless fun. 
 
@@ -102,7 +102,7 @@ I like the comment from Francisco "*Your null snap should be working now (Until 
 
 Excellent.
 
-![Excellent](/blog/images/2021-01-13/excellent.gif)
+![Excellent](/images/2021-01-13/excellent.gif)
 
 ## ~~Move fast and~~ break things
 

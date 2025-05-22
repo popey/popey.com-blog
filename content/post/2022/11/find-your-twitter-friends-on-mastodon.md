@@ -10,11 +10,11 @@ Depending on who you speak to, [Twitter](https://en.wikipedia.org/wiki/Twitter) 
 
 Whether any of that is true or not, there's been a surge in people signing up, and trying out the Mastodon experience.
 
-[![Mastodon growth](/blog/images/2022-11-18/mastogrowth.jpeg)](https://twitter.com/estebanmoro/status/1590002956103188480) (via [this tweet](https://twitter.com/estebanmoro/status/1590002956103188480))
+[![Mastodon growth](/images/2022-11-18/mastogrowth.jpeg)](https://twitter.com/estebanmoro/status/1590002956103188480) (via [this tweet](https://twitter.com/estebanmoro/status/1590002956103188480))
 
 For those who aren't familiar with all this, learn more about Mastodon over at the friendly-looking main [Join Mastodon](https://joinmastodon.org/) site.
 
-[![Join Mastodon](/blog/images/2022-11-18/joinmastodon.png)](https://joinmastodon.org/)
+[![Join Mastodon](/images/2022-11-18/joinmastodon.png)](https://joinmastodon.org/)
 
 ## Oh so lonely
 
@@ -26,7 +26,7 @@ Mastodon has a decentralised nature, with many "instances" rather than just one 
 
 Many people put a link to their Mastodon account in a recent tweet, and others put it in their Twitter profile. I did both.
 
-[![popey on twitter](/blog/images/2022-11-18/popeybanner.png)](https://twitter.com/popey)
+[![popey on twitter](/images/2022-11-18/popeybanner.png)](https://twitter.com/popey)
 
 So it's always a good idea to look there first, especially for your most *favourite* friends.
 
@@ -66,15 +66,15 @@ Ok, let's go through it with my account.
 
 If you're not logged into Twitter in the browser, you'll need to do that.
 
-![Twitter Login](/blog/images/2022-11-18/twitterlogin.png)
+![Twitter Login](/images/2022-11-18/twitterlogin.png)
 
 Once logged into Twitter, you'll see something like this, but with your account details (duh!).
 
-![Twitter Authentication](/blog/images/2022-11-18/twitterauth.png)
+![Twitter Authentication](/images/2022-11-18/twitterauth.png)
 
 Click the "Authorize app" button, after reading the notes, obviously!
 
-![Legalspeak](/blog/images/2022-11-18/twitterperms.png)
+![Legalspeak](/images/2022-11-18/twitterperms.png)
 
 If succesful, you'll be taken back to Twitodon, but with that step crossed out, to indicate you've successfully done it.
 
@@ -90,15 +90,15 @@ For me, I'm [https://ubuntu.social/@popey](https://ubuntu.social/@popey), so I j
 
 Like this:
 
-![Mastodon hostname](/blog/images/2022-11-18/mastodonhost.png)
+![Mastodon hostname](/images/2022-11-18/mastodonhost.png)
 
 If you're not already logged into Mastodon, you'll need to do that first.
 
-![Mastodon login](/blog/images/2022-11-18/mastodonlogin.png)
+![Mastodon login](/images/2022-11-18/mastodonlogin.png)
 
 Once logged in, or if you already are, you'll see something like this.
 
-![Mastodon login](/blog/images/2022-11-18/mastodonauth.png)
+![Mastodon login](/images/2022-11-18/mastodonauth.png)
 
 * Click the "Authorize" button.
 
@@ -141,22 +141,22 @@ Now we get to the bit where you add those lovely friends to your Mastodon.
 * Login to your Mastodon instance
 * Click the little cog/setting icon above your profile
 
-![Mastodon settings icon](/blog/images/2022-11-18/mastodonsetting1.png)
+![Mastodon settings icon](/images/2022-11-18/mastodonsetting1.png)
 
 * Click "Import & Export" in the menu, then "Import" below that
 
-![Mastodon import menu item](/blog/images/2022-11-18/mastodonsetting2.png)
+![Mastodon import menu item](/images/2022-11-18/mastodonsetting2.png)
 
 * Ensure "Import Type" has "Following list" selected
 * Ensure "Merge" button is selected
 * Click the "Choose file" button and locate the downloaded CSV from earlier
 
-![Mastodon import following list](/blog/images/2022-11-18/mastodonsetting3.png)
+![Mastodon import following list](/images/2022-11-18/mastodonsetting3.png)
 
 * Click the big "Upload" button.
 * Once the upload is done, you should get a green banner:
 
-![Mastodon import following list](/blog/images/2022-11-18/mastodonsetting4.png)
+![Mastodon import following list](/images/2022-11-18/mastodonsetting4.png)
 
 ### Docking complete!
 

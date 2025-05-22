@@ -14,15 +14,15 @@ Every so often I'll have a dally with another distro, but usually return to stoc
 
 Unfortunately I made this decision rather late in the trip, as I was waiting at the gate to board the plane home. I made the decision to install the OS while flying home, offline, in flight. I started trying to download the KDE Neon ISO image over airport WiFi while running out of time before boarding started. As I had international roaming on my cellphone, I switched to that.
 
-![Hurry up!](/blog/images/2021-01-18/downloading.png)
+![Hurry up!](/images/2021-01-18/downloading.png)
 
 It takes an unsurprisingly long time to download a 1.6GiB ISO image over HSDPA+! I wasn't sure it would complete in time before we boarded. Martin captured the stressful feeling while we sat at the gate.
 
-![Eek!](/blog/images/2021-01-18/martin.jpg)
+![Eek!](/images/2021-01-18/martin.jpg)
 
 However, 22 minutes later.. 
 
-![Phew!](/blog/images/2021-01-18/downloaded.png)
+![Phew!](/images/2021-01-18/downloaded.png)
 
 Then came the fun of trying to get an ISO image off the phone, and onto a USB stick to subsequently boot on my ThinkPad and wipe it. Thankfully Martin had a spare USB stick handy, and with a little wine-fuelled (the drink not the not-an-emulator) shenanigans, we got it working. Martin kindly took a quick snap of me post-install.
 
@@ -56,7 +56,7 @@ I don't know what the solution to this is (*no, switch to a rolling release isn'
 
 For now though, I just upgraded my desktop to Ubuntu Hirsute Hippo - which will become Ubuntu 21.04 in a few months. I'm now running it on all my systems. 
 
-[![Hirsuite!](/blog/images/2021-01-18/small_hirsute.png)](/blog/images/2021-01-18/hirsute.png)
+[![Hirsuite!](/images/2021-01-18/small_hirsute.png)](/images/2021-01-18/hirsute.png)
 
-![I'm doing my part!](/blog/images/2021-01-18/mypart.gif)
+![I'm doing my part!](/images/2021-01-18/mypart.gif)
 

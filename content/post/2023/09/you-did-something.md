@@ -6,7 +6,7 @@ author = "Alan Pope"
 tags = ['tfts']
 +++
 
-This is the third in a series of [Tales From Tech Support](https://popey.com/blog/tags/tfts/). Some stories from the past featuring broken computers and even more broken tech support operatives - mostly me.
+This is the third in a series of [Tales From Tech Support](https://blog.popey.com/tags/tfts/). Some stories from the past featuring broken computers and even more broken tech support operatives - mostly me.
 
 In the early 1990s, I worked as a contractor for a large, well-established accounting firm. In [It's MY monitor](/blog/2023/09/its-MY-monitor), I told the story of dealing with an angry Partner. Today's story is worse, as I'm dealing with the *Personal Assistant* of a Partner. 
 
@@ -78,7 +78,7 @@ So, I opened Windows File Manager. Along the top bar I could see `A`, `C` and `F
 
 *For those of you unfamiliar with Windows File Manager on Windows 3.11, here it is. Yes, I just took this photo on a Compaq laptop running MSDOS and Windows 3.11 that I have handy for these occasions. Apologies for any [moire](https://en.wikipedia.org/wiki/Moir%C3%A9_pattern) effect.*
 
-[![Windows File Manager](/blog/images/2023-09-22/winfile.jpg)](/blog/images/2023-09-22/winfile.jpg)
+[![Windows File Manager](/images/2023-09-22/winfile.jpg)](/images/2023-09-22/winfile.jpg)
 
 *The above picture doesn't show the `F:` because I don't have that kind of network at home, sadly.*
 
@@ -118,7 +118,7 @@ Then, I did something stupid. I said this:
 
 > Me: "Is it possible you maybe just typed your password incorrectly?"
 
-[![Big mistake](/blog/images/2023-09-22/pretty-woman-shopping.gif)](/blog/images/2023-09-22/pretty-woman-shopping.gif)
+[![Big mistake](/images/2023-09-22/pretty-woman-shopping.gif)](/images/2023-09-22/pretty-woman-shopping.gif)
 
 It was at this point, I knew I messed up. 
 

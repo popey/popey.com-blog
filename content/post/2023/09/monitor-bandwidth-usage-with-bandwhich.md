@@ -8,7 +8,7 @@ tags = ['linux', 'bandwhich', 'network', 'bandwidth', 'snap', 'snapcraft']
 
 Back in 2020 I stumbled on [Bandwhich](https://github.com/imsnif/bandwhich), a "Terminal bandwidth utilization tool", written in Rust.
 
-[![Bandwhich](/blog/images/2023-09-20/demo.gif)](https://github.com/imsnif/bandwhich)
+[![Bandwhich](/images/2023-09-20/demo.gif)](https://github.com/imsnif/bandwhich)
 
 More recently, I was looking for a tool to identify which processes on a box were using bandwidth, and how much. I remembered Bandwhich and took another look. I wanted an easy way to install Bandwhich on a variety of machines, running a variety of Linux distributions across different architectures.
 
@@ -177,7 +177,7 @@ If we connect the interface, it works.
 $ sudo snap connect bandwhich:network-control 
 ```
 
-[![Bandwhich](/blog/images/2023-09-20/bandwhich.png)](/blog/images/2023-09-20/bandwhich.png)
+[![Bandwhich](/images/2023-09-20/bandwhich.png)](/images/2023-09-20/bandwhich.png)
 
 ## Publish
 
@@ -185,7 +185,7 @@ I created a [repo](https://github.com/popey/bandwhich-snap) and pushed my yaml t
 
 In the snapcraft store build page, I hooked up that repo, then the builds started flowing.
 
-[![Builds](/blog/images/2023-09-20/builds.png)](/blog/images/2023-09-20/builds.png)
+[![Builds](/images/2023-09-20/builds.png)](/images/2023-09-20/builds.png)
 
 Testing the store builds was simply a matter of running this on my machines.
 
@@ -211,7 +211,7 @@ There was a short discussion, and the approval was completed in the store around
 
 Once the store team approved the request for autoconnection, I then released the app to the stable channel.
 
-[![Release](/blog/images/2023-09-20/release.png)](/blog/images/2023-09-20/release.png)
+[![Release](/images/2023-09-20/release.png)](/images/2023-09-20/release.png)
 
 All done!
 
@@ -219,7 +219,7 @@ Now you can visit the [bandwhich store page](https://snapcraft.io/bandwhich) or 
 
 There's currently six users of the Bandwhich snap - probably mostly me! Maybe this blog might change that!
 
-[![Metrics](/blog/images/2023-09-20/metrics.png)](/blog/images/2023-09-20/metrics.png)
+[![Metrics](/images/2023-09-20/metrics.png)](/images/2023-09-20/metrics.png)
 
 Enjoy.
 

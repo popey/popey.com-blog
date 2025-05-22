@@ -10,7 +10,7 @@ tl;dr I have had a Mini EV for a little over two years, so I thought it was time
 
 I briefly talked about the car in episode [24](https://linuxmatters.sh/24/) of [Linux Matters Podcast](https://linuxmatters.sh/), if you prefer a shorter, less detailed review in audio format. 
 
-[![Mini Mini review](/blog/images/2024-02-20/linuxmatters-banner-3000x750_30.png)](https://linuxmatters.sh/)
+[![Mini Mini review](/images/2024-02-20/linuxmatters-banner-3000x750_30.png)](https://linuxmatters.sh/)
 
 *Patreon [supporters](https://linuxmatters.sh/support) of [Linux Matters](https://linuxmatters.sh/) can get the show a day or so early, and without adverts.* 🙏
 
@@ -36,7 +36,7 @@ Then I took a look at the Mini. Initially, it wasn’t on my radar, but then I w
 
 He was right though. I bought one. Here it is some months later, at a "favourite" charging spot late one night.
 
-[![Chippenham charging](/blog/images/2024-03-03/chippenham2_50.jpg)](/blog/images/2024-03-03/chippenham2.jpg)
+[![Chippenham charging](/images/2024-03-03/chippenham2_50.jpg)](/images/2024-03-03/chippenham2.jpg)
 
 I’ve had many cars over the years, some second-hand, a few hand-me-downs in the family, but never a new car for me, for my pleasure. I do enjoy driving, but less so commuting in traffic, which is handy now I’ve worked from home for over a decade. 
 
@@ -50,13 +50,13 @@ The one option I wish I’d got is adaptive cruise control, which is handy on UK
 
 The full spec and trim can be seen in the BMW [PDF](/blog/pdf/2024-03-03/BEV_MINI_Spec_Sheets_May_2021.pdf). Here’s the page about my car's specifications. Click to make it bigger. 
 
-[![Specification](/blog/images/2024-03-03/BEV_MINI_Spec_Sheets_May_2021-3_50.png)](/blog/images/2024-03-03/BEV_MINI_Spec_Sheets_May_2021-3_50.png)
+[![Specification](/images/2024-03-03/BEV_MINI_Spec_Sheets_May_2021-3_50.png)](/images/2024-03-03/BEV_MINI_Spec_Sheets_May_2021-3_50.png)
 
 I went for black paint and the “3-pin plug” inspired wheels. They’re quite quirky and look rather cool at low speed due to their asymmetry. Not that I see that view often, as I’m usually driving.
 
 Here's what it looks like when you're speccing up the Mini online. This is a pretty accurate representation of the car.
 
-[![Ordering a Mini](/blog/images/2024-03-03/mini_ordering.jpg)](/blog/images/2024-03-03/mini_ordering.jpg)
+[![Ordering a Mini](/images/2024-03-03/mini_ordering.jpg)](/images/2024-03-03/mini_ordering.jpg)
 
 ## Driving
 
@@ -80,7 +80,7 @@ London has a Congestion Charge (CC), and (controversial) Ultra Low Emissions Zon
 
 I sometimes use "JustPark" to find interesting places to put the car while I'm in London. Here I found a spot in the grounds of an old church.
 
-[![Parked in London](/blog/images/2024-03-03/church_50.jpg)](/blog/images/2024-03-03/church.jpg)
+[![Parked in London](/images/2024-03-03/church_50.jpg)](/images/2024-03-03/church.jpg)
 
 I have always loved driving in central London, I’ve used this perk a fair few times to drive into the centre of London for work, to meet friends or go out in the evening. It’s cheaper for me to drive into the centre of London and park than it is to get a return train ticket, which is mad. 
 
@@ -100,7 +100,7 @@ The interior is a mix of retro Mini styling and new fangled screens. It has a bi
 
 It looks like this, but with the steering wheel on the right (correct) side.
 
-[![Mini interior](/blog/images/2024-03-03/interior_50.jpg)](/blog/images/2024-03-03/interior.jpg)
+[![Mini interior](/images/2024-03-03/interior_50.jpg)](/images/2024-03-03/interior.jpg)
 
 I should mention that I don’t like the buttons on the steering wheel, nor those immediately under the display. They’re flat rocker-style ones, which you have to look at to find. The previous generation of Mini had raised round buttons, which are much easier for fingers to find.
 
@@ -108,7 +108,7 @@ The built-in navigation system is pretty trashy, like most cars. I’ve never fo
 
 In this photo, you can see the navigation display, which highlights the expected current range with the circle around the cars location. Also note the "mode" button which is one of the flat ones I dislike in the car. The lights around the display illuminate to show temperature of the heating, or volume of the audio system, while you adjust it.
 
-[![Navigation](/blog/images/2024-03-03/nav_50.jpg)](/blog/images/2024-03-03/nav.jpg)
+[![Navigation](/images/2024-03-03/nav_50.jpg)](/images/2024-03-03/nav.jpg)
 
 One benefit of the onboard navigation system is that driving instructions and lane recommendations appear on the Head-Up Display (HUD) in front of the driver. The downside of mobile apps on the mini is they don’t have access to the HUD, so I have to glance across at the central display to see where I need to turn. Alternatively, I could turn the volume on the mobile map app up, but that would interrupt podcasts in an annoying way.
 
@@ -140,11 +140,11 @@ I often take a photo of the car while it's charging in a public place. Usually t
 
 I know petrol heads often bleat about the very idea of waiting while the car fills up, but sometimes it leads to nice places, like this. This was a pretty slow charger, but I didn't really care, as I had a castle to walk around!
 
-[![Dragon charging](/blog/images/2024-03-03/dragon_50.jpg)](/blog/images/2024-03-03/dragon.jpg)
+[![Dragon charging](/images/2024-03-03/dragon_50.jpg)](/images/2024-03-03/dragon.jpg)
 
 Sometimes the locations are less pretty. This is Chippenham Pit-Stop, which does a great breakfast while you wait for your car to charge. 
 
-[![Chippenham charging](/blog/images/2024-03-03/chippenham_50.jpg)](/blog/images/2024-03-03/chippenham.jpg)
+[![Chippenham charging](/images/2024-03-03/chippenham_50.jpg)](/images/2024-03-03/chippenham.jpg)
 
 ## Ohme at HOME
 
@@ -154,13 +154,13 @@ The Ohme app can access my energy provider via an API which lets the charger kno
 
 It's possible to define multiple charging schedules to ensure the car is ready for departure at the time you're leaving.
 
-[![Ohme](/blog/images/2024-03-03/ohme_50.jpg)](/blog/images/2024-03-03/ohme.jpg)
+[![Ohme](/images/2024-03-03/ohme_50.jpg)](/images/2024-03-03/ohme.jpg)
 
 The Ohme app is also supposed to be able to talk to the BMW API with my credentials, in order to talk to the car. This has never worked for me. I have had calls and emails with Ohme about this, but I gave up in frustration. It just doesn’t work.
 
 That doesn’t stop the car from actually charging though. Indeed, according to the stats in the app (which I only discovered while writing this blog) - I've charged for over 720 hours at home in the last twelve months. The dip in November & December is explained below under "Crash repair".
 
-[![Ohme stats](/blog/images/2024-03-03/ohme_stats_50.jpg)](/blog/images/2024-03-03/ohme_stats.jpg)
+[![Ohme stats](/images/2024-03-03/ohme_stats_50.jpg)](/images/2024-03-03/ohme_stats.jpg)
 
 ## Issues
 
@@ -182,7 +182,7 @@ So I did the nerd thing, and found out who the map supplier was - “Nokia Here�
 
 Within a year of owning the car, it stopped charging at home. The AC charging port just wouldn’t work. I could charge at the fast public DC chargers nearby, but my home charger stopped working.
 
-[![Unable to charge](/blog/images/2024-03-03/unable_to_charge_50.jpg)](/blog/images/2024-03-03/unable_to_charge.jpg)
+[![Unable to charge](/images/2024-03-03/unable_to_charge_50.jpg)](/images/2024-03-03/unable_to_charge.jpg)
 
 When I reported the problem to BMW, their assumption was that the wall box on my house was broken. We disproved this by showing a different car charging from the home wall box, and my car refusing to charge from public AC chargers.
 
@@ -190,7 +190,7 @@ The BMW dealership were still very reluctant to accept that there was a problem 
 
 In a bit of a dick move, I drove around to empty the battery completely, rocking up to the dealership with the car angrily telling my it had 0% charge. That way they’d have to fix it to charge it to get it back to me. They did indeed fix the problem with the charging system, which took quite a while.
 
-[![Zero](/blog/images/2024-03-03/zero_50.jpg)](/blog/images/2024-03-03/zero.jpg)
+[![Zero](/images/2024-03-03/zero_50.jpg)](/images/2024-03-03/zero.jpg)
 
 I got a rather fancy BMW i7 on loan while they repaired the car.
 
@@ -216,7 +216,7 @@ As I mentioned above, there is a Mini app for Android and iOS for managing the c
 
 It nags you constantly to tell them how great or bad the app is, and inexplicably on a scale of 0 to 10, whether you’d recommend it to friends or colleagues. I cannot fathom the kind of person who recommends apps to friends who do not own the car which the app is for. It’s completely mental. 
 
-[![Rating](/blog/images/2024-03-03/rate_50.png)](/blog/images/2024-03-03/rate.png)
+[![Rating](/images/2024-03-03/rate_50.png)](/images/2024-03-03/rate.png)
 
 
 Every time the dialog comes up - and it’s come up a lot - I rate the app zero, and leave an increasingly irritated message to the developers to stop asking me. I have also filed a ticket with BMW. Their engineers came back to me with details of exactly how often it asks, based on how often you open the app, and the interval between one opening and the next. 

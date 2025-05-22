@@ -12,7 +12,7 @@ This blog post accompanies episode 10 of Linux Matters Podcast where I talked ab
 
 In July at [work](https://axiom.co/), we had a short mid-week internal Hackathon. Everyone was encouraged to take part if they could. Here's the blurb to introduce it, taken from our internal Notion.
 
-![Hacking](/blog/images/2023-08-22/hackerman.png)
+![Hacking](/images/2023-08-22/hackerman.png)
 
 So we (optionally) 'down tools' on current projects and come up with something interesting to work on which uses or builds upon Axiom. We have a lot of talented and imaginative engineers on staff, who came up with fun projects. 
 
@@ -22,7 +22,7 @@ I decided to put all the charging data from my electric car into [Axiom](https:/
 
 ## EV ownership
 
-![Mini](/blog/images/2023-08-22/mini.png)
+![Mini](/images/2023-08-22/mini.png)
 
 I've had my Mini EV since December 2021. As an insufferable "new" EV driver, I am of course compelled to talk about it at any opportunity. 
 
@@ -32,7 +32,7 @@ Some of the questions only need rough answers. The manufacturer's expected range
 
 I have a terrible memory, so don't have that kind of information to hand. In the early days of having the car, I kept a spreadsheet of all the times I'd charged the car. That lasted about nine months before it got boring and I stopped updating it though.
 
-![Sheet](/blog/images/2023-08-22/sheet.png)
+![Sheet](/images/2023-08-22/sheet.png)
 
 The good news however, is BMW (the manufacturer of my car) has a secure [portal](https://www.mini.co.uk/) where I can download a "takeout-style" archive of all charging events. Given I only want to report on the historical charge data for my eighteen months of ownership, this was perfect.
 
@@ -42,7 +42,7 @@ The good news however, is BMW (the manufacturer of my car) has a secure [portal]
 
 I requested the "cardata" archive from BMW on Monday, and received an email with the link within twenty-four hours, on Tuesday morning.
 
-![Car data](/blog/images/2023-08-22/cardata.png)
+![Car data](/images/2023-08-22/cardata.png)
 
 The payload is a zip containing an HTML page explaining the contents, and links to the other files in the archive. 
 
@@ -103,7 +103,7 @@ I think we call that a "[splash n' dash](https://en.wiktionary.org/wiki/splash-a
 
 Here's the car in situ at that location, on that day in November 2022. As you can see from the JSON there are multiple chargers at the same locale. The archive doesn't say which one I used, but I don't think that matters too much for my purposes.
 
-![Car charging](/blog/images/2023-08-22/mini-charging.jpg)
+![Car charging](/images/2023-08-22/mini-charging.jpg)
 
 ## Ingesting data to Axiom
 
@@ -113,7 +113,7 @@ This is the easy bit!
 
 I already have an account but creating a new one is pretty straightforward. Visit [app.axiom.co](https://app.axiom.co/), click the buttons and follow the flow.
 
-![Axiom Signup](/blog/images/2023-08-22/axiom-signup.png)
+![Axiom Signup](/images/2023-08-22/axiom-signup.png)
 
 ### Create a dataset
 
@@ -121,7 +121,7 @@ Data you ingest into Axiom is held in Datasets.
 
 Create one by going to [app.axiom.co](https://app.axiom.co/) -> Datasets -> New Dataset.
 
-![Create Dataset](/blog/images/2023-08-22/create-dataset.png)
+![Create Dataset](/images/2023-08-22/create-dataset.png)
 
 ### Generate a key
 
@@ -129,13 +129,13 @@ Create an API token to programmatically ingest data into the dataset.
 
 ⚙️ -> API tokens -> New API token
 
-![Create API token](/blog/images/2023-08-22/api-token-1.png)
+![Create API token](/images/2023-08-22/api-token-1.png)
 
 Give the API token a name, and set permissions accordingly. 
 
 Either allow access to any dataset or limit to a subset.
 
-![API token permissions](/blog/images/2023-08-22/api-token-2.png)
+![API token permissions](/images/2023-08-22/api-token-2.png)
 
 ### Send it!
 
@@ -154,17 +154,17 @@ curl -X 'POST' 'https://api.axiom.co/v1/datasets/$DATASET_NAME/ingest' \
 
 Before we dive into the data, the 'Stream' tab enables us to look at the raw JSON as it came in. 
 
-![Stream](/blog/images/2023-08-22/stream1.png)
+![Stream](/images/2023-08-22/stream1.png)
 
 Click on a record in the dataset to see all the fields and their contents. This is a good way to determine if the Axiom ingest process is identifying the field types correctly - it is.
 
-![Stream](/blog/images/2023-08-22/stream2.png)
+![Stream](/images/2023-08-22/stream2.png)
 
 ## Querying the dataset
 
 In Axiom you can just use the point-and-click web ui to interrogate your dataset. Here I selected the entire time range and just asked for a count of all records. It's super fast and easy to query like this. 
 
-![Point and click](/blog/images/2023-08-22/point-click.png)
+![Point and click](/images/2023-08-22/point-click.png)
 
 Once you have a working query, you can save it, and/or build a dashboard from it. Under the covers, the queries are written in APL...
 
@@ -224,7 +224,7 @@ Let's see how much we charge at home. I determine if the entry is at my home by 
 | summarize avg(charged) by bin_auto(_time)
 ```
 
-![Stream](/blog/images/2023-08-22/home.png)
+![Stream](/images/2023-08-22/home.png)
 
 #### Away
 
@@ -237,7 +237,7 @@ Compare the above with when I charge away from home, by simply inverting the `wh
 | summarize avg(charged) by bin_auto(_time)
 ```
 
-![Stream](/blog/images/2023-08-22/away.png)
+![Stream](/images/2023-08-22/away.png)
 
 ### Failed charges
 
@@ -253,7 +253,7 @@ A simple query returned sixteen of these errors. Interestingly, perhaps, if I fi
 
 I did have some problems with the app provided by the charger manufacturer which we debugged. I suspect that accounts for most of the at-home charge errors.
 
-![Errors](/blog/images/2023-08-22/errors.png)
+![Errors](/images/2023-08-22/errors.png)
 
 Again, no accounting for unattempted charges at broken chargers, of course.
 
@@ -271,7 +271,7 @@ I used this query to kinda answer that question. Where have I ever charged where
 
 Looks like not often, twice in fact. 
 
-![Stream](/blog/images/2023-08-22/zero.png)
+![Stream](/images/2023-08-22/zero.png)
 
 I know one of these was when I intentionally tried "[hypermiling](https://en.wikipedia.org/wiki/Hypermiling)" and got it pretty much bang on zero as I pulled up at home. On the other occasion, my car was in the garage for repair, when the charging socket broke, so I was unable to charge it. I don't often let it get that low.
 
@@ -283,13 +283,13 @@ Indeed I don't often let it get below 20%. I usually plug the car in every day, 
 | summarize avg(energyConsumedFromPowerGridKwh) by bin_auto(_time)
 ```
 
-![20%](/blog/images/2023-08-22/20percent.png)
+![20%](/images/2023-08-22/20percent.png)
 
 ## Building a dashboard
 
 Once I had a few working queries, I could add them to a dashboard.
 
-![Dashboard](/blog/images/2023-08-22/dashboard.png)
+![Dashboard](/images/2023-08-22/dashboard.png)
 
 ### Queries
 

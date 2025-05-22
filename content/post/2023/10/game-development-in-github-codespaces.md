@@ -22,14 +22,14 @@ Let's go .. to the 💫 cloud 💫
 
 For those that don't know [LÖVE](https://love2d.org/) is an easy-to-use game development framework for making 2D games. I've been playing with it for personal projects for years. Not released any games yet, but I'm working on that. 
 
-[![LÖVE](/blog/images/2023-10-04/love.png)](https://love2d.org/)
+[![LÖVE](/images/2023-10-04/love.png)](https://love2d.org/)
 
 
 ### Codespaces
 
 GitHub [Codespaces](https://github.com/features/codespaces) are like your own development machine in the cloud (yes, on someone else's computer). You can do everything in Codespaces in a browser, with no local software installation necessary. 
 
-[![GitHub Codespaces](/blog/images/2023-10-04/codespaces.png)](https://github.com/features/codespaces)
+[![GitHub Codespaces](/images/2023-10-04/codespaces.png)](https://github.com/features/codespaces)
 
 
 ### Make love
@@ -42,22 +42,22 @@ Typically developers will bundle their game code (written in Lua) with the LÖVE
 
 I just created a new empty repository on my GitHub account called [bouncingbox](https://github.com/popey/bouncingbox). As soon as I did that, GitHub offered to "Start coding with Codespaces". 
 
-[![New repo](/blog/images/2023-10-04/launch-codespaces.png)](/blog/images/2023-10-04/launch-codespaces.png)
+[![New repo](/images/2023-10-04/launch-codespaces.png)](/images/2023-10-04/launch-codespaces.png)
 
 So I hit the "Create a codespace" button, and landed here:
 
-[![New repo](/blog/images/2023-10-04/create-codespace.png)](/blog/images/2023-10-04/create-codespace.png)
+[![New repo](/images/2023-10-04/create-codespace.png)](/images/2023-10-04/create-codespace.png)
 
 
 I then hit "Create new codespace". Within around ten seconds I'm dropped into a VSCode session in my repository. Below the empty code pane is a terminal. 
 
-[![VSCode](/blog/images/2023-10-04/vscode.png)](/blog/images/2023-10-04/vscode.png)
+[![VSCode](/images/2023-10-04/vscode.png)](/images/2023-10-04/vscode.png)
 
 ### Sample code
 
 For this demonstration, I wrote some simple LÖVE code in the repo. It's not a full game, just some simple code to display a coloured box bouncing around, for this blog post.
 
-[![Code](/blog/images/2023-10-04/code.png)](/blog/images/2023-10-04/code.png)
+[![Code](/images/2023-10-04/code.png)](/images/2023-10-04/code.png)
 
 I saved the code, then used the standard VSCode features to commit the changes. At this point, I hadn't committed my code to the repo. So the code changes only existed inside my Codespace. This could be useful if you're just trying out tutorials. But anything you want to keep should probably be committed to the repo, or downloaded.
 
@@ -161,12 +161,12 @@ Serving HTTP on 0.0.0.0 port 8000 (http://0.0.0.0:8000/) ...
 VSCode notices there's now something running on port 8000 and offers to open that site in a browser. So we click the button....
 
 
-[![Open port](/blog/images/2023-10-04/port.png)](/blog/images/2023-10-04/port.png)
+[![Open port](/images/2023-10-04/port.png)](/images/2023-10-04/port.png)
 
 We're taken to a private URL - that is, only you, logged in with your GitHub account, can get to it. In it, is our "game".
 
 
-[![Box](/blog/images/2023-10-04/box.png)](/blog/images/2023-10-04/box.png)
+[![Box](/images/2023-10-04/box.png)](/images/2023-10-04/box.png)
 
 Honestly, it does move! I have a [webm video](/blog/videos/2023-10-04/box.webm) of it!
 

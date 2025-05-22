@@ -24,7 +24,7 @@ When building a snap, often a developer will need to include debs from the Ubunt
 
 The security team at Canonical have a bot which scans all snaps, identifies when they include debs that have been updated, and urges the publisher to update their snaps.
 
-[![Security email](/blog/images/2023-09-16/security.png)](/blog/images/2023-09-16/security.png)
+[![Security email](/images/2023-09-16/security.png)](/images/2023-09-16/security.png)
 
 These emails get ignored, and the security team knows it.
 
@@ -298,6 +298,6 @@ Released 'hey-morty-wubba-lubba-dub-dub' revision 1 to channels: 'stable'
 
 Done.
 
-[![Published](/blog/images/2023-09-16/hey-morty-wubba-lubba-dub-dub.png)](/blog/images/2023-09-16/hey-morty-wubba-lubba-dub-dub.png)
+[![Published](/images/2023-09-16/hey-morty-wubba-lubba-dub-dub.png)](/images/2023-09-16/hey-morty-wubba-lubba-dub-dub.png)
 
 You get the idea.

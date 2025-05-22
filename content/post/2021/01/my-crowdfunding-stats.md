@@ -12,7 +12,7 @@ I know some people see crowdfunders as money pits, grifts or outright scams. [So
 
 I keep a public-viewable [spreadsheet](https://docs.google.com/spreadsheets/d/1_--0TYP3TD7i6dPnJmB9oB66iuU9_qS7ApBtKTS8bug/edit) tracking every crowdfunder I have backed. It's not comprehensively complete, there's some data missing. But everything I have backed is on the list. I colour coded each line to indicate success - project succeeded and delivered, or failure - project succeeded but didn't deliver, didn't succeed, or was cancelled. It also contains links to each campaign, in case you're interested in any of them. 
 
-[![Spreadsheet](/blog/images/2021-01-10/spreadsheet.png)](https://docs.google.com/spreadsheets/d/1_--0TYP3TD7i6dPnJmB9oB66iuU9_qS7ApBtKTS8bug/edit)
+[![Spreadsheet](/images/2021-01-10/spreadsheet.png)](https://docs.google.com/spreadsheets/d/1_--0TYP3TD7i6dPnJmB9oB66iuU9_qS7ApBtKTS8bug/edit)
 
 The vast majority are in the 'success' category, with only a few 'cancelled' and some succeeded but didn't deliver. My takeaway from this is that I'm a good judge of projects to back 😜 but you might take another view. Let's take a look at some.
 
@@ -20,7 +20,7 @@ The vast majority are in the 'success' category, with only a few 'cancelled' and
 
 The initial thing that got me into crowdfunding was the [MakeyMakey](https://www.kickstarter.com/projects/joylabz/makey-makey-an-invention-kit-for-everyone) back in 2012. They had a modest goal of $25K and shot past that to $568,106. Impressive for such a small project. I had just started looking at Arduino devices, and this helped me rekindle my love of digital electronics. 
 
-[![MakeyMakey](/blog/images/2021-01-10/makeymakey.jpg)](https://www.kickstarter.com/projects/joylabz/makey-makey-an-invention-kit-for-everyone)
+[![MakeyMakey](/images/2021-01-10/makeymakey.jpg)](https://www.kickstarter.com/projects/joylabz/makey-makey-an-invention-kit-for-everyone)
 
 They did well from the crowdfunder, and you can buy the devices from their [MakeyMakey](https://makeymakey.com/) website or via [Amazon](https://geni.us/oB8M) (affiliate link), which I think marks them out as a continuing success. If you'd got kids interested in making things and interfacing real world things - like vegetables - with electronics, then these are good little starter kits.
 
@@ -40,7 +40,7 @@ It's inevitable that some campaigns like Byron's fail to get funding so never ge
 
 The [Matchstick - The Streaming Stick Built on Firefox OS](https://www.kickstarter.com/projects/matchstick/matchstick-the-streaming-stick-built-on-firefox-os) was one such project. Around the time that Chromecasts became popular the Matchstick sought to build an Open Source equivalent using Firefox OS. Launching on September 30th, 2014 asking for $100,000, they hit that within a few days. They then blew past the target getting $470,310 from 17,218 backers in the end.
 
-![Matchstick](/blog/images/2021-01-10/matchstick.jpg)
+![Matchstick](/images/2021-01-10/matchstick.jpg)
 
 However from the outside, there didn't seem to be sufficient momentum on the project. As with many projects the updates to backers slowly dried up and within a year they'd give up, and offered refunds the backers. It's sometimes difficult to know whether to take the refund, if offered. Perhaps feeling you didn't your reward, so you shouldn't pay. But this is a crowdfunder, you're speculating on the eventual product. For some, when offered, I've chosen not to take the refund, for this one I did though. I felt a little sour about the way the project was run, and felt (perhaps wrongly) they didn't deserve to keep the cash.
 
@@ -50,7 +50,7 @@ I didn't limit myself to one category of product on the crowdfunder sites. As yo
 
 In 2013 I backed [From Bedrooms to Billions](https://www.kickstarter.com/projects/1195082866/from-bedrooms-to-billions) and [GAME LOADING: Rise Of The Indies](https://www.kickstarter.com/projects/studiobento/gameloading-rise-of-the-indies) at the $20 and $35 tiers respectively. As a retro nerd, fascinated with the nostalgia of the 'bedroom developer' of the 80's and 90's, these both fell into my wheelhouse.
 
-![Bedrooms to Billions](/blog/images/2021-01-10/b2b.jpg)
+![Bedrooms to Billions](/images/2021-01-10/b2b.jpg)
 
 Backing films in this way makes sound financial sense to me. I equate this to a trip to the cinema, which typically costs far more than $20 these days. So reward for this risk seems about right. In fact I haven't watched either of these for a while, so it's probably about time for a re-watch. A reward that keeps on giving 🙃
 
@@ -68,7 +68,7 @@ As well as all those I backed, there's obviously tons I didn't back, but might h
 
 The [Sinclair Vega+](https://www.indiegogo.com/projects/the-sinclair-zx-spectrum-vega-plus-console#/) is a notable example. It ticks some boxes. A portable Sinclair Spectrum, I clearly [like those](/blog/2020/12/the-best-portable-spectrum/). Designed by the (now late) [Rick Dickinson](https://en.wikipedia.org/wiki/Rick_Dickinson) - legendary industrial designer of the original line of Sinclair Spectrums, it had potential. 
 
-![Vega+](/blog/images/2021-01-10/vega.jpg)
+![Vega+](/images/2021-01-10/vega.jpg)
 
 Something felt wrong about it though. With [hindsight](https://en.wikipedia.org/wiki/ZX_Spectrum_Vega%2B#Team_split) we can clearly see why it failed. Terrible project and financial management were at least partly to blame. Ordinarily I'd have backed this, but something just didn't "feel" right, so I didn't. I'm equally sad it didn't deliver, and glad I didn't back it anyway. Bullet dodged!
 

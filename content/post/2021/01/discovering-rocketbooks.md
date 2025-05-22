@@ -10,11 +10,11 @@ A few ~~weeks~~ days ago (it seems like longer at this rate) I blogged about my 
 
 Within a few minutes, in the [Ubuntu Podcast](https://ubuntupodcast.org/) [Telegram channel](https://ubuntupodcast.org/telegram), [Dalton Durst](http://daltondur.st) of [UBPorts](https://ubports.com/) fame, gave me pause for thought.
 
-![Dalton's Assertion](/blog/images/2021-01-17/dalton.png)
+![Dalton's Assertion](/images/2021-01-17/dalton.png)
 
 Put simply Rocketbooks are notepads with erasable not-quite-paper and not-quite-whiteboard material. During the conversation Dalton shared this photo of his books in use. As you can see they come in three sizes, and have differing patterns / lines pre-printed on them.
 
-![Dalton's Weekly](/blog/images/2021-01-17/daltons-weekly.jpg)
+![Dalton's Weekly](/images/2021-01-17/daltons-weekly.jpg)
 
 You write on the pages, then photograph them with a dedicated app (or camera app I guess) which uploads them to a place of your choice. You can then wipe the scribbles with a dampened supplied cloth. You have to use [Pilot Pen Frixion](https://geni.us/FPep1KG) (affiliate link) rollerball pens. These are readily available, and come in a few colours. 
 

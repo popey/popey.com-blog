@@ -8,7 +8,7 @@ tags = ['NaBloPoMo', 'ubuntu', 'core', 'snap', 'steamdeck']
 
 At the Ubuntu Summit in Latvia, Canonical have just announced their plans for the Ubuntu Core Desktop. I recently played with a preview of it, for fun. Here's a nearby computer running it right now.
 
-[![Ubuntu Core Desktop Development Preview on a SteamDeck](/blog/images/2023-11-03/snapdeck.jpg)](/blog/images/2023-11-03/snapdeck.png)
+[![Ubuntu Core Desktop Development Preview on a SteamDeck](/images/2023-11-03/snapdeck.jpg)](/images/2023-11-03/snapdeck.png)
 
 Ubuntu Core is a *"a secure, application-centric IoT OS for embedded devices"*. It's been around a while now, powering IoT devices, kiosks, routers, set-top-boxes and other appliances. 
 
@@ -40,7 +40,7 @@ The image is currently described as *"Ubuntu Core Desktop Development Preview"*.
 
 Indeed the wallpaper makes this very clear. Here be dragons. 🐉
 
-[![Ubuntu Core Desktop Development Preview wallpaper](/blog/images/2023-11-03/wallpaper.png)](/blog/images/2023-11-03/wallpaper.png)
+[![Ubuntu Core Desktop Development Preview wallpaper](/images/2023-11-03/wallpaper.png)](/images/2023-11-03/wallpaper.png)
 
 This is not ready for daily production use as a primary OS, but I'm sure some nerds like me will be running it soon enough. It's fun to play with stuff like this, and get a glimpse of what the future of Ubuntu desktop might be like.
 
@@ -52,7 +52,7 @@ I didn't want to destroy the SteamOS install on my SteamDeck - I quite like play
 
 On first boot, you're greeted with an Ubuntu Core logo while the various snaps are setup and configured. Once that completes, a first-run wizard pops up to walk though the initial setup.
 
-[![Initial setup](/blog/images/2023-11-03/initial-setup.png)](/blog/images/2023-11-03/initial-setup.png)
+[![Initial setup](/images/2023-11-03/initial-setup.png)](/images/2023-11-03/initial-setup.png)
 
 This is the usual configuration steps to setup keyboard, locale, first user and so on. 
 
@@ -76,11 +76,11 @@ So on a suitably equipped desktop with an nVidia GPU, it's possible to run CUDA 
 
 When I initially played with this a week or two back, I noticed that the core image shipped with a build of GNOME 42.
 
-[![GNOME 42](/blog/images/2023-11-03/gnome-42.png)](/blog/images/2023-11-03/gnome-42.png)
+[![GNOME 42](/images/2023-11-03/gnome-42.png)](/images/2023-11-03/gnome-42.png)
 
 One major feature of snaps is their ability to do automatic updates in the background. At some point between October 19th and today, an update brought me GNOME 45!
 
-[![GNOME 45](/blog/images/2023-11-03/gnome-45.png)](/blog/images/2023-11-03/gnome-45.png)
+[![GNOME 45](/images/2023-11-03/gnome-45.png)](/images/2023-11-03/gnome-45.png)
 
 I doubt that a final product will jump users unceremoniously from one major desktop release to another, but this is a *preview* remember, so interesting, exciting and frightening things happen. 
 
@@ -90,7 +90,7 @@ The "traditional" (read: deb-based) Ubuntu Desktop recently shipped with a new s
 
 I tested this process by installing Steam, given this is a SteamDeck!
 
-[![Installing Steam](/blog/images/2023-11-03/install-steam.png)](/blog/images/2023-11-03/install-steam.png)
+[![Installing Steam](/images/2023-11-03/install-steam.png)](/images/2023-11-03/install-steam.png)
 
 This process was uneventful and smooth. Installing additional apps on the Ubuntu core desktop preview works as expected. However, so-called "classic" (unconfined) snaps are not yet installable. So applications like VSCode, Sublime Text and Blender can't currently be easily installed. 
 
@@ -98,7 +98,7 @@ This process was uneventful and smooth. Installing additional apps on the Ubuntu
 
 Did I mention everything is a snap? This includes the Linux kernel. That means it's possible to quickly switch to a completely different kernel, trivially easily, with one `snap refresh` command.
 
-[![Switching kernel](/blog/images/2023-11-03/switch-kernel.png)](/blog/images/2023-11-03/switch-kernel.png)
+[![Switching kernel](/images/2023-11-03/switch-kernel.png)](/images/2023-11-03/switch-kernel.png)
 
 It's just as simple to `snap revert` back to the previous kernel, or try kernels specifically optimised for the hardware or use cases, such as gaming, or resource constrained computers.
 
@@ -112,23 +112,23 @@ Launching Steam on Ubuntu Core on the SteamDeck works just like it does on a tra
 
 Here's a few screenshots, but this isn't super remarkable, but neat nonetheless. The controller works, and the games I tested run fine. I didn't install anything huge like GTA5, because this was all running off a USB stick. Ain't nobody got time for that.
 
-[![Steam](/blog/images/2023-11-03/steam1.png)](/blog/images/2023-11-03/steam1.png)
+[![Steam](/images/2023-11-03/steam1.png)](/images/2023-11-03/steam1.png)
 
 I didn't try using the new Steam UI as seen on the SteamOS official builds. But I imagine it's possible to get that working.
 
-[![Steam](/blog/images/2023-11-03/steam2.png)](/blog/images/2023-11-03/steam2.png)
+[![Steam](/images/2023-11-03/steam2.png)](/images/2023-11-03/steam2.png)
 
 Audio doesn't work in the Ubuntu Core image on the SteamDeck for me, so the whole game playing experience is a *little* impacted by that.
 
-[![Steam](/blog/images/2023-11-03/steam3.png)](/blog/images/2023-11-03/steam3.png)
+[![Steam](/images/2023-11-03/steam3.png)](/images/2023-11-03/steam3.png)
 
-[![Steam](/blog/images/2023-11-03/steam4.png)](/blog/images/2023-11-03/steam4.png)
+[![Steam](/images/2023-11-03/steam4.png)](/images/2023-11-03/steam4.png)
 
 As you can see, this doesn't really look any different to running a traditional desktop Linux distribution.
 
-[![Steam](/blog/images/2023-11-03/steam5.png)](/blog/images/2023-11-03/steam5.png)
+[![Steam](/images/2023-11-03/steam5.png)](/images/2023-11-03/steam5.png)
 
-[![Steam](/blog/images/2023-11-03/steam6.png)](/blog/images/2023-11-03/steam6.png)
+[![Steam](/images/2023-11-03/steam6.png)](/images/2023-11-03/steam6.png)
 
 ## Unworking things
 

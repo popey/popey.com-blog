@@ -80,7 +80,7 @@ If you know where you want to go on the train network, there's plenty of website
 
 **Edit**: The [Chronotrains](https://www.chronotrains.com/en/station/7000838-Farnborough-(Main)/4) project, pointed out by [grifferz](https://social.bitfolk.com/@grifferz/111091990311771781) on Mastodon appears to be helpful here!
 
-[![Chronotrains](/blog/images/2023-09-19/chronotrains.png)](https://www.chronotrains.com/en/station/7000838-Farnborough-(Main)/4)
+[![Chronotrains](/images/2023-09-19/chronotrains.png)](https://www.chronotrains.com/en/station/7000838-Farnborough-(Main)/4)
 
 #### Brighton
 
@@ -96,7 +96,7 @@ I could jump on a train at [Farnborough (Main)](https://en.wikipedia.org/wiki/Fa
 
 Only one change of train, three hours each way, leaving after rush-hour, and arriving in time for lunch! This looks good!
 
-[![Farnborough to Exeter](/blog/images/2023-09-19/fnb-ex.png)](/blog/images/2023-09-19/fnb-ex.png)
+[![Farnborough to Exeter](/images/2023-09-19/fnb-ex.png)](/images/2023-09-19/fnb-ex.png)
 
 I'm sure I'll be able to find a cafe, coffee shop or pub to have a spot of lunch. Recommendations would be welcome!
 
@@ -149,7 +149,7 @@ Pretty standard stuff. A big battery will be helpful if there's no mains outlet 
 
 ## Let's do it
 
-[![Book 'em, Danno.](/blog/images/2023-09-19/hawaii-five-o-jack-lord.gif)](/blog/images/2023-09-19/hawaii-five-o-jack-lord.gif)
+[![Book 'em, Danno.](/images/2023-09-19/hawaii-five-o-jack-lord.gif)](/images/2023-09-19/hawaii-five-o-jack-lord.gif)
 
 Advace tickets booked! I'm off to Exeter. More on this subject when it comes around.
 

@@ -10,7 +10,7 @@ Back in December 2020 I wrote up my personal [Must-Have GNOME extensions](/blog/
 
 tl;dr:
 
-![Extension Manager](/blog/images/2023-09-03/extension-manager.png)
+![Extension Manager](/images/2023-09-03/extension-manager.png)
 
 ## What changed
 
@@ -22,7 +22,7 @@ I no longer have these installed.
 
 This used to crash a lot for me, to the point I'd go and look for it in the panel and it was missing. I figured if I don't realise it's gone, I probably don't need it that much. Also, GNOME shell volume control has changed a bit over the last few years. It's pretty easy to switch device now in the menu.
 
-![Sound menu](/blog/images/2023-09-03/sound-menu.png)
+![Sound menu](/images/2023-09-03/sound-menu.png)
 
 #### Snap manager
 

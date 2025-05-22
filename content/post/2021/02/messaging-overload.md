@@ -8,7 +8,7 @@ tags = ['software', 'stress']
 
 How many chat/messaging systems is too many?
 
-![Ugh!](/blog/images/2021-02-13/ugh.jpg)
+![Ugh!](/images/2021-02-13/ugh.jpg)
 
 Note the scrollbar. There's more below the fold. 
 

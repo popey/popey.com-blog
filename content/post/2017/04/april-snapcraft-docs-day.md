@@ -9,7 +9,7 @@ tags = ['snap', 'snapcraft', 'documentation', 'event']
 
 ## Continuing Snapcraft Docs Days
 
-In March we had our first [Snapcraft Docs Day](https://popey.com/blog/posts/snapcraft-docs-day.html) on the last Friday of the month. It was fun and successful so we're doing it again this Friday, 28th April 2017. Join us in #snapcraft on [Rocket Chat](https://rocket.ubuntu.com/) and on the [snapcraft forums](http://forum.snapcraft.io/)
+In March we had our first [Snapcraft Docs Day](https://blog.popey.com/posts/snapcraft-docs-day.html) on the last Friday of the month. It was fun and successful so we're doing it again this Friday, 28th April 2017. Join us in #snapcraft on [Rocket Chat](https://rocket.ubuntu.com/) and on the [snapcraft forums](http://forum.snapcraft.io/)
 
 ### Flavour of the month
 

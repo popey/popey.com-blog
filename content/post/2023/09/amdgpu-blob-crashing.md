@@ -8,7 +8,7 @@ tags = ['ubuntu', 'thinkpad', 'linux', 'amdgpu']
 
 My work computer is a ThinkPad Z13. It's on most of the time, including overnight and during the weekend. I'm one of those horrible people who like to just wiggle their mouse, unlock, and get working. I often leave a ton of windows open, so I quite like to sit down and start working without having to wait for boot up, and subsequent app launch. 
 
-[![Uprecords](/blog/images/2023-09-25/uprecords.png)](/blog/images/2023-09-25/uprecords.png)
+[![Uprecords](/images/2023-09-25/uprecords.png)](/images/2023-09-25/uprecords.png)
 
 So when I arrive at my desk on a Monday and discover my GPU has crashed, that's a poor start to the week. The GPU crashing doesn't completely kill the machine, just my desktop session and all the applications that were open. 😭
 
@@ -22,11 +22,11 @@ I see this kind of thing in the output of `dmesg -Tw | grep amdgpu`.
 
 I use Xorg instead of Wayland on my laptop. I've tried Wayland, but it's never been great for the software I use on a daily basis, and the hardware combination I'm using. I use two external monitors, attached via a USB-C docking thing. So my desk looks a bit like this.
 
-[![ThinkPad Z13 with two external screens on](/blog/images/2023-09-25/on.jpg)](/blog/images/2023-09-25/on.jpg)
+[![ThinkPad Z13 with two external screens on](/images/2023-09-25/on.jpg)](/images/2023-09-25/on.jpg)
 
 Although, more accurately, like this, when the GPU driver dies.
 
-[![ThinkPad Z13 with two external screens off](/blog/images/2023-09-25/off.jpg)](/blog/images/2023-09-25/off.jpg)
+[![ThinkPad Z13 with two external screens off](/images/2023-09-25/off.jpg)](/images/2023-09-25/off.jpg)
 
 This crash happened on a second Monday morning in succession. So I figured it was time to file a bug. I ran `ubuntu-bug linux` and followed the prompts. That got me a bug [2031289](https://pad.lv/2031289). 
 
@@ -38,7 +38,7 @@ It's [not a good idea](/blog/2021/02/dont-use-proposed/) to enable the proposed 
 
 Four days later, the following Monday, I arrived at the office with all my fingers and toes crossed.
 
-[![Launchpad comment](/blog/images/2023-09-25/success.png)](https://bugs.launchpad.net/ubuntu/+source/linux/+bug/2031289/comments/5)
+[![Launchpad comment](/images/2023-09-25/success.png)](https://bugs.launchpad.net/ubuntu/+source/linux/+bug/2031289/comments/5)
 
 Great success 🥳
 
@@ -50,7 +50,7 @@ As I understand it, what I have done here is update a binary blob of GPU firmwar
 
 Seems we still need that horrid non-free stuff, even for the "good" kind of GPU. I went looking for more info and found a [thread](https://www.reddit.com/r/Amd/comments/950g8r/will_we_be_able_to_game_anytime_soon_using_amd/e3qgqp3/) on Reddit (spit!) from the past, with a [post](https://www.reddit.com/r/Amd/comments/950g8r/will_we_be_able_to_game_anytime_soon_using_amd/e3ri7vu/) from an [AMD person](https://www.reddit.com/user/bridgmanAMD), explaining this situation.
 
-[![Reddit comment](/blog/images/2023-09-25/reddit.png)](https://www.reddit.com/r/Amd/comments/950g8r/will_we_be_able_to_game_anytime_soon_using_amd/e3ri7vu/)
+[![Reddit comment](/images/2023-09-25/reddit.png)](https://www.reddit.com/r/Amd/comments/950g8r/will_we_be_able_to_game_anytime_soon_using_amd/e3ri7vu/)
 
 Today, I learned.
 

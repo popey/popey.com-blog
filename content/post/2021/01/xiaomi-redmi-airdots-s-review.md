@@ -12,27 +12,27 @@ I'm no audiophile. I tend to listen to music while working on whatever headphone
 
 My good friend Will mentioned that he'd bought some Xiaomi Redmi AirDots, and they were still on special offer, so I grabbed a pair. I paid £15.71 from [Banggood](https://www.banggood.com/Original-Xiaomi-Redmi-AirDots-S-Earphone-TWS-bluetooth-Headphone-Low-Lag-Mode-Stereo-Gaming-Headset-True-Wireless-Earbus-p-1666598.html) on 10th July 2020 and they arrived a couple of weeks later on the 22nd July. This seemed to me like a bit of a bargain, and the shipping time from China was fine.
 
-![AirDots](/blog/images/2021-01-20/airdots.jpg)
+![AirDots](/images/2021-01-20/airdots.jpg)
 
 The headphones are in-ear type, with a battery-laden charging box. They aren't hard to setup and use. Simply take them out and they power on and immediately connect to whichever device they're paired with. I tend to have them paired with my OnePlus phone but have tested them on my desktop too. 
 
-![Bluetooth Settings](/blog/images/2021-01-20/bt.png)
+![Bluetooth Settings](/images/2021-01-20/bt.png)
 
 Once paired with the desktop they show up as a set of headphones like any other.
 
-![Sound Settings](/blog/images/2021-01-20/sound.png)
+![Sound Settings](/images/2021-01-20/sound.png)
 
 While they work on the desktop, I prefer to keep them just for my phone, so didn't test the desktop use case that much. 
 
 One weird thing I did notice however, was that my bluetooth Mouse - an IBM ThinkPad branded one (of course) would sometimes behave erratically when the AirDots were connected and in use. It's almost like the mouse (or operator) is drunk, but that can't the case because both my mouse and I are doing [Dry January](https://alcoholchange.org.uk/get-involved/campaigns/dry-january). I didn't investigate this much but it's not the first time I've seen bluetooth devices get 'laggy' when BT headphones are in use.
 
-![Mouse](/blog/images/2021-01-20/mouse.jpg)
+![Mouse](/images/2021-01-20/mouse.jpg)
 
 I bought these mostly for listening to podcasts while cooking. Previously I'd balance my phone on the extractor above the cooker. That way the speaker on the end of the phone fires at my face, and at sufficient volume drowns out cooking and chopping noises. But it's not optimal. If I leave the room for a moment I may have to pause the phone with mucky hands or miss parts of the episode. With wireless headphones I can wander about freely - mostly.
 
 I tend to leave the AirDots in their handy little plastic charge box, which is mostly attached to a USB cable which in turn is attached to my laptop docking station. In general, the box is always charged, so I know when the AirDots get low on juice, I can just drop them in the case and they'll be able to recharge. Conveniently in Android I can see the charge level of the AirDots, so I can anticipate them dying in advance.
 
-![Android](/blog/images/2021-01-20/android.jpg)
+![Android](/images/2021-01-20/android.jpg)
 
 The sound quality is pretty good for the price. If I do listen to music, it's better than just "okay", although the midrange can be a little harsh. There's certainly some bass, but that can get a little drowned out by the high midrange if you turn things up a little too much. As I said, I'm no audiophile and have very low expectations, and terrible hearing. I never have a problem hearing the voices in podcasts, even at 2x speed, they're perfect for that. 
 

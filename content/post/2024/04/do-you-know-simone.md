@@ -147,11 +147,11 @@ The Ancors static stick checker tool provides a valuable tool for developers to 
 
 Here's the images it pulled out:
 
-[![First image taken from the video](/blog/images/2024-04-26/top_frame_4_score_106.jpg)](/blog/images/2024-04-26/top_frame_4_score_106.jpg)
+[![First image taken from the video](/images/2024-04-26/top_frame_4_score_106.jpg)](/images/2024-04-26/top_frame_4_score_106.jpg)
 
-[![Second image taken from the video](/blog/images/2024-04-26/top_frame_5_score_105.jpg)](/blog/images/2024-04-26/top_frame_5_score_105.jpg)
+[![Second image taken from the video](/images/2024-04-26/top_frame_5_score_105.jpg)](/images/2024-04-26/top_frame_5_score_105.jpg)
 
-[![Third image taken from the video](/blog/images/2024-04-26/top_frame_9_score_101.jpg)](/blog/images/2024-04-26/top_frame_9_score_101.jpg)
+[![Third image taken from the video](/images/2024-04-26/top_frame_9_score_101.jpg)](/images/2024-04-26/top_frame_9_score_101.jpg)
 
 Not bad! It could be better - getting the company name wrong, for one! 
 

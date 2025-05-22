@@ -8,7 +8,7 @@ tags = ['ubuntu', 'theme', 'yaru', 'hirsute']
 
 Ubuntu [Hirsute](https://launchpad.net/ubuntu/hirsute) - the development release which will become 21.04 [enters](https://discourse.ubuntu.com/t/hirsute-hippo-release-schedule/18539) [User Interface Freeze](https://wiki.ubuntu.com/UserInterfaceFreeze) on March 18th! That's less than a fortnight away!
 
-![Freakout](/blog/images/2021-03-06/freakout.gif)
+![Freakout](/images/2021-03-06/freakout.gif)
 
 However, with two weekends and plenty of evenings between now and then, its a great time to start testing the Yaru theme we ship in Ubuntu by default. The Yaru team have been busy and provided this short list of some of the main changes since the last release.
 
@@ -19,11 +19,11 @@ However, with two weekends and plenty of evenings between now and then, its a gr
 
 Here's a taste. Click to embiggen.
 
-[![Dark](/blog/images/2021-03-06/dark.png)](/blog/images/2021-03-06/dark.png)
+[![Dark](/images/2021-03-06/dark.png)](/images/2021-03-06/dark.png)
 
-[![Lightdark](/blog/images/2021-03-06/lightdark.png)](/blog/images/2021-03-06/lightdark.png)
+[![Lightdark](/images/2021-03-06/lightdark.png)](/images/2021-03-06/lightdark.png)
 
-[![Light](/blog/images/2021-03-06/light.png)](/blog/images/2021-03-06/light.png)
+[![Light](/images/2021-03-06/light.png)](/images/2021-03-06/light.png)
 
 The Yaru team is mostly comprised of community contributors who volunteer their time and skills to bring us a beautiful experience. But it needs testing by a wider audience! 
 
