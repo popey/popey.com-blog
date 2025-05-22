@@ -8,7 +8,7 @@ tags = ['software', 'opinion', 'rant']
 
 I originally titled this post "Don't be afraid of the command line", but decided "Black Oblong of Monospace Mystery" was more fun. Is the command line really scary? It doesn't feel like that to me, but I grew up with an interface which looks like this on first boot.
 
-![ZX81](/blog/images/2021-01-24/zx81.png)
+![ZX81](/images/2021-01-24/zx81.png)
 
 Not exactly friendly, but I was 9 at the time, and this was normal. Typing things using the keyboard was pretty much a daily activity. I used books like this one, to learn how to program and understand the computer better.
 
@@ -44,11 +44,11 @@ There's only so many ways to skin a cat, and so most of the guides I found had s
 
 Is this a problem which makes Linux less appealing? I don't think so, because the problem I had in this example was with a Windows 10 laptop. Almost every single guide to solving this issue, suggested command line adminstrative tools as the best steps to a solution. I have typed `net stop bits` and `net stop wuauserv` in a "DOS" window too many times today.
 
-![Command](/blog/images/2021-01-24/command.png)
+![Command](/images/2021-01-24/command.png)
 
 I find it quite bizarre that advocates against the command line use on Linux, seem to feel it's uniquely a Linux "problem". It very clearly isn't. Users cite this as a reason not to switch from Windows to Linux. Linux advocates weirdly agree with them. Yet there's a ton of other great reasons not to switch, use of the command line shouldn't be one we should entertain. We should embrace the command line, where it's needed.
 
-![Terminal](/blog/images/2021-01-24/terminal.png)
+![Terminal](/images/2021-01-24/terminal.png)
 
 Users, whatever their skill level, and no matter what OS they use, need to be less afraid of the command line. We as Linux users need to stop pretending they should be afraid, because we exacerbate the issue even further. 
 

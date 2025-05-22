@@ -10,20 +10,20 @@ tags = ['retro', 'ebay', 'sinclair', 'spectrum']
 
 I've previously [written](/blog/2021/03/fourty-years-on/) about how the Sinclair line of computers kickstarted a life-long love of computing. 
 
-![Spectrums](/blog/images/2020-12-31/spectrums.jpg)
+![Spectrums](/images/2020-12-31/spectrums.jpg)
 
 I still sometimes go back and play classic Spectrum games on my Nintendo DS.
 
-![Lightforce](/blog/images/2020-12-31/ds-3.jpg)
+![Lightforce](/images/2020-12-31/ds-3.jpg)
 
 I've also bought brand-new games for the platform in recent times. I love that people still code for these ancient devices.
 
-![Neadeital loading screen](/blog/images/2021-01-01/loading.jpg)
+![Neadeital loading screen](/images/2021-01-01/loading.jpg)
 
 ## Modern vintage classic
 In April 2017, I backed the [Sinclair ZX Spectrum Next Kickstarter](https://www.kickstarter.com/projects/spectrumnext/zx-spectrum-next) campaign, which was ultimately successful. After some delay, I got my new Spectrum Next - in February 2020.
 
-![ZX Spectrum Next](/blog/images/2023-08-26/IMG_3242_30.jpg)
+![ZX Spectrum Next](/images/2023-08-26/IMG_3242_30.jpg)
 
 The team did a wonderful job on it. The industrial design harks back to the Spectrum+ days of the 1980's of my youth. It's a wonderful hybrid machine. It's fully compatible with the original Speccy, but has modern capabilities too. 
 
@@ -45,6 +45,6 @@ I get a similarly warm fuzzy feeling every time I play with the Spectrum Next. H
 
 So, just like those boards, it's time for the Spectrum Next to go. There is no point keeping hold of something that I'm just not using. I've put it up on [ebay](https://www.ebay.co.uk/itm/285468119214).
 
-[![ebay listing](/blog/images/2023-08-26/ebay.png)](https://www.ebay.co.uk/itm/285468119214)
+[![ebay listing](/images/2023-08-26/ebay.png)](https://www.ebay.co.uk/itm/285468119214)
 
 Time for someone else to enjoy it. 

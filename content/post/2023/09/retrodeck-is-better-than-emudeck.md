@@ -12,13 +12,13 @@ I've had my ~~GabeGear~~ Steam Deck for over a year now, and I *love* it. When i
 
 The whole EmuDeck installation and configuration was less than straightforward, indeed somewhat cumbersome. I found it to be a loosely connected, and poorly integrated bag of spanners. Surprising for a project seemingly [awash](https://graphtreon.com/creator/dragoonDorise) with community supporters and funding!
 
-![EmuDeck developers, probably](/blog/images/2023-09-30/laying-down-money.gif)
+![EmuDeck developers, probably](/images/2023-09-30/laying-down-money.gif)
 
 Reecently, I wiped & factory reset my Steam Deck, then discovered [RetroDECK](https://retrodeck.net/). Now I'm playing more of the older games than ever! If you've never heard of, or tried RetroDECK, I strongly recommend you do.
 
 It even works on desktops, there's no need to fork out for a Steam Deck! But you should, if you can, because they're..
 
-![They're great](/blog/images/2023-09-30/frosted-flakes-tony-the-tiger.gif)
+![They're great](/images/2023-09-30/frosted-flakes-tony-the-tiger.gif)
 
 ## Making friends
 
@@ -34,7 +34,7 @@ RetroDECK is available as a flatpak on [flathub](https://flathub.org/apps/net.re
 
 When you first run RetroDECK, you'll be walked through a few simple dialogs to get up and running. Pop-ups like the following will guide you through the initial setup process. 
 
-[![Deck configuration](/blog/images/2023-09-30/deck1.png)](/blog/images/2023-09-30/deck1.png)
+[![Deck configuration](/images/2023-09-30/deck1.png)](/images/2023-09-30/deck1.png)
 
 I expect these basic dialogs to be replaced in the future. But for now, they're functional and are likely only to be seen once, on first setup.
 
@@ -46,15 +46,15 @@ Put your grown-up pants on and find these somewhere. Put them in `~/retrodeck/ro
 
 Having the games is only part of the fun of RetroDECK. The other part is all the beautiful themes and metadata you can add to embellish the experience. RetroDECK ships with a functional and decent themes.
 
-[![Stock theme](/blog/images/2023-09-30/stocktheme.png)](/blog/images/2023-09-30/stocktheme.png)
+[![Stock theme](/images/2023-09-30/stocktheme.png)](/images/2023-09-30/stocktheme.png)
 
 It's easy to add new beautiful themes to customise the experience. 
 
-[![Theme downloader](/blog/images/2023-09-30/themedownloader.png)](/blog/images/2023-09-30/themedownloader.png)
+[![Theme downloader](/images/2023-09-30/themedownloader.png)](/images/2023-09-30/themedownloader.png)
 
 I'm using thie CoinOP theme at the moment.
 
-[![CoinOP theme](/blog/images/2023-09-30/coinoptheme.png)](/blog/images/2023-09-30/coinoptheme.png)
+[![CoinOP theme](/images/2023-09-30/coinoptheme.png)](/images/2023-09-30/coinoptheme.png)
 
 Augment this with metadata from [screenscraper.fr](https://www.screenscraper.fr/) or [TheGamesDB](https://thegamesdb.net/), and you end up with a pretty way to launch games.
 

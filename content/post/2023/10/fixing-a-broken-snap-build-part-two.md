@@ -55,7 +55,7 @@ $ ls -lh x16emu_b16509b_amd64.snap
 -rw-r--r-- 1 alan alan 1.3M Oct  5 19:06 x16emu_b16509b_amd64.snap
 ```
 
-![Nice](/blog/images/2023-10-05/nice.gif)
+![Nice](/images/2023-10-05/nice.gif)
 
 Let's take a quick look at the PR and break down what Ken did to fix this, in case it's useful to someone else.
 
@@ -173,14 +173,14 @@ The final section bumps from the old `core20`-based `gnome-3-38` extension to th
 
 I merged Ken's contribution, which triggered a new build, which was successful
 
-[![Success](/blog/images/2023-10-05/success.png)](/blog/images/2023-10-05/success.png)
+[![Success](/images/2023-10-05/success.png)](/images/2023-10-05/success.png)
 
 This got automatically published to the edge channel.
 
-[![Releases](/blog/images/2023-10-05/releases.png)](/blog/images/2023-10-05/releases.png)
+[![Releases](/images/2023-10-05/releases.png)](/images/2023-10-05/releases.png)
 
 When the upstream project release a stable version, we'll get a build in the edge channel...
 
-[![Now, we wait!](/blog/images/2023-10-05/and-now-we-wait.jpg)](/blog/images/2023-10-05/and-now-we-wait.jpg)
+[![Now, we wait!](/images/2023-10-05/and-now-we-wait.jpg)](/images/2023-10-05/and-now-we-wait.jpg)
 
 Thanks Ken!

@@ -12,7 +12,7 @@ I was a guest host on [Late Night Linux](https://latenightlinux.com/) podcast, e
 
 I have about twenty snaps in the [snap store](https://snapcraft.io/publisher/popey). Some, like [Bombsquad](https://snapcraft.io/bombsquad) and [ncspot](https://snapcraft.io/ncspot) have been published for years now. Others such as [Classicube](https://snapcraft.io/classicube) were more recently built and published.
 
-[![Your month in snaps email](/blog/images/2023-10-08/mysnaps.png)](/blog/images/2023-10-08/mysnaps.png)
+[![Your month in snaps email](/images/2023-10-08/mysnaps.png)](/images/2023-10-08/mysnaps.png)
 
 When I left Canonical in 2021, suffering a little *snap-burnout*, I [asked](https://forum.snapcraft.io/t/looking-for-someone-to-maintain-some-snaps/28354?u=popey) on the [snapcraft forum](https://forum.snapcraft.io/) for help in maintaining some of them. Thankfully some people stepped up and helped. But a lot of them are still under my publishing control.
 
@@ -22,11 +22,11 @@ I've recently been re-examining them, updating them and fixing issues. Beyond th
 
 Every eighth of the month, all snap publishers get an email. I've been getting these every month for the last five years! They're a good reminder that there are actual computers out there, with your work on them. 
 
-[!["Your month in snaps" email](/blog/images/2023-10-08/email.png)](/blog/images/2023-10-08/email.png)
+[!["Your month in snaps" email](/images/2023-10-08/email.png)](/images/2023-10-08/email.png)
 
 It lists each snap you have published, along with the channels, released versions, and interestingly, the number of "weekly active devices". It only lists released snaps with more than 10 users. So a prototype snap which only the developer has installed, won't show up in the stats.
 
-[![ncspot email](/blog/images/2023-10-08/ncspot.png)](/blog/images/2023-10-08/ncspot.png)
+[![ncspot email](/images/2023-10-08/ncspot.png)](/images/2023-10-08/ncspot.png)
 
 Typically a publisher will only have a small number of snaps in the store. I'd imagine the vast majority have exactly one published snap. The average goes up when you consider organisations like [KDE](https://snapcraft.io/publisher/kde) with 161 snaps, and companies such as [JetBrains](https://snapcraft.io/publisher/jetbrains) with 16.
 
@@ -42,25 +42,25 @@ Let's look at the graphs for one application I published, 'ncspot'. The ncspot a
 
 I love this graph, clearly shows the automatic update of snaps in action. Each wave of colour depicts a new release of ncspot rolling out the users.
 
-[![ncspot by version](/blog/images/2023-10-08/ncspot-by-version.png)](/blog/images/2023-10-08/ncspot-by-version.png)
+[![ncspot by version](/images/2023-10-08/ncspot-by-version.png)](/images/2023-10-08/ncspot-by-version.png)
 
 ### ncspot by architecture
 
 Somewhere out there, there are a dozen machines with the 32-bit Intel "i386" architecture builds of ncspot! I imagine it's one of the easiest ways to get a Spotify player on those computers.
 
-[![ncspot by architecture](/blog/images/2023-10-08/ncspot-by-architecture.png)](/blog/images/2023-10-08/ncspot-by-architecture.png)
+[![ncspot by architecture](/images/2023-10-08/ncspot-by-architecture.png)](/images/2023-10-08/ncspot-by-architecture.png)
 
 ### ncspot by os
 
 This one always makes me smile. "But but but! Snaps only work on Ubuntu.". Nope. Check this [Google Sheet](https://docs.google.com/spreadsheets/d/1QiAp5GPFjsHTQVN_D0pXvhE4sfj23vW3YL8PQPxRkzA/edit?usp=sharing) to see the other distros this snap is installed on. More on that below.
 
-[![ncspot by os](/blog/images/2023-10-08/ncspot-by-os.png)](/blog/images/2023-10-08/ncspot-by-os.png)
+[![ncspot by os](/images/2023-10-08/ncspot-by-os.png)](/images/2023-10-08/ncspot-by-os.png)
 
 ### ncspot by channel
 
 I love that some fourty intrepid souls are running edge builds of ncspot! 
 
-[![ncspot by channel](/blog/images/2023-10-08/ncspot-by-channel.png)](/blog/images/2023-10-08/ncspot-by-channel.png)
+[![ncspot by channel](/images/2023-10-08/ncspot-by-channel.png)](/images/2023-10-08/ncspot-by-channel.png)
 
 ## snapcraft metrics
 

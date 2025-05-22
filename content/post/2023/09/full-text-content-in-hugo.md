@@ -40,11 +40,11 @@ Personally I'm trying to get better at blogging, and sharing my stories widely.
 
 Indeed [one](blog/2023/08/i386-in-ubuntu-wont-die/) recently hit the front page of [hackernews](https://news.ycombinator.com/item?id=37280878) and spent all day there, which is always 'fun'. It's fascinating to see the perspectives of the HN denizens. 
 
-[![HN](/blog/images/2023-09-01/hn.jpg)](/blog/images/2023-09-01/hn.jpg)
+[![HN](/images/2023-09-01/hn.jpg)](/images/2023-09-01/hn.jpg)
 
 Thankfully my little VPS from [Bitfolk](https://bitfolk.com/) survived just fine. Can you spot it? It was clearly a slow news Sunday.
 
-[![Goaccess](/blog/images/2023-09-01/goaccess.png)](/blog/images/2023-09-01/goaccess.png)
+[![Goaccess](/images/2023-09-01/goaccess.png)](/images/2023-09-01/goaccess.png)
 
 ## /Sidebar
 

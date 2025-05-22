@@ -26,7 +26,7 @@ Work and personal aren't the only profiles I keep. I have a separate profile for
 
 All the major modern browsers have the capability to separate work and personal profiles. Firefox has two methods: profiles and [multi-account containers](https://support.mozilla.org/en-US/kb/containers). The former has been around 'forever' (in browser terms), whereas the latter only arrived fairly recently.
 
-[![Firefox profile manager](/blog/images/2023-08-29/firefoxprofile.png)](/blog/images/2023-08-29/firefoxprofile.png)
+[![Firefox profile manager](/images/2023-08-29/firefoxprofile.png)](/images/2023-08-29/firefoxprofile.png)
 
 I used Firefox for many years on Windows at work, and on Linux at home. I've never been very happy with the multiple profile support, as it's quite janky and poorly integrated. So I ended up having separate browsers. Firefox for work, Chrome for personal stuff. While this is common and a straightforward split, this is just messy. 
 
@@ -54,7 +54,7 @@ In Chrom{e|ium}, the mechanism to create and switch profiles is very well integr
 
 Here are three separate browser windows, all Chrome, each with its own profile.
 
-[![Chrome Profiles](/blog/images/2023-08-29/chromeprofiles.png)](/blog/images/2023-08-29/chromeprofiles.png)
+[![Chrome Profiles](/images/2023-08-29/chromeprofiles.png)](/images/2023-08-29/chromeprofiles.png)
 
 When switching, each one is a separate window. This mental model of 'One window for work, one window for personal' resonates with me. I also move the windows onto separate workspaces to further reinforce 'This workspace (and all windows within it) are work-related, the others are not'. 
 
@@ -106,7 +106,7 @@ Edge has essentially the same profile management as Chrome, which makes me very 
 
 I mentioned I like the capability to put tabs I'm not using to sleep. Microsoft Edge has this [built in](https://www.microsoft.com/en-gb/edge/features/sleeping-tabs-at-work?form=MT00D8).
 
-[![Sleeping tabs](/blog/images/2023-08-29/sleepytabs.png)](/blog/images/2023-08-29/sleepytabs.png)
+[![Sleeping tabs](/images/2023-08-29/sleepytabs.png)](/images/2023-08-29/sleepytabs.png)
 
 No need for janky extensions. This feature works well. Tabs get 'dimmed' when they're sleeping. 
 
@@ -116,11 +116,11 @@ If you have a lot of tabs open they can often be hard to find in the tab bar. Wi
 
 This is vertical tabs, where you can read at least part of each page title.
 
-[![Vertical tabs](/blog/images/2023-08-29/verticaltabs.png)](/blog/images/2023-08-29/verticaltabs.png)
+[![Vertical tabs](/images/2023-08-29/verticaltabs.png)](/images/2023-08-29/verticaltabs.png)
 
 Here's horizontal tabs where the favicon and maybe a few letters are visible. 
 
-[![Horizontal tabs](/blog/images/2023-08-29/horizontaltabs.png)](/blog/images/2023-08-29/horizontaltabs.png)
+[![Horizontal tabs](/images/2023-08-29/horizontaltabs.png)](/images/2023-08-29/horizontaltabs.png)
 
 This makes a big difference if you have a bunch of tabs open on one site, for example multiple documentation pages, or pull requests.
 
@@ -138,13 +138,13 @@ For those not in the know, a web app (as far as I am concerned) is a website run
 
 It's super easy to set up. Just go to whatever site you want to turn into an app, then click the kebab menu -> Apps -> Install this site as an app. Here's what it looks like:
 
-[![Twitch webapp](/blog/images/2023-08-29/twitchwebapp.png)](/blog/images/2023-08-29/twitchwebapp.png)
+[![Twitch webapp](/images/2023-08-29/twitchwebapp.png)](/images/2023-08-29/twitchwebapp.png)
 
 Edge then pops that out as a separate window. A desktop file is created so you can launch it from your desktop menu/launcher/search. The icon is placed in your launcher, and you can alt-tab or click on it, just like any other application. None of this is revolutionary, it's just a really nice little productivity tip that I use on all my machines: Linux, MacOS, and Windows. 
 
 To illustrate, here's my Ubuntu desktop launcher at the bottom of the screen. Eight of these are just web apps. Spotify is a great example. It can play music just fine in a browser window. So there is no need for the fat knacker that is the Spotify desktop app.
 
-[![Webapps](/blog/images/2023-08-29/webapps.png)](/blog/images/2023-08-29/webapps.png)
+[![Webapps](/images/2023-08-29/webapps.png)](/images/2023-08-29/webapps.png)
 
 Three dots under the Edge icon on the far left also show that I've got multiple windows as different profiles open. 
 
@@ -154,11 +154,11 @@ Some have suggested I could just open the website in a new window. It's not the 
 
 No browser is perfect, of course. This popup menu that appears when you highlight some text on a page needs to die in a fire, for one! I disable it every time I create a new browser profile. 
 
-[![Clippy 2.0](/blog/images/2023-08-29/hilight.png)](/blog/images/2023-08-29/hilight.png)
+[![Clippy 2.0](/images/2023-08-29/hilight.png)](/images/2023-08-29/hilight.png)
 
 This stupid Bing sidebar can also get in the sea.
 
-[![Clippy 3.0](/blog/images/2023-08-29/bingsidebar.png)](/blog/images/2023-08-29/bingsidebar.png)
+[![Clippy 3.0](/images/2023-08-29/bingsidebar.png)](/images/2023-08-29/bingsidebar.png)
 
 Hide it with the button above the cog, in the lower right corner.
 

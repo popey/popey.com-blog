@@ -8,23 +8,23 @@ tags = ['software', 'linux', 'terminal', 'dos']
 
 Why is this interface so alluring?
 
-![Terminal](/blog/images/2021-02-08/terminal.png)
+![Terminal](/images/2021-02-08/terminal.png)
 
 Okay, so that blank window might not be, let's fill it with something more interesting. How about `top`.
 
-![top](/blog/images/2021-02-08/top.png)
+![top](/images/2021-02-08/top.png)
 
 ... or `htop` ...
 
-![htop](/blog/images/2021-02-08/htop.png)
+![htop](/images/2021-02-08/htop.png)
 
 ... or `bpytop` ...
 
-![bpytop](/blog/images/2021-02-08/bpytop.png)
+![bpytop](/images/2021-02-08/bpytop.png)
 
 ... or Dwarf Fortress?
 
-![df](/blog/images/2021-02-08/df.png)
+![df](/images/2021-02-08/df.png)
 
 
 Ignore for a moment it's a GNOME Terminal window on Ubuntu with the Yaru theme, it's the contents of the window that's alluring to me. That and the [IBM Plex](https://www.ibm.com/plex/) font showing it off so well.
@@ -33,7 +33,7 @@ In around 1988, the first "IBM Compatible" I owned was an Epson 8086 PC with a M
 
 In 1990, I had to *upgrade* to a Hercules Graphics Card if I wanted to see anything other than text and symbols from [code page 437](https://en.wikipedia.org/wiki/Code_page_437).
 
-![437](/blog/images/2021-02-08/437.png)
+![437](/images/2021-02-08/437.png)
 
 What magical worlds were created with only these scant characters and some imagination. Beautiful.
 
@@ -49,10 +49,10 @@ The clear delineation of regions with a simple single-lined box was clean and pu
 
 There were a few pre-defined characters we used in games back then. The "smiley" face and the inverse were stalwarts of the time. This was you. 
 
-![faces](/blog/images/2021-02-08/faces.png)
+![faces](/images/2021-02-08/faces.png)
 
 There was no pile of poo or yellow winking face, that came much later.
 
 I guess having played with these characters so much during my early years on the PC, I grew to love them, and appreciate the creativity needed to get the most out of them. So while modern applications may well look pretty, I think I'll always find these text-only applications more alluring, simply because they can do so much with seemingly so little.
 
-![bpytop](/blog/images/2021-02-08/bpytop2.png)
+![bpytop](/images/2021-02-08/bpytop2.png)

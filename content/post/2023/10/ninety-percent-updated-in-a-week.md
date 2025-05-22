@@ -10,7 +10,7 @@ The other day I wrote about [snapcraft metrics](/blog/2023/10/snapcraft-metrics/
 
 So I took the metrics from an application that I published in the snap store and scrubbed the names and version numbers. I charted below the speed that devices roll over from one release to the next. Here's an image that I think clearly shows the rapid rise as a new release is published, and the rapid drop-off, of the previous version. This chart covers a month where three versions were published, a week or so apart. 
 
-[![Chart 1](/blog/images/2023-10-12/chart1.png)](/blog/images/2023-10-12/chart1.png)
+[![Chart 1](/images/2023-10-12/chart1.png)](/images/2023-10-12/chart1.png)
 
 This is a desktop application with around a thousand users. So it's not incredibly popular, but I think it's a significant enough userbase to illustrate my point. There have been nine releases, some of which are quite old. The latest release was published to the edge channel on Wednesday 4th, then the stable channel last Thursday, the 5th.
 
@@ -18,7 +18,7 @@ Only a few people subscribe to the edge channel - unsurprisingly - because that 
 
 Within a single day, over half the devices had been updated. By the following week over 90% of the devices had moved to the new release. Here's the data for just the last week of the graph. The numbers wobble about a bit from day to day, which is pretty normal. Not everyone turns their PC on every day. Not seen here, but there is often also a notable drop on weekends and public holidays. But the numbers are stable enough to illustrate my point.
 
-[![Application 1](/blog/images/2023-10-12/app1.png)](/blog/images/2023-10-12/app1.png)
+[![Application 1](/images/2023-10-12/app1.png)](/images/2023-10-12/app1.png)
 
 Let me explain the columns. The green and red are just to highlight when a number is going up (green) or down (red).
 

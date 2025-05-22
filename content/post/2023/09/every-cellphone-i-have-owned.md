@@ -44,7 +44,7 @@ If anyone has details I'm missing from the table below, do leave a comment, or p
 
 ### Nokia 101 (1993)
 
-![Nokia 101](/blog/images/2023-09-05/nokia-101.jpg)
+![Nokia 101](/images/2023-09-05/nokia-101.jpg)
 
 My first mobile phone, which I was roundly mocked for owning at the time. My friends mostly didn't have phones, and thought it ludicrous that anyone would need one. I was a technician at the local college, so had no real reason for having a mobile phone.
 
@@ -56,7 +56,7 @@ Mobile phones with pull-up antennas were cool. They should do that again. None o
 
 ### Nokia 2140 (1995)
 
-![Nokia 2140](/blog/images/2023-09-05/gsmnoki-350_l.png)
+![Nokia 2140](/images/2023-09-05/gsmnoki-350_l.png)
 
 The 2140 was my first digital (GSM) phone. I got this when I switched to the Orange mobile network in the UK. The Nokia 2140 was the Orange version of the Nokia 2110. This was due to Orange using different frequencies than the other UK networks - 1800MHz vs 900MHz and 1900MHz.
 
@@ -80,7 +80,7 @@ Also, another phone with an awesome pull-up antenna.
 
 ### Nokia NK702/6130 (1998)
 
-![Nokia 8110](/blog/images/2023-09-05/no6130b.gif)
+![Nokia 8110](/images/2023-09-05/no6130b.gif)
 
 NK702 was the Orange branded version of the generic 6130, which was similar to the generic 6150. An absolute unit of a mobile phone. It was the first Nokia to feature the classic game of "Snake".
 
@@ -94,11 +94,11 @@ For a long while I had one of these in a drawer as a backup phone. There's proba
 
 ### Nokia NK502/8110 (1998)
 
-![Nokia 8110](/blog/images/2023-09-05/no8110b.gif)
+![Nokia 8110](/images/2023-09-05/no8110b.gif)
 
 The "Matrix" or "Banana" phone, a modified version of the 8110 was used in the film [The Matrix](https://en.wikipedia.org/wiki/The_Matrix).
 
-![The 8110 used by Neo in The Matrix](/blog/images/2023-09-05/nokia-8110-matrix.jpg)
+![The 8110 used by Neo in The Matrix](/images/2023-09-05/nokia-8110-matrix.jpg)
 
 In the film Neo would pop the cover down by the press of a button. The slider was manual in real life, but the spring-loaded mechanism was added to the chunkier brother, the 7110.
 
@@ -106,7 +106,7 @@ The 8110 wasn't an especially amazing phone, the whole cover was really quite a 
 
 ### Nokia 7110 (1999)
 
-![Nokia 7110](/blog/images/2023-09-05/no7110b.gif)
+![Nokia 7110](/images/2023-09-05/no7110b.gif)
 
 Which, I obviously had to get. It was a fat version of the 8110. This featured "WAP" or "CWAP" as most people called it back then, or "[The baby Internet](https://youtu.be/x7qPAY9JqE4?si=2_lw9BZYApG75dz0&t=211)" as Steve Jobs called it in the iPhone launch some years later.
 
@@ -118,19 +118,19 @@ From this point on all the devices I own had the capability to have additional a
 
 ### Nokia 6600 (2003)
 
-![Nokia 6600](/blog/images/2023-09-05/no6600.gif)
+![Nokia 6600](/images/2023-09-05/no6600.gif)
 
 This was quite a jump in design from the 7110 before it. The 6600 was pretty small and very comfortable in the hand. It felt like holding a smooth pebble all the time.
 
 ### Nokia 6680 (2005)
 
-![Nokia 6680](/blog/images/2023-09-05/no6680.gif)
+![Nokia 6680](/images/2023-09-05/no6680.gif)
 
 My first phone with a front-facing camera, and nobody to call with one! Like when Alexander Graham-Bell made the first phone!
 
 ### Nokia N82 (2008)
 
-![Nokia N82](/blog/images/2023-09-05/nokia-n82.gif)
+![Nokia N82](/images/2023-09-05/nokia-n82.gif)
 
 I had the black version of this, and absolutely loved it. I installed a few additional apps on this. One was a tethering application. I'd sit on the train with my Toshiba laptop tethered to the wireless connection on the N82, using the internet connection before WiFi on trains was ubiquitous. 
 
@@ -171,7 +171,7 @@ I probably wouldn't do that these days tbh.
 
 ### HTC Hero (2009)
 
-![HTC Hero](/blog/images/2023-09-05/htc-hero.jpg)
+![HTC Hero](/images/2023-09-05/htc-hero.jpg)
 
 I think I first saw an HTC Hero in the hands of [Stuart Langridge](https://www.kryogenix.org/) while walking to the pub after [LUG Radio Live 2009](http://lugradio.org/live/2009/).
 
@@ -179,13 +179,13 @@ It was a fun departure from all those years of using Nokia devices. But it wasn'
 
 ### iPhone 4 (2010)
 
-![Apple iPhone 4](/blog/images/2023-09-05/apple-iphone-4-ofic-final.jpg)
+![Apple iPhone 4](/images/2023-09-05/apple-iphone-4-ofic-final.jpg)
 
 The iPhone 4 was a peak of mobile phone design when it came out, over a decade ago. I loved the feel of glass on the front and rear, and metal rail around the edge. The iPhone 4 was a massive step up from the HTC Hero. 
 
 ### iPhone 4s (2011)
 
-![Apple iPhone 4s](/blog/images/2023-09-05/apple-iphone-4s-new.jpg)
+![Apple iPhone 4s](/images/2023-09-05/apple-iphone-4s-new.jpg)
 
 It wasn't long after the iPhone 4 arrived in my hands that the 4s was announced. I ordered one, and got some money for the old 4 from Mazuma. The 4s was just as great as the 4.
 
@@ -197,19 +197,19 @@ The N9 was only in a few hands, and wasn't really a main target. The Transformer
 
 ### LG Nexus 4
 
-![LG Nexus 4](/blog/images/2023-09-05/lg-nexus-4-new.jpg)
+![LG Nexus 4](/images/2023-09-05/lg-nexus-4-new.jpg)
 
 I picked up a Nexus 4 to do some hacking on Ubuntu Touch. They were cheap and easy to hack on. They would never have shipped with Ubuntu Touch, but they were great developer devices.
 
 ### BQ Aquaris e4.5
 
-![BQ Aquaris E4.5](/blog/images/2023-09-05/BQ_Aquaris_E45.jpg)
+![BQ Aquaris E4.5](/images/2023-09-05/BQ_Aquaris_E45.jpg)
 
 This was the first officially supported Ubuntu Touch device. BQ had previously been shipping these with Android, but they made a few thousand with Ubuntu pre-installed. They also had the soft navigation buttons hidden on the Ubuntu version. We had a launch party in London where we invited a bunch of YouTubers and bloggers to get a device and unbox and review it on their channels. Fun times.
 
 ### Meizu Pro 5
 
-![Meizu Pro 5](/blog/images/2023-09-05/meizu-pro-5.jpg)
+![Meizu Pro 5](/images/2023-09-05/meizu-pro-5.jpg)
 
 The Pro 5 was a decently specced device with better camera than any of the other Ubuntu devices. When the Ubuntu Phone project shutdown in 2017, I flashed Android on the Pro 5, and it was very capable and fast. Eventually the battery completely died, and I killed the device while replacing the battery with one I picked up on ebay. Sad times.
 
@@ -219,19 +219,19 @@ I often carried an Android phone and an Ubuntu phone around at the same time. Ma
 
 ### OnePlus X (2015)
 
-![OnePlus X](/blog/images/2023-09-05/oneplus-x.jpg)
+![OnePlus X](/images/2023-09-05/oneplus-x.jpg)
 
 The X was easily my favourite OnePlus device. 
 
 ### OnePlus 3T (2017)
 
-![OnePlus X](/blog/images/2023-09-05/oneplus-3t-.jpg)
+![OnePlus X](/images/2023-09-05/oneplus-3t-.jpg)
 
 I managed to smash the display on this device, and then made a hash of repairing it. I clearly didn't learn from my fun fixing the Meizu Pro 5 a few years earlier. 
 
 ### OnePlus 5 (2019)
 
-![OnePlus 5](/blog/images/2023-09-05/oneplus-5.jpg)
+![OnePlus 5](/images/2023-09-05/oneplus-5.jpg)
 
 I still have this phone kicking around, running [Lineage OS](https://wiki.lineageos.org/devices/cheeseburger/). There are a couple of applications I like using, for which there's no iOS version available. 
 
@@ -239,7 +239,7 @@ I still have this phone kicking around, running [Lineage OS](https://wiki.lineag
 
 ### iPhone 13 Mini (2022)
 
-![Apple iPhone 13 Mini](/blog/images/2023-09-05/iphone13mini.png)
+![Apple iPhone 13 Mini](/images/2023-09-05/iphone13mini.png)
 
 Back to Apple again. I couldn't find an Android phone I liked. Now I have a MacBook Air, Apple Watch, Air Tags, iPads ... 
 

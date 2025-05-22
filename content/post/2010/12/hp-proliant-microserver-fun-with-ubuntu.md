@@ -7,7 +7,7 @@ tags = ['hp', 'linux', 'microserver', 'hardware', 'ubuntu']
 
 I recently took delivery of a new [HP ProLiant MicroServer](http://www.amazon.co.uk/gp/product/B0042ORTWM?ie=UTF8&amp;tag=popey-21&amp;linkCode=as2&amp;camp=1634&amp;creative=19450&amp;creativeASIN=B0042ORTWM) which I wanted to use for various small/home office server type tasks. It's a cracking little server, ideal for small offices and home users who want a small, low-power server. With only one fan in the case it's fairly quiet with most noise coming from the hard disk supplied, and any more you put in it.
 
-![HP Microserver](/blog/images/2010-12-30/hpmicroserver-300x225.jpg)
+![HP Microserver](/images/2010-12-30/hpmicroserver-300x225.jpg)
 
 The reason I got it was because HP are currently giving [£100 cash-back](http://www.hp.com/uk/proliantmicroserver/) (until end of January 2011) on the ProLiant MicroServer. Given how cheap it already is the cash-back makes it even more attractive! It's not super powerful and certainly not "pro server grade" kit, but perfect for my needs. 
 
@@ -26,7 +26,7 @@ If you want to see more technical info then I've put online the output from [lsp
 
 As is common with many servers, the device ships with no operating system installed and it has no optical drive so I chose to install Ubuntu 10.04.1 (LTS) from a USB key I had kicking around. On my desktop PC I simply plugged in the key &amp; started up <a href="http://unetbootin.sourceforge.net/">unetbootin</a> and chose "10.04_NetInstall_x64" from the list of distributions and my USB key from the list of drives, then clicked OK.
 
-![unetbootin](/blog/images/2010-12-30/unetbootin-300x223.png)
+![unetbootin](/images/2010-12-30/unetbootin-300x223.png)
 
 The BIOS on the HP MicroServer is a little quirky when dealing with boot devices. I had to fiddle about a bit to get it to boot off of the USB key, but once booted I was able to go through the installer with the server connected to the network and install a base Ubuntu Server on the single 160GB internal disk. I chose to install onto a 10GB root partition with some swap space allocated but the rest of the disk left blank for now. 
 

@@ -8,21 +8,21 @@ tags = ['software', 'web', 'twitter', 'rant']
 
 Bit of a rant, sorry. I'm trying to download my data from [Twitter](https://twitter.com/). I login via the web page, find the place to do this, note its says I'll get an "*archive of your data we think is most important to you*". Uh-huh, **you** think. Then click the button.
 
-![Notification](/blog/images/2021-01-04/request.png)
+![Notification](/images/2021-01-04/request.png)
 
 It takes a *day* to build that archive, and you're not allowed to ask for it again for 30 days. Next day I get a notification so I can download it.
 
-![Notification](/blog/images/2021-01-04/notification.jpg)
+![Notification](/images/2021-01-04/notification.jpg)
 
 So I dutifully go to the Twitter website and again navigate to this special place to download my archive. Except, the download comes down at 70KB/s! Then fails part way through. At this point the download button greys out so I can't try again! Bah!
 
-![Download](/blog/images/2021-01-04/download.png)
+![Download](/images/2021-01-04/download.png)
 
 I click "Resume" in the browser, but the download doesn't resume, and I can't click the greyed out button on the website anymore to re-initiate a download. Also, I can't request a new archive for another 30 days. So I work around this by going to the download tab in my browser and click the zip file link. It starts downloading fresh again, at around 100KB/s. 
 
-![Failed](/blog/images/2021-01-04/fail.png)
+![Failed](/images/2021-01-04/fail.png)
 
-My connection is fine, thanks to this [awesome trick](https://popey.com/blog/2020/12/double-your-network-speed-with-this-one-trick/)! It just seems the Twitter archives are hosted on the [Moon](https://en.wikipedia.org/wiki/Moon_(film)), or [Sealand](https://en.wikipedia.org/wiki/Principality_of_Sealand) or at the bottom of the [Mariana Trench](https://en.wikipedia.org/wiki/Mariana_Trench) or something. 
+My connection is fine, thanks to this [awesome trick](https://blog.popey.com/2020/12/double-your-network-speed-with-this-one-trick/)! It just seems the Twitter archives are hosted on the [Moon](https://en.wikipedia.org/wiki/Moon_(film)), or [Sealand](https://en.wikipedia.org/wiki/Principality_of_Sealand) or at the bottom of the [Mariana Trench](https://en.wikipedia.org/wiki/Mariana_Trench) or something. 
 
 I'll wait... 
 
@@ -32,7 +32,7 @@ At this rate I already forgot why I initiated the download in the first place! I
 
 With the download taking so long, I decided to investigate Twitter search a little further. I had previously been searching for it with the only word I could recall, "[chopper](https://twitter.com/search?q=(chopper)%20(from%3Apopey)&src=typed_query)", but turned up no results. With a fresh, New Year brain I remembered another word from the tweet - "[spooks](https://twitter.com/search?q=(spooks)%20(from%3Apopey)&src=typed_query)". Boom! [found it](https://twitter.com/popey/status/5458341937). 
 
-![Tweet](/blog/images/2021-01-04/tweet.png)
+![Tweet](/images/2021-01-04/tweet.png)
 
 The bitly link goes to [this photo](https://abpic.co.uk/pictures/view/1165460/) of G-TOPC, the topic of the Tweet. 
 

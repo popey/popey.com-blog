@@ -10,7 +10,7 @@ I had a few days off work this week. It was very enjoyable to spend a bit *more*
 
 However, in the quiet moments I still find myself browsing around, stumbling on new software I know will be enjoyed by my friends on Linux, and feel compelled to package it up, as a snap. This time around I found a [post](https://www.reddit.com/r/gnome/comments/lkjg8o/some_progress_on_my_rustgtk_spotify_client/) on [/r/gnome](https://www.reddit.com/r/gnome/) about "[Spot](https://github.com/xou816/spot)" a Gtk/Rust Spotify client. 
 
-[![/r/gnome](/blog/images/2021-02-18/reddit.png)](https://www.reddit.com/r/gnome/comments/lkjg8o/some_progress_on_my_rustgtk_spotify_client/)
+[![/r/gnome](/images/2021-02-18/reddit.png)](https://www.reddit.com/r/gnome/comments/lkjg8o/some_progress_on_my_rustgtk_spotify_client/)
 
 It ticks some boxes for me:
 

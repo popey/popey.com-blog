@@ -6,7 +6,7 @@ author = "Alan Pope"
 tags = ['software', 'linux', 'snap', 'snapcraft']
 +++
 
-[![Snapcraft Clinic](/blog/images/2021-02-25/clinic.png)](https://forum.snapcraft.io/t/snapcraft-clinic/20166/1?u=popey)
+[![Snapcraft Clinic](/images/2021-02-25/clinic.png)](https://forum.snapcraft.io/t/snapcraft-clinic/20166/1?u=popey)
 
 At [work](https://canonical.com) we have a [forum](https://forum.snapcraft.io/) where developers can discuss packaging Linux applications, specifically as snaps. Sometimes developers just want to pair through a problem to get it either resolved for themselves, or for whatever is blocking to be handed off to the right people. 
 

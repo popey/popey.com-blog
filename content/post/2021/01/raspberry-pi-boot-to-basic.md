@@ -10,11 +10,11 @@ tags = ['raspberrypi', 'basic', 'linux', 'linux', 'retro']
 
 My Raspberry Pi 400 boots from this:
 
-![Pi 400](/blog/images/2021-01-25/piboot.jpg)
+![Pi 400](/images/2021-01-25/piboot.jpg)
 
 To this.
 
-![BBC SDL](/blog/images/2021-01-25/bbcsdl.jpg)
+![BBC SDL](/images/2021-01-25/bbcsdl.jpg)
 
 BBC BASIC!
 
@@ -24,11 +24,11 @@ This blog post is what parts I smashed together to make this work and why.
 
 40 years ago this Christmas, I got my first "personal computer". It was a Sinclair ZX81 with 1KiB of RAM and a tape deck for storage. Every time I powered it on, like all '81 owners, I was greeted with this.
 
-![ZX81](/blog/images/2021-01-25/zx81_1.png)
+![ZX81](/images/2021-01-25/zx81_1.png)
 
 A couple of taps later, and I had written some code!
 
-![ZX81](/blog/images/2021-01-25/zx81_2.png)
+![ZX81](/images/2021-01-25/zx81_2.png)
 
 Ok, not a super auspicious creation, but it's a start. It's likely the same first program you wrote if you had one. Perhaps with rude words, who knows, they were fun times back in the '80s. Through the following years I had a [Sinclair](https://en.wikipedia.org/wiki/Sinclair_Research) [ZX Spectrum 16K](https://en.wikipedia.org/wiki/ZX_Spectrum) (later upgraded to 48K), a [Spectrum +2 128K](https://en.wikipedia.org/wiki/ZX_Spectrum#ZX_Spectrum_+2) and an [Amstrad](https://en.wikipedia.org/wiki/Amstrad) [CPC 464](https://en.wikipedia.org/wiki/Amstrad_CPC#CPC_464). All of which also booted directly to a programming language - [BASIC](https://en.wikipedia.org/wiki/BASIC).
 
@@ -38,7 +38,7 @@ In one class on [databases](https://en.wikipedia.org/wiki/DBase), we used genuin
 
 IBM PCs back then had BASIC on ROM, much like the contemporary 8-bit microcomputers I'd had at home. So if there was no operating system found, such as on floppy or hard disk, you'd get this.
 
-![BASIC](/blog/images/2021-01-25/basic.png)
+![BASIC](/images/2021-01-25/basic.png)
 
 I would often get so bored that I'd start coding something in BASIC while we waited for class to start. Most of the time I'd just create simple programs to display funky graphical patterns on the display. It was a brain exercise before the classes started, a creative outlet, and was fun too. 
 
@@ -54,7 +54,7 @@ I *miss* computers that boot to BASIC. So I looked into how interesting it might
 
 Sure, I could hook up one of my many retro computers, or boot an old ThinkPad and load some BASIC interpreter, I wanted something new, and zeitgeisty!  Then it hit me, I have the perfect computer to do this, the Raspberry Pi 400! The Pi has a strong connection back to the original BBC Micros I used in the 80's. It even looks like an 80's computer. 
 
-![Raspberry Pi 400](/blog/images/2021-01-25/pi400.jpg)
+![Raspberry Pi 400](/images/2021-01-25/pi400.jpg)
 
 It's a travesty that it *doesn't* boot to BASIC out of the box (one might argue) 😀. So I set out on my goal of getting BASIC booting on the Pi. My key requirement was that it show me a traditional full-featured BASIC on boot, without having to login. I didn't want to have to wait for a full desktop environment to start, and didn't like the idea of logging in at the `console` / `TTY`. 
 
@@ -62,19 +62,19 @@ It's a travesty that it *doesn't* boot to BASIC out of the box (one might argue)
 
 The easy solution is to use an emulator of a system of yore, and just use the onboard BASIC which shipped on ROM. This seemed like cheating to me. Anyone can spin up an emulator on basically anything, that's not a challenge. So I dismissed emulation. 
 
-![DOSBOX-X](/blog/images/2021-01-25/dosbox-x.png)
+![DOSBOX-X](/images/2021-01-25/dosbox-x.png)
 
 I did consider looking for the BASIC / BASICA / [GW-BASIC](https://en.wikipedia.org/wiki/GW-BASIC) binaries and try booting them somehow, but given they're not freely available, and more importantly are Intel 8086 machine code, and I'm using an ARM based Raspberry Pi, that wouldn't easily fly (without emulation).
 
 I am not capable of writing a BASIC interpreter, but the good news is, other people have. I found a couple of "modern" re-implementations of BASIC which were good candidates, [PCBASIC](https://robhagemans.github.io/pcbasic/) by Rob Hagemans and [BBCSDL](http://www.bbcbasic.co.uk/index.html) by R. T. Russell. Both are excellent, open source, currently maintained projects! 
 
-![BBC BASIC](/blog/images/2021-01-25/bbcbasic.png)
+![BBC BASIC](/images/2021-01-25/bbcbasic.png)
 
-![PC-BASIC](/blog/images/2021-01-25/pcbasic.png)
+![PC-BASIC](/images/2021-01-25/pcbasic.png)
 
 Both of them have some platform requirements which are served well on traditional Linux distributions. The above screenshots were taken on my desktop while I tested the various interpreter options. There's other options like [QB64](https://www.qb64.org/portal/) which carefully reproduces the QBasic / QuickBasic of the late MS-DOS era. While I like QB64, it's not the aesthetic I was after.
 
-![QB64](/blog/images/2021-01-25/qb64.png)
+![QB64](/images/2021-01-25/qb64.png)
 
 ## 40 RETURN
 
@@ -100,7 +100,7 @@ That's fine, and I could certainly configure the system to auto-login and run th
 
 In parallel I was also looking at BBCSDL which is written in C, and levergaes SDL2. With a bit of hacking I got it launching using Mir as a wayland compositor on top of Ubuntu Server. However the video output was corrupt.
 
-![BBCSDL on Mir](/blog/images/2021-01-25/bbconmir.png)
+![BBCSDL on Mir](/images/2021-01-25/bbconmir.png)
 
 After some discussion with the Mir team last week, it seems BBCSDL was trying to set a specific resolution and for whatever reason Mir didn't like this. BBCSDL works in a window under Mir on a GUI or Pi running a desktop environment. But when launched as an 'appliance' as the only graphical surface, I got the unusable display above. 
 

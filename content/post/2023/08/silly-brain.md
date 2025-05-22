@@ -24,25 +24,25 @@ I turn around and note the IP is displayed on the laser display screen.
 
 ## Step 3: Open the admin tool
 
-[![HP Web Admin Tool](/blog/images/2023-08-30/hpadmin.png)](/blog/images/2023-08-30/hpadmin.png)
+[![HP Web Admin Tool](/images/2023-08-30/hpadmin.png)](/images/2023-08-30/hpadmin.png)
 
 ## Step 4: Noodle around for the page count
 
 After some minutes, I don't find the page count, but I do discover this screen.
 
-[![HP Web Services](/blog/images/2023-08-30/webservices.png)](/blog/images/2023-08-30/webservices.png)
+[![HP Web Services](/images/2023-08-30/webservices.png)](/images/2023-08-30/webservices.png)
 
 Wait, what's that device on the left!?
 
 Select, crop, zoom... 
 
-[![Device](/blog/images/2023-08-30/device.png)](/blog/images/2023-08-30/device.png)
+[![Device](/images/2023-08-30/device.png)](/images/2023-08-30/device.png)
 
 Is that some kind of Blackberry!?
 
 ## Step 5: Find that device
 
-[![Google image search](/blog/images/2023-08-30/imagesearch.png)](/blog/images/2023-08-30/imagesearch.png)
+[![Google image search](/images/2023-08-30/imagesearch.png)](/images/2023-08-30/imagesearch.png)
 
 Ok, it's an HP device, that makes total sense given it's an HP printer.
 
@@ -56,7 +56,7 @@ Wait, when did I get this printer!?
 
 Search my email and discover I bought it off an eBay seller in 2013. 
 
-[![Google image search](/blog/images/2023-08-30/ebay.png)](/blog/images/2023-08-30/ebay.png)
+[![Google image search](/images/2023-08-30/ebay.png)](/images/2023-08-30/ebay.png)
 
 I had no idea this lump of plastic and metal has been sat in our house eating toner and sometimes printing things for coming up to a decade. Does everyone keep their printer that long?
 
@@ -72,7 +72,7 @@ Of course not, that would be far too easy. We shall plough on and write the blog
 
 ## Step 9: Fire up WSL
 
-Thankfully at least I must have installed WSL at some point in the past, so I can quickly clone the [repo](https://github.com/popey/popey.com-blog) my [blog](https://popey.com/blog) source code lives in.
+Thankfully at least I must have installed WSL at some point in the past, so I can quickly clone the [repo](https://github.com/popey/popey.com-blog) my [blog](https://blog.popey.com) source code lives in.
 
 Sure, I could clone the repo in Windows directly. But my brain knows git and Linux stuff in the terminal, and WSL is here already.
 
@@ -80,7 +80,7 @@ Sure, I could clone the repo in Windows directly. But my brain knows git and Lin
 
 My blog uses the static site generator [Hugo](https://gohugo.io/) which has binary builds for lots of platforms. Don't be like me, and download the arm64 build for your amd64 WSL image. That's silly.
 
-[![WSL](/blog/images/2023-08-30/wsl.png)](/blog/images/2023-08-30/wsl.png)
+[![WSL](/images/2023-08-30/wsl.png)](/images/2023-08-30/wsl.png)
 
 I eventually found the amd64 deb package and installed that.
 
@@ -90,7 +90,7 @@ I eventually found the amd64 deb package and installed that.
 
 I really like [Sublime Text](https://www.sublimetext.com/3) and [Sublime Merge](https://www.sublimemerge.com/), and even have a paid license for each. So I go and download them both and install them, and find the license keys in my email from 2020 and apply them too!
 
-[![Sublime Text licensed](/blog/images/2023-08-30/st.png)](/blog/images/2023-08-30/st.png) [![Sublime Merge licensed](/blog/images/2023-08-30/sm.png)](/blog/images/2023-08-30/sm.png)
+[![Sublime Text licensed](/images/2023-08-30/st.png)](/images/2023-08-30/st.png) [![Sublime Merge licensed](/images/2023-08-30/sm.png)](/images/2023-08-30/sm.png)
 
 Fun fact, you can remove the license from each of these products in the Help menu. That's useful to know if you want to add the license key back in, so you can take a screenshot of the "Thank you" dialog for a blog post. Good to know! 
 
@@ -100,7 +100,7 @@ I probably don't need Sublime Merge, as I could push my changes with git on the 
 
 This is neat! Windows exposes the Linux filesystem in the Explorer, under this little Tux icon. I like this. Previous releases of WSL required you to rummage around in folders. 
 
-[![Windows explorer](/blog/images/2023-08-30/explorer.png)](/blog/images/2023-08-30/explorer.png)
+[![Windows explorer](/images/2023-08-30/explorer.png)](/images/2023-08-30/explorer.png)
 
 ## Step 13: Create the blog post
 

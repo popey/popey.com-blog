@@ -76,11 +76,11 @@ Second, one of the key messages I pushed yesterday was that the dodgy applicatio
 
 One of my recommended actions for Canonical was that they should push out a 'clean' snap under the same name, to replace those dodgy snaps. Well...
 
-![Good news everyone!](/blog/images/2024-02-21/good-news-everyone.gif)
+![Good news everyone!](/images/2024-02-21/good-news-everyone.gif)
 
 Canonical heard the call, and have started pushing out empty snaps in place of the dodgy ones. Note the arbitrary high version number of "9.9.9". *I personally would have preferred "6.6.6" but we can't have everything* ;).
 
-[![Exodus repaired in the Snap store](/blog/images/2024-02-21/exodus-fixed_50.png)](/blog/images/2024-02-21/exodus-fixed_100.png)
+[![Exodus repaired in the Snap store](/images/2024-02-21/exodus-fixed_50.png)](/images/2024-02-21/exodus-fixed_100.png)
 
 Anyone who has one of the dodgy ones should get an "over the air" update soon enough, to replace it with an empty package.
 
@@ -113,7 +113,7 @@ created 0 sockets
 created 0 hardlinks
 ```
 
-![Nothing to see here!](/blog/images/2024-02-21/nothing-to-see-here.gif)
+![Nothing to see here!](/images/2024-02-21/nothing-to-see-here.gif)
 
 ```bash
 alan@vm:~/temp$ tree squashfs-root/

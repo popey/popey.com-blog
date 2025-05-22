@@ -8,7 +8,7 @@ tags = ['hardware', 'linux', 'hdmi', 'ffmpeg']
 
 Three years ago I bought a [Magewell USB HDMI capture device](https://geni.us/RWqQ) (affiliate link). It's a neat, reliable and well made, if expensive device. I use it to capture the output of computers, mostly to get pixel perfect bug reports, and to make some videos for YouTube. I prefer these hardware solutions over the software screencasting counterparts, as they tend to be more reliable, and don't consume resources on the computer being recorded.
 
-[![Magewell USB HDMI capture device](/blog/images/2021-01-27/magewell.jpg)](https://geni.us/RWqQ)
+[![Magewell USB HDMI capture device](/images/2021-01-27/magewell.jpg)](https://geni.us/RWqQ)
 
 *If you're looking for a cheaper alternative (which weren't around when I bought the above device) check out [How to Tweak a £10 HDMI to USB Capture Device](https://bigl.es/friday-fun-10-hdmi-to-usb-capture/) by [Les Pounder](https://bigl.es/).*
 
@@ -96,7 +96,7 @@ video:23476kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing
 
 When no device is attached, you get an image like this, so you can test with no external source attached.
 
-![No source](/blog/images/2021-01-27/capture.jpg)
+![No source](/images/2021-01-27/capture.jpg)
 
 That's it. You get a nice 1080p60 video which can be uploaded to video sharing sites, or used in whatever video editor you prefer. 
 

@@ -8,7 +8,7 @@ tags = ['']
 
 A few weeks ago, in [episode 25](https://linuxmatters.sh/25/) of [Linux Matters Podcast](https://linuxmatters.sh/) I brought up the subject of 'Coding Joy'. This blog post is an expanded follow-up to that segment. Go and listen to that episode - or not - it's all covered here.
 
-[![The Joy of Linux Torture](/blog/images/2024-02-20/linuxmatters-banner-3000x750_30.png)](https://linuxmatters.sh/25/)
+[![The Joy of Linux Torture](/images/2024-02-20/linuxmatters-banner-3000x750_30.png)](https://linuxmatters.sh/25/)
 
 ## Not a Developer
 

@@ -16,11 +16,11 @@ I don't consider myself a "gamer" because I find that term somewhat of a toxic g
 
 Some games I've picked up in the sales, because I had them on my wishlist, or happened across an article or promotion for them. According to Steam I have 495 things classified as "Games", of which it claims I have 391 "Unplayed". It's not completely accurate though, because I have certainly played some of them, whether Steam thinks I have or not.
 
-![Steam](/blog/images/2021-01-11/steam.png)
+![Steam](/images/2021-01-11/steam.png)
 
 In the replies to the tweet, [Roger Light](https://twitter.com/ralight) [suggested](https://twitter.com/ralight/status/1346604889015779335) [howlongtobeat.com](https://howlongtobeat.com). It queries your public steam profile for the games you have, and presents the estimated time to play through the main game, side quests and to complete it. 
 
-![howlong](/blog/images/2021-01-11/howlong.png)
+![howlong](/images/2021-01-11/howlong.png)
 
 This is great for filtering the list, to find games which fit in time slots I have to play in between work, parenting and sleeping. I think 2021 is going to be a year of going back over this collection, and perhaps buying fewer new games, so I can catch up!
 

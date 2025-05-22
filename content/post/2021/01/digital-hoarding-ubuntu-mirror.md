@@ -182,7 +182,7 @@ Looks good! Also, yikes at that traffic.
 
 Visiting the site in a browser should work as a quick check to make sure the site is configured correctly.
 
-![mirror](/blog/images/2021-01-12/mirror.png)
+![mirror](/images/2021-01-12/mirror.png)
 
 
 ## Configure clients
@@ -205,11 +205,11 @@ deb-src http://security.ubuntu.com/ubuntu groovy-security main restricted univer
 
 Test that it works:
 
-![apt update](/blog/images/2021-01-12/apt-update.png)
+![apt update](/images/2021-01-12/apt-update.png)
 
 Looking good so far, let's see if we can install a package.
 
-![apt install](/blog/images/2021-01-12/apt-install.png)
+![apt install](/images/2021-01-12/apt-install.png)
 
 ## Scheduled updates
 

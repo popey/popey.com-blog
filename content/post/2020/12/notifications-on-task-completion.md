@@ -8,19 +8,19 @@ tags = ['software', 'ubuntu', 'terminal', 'linux']
 
 Like many in development-oriented roles, I'm frequently running long-executing tasks on my workstation, while I get on with a sword fight, or making a cup of coffee.
 
-[![Compiling!](/blog/images/2020-12-28/compiling.png)](https://xkcd.com/303/)
+[![Compiling!](/images/2020-12-28/compiling.png)](https://xkcd.com/303/)
 
 More seriously, I do often leave a software build, or packaging script running, while I context-switch to answer support requests, proof-read a blog post, or prepare for a meeting. Sometimes it's nice to be reminded when that long-runner finishes, otherwise I might forget it's sat there, all lonely in another workspace somewhere on my computer. 
 
-![Terminal](/blog/images/2020-12-28/terminal.png)
+![Terminal](/images/2020-12-28/terminal.png)
 
 Enter [undistract-me](https://github.com/jml/undistract-me) by the ever-excellent [Jonathan Lange](https://github.com/jml). This solves the forgetfulness problem I have by pinging a desktop notification at me when a long-running task finishes in a terminal window somewhere on my machine. It's super simple, and very handy.
 
-![Notification](/blog/images/2020-12-28/notification.png)
+![Notification](/images/2020-12-28/notification.png)
 
 If you're afk getting a coffee, or just miss the notification while you're looking out the window, no matter, you can see it alongside all the other notifications in your desktop.
 
-![Notifications](/blog/images/2020-12-28/notifications.png)
+![Notifications](/images/2020-12-28/notifications.png)
 
 I install this on all of my Ubuntu desktop / laptop systems. You might want to as it's pretty handy. I know some other Linux distributions have this kind of feature baked into their out-of-the-box experience, but Ubuntu doesn't, so I install it myself.
 

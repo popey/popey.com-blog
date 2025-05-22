@@ -12,7 +12,7 @@ Email address is `my first name (at) this domain`. Alternatively use one of the 
 ### popey on the web ###
 
   * [Telegram](https://popey.com/telegram)
-  * [Blog](https://popey.com/blog)
+  * [Blog](https://blog.popey.com/)
   * [GitHub](https://github.com/popey)
   * [Launchpad](https://launchpad.net/~popey)
   * [AskUbuntu](https://askubuntu.com/users/612/popey)

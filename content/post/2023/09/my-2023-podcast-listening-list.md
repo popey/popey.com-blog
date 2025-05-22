@@ -10,7 +10,7 @@ tags = ['podcast', 'audio']
 
 At the start of 2021, I wrote up [my 2021 podcast listening list](/blog/2021/02/my-podcast-listening-list/). In it, I categorised podcasts I listen to broadly as 'Must listen', 'Regular listens' and 'Once in a while'. 
 
-[![PocketCasts](/blog/images/2023-09-11/pocketcasts.png)](/blog/images/2023-09-11/pocketcasts.png)
+[![PocketCasts](/images/2023-09-11/pocketcasts.png)](/images/2023-09-11/pocketcasts.png)
 
 Back then I was using PocketCasts on Android. The full list of subscriptions can be found [here](https://lists.pocketcasts.com/86047ad8-aede-447c-b50e-85909834e328).
 
@@ -18,7 +18,7 @@ Back then I was using PocketCasts on Android. The full list of subscriptions can
 
 In June 2022, I switched from Android to iOS as I moved from OnePlus 5 to iPhone 13 Mini as my primary device. During that migration I decided to use the built-in Apple Podcasts app rather than continue with PocketCasts. I couldn't figure out how to migrate the subscriptions from PocketCasts to Apple Podcasts, so it's a fresh start!
 
-[![Apple Podcasts](/blog/images/2023-09-11/apple.png)](/blog/images/2023-09-11/apple.png)
+[![Apple Podcasts](/images/2023-09-11/apple.png)](/images/2023-09-11/apple.png)
 
 Anyone know how to get the full list of subscribed shows out of Apple Podcasts?
 

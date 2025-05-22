@@ -40,11 +40,11 @@ So, I have a better compromise, Web Apps. Not new, they've been around forever, 
 
 Here's how it works. Open the website in question to be *webappified*, for example [Tweetdeck](https://tweetdeck.twitter.com/). In Google Chrome (for this is the web browser I use primarily), hit the three dots (kebab menu) -> More tools -> Create shortcut. 
 
-![Chrome menu](/blog/images/2021-03-09/chrome.png)
+![Chrome menu](/images/2021-03-09/chrome.png)
 
 In the popup, give the application/website a name, and tick the box.
 
-![App name](/blog/images/2021-03-09/name.png)
+![App name](/images/2021-03-09/name.png)
 
 Click the "Create" button. 
 
@@ -52,6 +52,6 @@ That's it. You'll get a new icon in your desktop launcher which you can pin to y
 
 It's better than it was, that's for sure...
 
-![ps_mem.py](/blog/images/2021-03-09/ps_mem.png)
+![ps_mem.py](/images/2021-03-09/ps_mem.png)
 
 More work to do though, clearly!

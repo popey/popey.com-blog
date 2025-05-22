@@ -32,7 +32,7 @@ It sounded fun so I agreed to submit my voice, via a third party company - [Voca
 
 I spent some hours recording (and re-recording) 3488 short sentences which could later be processed and used to synthesize my voice. Here'a an unflattering selfie taken on 1st April 2016 of me in my young Son's bedroom recording my voice using a Blue Snowball. 
 
-![Recording Studio](/blog/images/2022-10-11/recording.jpg)
+![Recording Studio](/images/2022-10-11/recording.jpg)
 
 The Mycroft team took these snippets and did *something* to turn that into a dataset which could be used with their assistant software. You could essentially make it (me) say anything. The initial results weren't fantastic. It was clearly "my" voice, but it sounded robotic, bass-heavy and very much in the uncanny valley. 
 
@@ -42,19 +42,19 @@ The initial *Mycroft Mark I* hardware units did eventually ship. I got sent one 
 
 The large box it shipped in...
 
-![Mycroft AI box](/blog/images/2022-10-11/mycroftbox.jpg)
+![Mycroft AI box](/images/2022-10-11/mycroftbox.jpg)
 
 The scary warning you got when opening the box...
 
-![Mycroft AI scary](/blog/images/2022-10-11/mycroftscary.jpg)
+![Mycroft AI scary](/images/2022-10-11/mycroftscary.jpg)
 
 The front of the Mycroft Mark I...
 
-![Mycroft AI front](/blog/images/2022-10-11/mycroftfront.jpg)
+![Mycroft AI front](/images/2022-10-11/mycroftfront.jpg)
 
 Mycroft's rear
 
-![Mycroft AI back](/blog/images/2022-10-11/mycroftback.jpg)
+![Mycroft AI back](/images/2022-10-11/mycroftback.jpg)
 
 ## What are beans
 
@@ -68,7 +68,7 @@ Once I'd unpacked the Mark I and setup the software, I tried asking it/them/me s
 
 Some people took the software and did fun things with it. For a while there was a website called "Blame popey" in which you could type any text (yes, anything) and have it turned into a WAV file of "me" saying it. How we laughed.
 
-![Blame popey](/blog/images/2022-10-11/blamepopey.png)
+![Blame popey](/images/2022-10-11/blamepopey.png)
 
 ## popey sings
 
@@ -82,7 +82,7 @@ Someone else took it a step further and set some of this to music as "popey sing
 
 We even went as far as pressing the songs above onto vinyl as a 9-track "Limited Edition EP" to give away as a "prize" at a live Ubuntu Podcast event. Someone, somewhere has one of these. I have no idea if they've ever actually been played on a genuine turntable. Probably not. 
 
-![popey EP](/blog/images/2022-10-11/vinyl.jpg)
+![popey EP](/images/2022-10-11/vinyl.jpg)
 
 ## popey Mark III
 
@@ -90,7 +90,7 @@ While the original audio used in the Mark I device was robotic and difficult to 
 
 It's pretty trivial to get the Mimic 3 engine running on a modern laptop or even Raspberry Pi, to play with it. 
 
-![Mimic 3 web UI](/blog/images/2022-10-11/mimic3.png)
+![Mimic 3 web UI](/images/2022-10-11/mimic3.png)
 
 ## Conclusion
 

@@ -14,7 +14,7 @@ In 1997 I bought a toaster. I still own that toaster. It is the best toaster mon
 
 Here is a photograph of that toaster. You'll note this is an *action shot* of the toaster in-situ, mid-toast. Please sit down before viewing this image.
 
-![Toaster](/blog/images/2021-01-28/toaster.jpg)
+![Toaster](/images/2021-01-28/toaster.jpg)
 
 I know. Incredible isn't it? It's beautiful, functional, reliable and I want to be buried with it.
 

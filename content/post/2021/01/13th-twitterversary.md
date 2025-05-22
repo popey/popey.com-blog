@@ -8,13 +8,13 @@ tags = ['social', 'twitter']
 
 I woke up this morning to a notification injected into my timeline in the Twitter app. 
 
-![Twitter Anniversary](/blog/images/2021-01-16/twitterversary.jpg)
+![Twitter Anniversary](/images/2021-01-16/twitterversary.jpg)
 
 Apparently it's my "Twitter anniversary" which I can "celebrate" by tweeting out a pre-made picture of the number 13. That's too easy. Instead I recently [downloaded](/blog/2021/01/downloading-twitter-data-or-not/) my Twitter data. Let me be self-indulgent and take a look and see what happened over those 13 years.
 
 For those who haven't tried downloading their Twitter data, what you get is a browseable archive with a summary front page.
 
-![Archive front page](/blog/images/2021-01-16/archivefront.png)
+![Archive front page](/images/2021-01-16/archivefront.png)
 
 Worth noting the archive contains your own tweets, direct messages and other data, but doesn't have the tweets you replied to. It is possible to click through and view them in context back at twitter.com but if the person you're conversing with has deleted their tweets, you end up with a disjointed mess, looking like you're talking to yourself.
 
@@ -73,7 +73,7 @@ I did engage in a little bit of Vague Tweeting.
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Plotting secret plots</p>&mdash; Alan Pope 🍺🐧🐱🇬🇧🇪🇺 (@popey) <a href="https://twitter.com/popey/status/654883862?ref_src=twsrc%5Etfw">January 29, 2008</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 {{< /rawhtml >}}
 
-![Vague status](/blog/images/2021-01-16/vaguestatusforattention.jpg)
+![Vague status](/images/2021-01-16/vaguestatusforattention.jpg)
 
 I suspect this "secret plot" was planning for the start of [Ubuntu Podcast](https://ubuntupodcast.org/), which [launched](http://podcast.ubuntu-uk.org/2008/03/11/s01e01-a-little-less-conversation/) later that year as [Ubuntu UK Podcast](https://podcast.ubuntu-uk.org/), and is still going 13 years later!
 
@@ -135,7 +135,7 @@ In 2019 I had another fun highlight. There was a whole "Stop The Coup" movement 
 
 For some reason Twitter decided to use my photo to highlight the trending #stopthecoupe hashtag. 
 
-[![Trending](/blog/images/2021-01-16/trending.jpeg)](https://twitter.com/Bingy/status/1167165601267236865)
+[![Trending](/images/2021-01-16/trending.jpeg)](https://twitter.com/Bingy/status/1167165601267236865)
 
 I don't think I can top this. I peaked on Twitter in 2019.
 

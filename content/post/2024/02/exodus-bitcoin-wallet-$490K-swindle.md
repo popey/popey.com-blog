@@ -10,13 +10,13 @@ tags = ['ubuntu', 'snapcraft', 'crypto', 'scam', 'bitcoin', 'wallet', 'exodus']
 
 **tl;dr**: A Bitcoin investor was recently scammed out of 9 Bitcoin (worth around $490K) in a fake "Exodus wallet" desktop application for Linux, published in the Canonical Snap Store. This isn't the first time, and if nothing changes, it likely won't be the last. 
 
-[![Bye bye bitcoin](/blog/images/2024-02-20/byebyebitcoin50.png)](https://www.walletexplorer.com/wallet/32394c8892f2076c)
+[![Bye bye bitcoin](/images/2024-02-20/byebyebitcoin50.png)](https://www.walletexplorer.com/wallet/32394c8892f2076c)
 
 *This post turned out longer than I expected. So if you don't have the time there's a briefer summary at the bottom under "In summary (the tl;dr)" along with my suggestions on what Canonical should do now.*
 
 We talked about this in [episode 23](https://linuxmatters.sh/23/) of [Linux Matters Podcast](https://linuxmatters.sh/), if you prefer a truncated audio version. The episode was recorded on 13th February 2024, and published on 20th February whereas this blog post is current as of the publication date.
 
-[![Scam exodus app](/blog/images/2024-02-20/linuxmatters-banner-3000x750_30.png)](https://linuxmatters.sh/23/)
+[![Scam exodus app](/images/2024-02-20/linuxmatters-banner-3000x750_30.png)](https://linuxmatters.sh/23/)
 
 *Patreon [supporters](https://linuxmatters.sh/support) of [Linux Matters](https://linuxmatters.sh/) can get the show a day early, and without adverts.* 🙏
 
@@ -32,7 +32,7 @@ An application called "Exodus" was published in the Canonical Snap store on 6th 
 
 The application had a couple of screenshots, an icon, and a detailed description. 
 
-[![Exodus in the Snap store](/blog/images/2024-02-20/Screenshot_12-2-2024_192925_snapcraft.io_crop_50.jpeg)](/blog/images/2024-02-20/Screenshot_12-2-2024_192925_snapcraft.io_crop_100.jpeg)
+[![Exodus in the Snap store](/images/2024-02-20/Screenshot_12-2-2024_192925_snapcraft.io_crop_50.jpeg)](/images/2024-02-20/Screenshot_12-2-2024_192925_snapcraft.io_crop_100.jpeg)
 
 Early on Sunday 12th February a new [Snapcraft forum](https://forum.snapcraft.io/) user named "castle" [started](https://forum.snapcraft.io/t/exodus-movement-exod/38904) a short thread titled "[Exodus - Movement Exod](https://forum.snapcraft.io/t/exodus-movement-exod/38904)". In it, they enquired:
 
@@ -55,7 +55,7 @@ The "Exodus" application was published in the Snap store at https://snapcraft.io
 
 Below is a screen capture of the full Exodus Snap store page I took at the time.
 
-[![Exodus in the Snap store](/blog/images/2024-02-20/Screenshot_12-2-2024_192925_snapcraft.io_50.jpeg)](/blog/images/2024-02-20/Screenshot_12-2-2024_192925_snapcraft.io_100.jpeg)
+[![Exodus in the Snap store](/images/2024-02-20/Screenshot_12-2-2024_192925_snapcraft.io_50.jpeg)](/images/2024-02-20/Screenshot_12-2-2024_192925_snapcraft.io_100.jpeg)
 
 The store page looks somewhat legitimate, to the untrained eye. The publisher's name was "Movement Exod (movementexod)", which also adds *some* legitimacy. It was published in the "Finance" category in the store.
 
@@ -65,15 +65,15 @@ Note the coloured map at the bottom of the page has multiple countries highlight
 
 The application could also be viewed in the desktop "App Centre" (previously "Ubuntu Software") application storefront.
 
-[![Exodus in the Ubuntu Store](/blog/images/2024-02-20/gnome-software_50.png)](/blog/images/2024-02-20/gnome-software_100.png)
+[![Exodus in the Ubuntu Store](/images/2024-02-20/gnome-software_50.png)](/images/2024-02-20/gnome-software_100.png)
 
 Interestingly we learned via their [responses](https://forum.snapcraft.io/t/exodus-movement-exod/38904/6) that the desktop GUI was likely the way the "castle" user installed the Exodus application on their system. That's pertinent given a later response where they ask why the snap is presented as "Safe" in the storefront. They likely saw a button like this in the "App Centre", which gave them some confidence in the application.
 
-[![Exodus in the Snap store](/blog/images/2024-02-20/safe.png)](/blog/images/2024-02-20/safe.png)
+[![Exodus in the Snap store](/images/2024-02-20/safe.png)](/images/2024-02-20/safe.png)
 
 Furthermore the title of the Snapcraft web frontend says "*Snaps are containerised software packages that are simple to create and install. They auto-update and are safe to run.*"
 
-[![Snapcraft title](/blog/images/2024-02-20/safe-to-run_100.png)](/blog/images/2024-02-20/safe-to-run_100.png)
+[![Snapcraft title](/images/2024-02-20/safe-to-run_100.png)](/images/2024-02-20/safe-to-run_100.png)
 
 *Are they though?*
 
@@ -159,7 +159,7 @@ alan@vm:~/temp$ ls -lh squashfs-root/bin/exodus
 
 I looked on the upstream [Exodus website](https://www.exodus.com/) to see if there was any mention of the snap. 
 
-[![Official Exodus electron app](/blog/images/2024-02-20/exodus-website.png)](/blog/images/2024-02-20/exodus-website.png)
+[![Official Exodus electron app](/images/2024-02-20/exodus-website.png)](/images/2024-02-20/exodus-website.png)
 
 Notably the snapped application was neither linked nor even mentioned. There are deb and zip files for a Linux build of their Exodus Wallet application, though.
 
@@ -213,11 +213,11 @@ I wondered what the application did though. So I spun up a [Quickemu](https://gi
 
 Once launched, the dodgy Exodus app shows a window containing a branded background overlayed with input fields and buttons. 
 
-[![Scam exodus app](/blog/images/2024-02-20/scam-exodus-app-1_70.png)](/blog/images/2024-02-20/scam-exodus-app-1.png)
+[![Scam exodus app](/images/2024-02-20/scam-exodus-app-1_70.png)](/images/2024-02-20/scam-exodus-app-1.png)
 
 Clicking the help icon reveals the very brief documentation. The user is expected to input their twelve-word recovery phrase, to "import" their Exodus wallet.
 
-[![Scam exodus app](/blog/images/2024-02-20/scam-exodus-app-2_70.png)](/blog/images/2024-02-20/scam-exodus-app-2.png)
+[![Scam exodus app](/images/2024-02-20/scam-exodus-app-2_70.png)](/images/2024-02-20/scam-exodus-app-2.png)
 
 "You need to write your 12-words phrase to import wallet. If your wallet is not imported, it means it is either not created or you are entering incorrect data. Before you click the import wallet button, **double-check the entered phrase**"
 
@@ -225,11 +225,11 @@ Clicking the help icon reveals the very brief documentation. The user is expecte
 
 **It's mentioned in bold on the upstream Exodus site, and their subreddit, that users should never enter their twelve-word wallet recovery phrase, and that Exodus will never ask for this information.**
 
-[![Never 1](/blog/images/2024-02-20/never-1_45.png)](/blog/images/2024-02-20/never-1.png)
+[![Never 1](/images/2024-02-20/never-1_45.png)](/images/2024-02-20/never-1.png)
 
 "❗ Exodus Staff will NEVER ask for sensitive information, including passwords, 12-word phrases or private keys."
 
-[![Never 1](/blog/images/2024-02-20/never-2_45.png)](/blog/images/2024-02-20/never-2.png)
+[![Never 1](/images/2024-02-20/never-2_45.png)](/images/2024-02-20/never-2.png)
 
 "Exodus will never ask you for your 12-word (secret) phrase. Exodus will never as for your password. Exodus will never ask you to visit a link except for our official website at www.Exodus.com"
 
@@ -237,7 +237,7 @@ Clicking the help icon reveals the very brief documentation. The user is expecte
 
 With that warning noted, I typed nonsense in the boxes and pressed the button. 
 
-[![Scam exodus app](/blog/images/2024-02-20/scam-exodus-app-3_70.png)](/blog/images/2024-02-20/scam-exodus-app-3.png)
+[![Scam exodus app](/images/2024-02-20/scam-exodus-app-3_70.png)](/images/2024-02-20/scam-exodus-app-3.png)
 
 **"❗ You (sic) wallet is not imported. You (sic) data is not valid!"**
 
@@ -247,7 +247,7 @@ My hunch was that the application poked some online API to unlock "my" wallet. S
 
 Sure enough, there were a few requests sent to a Linode IP, and others to Cloudflare.
 
-[![Scam exodus app](/blog/images/2024-02-20/scam-exodus-app-4_70.png)](/blog/images/2024-02-20/scam-exodus-app-4.png)
+[![Scam exodus app](/images/2024-02-20/scam-exodus-app-4_70.png)](/images/2024-02-20/scam-exodus-app-4.png)
 
 Unsurprisingly, the API call failed because I entered a garbage wallet recovery phrase.
 
@@ -274,11 +274,11 @@ I edited my [response](https://forum.snapcraft.io/t/exodus-movement-exod/38904/2
 
 Separately, I also emailed the security team at Canonical and reported the application via the web form on the Exodus page in the Snap store. 
 
-[![Report this app link](/blog/images/2024-02-20/report-this-app-1.png)](/blog/images/2024-02-20/report-this-app-1.png)
+[![Report this app link](/images/2024-02-20/report-this-app-1.png)](/images/2024-02-20/report-this-app-1.png)
 
 The "Report this app" link is at the bottom of every Snap store page on https://snapcraft.io/. It takes seconds to fill in.
 
-[![Report this app form](/blog/images/2024-02-20/report-this-app-2_70.png)](/blog/images/2024-02-20/report-this-app-2_100.png)
+[![Report this app form](/images/2024-02-20/report-this-app-2_70.png)](/images/2024-02-20/report-this-app-2_100.png)
 
 That's about as much as I could do for now.
 
@@ -306,7 +306,7 @@ Uploading is as simple as `snapcraft upload mysuperbadwallet.snap --release=stab
 
 No humans in the loop. What could possibly go wrong?
 
-[![Removing humans from the process never caused problems in Hollywood! /s](/blog/images/2024-02-20/humansoutoftheloop.png)](https://en.wikipedia.org/wiki/WarGames)
+[![Removing humans from the process never caused problems in Hollywood! /s](/images/2024-02-20/humansoutoftheloop.png)](https://en.wikipedia.org/wiki/WarGames)
 
 ## Further research
 
@@ -339,7 +339,7 @@ I wondered if there might be others affected by this application. I did a few on
 
 In the 4chan thread, they revealed similar details to the Snapcraft discussion. However, they also pasted the transaction ID and the Bitcoin wallet the funds had been sent to. A little over 9 BTC was sent to one destination. At the time of writing that amount of Bitcoin was worth in the region of $490K, but that value changes often.
 
-[![Bye bye bitcoin](/blog/images/2024-02-20/byebyebitcoin50.png)](https://www.walletexplorer.com/wallet/32394c8892f2076c)
+[![Bye bye bitcoin](/images/2024-02-20/byebyebitcoin50.png)](https://www.walletexplorer.com/wallet/32394c8892f2076c)
 
 I didn't find any other contemporary reports of people being suckered by this snap. But then again, if someone got suckered, they might be inclined to keep it to themselves, or only talk about it on anonymous places like 4chan!
 

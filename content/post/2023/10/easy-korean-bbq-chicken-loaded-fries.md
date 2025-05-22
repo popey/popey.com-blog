@@ -12,11 +12,11 @@ I was in Exeter yesterday and stumbled into Brewdog where I discovered their del
 
 This is what inspired me, the loaded fries from Brewdog. They were delicious.
 
-[![Brewdog loaded fries](/blog/images/2023-10-07/brewdog.jpg)](/blog/images/2023-10-07/brewdog.jpg)
+[![Brewdog loaded fries](/images/2023-10-07/brewdog.jpg)](/images/2023-10-07/brewdog.jpg)
 
 Here's my version, and yes, there are some fries buried under all that chicken!
 
-[![popey's loaded fries](/blog/images/2023-10-07/popey.jpg)](/blog/images/2023-10-07/popey.jpg)
+[![popey's loaded fries](/images/2023-10-07/popey.jpg)](/images/2023-10-07/popey.jpg)
 
 I used shop-prepared breadcrumbed chicken and frozen fries, but you could just as easily make your own if you have time. This recipe was made with speed and ease at the core, hence buying some pre-processed ingredients. This takes about twenty minutes to prepare and cook, if that.
 

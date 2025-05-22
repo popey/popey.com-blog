@@ -14,7 +14,7 @@ In November 2020, the LAS team organised a virtual version of the event. The rec
 
 The next LAS will be held online from **May 13th to 15th, 2021**!
 
-[![LAS](/blog/images/2021-03-14/las.png)](https://linuxappsummit.org)
+[![LAS](/images/2021-03-14/las.png)](https://linuxappsummit.org)
 
 This year LAS is a 3-day single-track virtual event. The event includes talks, panels and Q&As on a range of topics appropriate to Linux users, developers and other contributors. The LAS team are looking for talks from application developers, designers, product managers, user experience specialists, community leaders, academics, and anyone who is interested in the state of Linux application design and development!
 

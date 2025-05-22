@@ -8,7 +8,7 @@ tags = ['phone', 'iphone']
 
 I've owned [plenty](/blog/2023/09/every-cellphone-i-have-owned) of mobile phones over the years. My current daily driver is [iPhone 13 Mini](https://www.apple.com/uk/shop/buy-iphone/iphone-13), sporting a bright, funky, and cheap [OIIAEE Silicone Case](https://geni.us/oAKn0). Look at it. It's gorgeous (ignore the notification badge count, please).
 
-[![iPhone 13 Mini](/blog/images/2023-09-13/iphone13mini.jpg)](/blog/images/2023-09-13/iphone13mini.jpg)
+[![iPhone 13 Mini](/images/2023-09-13/iphone13mini.jpg)](/images/2023-09-13/iphone13mini.jpg)
 
 ___Picture taken with the potato camera on my old OnePlus 5.___
 

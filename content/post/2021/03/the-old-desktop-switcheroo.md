@@ -25,7 +25,7 @@ One thing I really love about Ubuntu, is the diversity of packages in the archiv
 
 Once rebooted I was able to fiddle around a bit with defaults like the theme - Breeze Dark - default terminal font in Konsole - [IBM Plex Mono](https://www.ibm.com/plex/), and move the launcher to the correct location on the left.  I also fiddled around with some of the default keyboard shortcuts, as that muscle memory is well ingrained. That's mostly it!
 
-[![Desktop](/blog/images/2021-03-12/desktop.png)](/blog/images/2021-03-12/desktop.png)
+[![Desktop](/images/2021-03-12/desktop.png)](/images/2021-03-12/desktop.png)
 
 I still have all the same applications installed, most of which are 3rd party. I think the only GNOME applications I use reguarly are Calculator, Gedit and Rhythmbox. I suspect I'll switch to the KDE equivalents over time. I added a widget called [plasma-pstate](https://github.com/jsalatas/plasma-pstate) (bottom left in the above screenshot) to manage processor profiles. 
 

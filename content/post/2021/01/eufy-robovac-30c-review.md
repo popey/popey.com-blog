@@ -8,7 +8,7 @@ tags = ['hardware', 'review', 'eufy', 'robovac']
 
 3 months ago I bought a [Eufy RoboVac 30C](https://geni.us/OE72xMe) (affiliate link) vacuum cleaner. Now feels like a good time to write a review. Before `The Event` we had a cleaner at home who came once a week. We no longer have a cleaner and I'm now the only adult in the house, so figured I could do with some help cleaning up. In short, yes, I'd recommend it, if you have similar requirements to me. No, it's not perfect, and is no replacement for a full vacuum cleaner, but it helps, a lot.
 
-[![Marketing shot](/blog/images/2021-01-02/marketing.jpg)](https://geni.us/OE72xMe)
+[![Marketing shot](/images/2021-01-02/marketing.jpg)](https://geni.us/OE72xMe)
 
 ## Why the Eufy
 
@@ -22,7 +22,7 @@ My RoboVac 30C cost £179.99, which I felt was a reasonable price for this kind 
 
 ## In the box
 
-![Box](/blog/images/2021-01-02/box.jpg)
+![Box](/images/2021-01-02/box.jpg)
 
 The 30C comes with some spare parts in the box including replacement brushes, a cleaning tool (for removing hair from the pick-up), and a roll of magnetic strip. The strip is optionally used to tell the hoover not to enter certain places. Simply stick a length of it down on a room entry, or other border you don't want the RoboVac to cross. The box also contains the charge cable, base and remote control. 
 
@@ -30,26 +30,26 @@ The 30C comes with some spare parts in the box including replacement brushes, a 
 
 Setting up the hoover was pretty straightforward, but triggered some other household changes which I'll get to in a bit. I found a location for the base station to live, in a quiet corner of the lounge, and near a power outlet. There's a Eufy app for [Android](https://play.google.com/store/apps/details?id=com.eufylife.smarthome) and [iOS](https://apps.apple.com/gb/app/eufyhome/id1229100262) which can be used to monitor and manage the RoboVac (and other Eufy branded home devices). It will send notifications if the cleaner gets in trouble, gets stuck, or can't find the way back to the base.
 
-![App](/blog/images/2021-01-02/app.jpg)
+![App](/images/2021-01-02/app.jpg)
 
 The app also enables you to configure a cleaning schedule. Each day can have one time slot, so you can for example set a different cleaning time at weekends than weekdays, or perhaps only send them out on some days. I initially configured it to clean at 3am, but switched this to 11am every day. 
 
-![Schedule](/blog/images/2021-01-02/schedule.jpg)
+![Schedule](/images/2021-01-02/schedule.jpg)
 
 It seems entirely possible to choose not to use the app though. You can easily turn the vacuum on and off by pressing the button on top, or point the supplied remote control at it. I like the app, because it notifies me when the device gets stuck, which it does. More on that later.
 
-![Remote](/blog/images/2021-01-02/remote.jpg)
+![Remote](/images/2021-01-02/remote.jpg)
 
 
 ## Naming
 
 You can't have a new productive member of the family join the household and not name them. Mine is named 'Harvey' after [Harvey Keitel](https://www.imdb.com/name/nm0000172/), who played [Winston Wolfe](https://www.imdb.com/title/tt0110912/characters/nm0000172) - a *cleaner* in the film [Pulp Fiction](https://en.wikipedia.org/wiki/Pulp_Fiction). I like the alliteration of Harvey Hoover. I also bought some massive stick-on [googly eyes](https://geni.us/316aEH) (affiliate link) to give him a bit more personality.
 
-![Eyes](/blog/images/2021-01-02/eyes.jpg)
+![Eyes](/images/2021-01-02/eyes.jpg)
 
 Here's Harvey in his base station, charging.
 
-![Harvey at home](/blog/images/2021-01-02/home.jpg)
+![Harvey at home](/images/2021-01-02/home.jpg)
 
 ## In operation
 
@@ -61,7 +61,7 @@ Harvey runs for around 1.5 hours, which is plenty enough time to do a once-over 
 
 He has a small blue removable hopper at the back. When cleaning is finished, simply remove that, tip it out into the dustbin, with a good tap. There's a filter in there too, which can be removed and banged against the side of the bin to loosen up the dust. It's pretty eye-opening and frankly pretty gross how much dust, cat fur, peanuts and other detritus Harvey can gobble up in one session. I'm certain if his battery was hot swappable and I sent him out immediately after emptying him, he'd still find more dust.
 
-![Closed](/blog/images/2021-01-02/closed.jpg)
+![Closed](/images/2021-01-02/closed.jpg)
 
 Harvey has a 'cliff' sensor. So I can carry him upstairs, press the button to start him off, and know he won't drive off the landing down the stairs. I've seen him go perilously close to the drop a few times, but he detects the cliff and pulls back each time.
 
@@ -86,45 +86,45 @@ In general, we had to take a good long look at ground level, and make sure there
 
 Nom nom nom. Tasty sock!
 
-![Sock](/blog/images/2021-01-02/sock.jpg)
+![Sock](/images/2021-01-02/sock.jpg)
 
 One day I took Harvey upstairs to do the bedrooms. He sent me a notification he was stuck. This confused me. Harvey seemed stranded on the border between the hall and bathroom.
 
-![Bathroom](/blog/images/2021-01-02/bathroom.jpg)
+![Bathroom](/images/2021-01-02/bathroom.jpg)
 
 But no! Somehow he had managed to pull a screw up, then got stranded on top of it!
 
-![Screw](/blog/images/2021-01-02/screw.jpg)
+![Screw](/images/2021-01-02/screw.jpg)
 
 Sometimes he claims to be stuck, but actually isn't visibly in any danger. Stupid attention seeking robot!
 
-![Not stuck](/blog/images/2021-01-02/notstuck.jpg)
+![Not stuck](/images/2021-01-02/notstuck.jpg)
 
 Christmas wrapping accessories are fun to get wrapped around your wheels.
 
-![Ribbon](/blog/images/2021-01-02/ribbon.jpg)
+![Ribbon](/images/2021-01-02/ribbon.jpg)
 
 Shoe laces seem especially tasty. I typically lift shoes off my bedroom floor but forgot one day.
 
-![laces](/blog/images/2021-01-02/laces.jpg)
+![laces](/images/2021-01-02/laces.jpg)
 
 Cables are a common hazard. My DS charger:
 
-![DS](/blog/images/2021-01-02/ds.jpg)
+![DS](/images/2021-01-02/ds.jpg)
 
 Network cables too...
 
-![cables](/blog/images/2021-01-02/cables.jpg)
+![cables](/images/2021-01-02/cables.jpg)
 
 Even the cat's toys aren't safe.
 
-![Mouse](/blog/images/2021-01-02/mouse.jpg)
+![Mouse](/images/2021-01-02/mouse.jpg)
 
 You'd be forgiven for thinking "Jeez, you have to babysit that thing constantly!?". Well, yes, and no. If you make a bit of effort to lift ribbons, socks, cables and cat toys off the floor, you're not going to have to worry much. While writing this blog post, Harvey has done a full clean and made it back to base uneventfully. That's the norm. All I need to do is empty him. 
 
 Which leads to the obvious next question, "how much does he pick up". You asked. Here's what it looks like after a couple of days. Ideally I should have emptied this before today's run, after every outing, but I forgot yesterday.
 
-![Open](/blog/images/2021-01-02/open.jpg)
+![Open](/images/2021-01-02/open.jpg)
 
 Gross, huh? The hair, dead skin and fur of 3 humans and a cat, collected in a plastic box. Neat.
 

@@ -20,7 +20,7 @@ The [Ubuntu Social Mastodon](https://ubuntu.social/) has a limited number of use
 
 So I decided to pipe some existing Ubuntu related content into the timeline via bots! This is what they can look like:
 
-![AskUbuntu Mastodon Post](/blog/images/2023-05-29/aupost.png)
+![AskUbuntu Mastodon Post](/images/2023-05-29/aupost.png)
 
 I created four bots. As mentioned in the show, some are more popular and some are more 'chatty' than others. Here's a snapshot of the numbers as I write this.
 

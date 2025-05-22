@@ -7,7 +7,7 @@ tags = ['ubuntu', 'hardware', 'pc']
 
 A little while ago I bought a [Zoostorm](http://www.zoostorm.com/) PC from [Ebuyer](http://www.ebuyer.com/). It's a farily basic (but powerful) i7 based system with 8GB RAM and a 1TB hard disk. This is to replace my older (but still fully working) [Mesh](http://www.meshcomputers.com/) PC. The newer one is more power efficient, quieter, a lot faster, and all Intel inside - the previous desktop was nVidia based.
 
-![Zoostorm PC](/blog/images/2012-01-02/P0271629_C0000191_P0000000.jpg)
+![Zoostorm PC](/images/2012-01-02/P0271629_C0000191_P0000000.jpg)
 
 I wanted to migrate from the install on my old Mesh PC to a new clean install on the Zoostorm. I could have just yanked the disk out of the Mesh and put it in the Zoostorm, but I did it slightly differently. I'm typing it up here for my own notes but also to find out how other people do it, and to get any tips.
 
@@ -32,7 +32,7 @@ $ rsync -avz -e ssh wopr:/home/alan .
 
 I think that's about it. I now have all my personal stuff, work, config on the new computer, and can consider things to do with the old one. I think I might install [GameOS](http://windows.microsoft.com/) on it until Valve get around to porting Steam (and all the games) to Linux. :D
 
-![Precise desktop](/blog/images/2012-01-02/precise2-300x168.png)
+![Precise desktop](/images/2012-01-02/precise2-300x168.png)
 
 Things to consider:-
 

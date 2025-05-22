@@ -12,7 +12,7 @@ Today I dusted off a Minecraft server backup to see if it would still work, to e
 
 Maybe this will be interesting or useful to someone.
 
-[![Minecraft map](/blog/images/2023-09-24/minecraft-map.png)](https://popey.com/~alan/minecraft/)
+[![Minecraft map](/images/2023-09-24/minecraft-map.png)](https://popey.com/~alan/minecraft/)
 
 ## Background
 
@@ -50,11 +50,11 @@ Today, I just grabbed the Minecraft deb package from https://www.minecraft.net/e
 
 In-game, I signed into the same Microsoft account then hit play. It downloaded the latest version of Minecraft (1.20.2). 
 
-[![First run](/blog/images/2023-09-24/firstrun.png)](/blog/images/2023-09-24/firstrun.png)
+[![First run](/images/2023-09-24/firstrun.png)](/images/2023-09-24/firstrun.png)
 
 I wanted to make sure Minecraft worked, so I created a "Test World".
 
-[![BAAAA!](/blog/images/2023-09-24/1.20.2.png)](/blog/images/2023-09-24/1.20.2.png)
+[![BAAAA!](/images/2023-09-24/1.20.2.png)](/images/2023-09-24/1.20.2.png)
 
 So far so good!
 
@@ -62,11 +62,11 @@ So far so good!
 
 I then exited out of the game, and copied the unpacked `hactar-snapshot-2011-09-14-22-57-30.tgz` tarball to `~/.minecraft/saves/Hactar`, so Minecraft could see it. Launching Minecraft 1.20.2 wouldn't open the world, as it was in an old format that needed conversion.
 
-[![Conversion required part one](/blog/images/2023-09-24/conversionrequired1.png)](/blog/images/2023-09-24/conversionrequired1.png)
+[![Conversion required part one](/images/2023-09-24/conversionrequired1.png)](/images/2023-09-24/conversionrequired1.png)
 
 Further, 1.20.2 wouldn't convert it, so I'd have to go back in time.
 
-[![Needs 1.6.4](/blog/images/2023-09-24/needs1.6.4.png)](/blog/images/2023-09-24/needs1.6.4.png)
+[![Needs 1.6.4](/images/2023-09-24/needs1.6.4.png)](/images/2023-09-24/needs1.6.4.png)
 
 Thankfully the Minecraft launcher is able to download and manage older versions of the game. This is handy if someone has an old server, like mine, or if the user wants to run some version-specific mods.
 
@@ -78,29 +78,29 @@ Create the new installation as 1.16.4.
 
 **Note:** The eagle-eyed among you will spot that I made a mistake here, picking **1.16.4** rather than **1.6.4**. It worked though. 🤷
 
-[![Install an older version](/blog/images/2023-09-24/olderversion.png)](/blog/images/2023-09-24/olderversion.png)
+[![Install an older version](/images/2023-09-24/olderversion.png)](/images/2023-09-24/olderversion.png)
 
 In theory I could click the green "Play" button, open the world, and subsequently convert it.
 
-[![Play older version](/blog/images/2023-09-24/playolderversion.png)](/blog/images/2023-09-24/playolderversion.png)
+[![Play older version](/images/2023-09-24/playolderversion.png)](/images/2023-09-24/playolderversion.png)
 
 So, I clicked Play, then chose the old world. 
 
-[![Conversion required](/blog/images/2023-09-24/conversionrequired2.png)](/blog/images/2023-09-24/conversionrequired2.png)
+[![Conversion required](/images/2023-09-24/conversionrequired2.png)](/images/2023-09-24/conversionrequired2.png)
 
 Clicking this next "I know what I'm doing!" button should have worked.
 
-[![Conversion required](/blog/images/2023-09-24/conversionrequired3.png)](/blog/images/2023-09-24/conversionrequired3.png)
+[![Conversion required](/images/2023-09-24/conversionrequired3.png)](/images/2023-09-24/conversionrequired3.png)
 
 However, on my main workstation, Minecraft just sat there, never opening the world. Indeed, it eventually went unresponsive, so I killed it with extreme [prejudice](https://en.wikipedia.org/wiki/Xkill).
 
-Using the exact same method on my M1 MacBook Air worked perfectly. So I did the conversion of the world there, and then used `scp` over [ZeroTier](https://popey.com/blog/2023/08/zerotier-is-my-personal-vpn/) back to my workstation.
+Using the exact same method on my M1 MacBook Air worked perfectly. So I did the conversion of the world there, and then used `scp` over [ZeroTier](https://blog.popey.com/2023/08/zerotier-is-my-personal-vpn/) back to my workstation.
 
 ## Enter the past
 
 Once I'd copied the world over, I relaunched Minecraft 1.16.4 and...
 
-[![Conversion required](/blog/images/2023-09-24/pyramid.png)](/blog/images/2023-09-24/pyramid.png)
+[![Conversion required](/images/2023-09-24/pyramid.png)](/images/2023-09-24/pyramid.png)
 
 Great success!
 
@@ -116,7 +116,7 @@ I wasted a little time on this before switching to a more modern fork found at [
 
 Another great success. It chugged away for twenty minutes, building all the tiles and map. I've put a copy online for now, which you can get to [here](https://popey.com/~alan/minecraft) or by clicking the image below. Note the pyramid and sphinx are those shown in the screenshot above.
 
-[![Minecraft map](/blog/images/2023-09-24/pyramidmap.png)](https://popey.com/~alan/minecraft/#/-435/64/616/-2/world/world-lighting)
+[![Minecraft map](/images/2023-09-24/pyramidmap.png)](https://popey.com/~alan/minecraft/#/-435/64/616/-2/world/world-lighting)
 
 ## Sights
 
@@ -128,25 +128,25 @@ Everyone initially started building right near the spawn point until we all bran
 
 I enjoyed seeing the terrarium (bottom right) being created, as well as the hot and cold taps, without their handles. 
 
-[![Spawn](/blog/images/2023-09-24/spawn.png)](https://popey.com/~alan/minecraft/#/-276/64/105/-2/world/world-lighting)
+[![Spawn](/images/2023-09-24/spawn.png)](https://popey.com/~alan/minecraft/#/-276/64/105/-2/world/world-lighting)
 
 ### Our house
 
 My kids (who were eight and five years old at the time) enjoyed playing on the map. We started building a simple wooden home. There was a farm next door. We also had a collaboratively made maze just outside.
 
-[![popey's house](/blog/images/2023-09-24/popeyshouse.png)](https://popey.com/~alan/minecraft/#/413/64/158/-1/world/world-lighting)
+[![popey's house](/images/2023-09-24/popeyshouse.png)](https://popey.com/~alan/minecraft/#/413/64/158/-1/world/world-lighting)
 
 ### Unfinished Antesher
 
 We cleared some space to re-create the city of Antesher, which was the setting in the Sinclair Spectrum game [Ant Attack](https://worldofspectrum.org/files/large/de182362909c85e).
 
-[![Unfinished Antesher](/blog/images/2023-09-24/antesher.png)](https://popey.com/~alan/minecraft/#/-448/64/-132/-2/world/world-lighting)
+[![Unfinished Antesher](/images/2023-09-24/antesher.png)](https://popey.com/~alan/minecraft/#/-448/64/-132/-2/world/world-lighting)
 
 ### Chinnybob's place
 
 I remember liking the design of Chinnybob's place when they built it. 
 
-[![Chinnybob's place](/blog/images/2023-09-24/chinnybob.png)](https://popey.com/~alan/minecraft/#/-407/64/265/max/world/world-lighting)
+[![Chinnybob's place](/images/2023-09-24/chinnybob.png)](https://popey.com/~alan/minecraft/#/-407/64/265/max/world/world-lighting)
 
 ## Happy memories
 

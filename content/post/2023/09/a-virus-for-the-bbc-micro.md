@@ -14,7 +14,7 @@ About a year ago, I left a comment on a [Nostalgia Nerd](https://www.nostalgiane
 
 Here's my silly comment.
 
-[![Internet comment](/blog/images/2023-09-10/comment.png)](/blog/images/2023-09-10/comment.png)
+[![Internet comment](/images/2023-09-10/comment.png)](/images/2023-09-10/comment.png)
 
 At 1.7K 👍, it's my most upvoted comment on YouTube, ever. I do enjoy free Internet points. 
 
@@ -92,7 +92,7 @@ The memory could be used for more storage space for your own programs in RAM, or
 
 The BBC had a built-in power supply, and a massive switch on the back. To power on (or off) the device, you'd reach around to the back of the unit, and flip the switch. Here's a video I made in 2017 after fixing the power supply on my BBC Micro. I am clearly quite excited that the new capacitors worked.
 
-[![BBC Booting](/blog/images/2023-09-10/bbcboot.jpg)](/blog/videos/2023-09-10/bbcboot.mp4)
+[![BBC Booting](/images/2023-09-10/bbcboot.jpg)](/blog/videos/2023-09-10/bbcboot.mp4)
 
 Booting like that effectively clears the memory by powering it down. 
 
@@ -112,11 +112,11 @@ This process is documented on the [Beebwiki](https://beebwiki.mdfs.net/Paged_ROM
 
 Here's what a typical (emulated) BBC looks like once booted up. I used the rather excellent [b2](https://github.com/tom-seddon/b2) BBC emulator by [Tom Seddon](https://github.com/tom-seddon) to take this.
 
-[![BBC Boot](/blog/images/2023-09-10/boot.png)](/blog/images/2023-09-10/boot.png)
+[![BBC Boot](/images/2023-09-10/boot.png)](/images/2023-09-10/boot.png)
 
 Installed ROMs will often 'announce' themselves with a banner at the top of the screen when the BBC boots up. Here's an (emulated) BBC Micro with an [Opus Challenger](https://beebwiki.mdfs.net/Opus_Challenger) ROM installed, which gets announced at boot time due to the polling done by the MOS at startup.
 
-[![BBC Boot](/blog/images/2023-09-10/opus.png)](/blog/images/2023-09-10/opus.png)
+[![BBC Boot](/images/2023-09-10/opus.png)](/images/2023-09-10/opus.png)
 
 There are some examples on the [Code_header](https://beebwiki.mdfs.net/Code_header#ROM_type_byte) page on the wiki which further explains this boot polling by the MOS.
 
@@ -141,7 +141,7 @@ My plan for the "proof of concept" was as follows:
 
 That's it. It doesn't delete files (other than monkeying with whatever was in `!BOOT`), and doesn't mess with the system. Here's roughly what it looked like after 32 resets.
 
-[![Virus](/blog/images/2023-09-10/virus.png)](/blog/images/2023-09-10/virus.png)
+[![Virus](/images/2023-09-10/virus.png)](/images/2023-09-10/virus.png)
 
 I wrote the code on paper and hand-assembled it to poke into the sideways RAM bank directly. A short BBC BASIC program would read the assembled code from `DATA` statements. 
 

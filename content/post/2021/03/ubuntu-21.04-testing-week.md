@@ -12,7 +12,7 @@ On **April 1st**, the Beta of Ubuntu Hirsute will be released, but we're no [foo
 
 So, starting on **April 1st**, we're doing another **Ubuntu Testing Week**. 
 
-![Testing week](/blog/images/2021-03-25/testingweek.png)
+![Testing week](/images/2021-03-25/testingweek.png)
 
 As always, everyone is welcome to test Ubuntu at any point in the year. But during the beta is a good time to focus on testing. 
 

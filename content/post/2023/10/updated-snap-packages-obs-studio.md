@@ -16,11 +16,11 @@ OBS Studio is a very popular application. It's pretty much the de-facto solution
 
 The OBS snap is currently installed on almost ninety thousand weekly active devices.
 
-[![OBS Studio store stats](/blog/images/2023-10-11/obs-stats.png)](/blog/images/2023-10-11/obs-stats.png)
+[![OBS Studio store stats](/images/2023-10-11/obs-stats.png)](/images/2023-10-11/obs-stats.png)
 
 That published version is 27.1.3, which is a couple of years old now. As you can see, it still works, but it's missing a bunch of updated features and fixes you would expect.
 
-[![OBS 27.1.3](/blog/images/2023-10-11/obs-27.1.3.png)](/blog/images/2023-10-11/obs-27.1.3.png)
+[![OBS 27.1.3](/images/2023-10-11/obs-27.1.3.png)](/images/2023-10-11/obs-27.1.3.png)
 
 I initially [started](https://github.com/snapcrafters/obs-studio/commit/525ab1f27e0640da584691fa21cd19c7f2acde52) the OBS Studio snap back in 2018. It was initially quite basic, as just a way to get the latest OBS Studio on Linux, without having to build it yourself. It was installable on Ubuntu 16.04, 18.04 and other interim releases, along with a bunch of other Linux distributions. 
 
@@ -50,13 +50,13 @@ It provides a similar 'batteries included' build of OBS Studio but in the form o
 
 ## Numbers
 
-[![OBS distros](/blog/images/2023-10-11/distros.png)](/blog/images/2023-10-11/distros.png)
+[![OBS distros](/images/2023-10-11/distros.png)](/images/2023-10-11/distros.png)
 
 Nearly **six thousand** devices still have the OBS snap installed on **Ubuntu 18.04 LTS**, a release that came out over *five* years ago. Amazingly, over five hundred devices have the OBS Studio snap on **Ubuntu 16.04 LTS**, which came out seven years ago. Both releases are beyond standard support, but people still use them. 
 
 It genuinely blows my tiny mind how many people stick on super old releases of Ubuntu. Around 6% of OBS Studio snap users are on 18.04, imagine what the total userbase of that release still is, in late 2023!
 
-[![Dozens!](/blog/images/2023-10-11/dozenz.gif)](/blog/images/2023-10-11/dozenz.gif)
+[![Dozens!](/images/2023-10-11/dozenz.gif)](/images/2023-10-11/dozenz.gif)
 
 Also a couple of hundred on Linux Mint, where they actively *block* snapd out of the box, which is mildly amusing.
 
@@ -91,6 +91,6 @@ alan@ziggy:~$ snap refresh obs-studio
 obs-studio 29.1.3 from Snapcrafters✪ refreshed
 ```
 
-[![OBS 29.1.3](/blog/images/2023-10-11/obs-29.1.3.png)](/blog/images/2023-10-11/obs-29.1.3.png)
+[![OBS 29.1.3](/images/2023-10-11/obs-29.1.3.png)](/images/2023-10-11/obs-29.1.3.png)
 
 Enjoy!

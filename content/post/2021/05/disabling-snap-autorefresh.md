@@ -22,7 +22,7 @@ One of the fundamental design goals of snaps is that they're kept up to date. At
 
 If a developer publishes a new revision of a snap package in the Snap Store, they can be **relatively** confident that users will get the update soon after publication. Indeed as a snap publisher myself, I can see from the Snap Store metrics page a pretty graph showing the uptake of new versions.
 
-[![ncspot metrics](/blog/images/2021-05-26/ncspot.png)](/blog/images/2021-05-26/ncspot.png)
+[![ncspot metrics](/images/2021-05-26/ncspot.png)](/images/2021-05-26/ncspot.png)
 
 In the above diagram you can see from the coloured bars that each new revision of the application almost completely replaces the previous versions in the field within a week. Indeed in the above example, I had released a new revision just a few days ago and already 80% of existing users have received it.
 
@@ -108,7 +108,7 @@ sudo snap set core experimental.refresh-app-awareness=true
 
 In the event snap needs to be refreshed, a notification appears to let the user know it isn't going to happen:
 
-[![Chromium notification](/blog/images/2021-05-26/chromium-notification.png)](/blog/images/2021-05-26/chromium-notification.png)
+[![Chromium notification](/images/2021-05-26/chromium-notification.png)](/images/2021-05-26/chromium-notification.png)
 
 Further, running `snap refresh` for the application while it's running, will result in a message:
 

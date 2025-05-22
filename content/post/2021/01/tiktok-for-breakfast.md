@@ -20,19 +20,19 @@ This morning was a super simple example. I recently saw a simple breakfast compr
 
 Grab a tortilla, cut a slice from one edge to the middle. Put some breakfast ingredients on it in each quarter. Bacon, egg, cheese or whatever you fancy. The sauce in the final quarter holds it together.
 
-![Start](/blog/images/2021-01-30/1.jpg)
+![Start](/images/2021-01-30/1.jpg)
 
 So when you fold it, the vessel stays intact.
 
-![Fold](/blog/images/2021-01-30/2.jpg)
+![Fold](/images/2021-01-30/2.jpg)
 
 Chuck it in the pan, to warm through.
 
-![Griddle](/blog/images/2021-01-30/3.jpg)
+![Griddle](/images/2021-01-30/3.jpg)
 
 Eat.
 
-![Eat](/blog/images/2021-01-30/4.jpg)
+![Eat](/images/2021-01-30/4.jpg)
 
 I could have put more in this, I was just trying this out. next time maybe more bacon and egg, and brown sauce instead of red. It's a super simple, flexible way to deliver warm breakfast comestibles to my gaping maw.
 

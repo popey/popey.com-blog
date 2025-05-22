@@ -16,7 +16,7 @@ The snap was *eventually* [removed](/blog/2024/02/exodus-bitcoin-wallet-follow-u
 
 Nothing has changed it seems, because once again, **ANOTHER** **TEN** scam BitCoin wallet apps have been published in the Snap Store today.
 
-[![You're joking! Not another one!](/blog/images/2024-03-18/not-another-one.gif)](https://www.youtube.com/watch?v=H6-IQAdFU3w)
+[![You're joking! Not another one!](/images/2024-03-18/not-another-one.gif)](https://www.youtube.com/watch?v=H6-IQAdFU3w)
 
 Yes, Brenda!
 
@@ -24,11 +24,11 @@ This one has the snappy (sorry) name of `exodus-build-96567` published by that n
 
 **Edit**: Initially I wrote this post after analysing one of the snaps I stumbled upon. It's been pointed out there's a whole bunch under this account. All with popular crypto wallet brand names.
 
-[![Publisher digisafe00000](/blog/images/2024-03-18/publisher-1.png)](/blog/images/2024-03-18/publisher-1_50.png)
+[![Publisher digisafe00000](/images/2024-03-18/publisher-1.png)](/images/2024-03-18/publisher-1_50.png)
 
 **Edit**: These were removed. **One day later**, they popped up **again**, under a new account. I reported all of them, and pinged someone at Canonical to get them removed. 
 
-[![Publisher codeshield0x0000](/blog/images/2024-03-19/codeshield0x0000.png)](/blog/images/2024-03-19/codeshield0x0000_50.png)
+[![Publisher codeshield0x0000](/images/2024-03-19/codeshield0x0000.png)](/images/2024-03-19/codeshield0x0000_50.png)
 
 There's no indication this is the same developer as the last scam Exodus Wallet snap published in February, or the one published back in November last year. 
 
@@ -36,7 +36,7 @@ There's no indication this is the same developer as the last scam Exodus Wallet 
 
 Here's what it looks like on the Snap Store page https://snapcraft.io/exodus-build-96567 - which may be gone by the time you see this. A real *minimum effort* on the store listing page here. But I'm sure it could fool someone, they usually do.
 
-[![A not very legit looking snap](/blog/images/2024-03-18/snap-store-1_50.png)](/blog/images/2024-03-18/snap-store-1.png)
+[![A not very legit looking snap](/images/2024-03-18/snap-store-1_50.png)](/images/2024-03-18/snap-store-1.png)
 
 It also shows up in searches within the desktop graphical storefront "Ubuntu Software" or "App Centre", making it super easy to install.
 
@@ -46,7 +46,7 @@ It also shows up in searches within the desktop graphical storefront "Ubuntu Sof
 
 Although it is "*Safe*", apparently, according to the store listing.
 
-[![Coming to a desktop near you](/blog/images/2024-03-18/snap-store-2_50.png)](/blog/images/2024-03-18/snap-store-2.png)
+[![Coming to a desktop near you](/images/2024-03-18/snap-store-2_50.png)](/images/2024-03-18/snap-store-2.png)
 
 ## Open wide
 
@@ -72,17 +72,17 @@ channels:
 
 Here's the app running in a VM.
 
-[![The application](/blog/images/2024-03-18/exodus-wallet-2_50.png)](/blog/images/2024-03-18/exodus-wallet-2.png)
+[![The application](/images/2024-03-18/exodus-wallet-2_50.png)](/images/2024-03-18/exodus-wallet-2.png)
 
 If you try and create a new wallet, it waits a while then gives a spurious error. That code path likely does nothing. What it really wants you to do is "Add an existing wallet". 
 
-[![Give us all your money](/blog/images/2024-03-18/exodus-wallet-1_50.png)](/blog/images/2024-03-18/exodus-wallet-1.png)
+[![Give us all your money](/images/2024-03-18/exodus-wallet-1_50.png)](/images/2024-03-18/exodus-wallet-1.png)
 
 As with all these scam application, all it does is ask for a BitCoin recovery phrase, and with that will likely steal all the coins and send them off to the scammer's wallet. Obviously I didn't test this with a real wallet phrase. 
 
 When given a false passphrase/recovery-key it calls some remote API then shows a dubious error, having already taken your recovery key, and sent it to the scammer.
 
-[![Error](/blog/images/2024-03-18/error-1_50.png)](/blog/images/2024-03-18/error-1.png)
+[![Error](/images/2024-03-18/error-1_50.png)](/images/2024-03-18/error-1.png)
 
 
 ## What's inside?
@@ -263,11 +263,11 @@ Unlike the [previous](/blog/2024/02/exodus-bitcoin-wallet-490k-swindle/) scammy 
 
 If the network is not available, the application loads with an empty window containing an error message "Could not connect: Network is unreachable". 
 
-[![No network](/blog/images/2024-03-18/exodus-wallet-3_50.png)](/blog/images/2024-03-18/exodus-wallet-3.png)
+[![No network](/images/2024-03-18/exodus-wallet-3_50.png)](/images/2024-03-18/exodus-wallet-3.png)
 
 I brought the network up, ran Wireshark then launched the rogue application again. The app clearly loads the remote content (html, javascript, css, and logos) then renders it inside the wrapper Window.
 
-[![Wireshark](/blog/images/2024-03-18/wireshark-1_50.png)](/blog/images/2024-03-18/wireshark-1.png)
+[![Wireshark](/images/2024-03-18/wireshark-1_50.png)](/images/2024-03-18/wireshark-1.png)
 
 **Edit**: I reported this IP to Hostinger abuse, which they took down on 19th March.
 
@@ -351,7 +351,7 @@ function sendPostRequest(words) {
 
 Here you can see in the payload, the words I typed, selected from the dictionary mentioned above.
 
-[![Wireshark](/blog/images/2024-03-18/wireshark-2_50.png)](/blog/images/2024-03-18/wireshark-2.png)
+[![Wireshark](/images/2024-03-18/wireshark-2_50.png)](/images/2024-03-18/wireshark-2.png)
 
 It also periodically 'pings' the `/ping` endpoint on the server with a simple payload of `{" name":"exodus"}`. Presumably for network connectivity checking, telemetry or seeing which of the scam wallet applications are in use.
 

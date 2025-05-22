@@ -10,7 +10,7 @@ Today, I'm following along from an earlier article "[The Allure of The Terminal]
 
 The machine I want to talk about today is one of my (many) ThinkPads, in this case, an X61s. It's got an Intel C2D L7500 CPU running at 1.6GHz, 6GiB RAM and a 240GB OCZ-Vertex 3 SSD. I installed Ubuntu Server 18.04 on it in October 2019, and kept it up to date since. I have upgraded it to Ubuntu 20.04 in the meantime. Here she is:
 
-![ThinkPad X61s](/blog/images/2021-02-09/x61s.jpg)
+![ThinkPad X61s](/images/2021-02-09/x61s.jpg)
 
 Beautiful. 😘
 
@@ -18,7 +18,7 @@ I configured system for "daily use" - as much as I can. Bear in mind this is a f
 
 I actually gave a lightning talk presentation on this subject at OggCamp 19 called "*All GUIs Suck*" - "Use the terminal - be productive". I used this very laptop to present on a projector via VGA (no HDMI here!) and it seemed to go down well, for a bit of fun. Here's roughly what that looked like. 
 
-![Presentation](/blog/images/2021-02-09/presentation.png)
+![Presentation](/images/2021-02-09/presentation.png)
 
 It's my suggestion that it's still entirely possible to be productive and have fun in a command-line only environment. None of this will be surprising, I suspect, to anyone who has used Linux for more than about 15 years. If you were using Linux in anger before the early 2000's you probably knew the pain of having no GUI, or maybe even chose to do so, as I have here. So let's look at the broad categories of software and how they might be used. 
 
@@ -26,7 +26,7 @@ It's my suggestion that it's still entirely possible to be productive and have f
 
 As mentioned, the install is a pretty standard Ubuntu ~~18.04~~ 20.04 LTS Server setup. I've installed a bunch of software from the Ubuntu archive, and some from the Snap Store. A fair number of snaps are ones I actually maintain. Here's the current list. We'll delve into some of these in more detail below.
 
-![snaps](/blog/images/2021-02-09/snaps.png)
+![snaps](/images/2021-02-09/snaps.png)
 
 ### Post-install
 
@@ -38,7 +38,7 @@ I tweaked the font to be smaller text, so I can fit more in. On Ubuntu a quick `
 
 The X61s has an ethernet port, and onboard wireless. Mine even has a cellular data option, which I've never used. Configuring the wireless network from the command-line used to be a pain. These days we have tools like `nmcli` and `nm-tui` which make that task easy.
 
-![nmtui](/blog/images/2021-02-09/nmtui.png)
+![nmtui](/images/2021-02-09/nmtui.png)
 
 Testing the connection is easy with [fast](https://snapcraft.io/fast), an alternative to the commonly-known [speedtest-cli](https://www.speedtest.net/apps/cli). Great for testing the maximum throughput without needing a web browser.
 
@@ -53,11 +53,11 @@ On a graphical environment you can of course open numerous terminals and arrange
 
 Once byobu is installed, the online help and configuration is launched by pressing `[F9]`. 
 
-![byobu](/blog/images/2021-02-09/byobu1.png)
+![byobu](/images/2021-02-09/byobu1.png)
 
 As well as window management, byobu has configurable status bar notifications along the bottom of the screen. These can be individually flipped on and off. I usually have the battery gauge, CPU, disk usage, IP address and date & time. This leaves a little room to the left to show the list of windows.
 
-![byobu](/blog/images/2021-02-09/byobu2.png)
+![byobu](/images/2021-02-09/byobu2.png)
 
 ### Launching applications
 
@@ -111,13 +111,13 @@ Many of the applications I use have been around a very long time. However there'
 
 A large part of my work is talking to people. Everyone is different, and they use all manner of chat platforms. At work we use Mattermost for internal discussion, so I use [matterhorn](https://snapcraft.io/matterhorn). I can't show you a screenshot of that, because it's all internal chatter. Here's a screenshot from the [upstream project](https://github.com/matterhorn-chat/matterhorn).
 
-![matterhorn](/blog/images/2021-02-09/matterhorn.png)
+![matterhorn](/images/2021-02-09/matterhorn.png)
 
 #### IRC
 
 Yes, hipsters, some of us still use IRC. Get over it. Irssi is the best IRC client ever. I use that.
 
-![irssi](/blog/images/2021-02-09/irssi.png)
+![irssi](/images/2021-02-09/irssi.png)
 
 #### Slack
 
@@ -133,7 +133,7 @@ I use two tools here, both have been around for many years. [OfflineIMAP](https:
 
 To actually read and compose mail I use the venerable [Mutt](https://snapcraft.io/mutt). Mutt is a highly configurable email client. I launch two copies via my `apps` script, each pointing to a different configuration file. That way I have one window for personal mail and another for work. 
 
-![Mutt](/blog/images/2021-02-09/mutt.png)
+![Mutt](/images/2021-02-09/mutt.png)
 
 Mutt can be configured to send directly, via SMTP or IMAP, or it can put the mail in the 'outbox' and the next time OfflineIMAP runs, it can send it with any other pending mail.
 
@@ -178,17 +178,17 @@ They enable distractions via notifications and badges
 
 I like to listen to music while I work. Why not here too!? I have some music stored locally for disconnected listening, and with 250GB SSD, I have plenty of space for it. Cmus can play music locally just fine.
 
-![cmus](/blog/images/2021-02-09/cmus.png)
+![cmus](/images/2021-02-09/cmus.png)
 
 Alternatively I can stream from my Spotify account with [ncspot](https://snapcraft.io/ncspot).
 
-![ncspot](/blog/images/2021-02-09/ncspot.png)
+![ncspot](/images/2021-02-09/ncspot.png)
 
 ### News
 
 Catching up with RSS feeds is easy with [Newsboat](https://snapcraft.io/newsboat).
 
-![newsboat](/blog/images/2021-02-09/newsboat.png)
+![newsboat](/images/2021-02-09/newsboat.png)
 
 
 ### Documents
@@ -207,11 +207,11 @@ Finally [Serve](https://snapcraft.io/serve) is a super simple utility which spin
 
 The web can be a little tricky on the command line. There's certainly browsers, [Links](https://snapcraft.io/links) and console based tools for searching [Google](https://snapcraft.io/googler) or [DuckDuckGo](https://snapcraft.io/ddgr). 
 
-![Ubuntu](/blog/images/2021-02-09/ubuntu.png)
+![Ubuntu](/images/2021-02-09/ubuntu.png)
 
 However, these days many pages are difficult or impossible to view in a text only command line browser, especially javascript heavy ones.. Sad times. Twitter doesn't work for example.
 
-![Twitter](/blog/images/2021-02-09/twitter.png)
+![Twitter](/images/2021-02-09/twitter.png)
 
 *Nothing of value was lost*.
 
@@ -219,7 +219,7 @@ However, these days many pages are difficult or impossible to view in a text onl
 
 There's fun things you can do on the command line including games like [Dwarf Fortress](https://snapcraft.io/dwarf-fortress) and the ever popular [NetHack](https://snapcraft.io/nethack), but the pinacle of gaming in the terminal has to be [Antsy Alien Attack](https://github.com/wimpysworld/antsy-alien-attack)! 
 
-![AAA](/blog/images/2021-02-09/aaa.png)
+![AAA](/images/2021-02-09/aaa.png)
 
 ## Conclusion
 

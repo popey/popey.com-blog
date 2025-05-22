@@ -6,9 +6,9 @@ author = "Alan Pope"
 tags = ['null', 'snap', 'linux']
 +++
 
-Last week I wrote a blog post titled [null](https://popey.com/blog/2021/01/null/) which did rather well! Note the giant (for my blog) spike on the right of this [goaccess](https://goaccess.io/) graph.
+Last week I wrote a blog post titled [null](https://blog.popey.com/2021/01/null/) which did rather well! Note the giant (for my blog) spike on the right of this [goaccess](https://goaccess.io/) graph.
 
-![Wheee](/blog/images/2021-01-21/goaccess.png)
+![Wheee](/images/2021-01-21/goaccess.png)
 
 That's the [Hackernews](https://news.ycombinator.com/item?id=25771953) effect. It was super to see the conversations over in the comments there. Quite proud to get 3 blog posts and one git repo on the front page of HN in the first month of the year. Don't expect me to keep that momentum up, but we'll come back to that another day.
 

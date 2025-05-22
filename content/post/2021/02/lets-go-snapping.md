@@ -10,15 +10,15 @@ Last year ( 😄 ) I wrote an article called [Snap Along With Me](/blog/2020/12/
 
 During a meeting to on-board a new member of the team at work today, I went through a similar process as my last blog post. This time I chose a different application, so I thought I'd write it up here. I've previously [explained](/blog/2020/12/snap-along-with-me/) how I browse the various [GitHub Trending](https://github.com/trending) pages for each language. Today was no different, we browsed the [trending rust projects](https://github.com/trending/rust) then moved on to [trending Go projects](https://github.com/trending/go).
 
-![Trending Go Projects](/blog/images/2021-02-03/trendinggo.png)
+![Trending Go Projects](/images/2021-02-03/trendinggo.png)
 
 Right near the top I spotted [ticker](https://github.com/achannarasappa/ticker) by [Ani Channarasappa](https://github.com/achannarasappa) which is a *Terminal stock ticker with live updates and position tracking*. It looks great, is easy to use and it's *[zeitgeisty](https://www.google.com/search?q=gme)*! The project was only created ten days ago. Here's what it looks like.
 
-![ticker](/blog/images/2021-02-03/ticker.png)
+![ticker](/images/2021-02-03/ticker.png)
 
 First things first, let's look around the project and make sure it's a good candidate.
 
-![ticker project](/blog/images/2021-02-03/tickerproject.png)
+![ticker project](/images/2021-02-03/tickerproject.png)
 
 It's a command line Go application, which tend to snap up very well. We typically end up with a small standalone binary, which will compress down nicely on disk, and won't usually need many additional libraries to be bundled. I checked the existing [issue tracker](https://github.com/achannarasappa/ticker/issues) and [pull requests](https://github.com/achannarasappa/ticker/pulls) to see if anyone had already made a start. I also checked the snap store to ensure there wasn't already a snap of this published. I had a good gut feeling from the screenshots that the application would likely only need network access to pull stock prices and display them on the screen. No weird permissions would likely be needed, so it could be strictly confined and published quickly. 
 
@@ -223,7 +223,7 @@ Running the application, pointing to the configuration file works fine.
 
 Boom!
 
-![ticker](/blog/images/2021-02-03/ticker.png)
+![ticker](/images/2021-02-03/ticker.png)
 
 Ok, so I figured given the snap works, I might as well upload it to the store. I used `snapcraft register ticker` to claim the application name. I then built the snap for all the popular architectures using the `remote-build` feature:
 
@@ -280,11 +280,11 @@ latest   amd64   stable     -                  -
 
 I can at this point test the snap on a bunch of machines, distros and architectures, and once I'm happy, release it to the stable channel. The releases page in the Snap Store looks like this.
 
-![ticker releases](/blog/images/2021-02-03/releases.png)
+![ticker releases](/images/2021-02-03/releases.png)
 
 Finally I pushed my changes to a personal [git repo](https://github.com/popey/ticker-snap) and connect that up to the build process, so each time the application is updated, a new release is built and pushed to the edge channel. Here's what that looks like.
 
-![ticker builds](/blog/images/2021-02-03/builds.png)
+![ticker builds](/images/2021-02-03/builds.png)
 
 I can hit the "Trigger new build" button to manually force a build.
 

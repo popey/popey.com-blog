@@ -12,7 +12,7 @@ As I mentioned [yesterday](/blog/2021/01/upgrading-ubuntu/), I recently upgraded
 
 I sometimes use this system for playing games in the evenings. The thing I've been really playing a lot recently is [Hotshot Racing](https://store.steampowered.com/app/609920/Hotshot_Racing/) which is "*a blisteringly fast arcade-style racing game fusing drift handling, razor-sharp retro visuals and an incredible sense of speed to create an exhilarating driving experience.*" according to their Steam blurb. It's great, I love it.
 
-[![Hotshot Racing!](/blog/images/2021-01-19/hotshot.jpg)](https://store.steampowered.com/app/609920/Hotshot_Racing/)
+[![Hotshot Racing!](/images/2021-01-19/hotshot.jpg)](https://store.steampowered.com/app/609920/Hotshot_Racing/)
 
 Anyway, I was playing this happily via Steam using Proton as it's a Windows-only game, on my Ubuntu 20.10 system. I upgraded on Friday last week and then it "broke". I could no longer play the game. Steam launched, the game attempted to launch, then died on its arse. I tried other games, which worked fine, but they were native Linux binaries, not Windows games enabled via Proton. So it wasn't a system-wide issue, but something maybe Proton-specific.
 

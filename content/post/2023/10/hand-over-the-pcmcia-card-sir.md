@@ -6,7 +6,7 @@ author = "Alan Pope"
 tags = ['tfts']
 +++
 
-This is the fifth in a series of Friday [Tales From Tech Support](https://popey.com/blog/tags/tfts/). Some stories from the past featuring broken computers and even more broken tech support operatives - mostly me.
+This is the fifth in a series of Friday [Tales From Tech Support](https://blog.popey.com/tags/tfts/). Some stories from the past featuring broken computers and even more broken tech support operatives - mostly me.
 
 ## Scene setting
 
@@ -14,7 +14,7 @@ This is another story from my time working on the helpdesk for a large accountin
 
 ## A mishmash of hardware
 
-The organisation is large, through hiring, acquisitions and mergers. There's a ton of staff working across multiple floors of a few buildings. The desk-bound people had typical desktop computers (more on that in a previous [tfts](https://popey.com/blog/tags/tfts/), "[Where's my hard drive?](/blog/2023/09/wheres-my-hard-drive)"), but the business consultants, analystis and accountants had portable devices.
+The organisation is large, through hiring, acquisitions and mergers. There's a ton of staff working across multiple floors of a few buildings. The desk-bound people had typical desktop computers (more on that in a previous [tfts](https://blog.popey.com/tags/tfts/), "[Where's my hard drive?](/blog/2023/09/wheres-my-hard-drive)"), but the business consultants, analystis and accountants had portable devices.
 
 I say 'portable', but they were more 'luggable' in some cases. There was a real mishmash of devices out in the field, that we had to support from the helpdesk. Typically a consultant would be out on the road as much as possible, then come into the office - perhaps only on a Friday - to write up their work, file expenses, and do other admin.
 

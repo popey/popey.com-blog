@@ -38,7 +38,7 @@ We got into the venue at 7am on Monday to setup our space. As with most of these
 
 I took a quick snap of our stand before the doors opened.
 
-![Our stand](/blog/images/2023-06-30/IMG_2833.jpeg)
+![Our stand](/images/2023-06-30/IMG_2833.jpeg)
 
 The organisers made sure there were plenty of drinks and snacks available througout the days of the event. Axiom sponsored freshly made pour-over coffee each day, and do(ugh)nuts on the last day. There was also plenty of fruit in the morning, and other snacks to keep us going. 
 

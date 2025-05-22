@@ -22,7 +22,7 @@ I use [f5bot](https://f5bot.com/) which notifies me via email when the keyword '
 
 On this occasion it was a mention in a Telegram channel I saw scroll past.
 
-![Ping](/blog/images/2020-12-30/ping.png)
+![Ping](/images/2020-12-30/ping.png)
 
 ## Investigation
 
@@ -32,7 +32,7 @@ Indeed some classes of applications are easier to package as a snap than others.
 
 From a political point of view, I'm also unlikely to touch an application where the developer has previously expressed that they don't want their software packaged in such a way. No point wasting time packaging something if a pull request is going to be rejected. Most developers aren't that way inclined though, and welcome having their software in more hands.
 
-![Reddit](/blog/images/2020-12-30/reddit.png)
+![Reddit](/images/2020-12-30/reddit.png)
 
 In this case the application - t-rec - is new (to Linux), is actively developed, and the developer specifically asked for help in packaging. The fact that it's made using Rust is a bonus here. All this was gleaned in a few moments by browsing the repo. I've not technically committed to this project yet. This is important to note, because I will often look at something, and reject it because it will take to long, or maybe it's a commercial application, or has some weirdness that means it'll be a timesink. This wasn't one of those cases, so I moved on to snapping it.
 
@@ -292,7 +292,7 @@ snap install t-rec_v0.4.0_amd64.snap --dangerous --classic
 
 I tested the application by opening a new terminal, ran the application for the first time and got this:
 
-![t-rec](/blog/images/2020-12-30/t-rec.gif)
+![t-rec](/images/2020-12-30/t-rec.gif)
 
 **Narrator**: It worked.
 

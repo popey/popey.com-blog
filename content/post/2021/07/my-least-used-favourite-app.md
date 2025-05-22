@@ -12,7 +12,7 @@ However, there's one app, which is one of my favourites while probably being the
 
 The app in question is "[Be My Eyes](https://www.bemyeyes.com/)". It's available for Android and iOS, and is very easy to setup. The service is aimed at blind and partially sighted people, a group of people I am (currently) not in. 
 
-[![Be My Eyes](/blog/images/2021-07-05/bemyeyes.jpg)](https://www.bemyeyes.com/)
+[![Be My Eyes](/images/2021-07-05/bemyeyes.jpg)](https://www.bemyeyes.com/)
 
 As a sighted person, I install the app, sign up, set my language and then just leave the application installed. Someone with a vision issue, who needs help from a sighted person, can launch the app and put out the call for assistance. 
 

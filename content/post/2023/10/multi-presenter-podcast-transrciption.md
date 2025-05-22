@@ -70,7 +70,7 @@ It also means the transcription will need editing just like the audio does, to r
 
 We could edit the transcription down to match the edited audio, but that's even more work.
 
-[![Ain't nobody got time for that](/blog/images/2023-10-02/aint-nobody-got-time-for-that-kimberly-wilkins.gif)](/blog/images/2023-10-02/aint-nobody-got-time-for-that-kimberly-wilkins.gif)
+[![Ain't nobody got time for that](/images/2023-10-02/aint-nobody-got-time-for-that-kimberly-wilkins.gif)](/images/2023-10-02/aint-nobody-got-time-for-that-kimberly-wilkins.gif)
 
 #### Discerning multiple voices
 
@@ -92,23 +92,23 @@ As [@heronheart](https://social.vivaldi.net/@heronheart/111162641874358355) poin
 
 The Otter.ai marketing is mostly towards businesses requiring transcriptions of meetings held on platforms like Zoom and Google Meet, which isn't what I'm after.
 
-[![Otter.ai](/blog/images/2023-10-02/otterai.png)]((https://otter.ai/referrals/FQN84FYF))
+[![Otter.ai](/images/2023-10-02/otterai.png)]((https://otter.ai/referrals/FQN84FYF))
 
 However, once you sign up, and get past the whole introduction wizard - which incidentally doesn't behave well if you choose "Other" at this stage..
 
-[![Oops](/blog/images/2023-10-02/oops.png)]((/blog/images/2023-10-02/oops.png))
+[![Oops](/images/2023-10-02/oops.png)]((/blog/images/2023-10-02/oops.png))
 
 ... you find an "Import" button.
 
-[![Import](/blog/images/2023-10-02/import.png)]((/blog/images/2023-10-02/import.png))
+[![Import](/images/2023-10-02/import.png)]((/blog/images/2023-10-02/import.png))
 
 So I grabbed the [most recent episode](https://linuxmatters.sh/12) and uploaded it.
 
-[![Linux Matters Episode 12](/blog/images/2023-10-02/lmp12.png)]((/blog/images/2023-10-02/lmp12.png))
+[![Linux Matters Episode 12](/images/2023-10-02/lmp12.png)]((/blog/images/2023-10-02/lmp12.png))
 
 Within a few minutes, it presented a transcription of our show. It didn't know the names of each presenter, but it did delineate one person from another. Telling Otter which presenter said which part was stupidly simple. Just click the unknown presenter, type their name - **once** - and do the same for the others. 
 
-[![Presenter](/blog/images/2023-10-02/presenters.png)]((/blog/images/2023-10-02/presenters.png))
+[![Presenter](/images/2023-10-02/presenters.png)]((/blog/images/2023-10-02/presenters.png))
 
 Once you've done that once, it 'recognises' each presenter through the entire episode. In addition, Otter creates a 'tag cloud' of keywords used in the episode. For episode 12 it came up with this lot, automatically, which is pretty neat. 
 
@@ -119,7 +119,7 @@ vps, box, vle, forked, contribution, find, test, project, virtual machines
 
 Otter also came up with a summary of the show, with timestamps. This could be useful for people who do want to listen but want to jump to a particular segment. It's not perfect, but it's a great start!
 
-[![Summary](/blog/images/2023-10-02/summary.png)]((/blog/images/2023-10-02/summary.png))
+[![Summary](/images/2023-10-02/summary.png)]((/blog/images/2023-10-02/summary.png))
 
 
 Finally, and perhaps the best part, all the content is easily exportable. The transcription is available in plain text format, as is the summary. Here's a short snippet from episode 12.
@@ -148,7 +148,7 @@ Yeah, I certainly had that problem at first. Yes. Right.
 
 I then uploaded two more episodes and processed them. 
 
-[![Two more episodes](/blog/images/2023-10-02/twomoreepisodes.png)]((/blog/images/2023-10-02/twomoreepisodes.png))
+[![Two more episodes](/images/2023-10-02/twomoreepisodes.png)]((/blog/images/2023-10-02/twomoreepisodes.png))
 
 Otter 'knows' our voices now, so it made a good attempt at figuring out who was speaking and when. It had a few problems with technical jargon, character names and products. But it did an excellent first pass at transcription.
 

@@ -102,7 +102,7 @@ INFO:hypercorn.error:Running on http://0.0.0.0:59125 (CTRL + C to quit)
 
 Point your browser at the URL displayed. From there, you can select a language, and voice, type some text and mash the "Speak" button. 
 
-![Mimic 3 web UI](/blog/images/2022-10-11/mimic3.png)
+![Mimic 3 web UI](/images/2022-10-11/mimic3.png)
 
 You'll see this in your terminal, as Mimic 3 downloads the files for whatever language and voice you selected.
 

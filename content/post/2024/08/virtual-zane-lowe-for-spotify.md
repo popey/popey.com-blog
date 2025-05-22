@@ -14,7 +14,7 @@ No AI/ML, all automated, "fresh" tunes every day. Tunes that I enjoy get preserv
 
 Any tracks older than eleven days are deleted from the [main playlist](https://open.spotify.com/playlist/5raANj8U2Lko959txpzzls?si=5dc326b784e64fa1), so I automatically get a constant flow of new stuff.
 
-[![My personal Zane Lowe in a box](/blog/images/2024-08-30/spotify.png)](https://open.spotify.com/playlist/5raANj8U2Lko959txpzzls?si=5dc326b784e64fa1)
+[![My personal Zane Lowe in a box](/images/2024-08-30/spotify.png)](https://open.spotify.com/playlist/5raANj8U2Lko959txpzzls?si=5dc326b784e64fa1)
 
 ## Nutshell
 
@@ -59,7 +59,7 @@ Hear me out. Back in the day, there was an excellent desktop music player for Li
 
 Watch a youthful Jorge Castro from 13 years ago do a quick [demo](https://www.youtube.com/watch?v=mEAYsxAyx9A).
 
-[![Jorge Demonstrating the awesome power of Smart Playlists in Banshee (RIP in Peace)](/blog/images/2024-08-30/jorge.png)](https://www.youtube.com/watch?v=mEAYsxAyx9A)
+[![Jorge Demonstrating the awesome power of Smart Playlists in Banshee (RIP in Peace)](/images/2024-08-30/jorge.png)](https://www.youtube.com/watch?v=mEAYsxAyx9A)
 
 
 Aside: *Banshee was great, as were many other Mono applications like Tomboy and F-Spot. It's a shame a bunch of blinkered, paranoid, noisy, and wrong Linux weirdos chased the developers away, effectively killing off those excellent applications. Good job, Linux community.*

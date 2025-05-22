@@ -16,7 +16,7 @@ Timings are yet to be decided, but likely ~7pm to ~11pm or ~8pm to midnight, UK 
 
 This year, myself, Mark and Martin will be joined by our good pal, and frequent show guest presenter, [Stuart Langridge](https://kryogenix.org/)! As we're borrowing him from his regular show [Bad Voltage](https://www.badvoltage.org/) (which I am also on this coming week, ep 3x24 :D), Joe came up with the derivative name *"**Ubuntu Voltage**"* and it stuck.
 
-![Ubuntu Voltage](/blog/images/2021-03-03/uv.png)
+![Ubuntu Voltage](/images/2021-03-03/uv.png)
 
 In past years we've recorded a traditional Ubuntu Podcast episode, other times we've mixed it up a little. At the last extravaganza, we were together in person for FOSS Talk Live 2019. We devised a fun *contest* between us where we'd each present our own software creations on stage. None of us had seen or knew what eachother developed before we showed it on stage. The "brief" was "*Make a game using `bash`*". That's it. It was super fun, and to whet your appetite , here's the one we did in 2019.
 

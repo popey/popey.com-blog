@@ -10,17 +10,17 @@ tags = ['retro', 'arcade', 'museum', 'basic', 'linux', 'agon', 'snapcraft']
 
 Last month I [visited](blog/2023/09/touching-joysticks/) the [RMC Cave](https://www.retrocollective.co.uk/the-cave.php) where we got a sneak peek at the [Agon Console8](https://heber.co.uk/agon-console8/) from [Heber](https://heber.co.uk/). The Agon Console8 is a consolised version of the more general-purpose Agon8 Computer. They come in a natty retro case, and features twin 9-pin joystick ports.
 
-[![Agon console8](/blog/images/2023-09-23/IMG_3419.heic.png)](/blog/images/2023-09-23/IMG_3419.heic.png)
+[![Agon console8](/images/2023-09-23/IMG_3419.heic.png)](/images/2023-09-23/IMG_3419.heic.png)
 
 I'd not heard about the [Agon](https://www.thebyteattic.com/p/agon.html) line of [Open Source](https://github.com/TheByteAttic) devices before, but they tickled something in me. I'm somewhat fascinated by computers that boot directly into BASIC. 
 
-[![Agon Light](/blog/images/2023-10-09/agon-light.png)](/blog/images/2023-10-09/agon-large.png)
+[![Agon Light](/images/2023-10-09/agon-light.png)](/images/2023-10-09/agon-large.png)
 
 ## Pi time
 
 I wrote about this back in 2021 in [Raspberry Pi: Boot to BASIC](/blog//2021/01/raspberry-pi-boot-to-basic) where I configured a Raspberry Pi to boot directly into [BBC BASIC](https://www.bbcbasic.co.uk/index.html), by R.T. Russell.
 
-![BBC SDL](/blog/images/2021-01-25/bbcsdl.jpg)
+![BBC SDL](/images/2021-01-25/bbcsdl.jpg)
 
 ## 
 
@@ -34,7 +34,7 @@ In an idle moment over the weekend, I stumbled on [Agon Light Emulator](https://
 
 So I had a play with it, and it's rather neat! Imagine booting up a modern real hardware computer and being greeted with this! Wonderful 🥰
 
-![Fab Agon Emulator](/blog/images/2023-10-09/f-a-e.png)
+![Fab Agon Emulator](/images/2023-10-09/f-a-e.png)
 
 ## LOAD"
 
@@ -42,13 +42,13 @@ You can type code in, save it out, and load it in from SD cards - on the real ha
 
 Common BBC basic IO commands like `*CAT`, `LOAD` and `SAVE` work with these real or virtual SD cards. It's all very clever. and familiar.
 
-![Loading](/blog/images/2023-10-09/loading.png)
+![Loading](/images/2023-10-09/loading.png)
 
 ## RUN
 
 Yeee-haw!
 
-![M'lady](/blog/images/2023-10-09/mlady.png)
+![M'lady](/images/2023-10-09/mlady.png)
 
 ## Download
 

@@ -14,7 +14,7 @@ The newsletter is emailed every Friday - [subscribe here](https://newsletter.pop
 
 I talked a bit about the process of setting up the newsletter on [episode 34](https://linuxmatters.sh/34/) of [Linux Matters Podcast](https://linuxmatters.sh/). Have a listen if you're interested.
 
-[![Linux Matters 34](/blog/images/2024-02-20/linuxmatters-banner-3000x750_30.png)](https://linuxmatters.sh/34/)
+[![Linux Matters 34](/images/2024-02-20/linuxmatters-banner-3000x750_30.png)](https://linuxmatters.sh/34/)
 
 *Patreon [supporters](https://linuxmatters.sh/support) of [Linux Matters](https://linuxmatters.sh/) can get the show a day or so early and without adverts.* 🙏
 

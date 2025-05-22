@@ -6,7 +6,7 @@ author = "Alan Pope"
 tags = ['tfts']
 +++
 
-This is the sixth in a series of Friday [Tales From Tech Support](https://popey.com/blog/tags/tfts/). Some stories from the past featuring broken computers and even more broken tech support operatives - mostly me.
+This is the sixth in a series of Friday [Tales From Tech Support](https://blog.popey.com/tags/tfts/). Some stories from the past featuring broken computers and even more broken tech support operatives - mostly me.
 
 ## Scene setting
 

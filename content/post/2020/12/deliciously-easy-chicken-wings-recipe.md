@@ -8,7 +8,7 @@ tags = ['chicken', 'recipe', 'wings', 'nontech']
 
 I like chicken wings. I *really* like chicken wings. Before `The Event`, when I used to travel internationally, often to the USA, I'd frequently partake of some delicious wings. On one notable occasion in California, I think I had chicken wings every day for a week, from different restaurants. I like them a **lot**.
 
-![Menu from my travells](/blog/images/2020-12-24/menu.jpg)
+![Menu from my travells](/images/2020-12-24/menu.jpg)
 
 Ideally I feel chicken wings should be slathered in some kind of sauce, I'm not picky, there's room for many sauces in this world. But I prefer something sticky, sweet and often spicy. Underneath that sauce should be found a crispy coating enclosing our wing, on the bone.
 
@@ -57,7 +57,7 @@ I'm not going to go on and on about this lyrically like an American "recipe". Le
 1. After 15-20 mins, carefully flip the wings (optional, don't bother if you're lazy/rushed)
 1. Start slowly warming the barbecue sauce in a small pan, potentially add extra maple syrup or honey if you like extra sticky/sweet wings
 1. After further 15-20 mins ensure chicken coating is a bit crispy, and remove from the oven. If not, leave for a few more minutes They should look like this:
-![Cooked chicken wings](/blog/images/2020-12-24/cooked.jpg)
+![Cooked chicken wings](/images/2020-12-24/cooked.jpg)
 
 1. Rest the chicken for a few minutes before carefully placing them in the large bowl
 1. Turn oven up to 180 degrees C
@@ -72,7 +72,7 @@ I'm not going to go on and on about this lyrically like an American "recipe". Le
 
 They should look something like this.
 
-![Finished chicken wings](/blog/images/2020-12-24/finished.jpg)
+![Finished chicken wings](/images/2020-12-24/finished.jpg)
 
 Notes:
 

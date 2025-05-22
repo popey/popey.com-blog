@@ -8,7 +8,7 @@ tags = ['hardware', 'review', 'cooking', 'airfryer']
 
 Like many during `The Event` I bought an Air Fryer. Specifically I got the [Pro Breeze XL 5.5L](https://geni.us/QafT3) (affiliate link) from Amazon. I honestly didn't do a tremendous amount of research, just reading a few reviews and using those as my basis for what to buy. The Pro Breeze models come in different sizes, and the reviews for the smaller model suggest the larger 5.5L one is preferable. I'm lucky enough to have enough kitchen workspace to leave it out on the side, so went for the larger model. It cost £89.99 and was delivered promptly.
 
-[![Pro Breeze 5.5L](/blog/images/2021-02-26/probreeze.jpg)](https://geni.us/QafT3)
+[![Pro Breeze 5.5L](/images/2021-02-26/probreeze.jpg)](https://geni.us/QafT3)
 
 Setup was super-simple. Unpack, plug-in and done. 
 

@@ -8,7 +8,7 @@ tags = ['ubuntu', 'bug', 'luks', 'lvm']
 
 I run Ubuntu Hirsute - the development release which will become 21.04 - on a bunch of systems. It's a trade-off though, getting the latest crack each and every day. Being at the bleeding edge of new packages landing means I can experience brand new shiny bugs on my systems. Bugs like [1915579](https://pad.lv/1915579) which rendered my system unbootable. Nobody wants to see *this* on boot:
 
-![initramfs prompt](/blog/images/2021-03-04/initramfs.png)
+![initramfs prompt](/images/2021-03-04/initramfs.png)
 
 I had updated yesterday and clearly *something* went wrong. A colleague filed a [bug](https://pad.lv/1917676) as they'd seen the same thing recently. For them it was their primary machine so they nuked it from orbit. As I experienced the bug on my laptop, a *secondary* machine, I was fine with leaving it alone, in case I could get some debug information from it, or repair it. I confirmed the bug and went to bed, as it was getting late.
 
@@ -44,7 +44,7 @@ reboot                                    # cross fingers, pray, sacrifice a chi
 
 🤞
 
-[![Phew!](/blog/images/2021-03-04/phew.png)](/blog/images/2021-03-04/phew.png)
+[![Phew!](/images/2021-03-04/phew.png)](/images/2021-03-04/phew.png)
 
 Success! 🎉
 

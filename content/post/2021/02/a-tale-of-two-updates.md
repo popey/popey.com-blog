@@ -16,7 +16,7 @@ First though, a *small* **backstory**.
 
 Ubuntu has, for some time, shipped a graphical Software Update tool which periodically informs the user that there's new software to upgrade to. This may include bug fixes, security updates or - in the case of some packages - new releases. Users can manually run the tool, but if they don't, after a period it will popup. It looks a bit like this.
 
-![Software Updater](/blog/images/2021-02-24/softwareupdate.png)
+![Software Updater](/images/2021-02-24/softwareupdate.png)
 
 The idea is to nudge users gently to just hit the `Install Now` button and continue with their day. Updates on the Ubuntu desktop don't require a reboot to install, but may require a post-install reboot for the newly installed kernel (for example) to take effect.
 
@@ -30,7 +30,7 @@ Yes, we also have a command-line tool `apt` / `apt-get` which more advanced user
 
 Ubuntu also ships a slightly contentious utility called `whoopsie` which optionally sends crash reports to Canonical to `daisy` - yes, it's "Whoopsie-Daisy". The contentious part is that it punches users in the face with a dialog box when things crash, to ask *permission* to send the crash to Canonical. It looks like this, and some people *hate* it.
 
-![Whoopsie!](/blog/images/2021-02-24/whoopsie.png)
+![Whoopsie!](/images/2021-02-24/whoopsie.png)
 
 *Aside:* No. Ubuntu isn't inherently more crashy than other Linux distributions, but it might look like it because we *show* the user the crash dialog, whereas other distros have no idea that applications are crashing on end-user systems.
 
@@ -38,7 +38,7 @@ We have made this a lot more friendly in recent releases such that it doesn't ne
 
 The crash dumps from `whoopsie` via `daisy`, after a data clean-up, end up in aggregate on [errors.ubuntu.com](https://errors.ubuntu.com/). Here's what the front page of that site looks like. 
 
-[![errors](/blog/images/2021-02-24/errors.png)](https://errors.ubuntu.com)
+[![errors](/images/2021-02-24/errors.png)](https://errors.ubuntu.com)
 
 *Aside:* It's mildly amusing and ironic that the number two crasher by occurrences when I took that screenshot is in `apport` - specifically `whoopsie-upload-all` - the tool which uploads crash reports to this very website. 🤦‍♂️
 
