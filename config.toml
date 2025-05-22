@@ -1,5 +1,5 @@
 
-baseurl = "https://popey.com/blog"
+baseurl = "https://blog.popey.com/"
 title = "Alan Pope's blog"
 languageCode = "en-gb"
 theme = "beautifulhugo"
@@ -13,7 +13,7 @@ paginate = 20
     headline = "Alan Pope's blog"
     description = "A bit of personal space for writing"
     github = "https://github.com/popey/popey.com-blog"
-    twitter = "https://twitter.com/popey"
+    #twitter = "https://twitter.com/popey"
     email = "alan@popey.com"
     opengraph = true
     shareTwitter = true
