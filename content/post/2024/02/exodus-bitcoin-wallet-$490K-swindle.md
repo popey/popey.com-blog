@@ -6,7 +6,7 @@ author = "Alan Pope"
 tags = ['ubuntu', 'snapcraft', 'crypto', 'scam', 'bitcoin', 'wallet', 'exodus']
 +++
 
-**Edit:** *There's a short follow-up to this post: [Exodus Bitcoin Wallet: Follow up](/blog/2024/02/exodus-bitcoin-wallet-follow-up)*.
+**Edit:** *There's a short follow-up to this post: [Exodus Bitcoin Wallet: Follow up](/2024/02/exodus-bitcoin-wallet-follow-up)*.
 
 **tl;dr**: A Bitcoin investor was recently scammed out of 9 Bitcoin (worth around $490K) in a fake "Exodus wallet" desktop application for Linux, published in the Canonical Snap Store. This isn't the first time, and if nothing changes, it likely won't be the last. 
 

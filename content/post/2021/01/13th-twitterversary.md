@@ -10,7 +10,7 @@ I woke up this morning to a notification injected into my timeline in the Twitte
 
 ![Twitter Anniversary](/images/2021-01-16/twitterversary.jpg)
 
-Apparently it's my "Twitter anniversary" which I can "celebrate" by tweeting out a pre-made picture of the number 13. That's too easy. Instead I recently [downloaded](/blog/2021/01/downloading-twitter-data-or-not/) my Twitter data. Let me be self-indulgent and take a look and see what happened over those 13 years.
+Apparently it's my "Twitter anniversary" which I can "celebrate" by tweeting out a pre-made picture of the number 13. That's too easy. Instead I recently [downloaded](/2021/01/downloading-twitter-data-or-not/) my Twitter data. Let me be self-indulgent and take a look and see what happened over those 13 years.
 
 For those who haven't tried downloading their Twitter data, what you get is a browseable archive with a summary front page.
 
@@ -107,7 +107,7 @@ I sometimes get a bit too snarky on Twitter for my own good. In my defence, ther
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Wonder how long this run will last. 🤞 <a href="https://t.co/Fh7Pn3nzfm">pic.twitter.com/Fh7Pn3nzfm</a></p>&mdash; Alan Pope 🍺🐧🐱🇬🇧🇪🇺 (@popey) <a href="https://twitter.com/popey/status/1261589788882337793?ref_src=twsrc%5Etfw">May 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 {{< /rawhtml >}}
 
-Also, around the same time, I was getting grumpy about Distrowatch. Something I have long lamented and eventually [blogged about yesterday](/blog/2021/01/distrowatch-is-not-a-measure-of-popularity/) in more detail. I'll shut up about this topic now.
+Also, around the same time, I was getting grumpy about Distrowatch. Something I have long lamented and eventually [blogged about yesterday](/2021/01/distrowatch-is-not-a-measure-of-popularity/) in more detail. I'll shut up about this topic now.
 
 {{< rawhtml >}}
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Go to DistroWatch, set the &quot;Page Hit Rank&quot; data span to 7 days. Observe the green up arrows. Note that traffic to distro pages is driven primarily by recent news on the site itself. Not distro popularity. Tomorrow, look for Plamo, Finnix, Zevenet &amp; KDE Neon on the rise. <a href="https://t.co/WRaErITKXu">pic.twitter.com/WRaErITKXu</a></p>&mdash; Alan Pope 🍺🐧🐱🇬🇧🇪🇺 (@popey) <a href="https://twitter.com/popey/status/1260991282631135234?ref_src=twsrc%5Etfw">May 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

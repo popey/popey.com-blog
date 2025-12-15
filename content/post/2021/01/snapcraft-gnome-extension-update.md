@@ -46,7 +46,7 @@ $ diff -y <(cat snap/snapcraft.yaml) <(snapcraft expand-extensions) | wc -l
 143
 ```
 
-Ok, Lots. I've put it [here](/blog/text/2021-01-26/expanded_snapcraft.yaml.diff) if you want to see. In short, it plugs interfaces to common resources that GNOME applications need, connects the necessary paths in this snap to the content snap(s) and sets the environment up so the application feels at home.
+Ok, Lots. I've put it [here](/text/2021-01-26/expanded_snapcraft.yaml.diff) if you want to see. In short, it plugs interfaces to common resources that GNOME applications need, connects the necessary paths in this snap to the content snap(s) and sets the environment up so the application feels at home.
 
 Just like the rest of `snapcraft` the code that makes these extensions work is open source, and lives in the [snapcraft github](https://github.com/snapcore/snapcraft/tree/master/extensions/desktop/gnome) if you're interested in seeing how all this works.
 

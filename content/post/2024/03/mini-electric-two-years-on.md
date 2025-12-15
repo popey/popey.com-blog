@@ -48,7 +48,7 @@ I went for the “2021 BMW Mini Cooper Level 3”, as it’s known officially. T
 
 The one option I wish I’d got is adaptive cruise control, which is handy on UK motorways. Dial in a speed and let the car adjust dynamically as the car in front slows or speeds up. My wife’s car has it, and I am mildly kicking myself I didn’t get it for the Mini.
 
-The full spec and trim can be seen in the BMW [PDF](/blog/pdf/2024-03-03/BEV_MINI_Spec_Sheets_May_2021.pdf). Here’s the page about my car's specifications. Click to make it bigger. 
+The full spec and trim can be seen in the BMW [PDF](/pdf/2024-03-03/BEV_MINI_Spec_Sheets_May_2021.pdf). Here’s the page about my car's specifications. Click to make it bigger. 
 
 [![Specification](/images/2024-03-03/BEV_MINI_Spec_Sheets_May_2021-3_50.png)](/images/2024-03-03/BEV_MINI_Spec_Sheets_May_2021-3_50.png)
 
@@ -134,7 +134,7 @@ Sometimes, I forget or don’t bother if I know the battery still has plenty of 
 
 ## Charging
 
-In my personal experience, most charges are done at home. I have charged in many places away from home, but that’s not very common for me. The last time I [checked](/blog/2023/08/charting-ev-car-charging/) the stats, it had been around 86% charging at home and 14% on public chargers.
+In my personal experience, most charges are done at home. I have charged in many places away from home, but that’s not very common for me. The last time I [checked](/2023/08/charting-ev-car-charging/) the stats, it had been around 86% charging at home and 14% on public chargers.
 
 I often take a photo of the car while it's charging in a public place. Usually to share on social media to spark a conversation about charging infrastructure. On this occasion I was using a charger in the car park at Chepstow Castle.
 

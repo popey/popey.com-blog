@@ -6,7 +6,7 @@ author = "Alan Pope"
 tags = ['ubuntu', 'linux', 'snapcraft', 'snap', 'metrics', 'telemetry']
 +++
 
-The other day I wrote about [snapcraft metrics](/blog/2023/10/snapcraft-metrics/), a tool that enables publishers to extract application metrics from the [snap store](https://snapcraft.io). Something I've noticed which I wanted to share, was how quickly automatic updates roll out to an application's user base.
+The other day I wrote about [snapcraft metrics](/2023/10/snapcraft-metrics/), a tool that enables publishers to extract application metrics from the [snap store](https://snapcraft.io). Something I've noticed which I wanted to share, was how quickly automatic updates roll out to an application's user base.
 
 So I took the metrics from an application that I published in the snap store and scrubbed the names and version numbers. I charted below the speed that devices roll over from one release to the next. Here's an image that I think clearly shows the rapid rise as a new release is published, and the rapid drop-off, of the previous version. This chart covers a month where three versions were published, a week or so apart. 
 
@@ -40,6 +40,6 @@ I've seen this pattern very reliably reproduced across any kind of application I
 
 *In general, 50% of users will update within 24 hours, and 90% are updated within a week.*
 
-While I know the whole concept of automatic background updates is anathema to [some](/blog/2021/05/disabling-snap-autorefresh/), it's certainly useful for keeping *most* machines up to date, and on the latest and greatest code. With all the security fixes, and potential new bugs that come with it.
+While I know the whole concept of automatic background updates is anathema to [some](/2021/05/disabling-snap-autorefresh/), it's certainly useful for keeping *most* machines up to date, and on the latest and greatest code. With all the security fixes, and potential new bugs that come with it.
 
 

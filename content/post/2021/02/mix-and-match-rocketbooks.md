@@ -6,7 +6,7 @@ author = "Alan Pope"
 tags = ['writing', 'analog', 'rocketbook']
 +++
 
-Last month I '[discovered](/blog/2021/01/discovering-rocketbooks/)' Rocketbooks. Well, now I'm in deep! I've picked up a bunch of coloured pens, a large folio cover for the full size Rocketbook, and now, I've grabbed some more!
+Last month I '[discovered](/2021/01/discovering-rocketbooks/)' Rocketbooks. Well, now I'm in deep! I've picked up a bunch of coloured pens, a large folio cover for the full size Rocketbook, and now, I've grabbed some more!
 
 ![2 Rocketbooks](/images/2021-02-28/2rocketbooks.jpg)
 

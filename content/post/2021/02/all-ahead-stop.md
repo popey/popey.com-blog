@@ -6,7 +6,7 @@ author = "Alan Pope"
 tags = ['software', 'linux', 'ubuntu']
 +++
 
-Well, things have escalated in Ubuntu-land since the posts I made on [Monday](/blog/2021/02/dont-use-proposed/) and [Tuesday](/blog/2021/02/going-backwards/)! The Ubuntu archive for Hirsute (the in-development version which will become 21.04) has been temporarily [frozen](https://lists.ubuntu.com/archives/ubuntu-devel/2021-February/041385.html). 
+Well, things have escalated in Ubuntu-land since the posts I made on [Monday](/2021/02/dont-use-proposed/) and [Tuesday](/2021/02/going-backwards/)! The Ubuntu archive for Hirsute (the in-development version which will become 21.04) has been temporarily [frozen](https://lists.ubuntu.com/archives/ubuntu-devel/2021-February/041385.html). 
 
 It seems there's a rather knarly [bug](https://bugs.launchpad.net/ubuntu/+source/fakeroot/+bug/1915250) in the tools used to build packages, which is causing them to be "mis-built" - i.e. broken. I (and others) [noticed](https://forum.snapcraft.io/t/snapd-from-hirsute-proposed-wont-allow-snaps-to-run/22733) this over the weekend, via a breakage in `snapd` - the daemon which mediates the installation and running of snaps.
 
@@ -35,7 +35,7 @@ Ugh!
 
 I was on kernel 5.8.0-38-generic, but the bug was fixed in 5.8.0-41.46, on 20.10 and 20.04 LTS. So it looks like I don't have the fix, on the (admittedly unsupported) development release. I had a brief chat with Andrew and captured some data, in case it might be useful for debugging. However we thought maybe it was better to jump to the 5.10 kernel which was being prepared in Hirsute. 
 
-Now, at this point the 5.10 kernel was baking in the `proposed` pocket. See ["Don't Use Proposed"](/blog/2021/02/dont-use-proposed/) from Monday for why that's important. 
+Now, at this point the 5.10 kernel was baking in the `proposed` pocket. See ["Don't Use Proposed"](/2021/02/dont-use-proposed/) from Monday for why that's important. 
 
 A hypothetical conversation went a bit like this, late on Sunday night - valentines day. Andrew and I know how to have a romantic night.
 
@@ -70,6 +70,6 @@ Thankfully xnox [provided](https://forum.snapcraft.io/t/snapd-from-hirsute-propo
 
 *Enabling devel-proposed is not supported at all, as devel-proposed during release development is not meant for human consumption.*
 
-Which is what led me to [Monday](/blog/2021/02/dont-use-proposed/) and [Tuesday](/blog/2021/02/going-backwards/), and now the archive being [frozen](https://lists.ubuntu.com/archives/ubuntu-devel/2021-February/041385.html).
+Which is what led me to [Monday](/2021/02/dont-use-proposed/) and [Tuesday](/2021/02/going-backwards/), and now the archive being [frozen](https://lists.ubuntu.com/archives/ubuntu-devel/2021-February/041385.html).
 
 Lesson learned. Don't use proposed. :)

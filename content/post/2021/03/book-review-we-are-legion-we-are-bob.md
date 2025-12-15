@@ -6,7 +6,7 @@ author = "Alan Pope"
 tags = ['book', 'review', 'audible']
 +++
 
-I recently [reviewed](/blog/2021/02/book-review-split-second/) *[Split Second (Split Second Book 1)](https://geni.us/XvJZ1)* (affiliate link) by Douglas E. Richards. I'd not read any Douglas E. Richards books before, so it was very helpful to me for readers of my humble blog to recommend that and further titles from other authors.
+I recently [reviewed](/2021/02/book-review-split-second/) *[Split Second (Split Second Book 1)](https://geni.us/XvJZ1)* (affiliate link) by Douglas E. Richards. I'd not read any Douglas E. Richards books before, so it was very helpful to me for readers of my humble blog to recommend that and further titles from other authors.
 
 *[We Are Legion (We Are Bob)](https://geni.us/DdFsBc)* (affiliate link) by Dennis E. Taylor was highly recommended, and delivered. We Are Legion (We Are Bob) was published back in 2016, so as usual I'm very late to the party. Again, I grabbed this via Audible and listened to the nearly 10-hour futuristic space-based novel on walks and while cooking.
 

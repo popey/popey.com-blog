@@ -6,7 +6,7 @@ author = "Alan Pope"
 tags = ['mini', 'ev', 'car', 'charging', 'axiom']
 +++
 
-tl;dr I own an BEV (Battery Electric Vehicle) BMW Mini. I previously [wrote](/blog/2023/08/charting-ev-car-charging/) and [talked](https://linuxmatters.sh/10/) about getting a 'takeout' of my car charging data from BMW, and putting it into [Axiom](https://app.axiom.co/) to answer some common questions from the 'EV Curious'. I'm now getting ongoing data from the car, but I had to use 3rd party tools to do it.
+tl;dr I own an BEV (Battery Electric Vehicle) BMW Mini. I previously [wrote](/2023/08/charting-ev-car-charging/) and [talked](https://linuxmatters.sh/10/) about getting a 'takeout' of my car charging data from BMW, and putting it into [Axiom](https://app.axiom.co/) to answer some common questions from the 'EV Curious'. I'm now getting ongoing data from the car, but I had to use 3rd party tools to do it.
 
 ## BMW 
 

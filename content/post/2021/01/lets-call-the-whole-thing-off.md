@@ -6,7 +6,7 @@ author = "Alan Pope"
 tags = ['linux', 'ubuntu', 'gnome', 'rant', 'selfimprovement']
 +++
 
-I've [mentioned before](/blog/2021/01/distrowatch-is-not-a-measure-of-popularity/) that I 'suffer' from [xkcd 386](https://xkcd.com/386). I'm trying to improve, and maybe writing this post will help me. If it helps you, that's awesome too. Let's work on this together. 🤝
+I've [mentioned before](/2021/01/distrowatch-is-not-a-measure-of-popularity/) that I 'suffer' from [xkcd 386](https://xkcd.com/386). I'm trying to improve, and maybe writing this post will help me. If it helps you, that's awesome too. Let's work on this together. 🤝
 
 There's a strong prevalence among some in the Linux community for people correcting others. Specifically correcting pronunciation. I have been guilty of this in the past, but I'm trying to be the change I want to be. It's a struggle!
 

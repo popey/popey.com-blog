@@ -24,11 +24,11 @@ I explained in a [reply](https://twitter.com/popey/status/1369752215968186370) h
   * Water
   * Tongs
   * A flat fish slice or slotted spoon
-  * A [good](/blog/2021/01/the-best-toaster/) toaster
+  * A [good](/2021/01/the-best-toaster/) toaster
 
 ## Method
 
-Slice your muffins and place in your [excellent](/blog/2021/01/the-best-toaster/) toaster. Don't start the toaster yet though.
+Slice your muffins and place in your [excellent](/2021/01/the-best-toaster/) toaster. Don't start the toaster yet though.
 
 Put enough water in the pan which would just cover a poaching egg, and bring to the boil. This photograph is boiling water, not molten plastic as it appears!
 

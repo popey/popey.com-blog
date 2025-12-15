@@ -6,9 +6,9 @@ author = "Alan Pope"
 tags = ['software', 'linux', 'snapcraft', 'golang', 'ticker', 'how-to']
 +++
 
-Last year ( 😄 ) I wrote an article called [Snap Along With Me](/blog/2020/12/snap-along-with-me/) in which I detailed how I approached snapping a rust application called t-rec. Well, I'm back with another "Snap Along", this time we're snapping an application written in Golang.
+Last year ( 😄 ) I wrote an article called [Snap Along With Me](/2020/12/snap-along-with-me/) in which I detailed how I approached snapping a rust application called t-rec. Well, I'm back with another "Snap Along", this time we're snapping an application written in Golang.
 
-During a meeting to on-board a new member of the team at work today, I went through a similar process as my last blog post. This time I chose a different application, so I thought I'd write it up here. I've previously [explained](/blog/2020/12/snap-along-with-me/) how I browse the various [GitHub Trending](https://github.com/trending) pages for each language. Today was no different, we browsed the [trending rust projects](https://github.com/trending/rust) then moved on to [trending Go projects](https://github.com/trending/go).
+During a meeting to on-board a new member of the team at work today, I went through a similar process as my last blog post. This time I chose a different application, so I thought I'd write it up here. I've previously [explained](/2020/12/snap-along-with-me/) how I browse the various [GitHub Trending](https://github.com/trending) pages for each language. Today was no different, we browsed the [trending rust projects](https://github.com/trending/rust) then moved on to [trending Go projects](https://github.com/trending/go).
 
 ![Trending Go Projects](/images/2021-02-03/trendinggo.png)
 

@@ -6,7 +6,7 @@ author = "Alan Pope"
 tags = ['NaBloPoMo', 'ubuntu', 'summit', 'events']
 +++
 
-Last week, I [wrote](/blog/2023/11/heading-to-ubuntu-summit-2023) about my somewhat last-minute plans to attend the 2023 Ubuntu Summit in Riga, Latvia. The event is now over, and I'm back home collating my thoughts about the weekend.
+Last week, I [wrote](/2023/11/heading-to-ubuntu-summit-2023) about my somewhat last-minute plans to attend the 2023 Ubuntu Summit in Riga, Latvia. The event is now over, and I'm back home collating my thoughts about the weekend.
 
 The tl;dr: It was a great, well-organised and run event with interesting speakers.
 
@@ -30,7 +30,7 @@ A bridged Telegram/Matrix chat was used during the event to enable everyone to c
 
 An email was sent out early on at the start of each day, to give everyone a heads-up on the main things happening that day, and provide information about social events.
 
-There were two styles of lanyard from which to hang your name badge. One was coloured diffierently to indicate the individual did not wish to be photographed. I saw similar at [Akademy](/blog/2018/08/akademy-2018-trip-report/) back in 2018, and appreciate this option.
+There were two styles of lanyard from which to hang your name badge. One was coloured diffierently to indicate the individual did not wish to be photographed. I saw similar at [Akademy](/2018/08/akademy-2018-trip-report/) back in 2018, and appreciate this option.
 
 ## Sessions
 
@@ -58,7 +58,7 @@ This was a great talk about the process of open sourcing a component of the vide
 
 * [Introducing Ubuntu Core Desktop](https://events.canonical.com/event/31/contributions/246/)
 
-Oliver Smith and Ken VanDine presented Ubuntu Core Desktop Preview, from a laptop running the Core Desktop. I talked a little about this in [Ubuntu Core Snapdeck](/blog/2023/11/ubuntu-core-snapdeck/). 
+Oliver Smith and Ken VanDine presented Ubuntu Core Desktop Preview, from a laptop running the Core Desktop. I talked a little about this in [Ubuntu Core Snapdeck](/2023/11/ubuntu-core-snapdeck/). 
 
 {{< rawhtml >}}
 <center><iframe src="https://aus.social/@jamesh/111347584247284874/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://staticcdn.aus.social/embed.js" async="async"></script></center>

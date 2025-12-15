@@ -14,7 +14,7 @@ I had updated yesterday and clearly *something* went wrong. A colleague filed a 
 
 I woke to find 'our' bug had been marked as a duplicate of [1915579](https://pad.lv/1915579), along with a bunch of others. So it's clear other people are affected. There was some [discussion](https://irclogs.ubuntu.com/2021/03/03/%23ubuntu-release.html#t11:13) on IRC about it yesterday as developers worked quickly to undo the breakage before it hit more users.
 
-Most Ubuntu users don't actually run the latest development release, probably a tiny fraction of one percent in total.  A bunch of us Canonical people do, [clearly](/blog/2021/02/dont-use-proposed/), and many community contributors and QA people do too. But it's not really a good idea in general to run a production machine on a development release of Ubuntu. We are where we are though.
+Most Ubuntu users don't actually run the latest development release, probably a tiny fraction of one percent in total.  A bunch of us Canonical people do, [clearly](/2021/02/dont-use-proposed/), and many community contributors and QA people do too. But it's not really a good idea in general to run a production machine on a development release of Ubuntu. We are where we are though.
 
 The bug came about because (for some reason) the `/usr/share/initramfs-tools/hooks/lvm2` binary ended up not being executable. That's a problem when you have `LUKS` full disk encrypted drive which leverages [LVM](https://en.wikipedia.org/wiki/Logical_Volume_Manager_(Linux)). Thankfully a few helpful people contributed across the various duplicate bugs to provide instructions on how to fix the problem on an unbootable system. So here's what I did.
 

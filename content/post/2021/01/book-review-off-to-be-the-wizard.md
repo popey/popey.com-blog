@@ -6,7 +6,7 @@ author = "Alan Pope"
 tags = ['book', 'review', 'audible']
 +++
 
-I don't read anywhere near enough books. Since `The Event` though, I've been walking more, and as I mentioned in my [AirDots review](/blog/2021/01/xiaomi-redmi-airdots-s-review/), I enjoy ~~reading~~ listening to books as I walk. I'm a massive time travel fiction fan. There's rarely a film with a time travel element that I'm not a fan of. The whole concept of re-writing history, broken timelines, butterfly effects and incongruity enthralls me.
+I don't read anywhere near enough books. Since `The Event` though, I've been walking more, and as I mentioned in my [AirDots review](/2021/01/xiaomi-redmi-airdots-s-review/), I enjoy ~~reading~~ listening to books as I walk. I'm a massive time travel fiction fan. There's rarely a film with a time travel element that I'm not a fan of. The whole concept of re-writing history, broken timelines, butterfly effects and incongruity enthralls me.
 
 I'm not sure how I discovered *[Off to Be the Wizard](https://geni.us/SJrmm)* (affiliate link) by Scott Meyer, but it's been on my Audible wishlist for a few months. I finally picked it up at the start of December. The book was published back in 2014, but I'm a slow reader, and clearly late to the party on this one.
 

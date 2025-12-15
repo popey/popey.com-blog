@@ -8,7 +8,7 @@ tags = ['retro', 'arcade', 'museum']
 
 I've just returned from an excellent day visting [The Cave](https://www.retrocollective.co.uk/the-cave.php) and the [Arcade Archive](https://www.retrocollective.co.uk/arcade-archive.php) with friends. 
 
-I've visited the cave before, and wrote up my experience in [Visiting The Cave](/blog/2022/11/visiting-the-cave) last year. I decided since (nearly) a year had passed, it was time to visit again. 
+I've visited the cave before, and wrote up my experience in [Visiting The Cave](/2022/11/visiting-the-cave) last year. I decided since (nearly) a year had passed, it was time to visit again. 
 
 When I mentioned online to some friends, that I was planning on going, they all booked tickets for the same day. We arrived just before 11am, met the greeters who checked our tickets, showed us up the stairs, and introduced the venue. 
 

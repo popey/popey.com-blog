@@ -10,7 +10,7 @@ tags = ['accessibility', 'tts', 'mycroft', 'mimic3']
     <audio controls src="/blog/audio/audio_2022-10-12_11-33-47.mp3"><a href="/blog/audio/audio_2022-10-12_11-33-47.mp3">Download audio</a></audio>
 {{< /rawhtml >}}
 
-I had some fun when I [blogged](/blog/2022/10/blog-to-speech-in-my-voice/) about using a bot to read my blog post. While fun, it wasn't a particularly pleasant way to consume blog content. The audio is still a bit robotic, with little care for timing, ephasis and stress on words. So in my [next blog post](/blog/2022/10/setting-up-mimic3/), in which I detailed how to setup Mimic 3, I actually read the blog post out loud, recorded that and attached it as an MP3. 
+I had some fun when I [blogged](/2022/10/blog-to-speech-in-my-voice/) about using a bot to read my blog post. While fun, it wasn't a particularly pleasant way to consume blog content. The audio is still a bit robotic, with little care for timing, ephasis and stress on words. So in my [next blog post](/2022/10/setting-up-mimic3/), in which I detailed how to setup Mimic 3, I actually read the blog post out loud, recorded that and attached it as an MP3. 
 
 Here's what I did, and didn't do.
 

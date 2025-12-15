@@ -8,9 +8,9 @@ tags = ['ubuntu', 'snapcraft', 'crypto', 'scam', 'bitcoin', 'wallet', 'exodus']
 
 ## Previously...
 
-Back in February, I [blogged](/blog/2024/02/exodus-bitcoin-wallet-490k-swindle/) about a series of scam Bitcoin wallet apps that were published in the Canonical Snap store, including one which netted a scammer **$490K** of some poor rube's coin. 
+Back in February, I [blogged](/2024/02/exodus-bitcoin-wallet-490k-swindle/) about a series of scam Bitcoin wallet apps that were published in the Canonical Snap store, including one which netted a scammer **$490K** of some poor rube's coin. 
 
-The snap was *eventually* [removed](/blog/2024/02/exodus-bitcoin-wallet-follow-up), and [some](https://forum.snapcraft.io/t/should-unverified-cryptocurrency-apps-be-banned/38919/4) [threads](https://forum.snapcraft.io/t/stronger-identity-verification-for-all-publishers/39061) were started over on the [Snapcraft forum](https://snapcraft.io/)
+The snap was *eventually* [removed](/2024/02/exodus-bitcoin-wallet-follow-up), and [some](https://forum.snapcraft.io/t/should-unverified-cryptocurrency-apps-be-banned/38919/4) [threads](https://forum.snapcraft.io/t/stronger-identity-verification-for-all-publishers/39061) were started over on the [Snapcraft forum](https://snapcraft.io/)
 
 ## Groundhog Day
 
@@ -259,7 +259,7 @@ layout:
 
 ## Digging Deeper
 
-Unlike the [previous](/blog/2024/02/exodus-bitcoin-wallet-490k-swindle/) scammy application that was written using Flutter, the developers of this one appear to have made a web page in a WebKit GTK wrapper. 
+Unlike the [previous](/2024/02/exodus-bitcoin-wallet-490k-swindle/) scammy application that was written using Flutter, the developers of this one appear to have made a web page in a WebKit GTK wrapper. 
 
 If the network is not available, the application loads with an empty window containing an error message "Could not connect: Network is unreachable". 
 
@@ -391,7 +391,7 @@ All of this is done over HTTP, because of course it is. No security needed here!
 
 It's trivially easy to publish scammy applications like this in the Canonical Snap Store, and for them to go unnoticed. 
 
-I was **somewhat** hopeful that my previous [post](/blog/2024/02/exodus-bitcoin-wallet-490k-swindle/) may have had some impact. It doesn't look like much has changed yet beyond a couple of conversations on the forum.
+I was **somewhat** hopeful that my previous [post](/2024/02/exodus-bitcoin-wallet-490k-swindle/) may have had some impact. It doesn't look like much has changed yet beyond a couple of conversations on the forum.
 
 It would be **really** *neat* if the team at Canonical responsible for the store could do something to prevent these kinds of apps before they get into the hands of users.
 

@@ -168,7 +168,7 @@ We're taken to a private URL - that is, only you, logged in with your GitHub acc
 
 [![Box](/images/2023-10-04/box.png)](/images/2023-10-04/box.png)
 
-Honestly, it does move! I have a [webm video](/blog/videos/2023-10-04/box.webm) of it!
+Honestly, it does move! I have a [webm video](/videos/2023-10-04/box.webm) of it!
 
 {{< rawhtml >}}
    <center>

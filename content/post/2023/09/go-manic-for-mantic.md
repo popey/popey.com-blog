@@ -62,7 +62,7 @@ After discussing backups on [episode 9](https://linuxmatters.sh/9/) of [Linux Ma
 
 [![Mutt](/images/2023-09-18/mutt.png)](/images/2023-09-18/mutt.png)
 
-I have tested these, and the backups work, unlike the [caravan club](/blog/2023/09/backup-the-caravan/).
+I have tested these, and the backups work, unlike the [caravan club](/2023/09/backup-the-caravan/).
 
 ### Updates
 

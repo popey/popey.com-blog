@@ -16,7 +16,7 @@ On a slightly lighter note, the late, great comedian [Jeremy Hardy](https://en.w
 
 ## Local shops
 
-While I grew up in the 1980s, the UK home computer scene was burgeoning. There were so many niche little 8-bit microcomputers vying to be top dog. I had a Sinclair [ZX81](/blog/2021/03/fourty-years-on/), various Sinclair Spectrums, and an Amstrad CPC-464. I sold each one to fund the next upgrade.
+While I grew up in the 1980s, the UK home computer scene was burgeoning. There were so many niche little 8-bit microcomputers vying to be top dog. I had a Sinclair [ZX81](/2021/03/fourty-years-on/), various Sinclair Spectrums, and an Amstrad CPC-464. I sold each one to fund the next upgrade.
 
 Software availability in Mytchett was non-existent. I had to travel to the nearest town to get games for my 8-bit microcomputers. The leading vendor was a newsagent called "Martin's". They sold books, newspapers, stationery, confectionery, records, tapes, and a small selection of computer games. 
 
@@ -53,7 +53,7 @@ Note the "Computer Games" section in the bottom right:
 
 ## Hardware "upgrades"
 
-As already mentioned, the graphics card on my Epson PC was a mono text-only affair. It was impossible to display any kind of graphics beyond the onboard text font. I am certain this may have contributed to my love of the [Code page 437 aesthetic](/blog/2023/09/codepage-437-aesthetic/).
+As already mentioned, the graphics card on my Epson PC was a mono text-only affair. It was impossible to display any kind of graphics beyond the onboard text font. I am certain this may have contributed to my love of the [Code page 437 aesthetic](/2023/09/codepage-437-aesthetic/).
 
 In my first junior IT job out of college, I looked after some of the PC technology. The computers there were basic beige boxes with low specifications. I managed to snag a [Hercules](https://en.wikipedia.org/wiki/Hercules_Graphics_Card) graphics card before it was thrown out, having been removed from a PC being upgraded.
 

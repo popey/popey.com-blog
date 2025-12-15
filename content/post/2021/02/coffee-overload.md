@@ -6,7 +6,7 @@ author = "Alan Pope"
 tags = ['coffee', 'aeropress']
 +++
 
-Only weeks ago, I blogged about [Trying Proper Coffee](/blog/2021/02/trying-proper-coffee/). Well, I tucked into the [Lavazza](https://geni.us/15brRH9) (affiliate link) and ran out this week! I only bought the Lavazza because I recognised the brand, and needed *something* to drink. With me running low, I wanted to get suggestions for what to try next on my coffee journey.
+Only weeks ago, I blogged about [Trying Proper Coffee](/2021/02/trying-proper-coffee/). Well, I tucked into the [Lavazza](https://geni.us/15brRH9) (affiliate link) and ran out this week! I only bought the Lavazza because I recognised the brand, and needed *something* to drink. With me running low, I wanted to get suggestions for what to try next on my coffee journey.
 
 So I put the call out to "Coffee Twitter"!
 

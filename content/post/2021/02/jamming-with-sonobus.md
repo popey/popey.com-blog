@@ -6,7 +6,7 @@ author = "Alan Pope"
 tags = ['software', 'sonobus', 'linux', 'snap']
 +++
 
-Before last week, I'd never heard of [SonoBus](https://sonobus.net/). While on holiday I'd packaged up Spot - a Gtk Spotify client, which I wrote about [recently](/blog/2021/02/spotty-connection/). The next day I made a snap of [SonoBus](https://snapcraft.io/sonobus) too! I did this because while there were binary builds for Windows and Mac, there was no binary release for Linux, other than in the [Arch User Repository](https://aur.archlinux.org/packages/sonobus/).
+Before last week, I'd never heard of [SonoBus](https://sonobus.net/). While on holiday I'd packaged up Spot - a Gtk Spotify client, which I wrote about [recently](/2021/02/spotty-connection/). The next day I made a snap of [SonoBus](https://snapcraft.io/sonobus) too! I did this because while there were binary builds for Windows and Mac, there was no binary release for Linux, other than in the [Arch User Repository](https://aur.archlinux.org/packages/sonobus/).
 
 ![SonoBus](/images/2021-02-22/sonobus.png)
 

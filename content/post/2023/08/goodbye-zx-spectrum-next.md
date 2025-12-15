@@ -8,7 +8,7 @@ tags = ['retro', 'ebay', 'sinclair', 'spectrum']
 
 ## Rainbow love
 
-I've previously [written](/blog/2021/03/fourty-years-on/) about how the Sinclair line of computers kickstarted a life-long love of computing. 
+I've previously [written](/2021/03/fourty-years-on/) about how the Sinclair line of computers kickstarted a life-long love of computing. 
 
 ![Spectrums](/images/2020-12-31/spectrums.jpg)
 

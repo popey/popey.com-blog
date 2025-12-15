@@ -40,7 +40,7 @@ In theory, I could tweak the archived version, but that is not straightforward.
 
 ## Tool refresh?
 
-*Aside: Yes, I know it's not the tools, but I should slow down, be more methodical and review every change to my document before publishing. I [agree](/blog/2024/04/today-is-my-birthday-i-got-adhd/). Now, let's move on.*
+*Aside: Yes, I know it's not the tools, but I should slow down, be more methodical and review every change to my document before publishing. I [agree](/2024/04/today-is-my-birthday-i-got-adhd/). Now, let's move on.*
 
 While preparing the newsletter, I would initially write in [Sublime Text](https://www.sublimetext.com/) (my desktop text editor of choice), with a [Grammarly](https://www.grammarly.com/referrals/redeem?key=pub119oyaqhvc82o)† (affiliate link) LSP extension, to catch my numerous blunders, and re-word my clumsy English.
 
