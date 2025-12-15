@@ -6,7 +6,7 @@ author = "Alan Pope"
 tags = ['software', 'linux', 'snap', 'snapcraft']
 +++
 
-On Thursday I [mentioned](/blog/2021/02/snapcraft-clinic/) we were restarting the [Snapcraft Clinic](https://forum.snapcraft.io/t/snapcraft-clinic/20166/1?u=popey). Basically we stand up a regular video call with engineers from the snap and snapcraft team & us from Snap Advocacy. Developers of applications and publishers of snaps are invited to join to troubleshoot. 
+On Thursday I [mentioned](/2021/02/snapcraft-clinic/) we were restarting the [Snapcraft Clinic](https://forum.snapcraft.io/t/snapcraft-clinic/20166/1?u=popey). Basically we stand up a regular video call with engineers from the snap and snapcraft team & us from Snap Advocacy. Developers of applications and publishers of snaps are invited to join to troubleshoot. 
 
 There was nothing especially secret or private discussed, but as we don't record or stream the calls, and I don't have direct permission to mention the applications or people involved, so I'll keep this a little vague. In future I think we should ask permission and record the outcomes of the calls. 
 

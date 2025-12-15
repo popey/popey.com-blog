@@ -34,7 +34,7 @@ Within a couple of days, I got a [reply](https://bugs.launchpad.net/ubuntu/+sour
 
 > "There are some AMD FW updates in lunar-proposed linux-firmware 20230323.gitbcdcfbcf-0ubuntu1.6. Can you give that a try?"
 
-It's [not a good idea](/blog/2021/02/dont-use-proposed/) to enable the proposed pocket. So instead, I just grabbed the deb via [packages.ubuntu.com](https://packages.ubuntu.com/lunar-updates/all/linux-firmware/download), then did the old `sudo apt install ./linux-firmware_20230323.gitbcdcfbcf-0ubuntu1.6_all.deb` dance to install it.
+It's [not a good idea](/2021/02/dont-use-proposed/) to enable the proposed pocket. So instead, I just grabbed the deb via [packages.ubuntu.com](https://packages.ubuntu.com/lunar-updates/all/linux-firmware/download), then did the old `sudo apt install ./linux-firmware_20230323.gitbcdcfbcf-0ubuntu1.6_all.deb` dance to install it.
 
 Four days later, the following Monday, I arrived at the office with all my fingers and toes crossed.
 

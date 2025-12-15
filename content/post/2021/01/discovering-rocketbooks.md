@@ -6,7 +6,7 @@ author = "Alan Pope"
 tags = ['writing', 'analog', 'rocketbook']
 +++
 
-A few ~~weeks~~ days ago (it seems like longer at this rate) I blogged about my [problem with notebooks](/blog/2021/01/a-problem-with-notebooks). I was on the verge of buying an epaper writing device - likely a [Remarkable 2](https://remarkable.com/store/remarkable-2) as I published it.
+A few ~~weeks~~ days ago (it seems like longer at this rate) I blogged about my [problem with notebooks](/2021/01/a-problem-with-notebooks). I was on the verge of buying an epaper writing device - likely a [Remarkable 2](https://remarkable.com/store/remarkable-2) as I published it.
 
 Within a few minutes, in the [Ubuntu Podcast](https://ubuntupodcast.org/) [Telegram channel](https://ubuntupodcast.org/telegram), [Dalton Durst](http://daltondur.st) of [UBPorts](https://ubports.com/) fame, gave me pause for thought.
 

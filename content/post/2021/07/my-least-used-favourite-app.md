@@ -6,7 +6,7 @@ author = "Alan Pope"
 tags = ['software', 'android', 'be-my-eyes', 'ios', 'mobile']
 +++
 
-I have so many applications on my Android Phone, I've lost count. Too many [chat apps](/blog/2021/02/messaging-overload/), [multiple](https://play.google.com/store/apps/details?id=com.android.chrome) [web](https://play.google.com/store/apps/details?id=org.mozilla.firefox) [browsers](https://play.google.com/store/apps/details?id=com.brave.browser), [tons](https://play.google.com/store/apps/details?id=com.fingersoft.hillclimb) [of](https://play.google.com/store/apps/details?id=com.sleepingbeastgames.spaceteam) [games](https://play.google.com/store/apps/details?id=air.com.midjiwan.polytopia), and other [garbage](https://play.google.com/store/apps/details?id=com.philips.lighting.hue2).
+I have so many applications on my Android Phone, I've lost count. Too many [chat apps](/2021/02/messaging-overload/), [multiple](https://play.google.com/store/apps/details?id=com.android.chrome) [web](https://play.google.com/store/apps/details?id=org.mozilla.firefox) [browsers](https://play.google.com/store/apps/details?id=com.brave.browser), [tons](https://play.google.com/store/apps/details?id=com.fingersoft.hillclimb) [of](https://play.google.com/store/apps/details?id=com.sleepingbeastgames.spaceteam) [games](https://play.google.com/store/apps/details?id=air.com.midjiwan.polytopia), and other [garbage](https://play.google.com/store/apps/details?id=com.philips.lighting.hue2).
 
 However, there's one app, which is one of my favourites while probably being the least used application. It doesn't technically benefit me at all, but is useful to others, when I use it.
 

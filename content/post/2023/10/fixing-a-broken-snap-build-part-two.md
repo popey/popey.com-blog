@@ -6,7 +6,7 @@ author = "Alan Pope"
 tags = ['linux', 'ubuntu', 'snap', 'snapcraft', 'emulation', 'x16emu']
 +++
 
-I wrote [previously](/blog/2023/10/fixing-a-broken-snap-build) about debugging a broken [x16emu snap](https://snapcraft.io/x16emu). In short, something went wonky with `ld`. I started a [thread](https://forum.snapcraft.io/t/build-fail-with-gnome-extension-on-core22/37145?u=popey) on the [snapcraft forum](https://forum.snapcraft.io/) and [Ken VanDine](https://forum.snapcraft.io/u/kenvandine) came to my [assistance](https://forum.snapcraft.io/t/build-fail-with-gnome-extension-on-core22/37145/2) with an answer and a [pull request](https://github.com/popey/x16emu-snap/pull/8).
+I wrote [previously](/2023/10/fixing-a-broken-snap-build) about debugging a broken [x16emu snap](https://snapcraft.io/x16emu). In short, something went wonky with `ld`. I started a [thread](https://forum.snapcraft.io/t/build-fail-with-gnome-extension-on-core22/37145?u=popey) on the [snapcraft forum](https://forum.snapcraft.io/) and [Ken VanDine](https://forum.snapcraft.io/u/kenvandine) came to my [assistance](https://forum.snapcraft.io/t/build-fail-with-gnome-extension-on-core22/37145/2) with an answer and a [pull request](https://github.com/popey/x16emu-snap/pull/8).
 
 I grabbed that pr, and it did indeed build successfully..
 
@@ -59,7 +59,7 @@ $ ls -lh x16emu_b16509b_amd64.snap
 
 Let's take a quick look at the PR and break down what Ken did to fix this, in case it's useful to someone else.
 
-First up, we bump from `core20` to `core22` which means the snap will build on Ubuntu 22.04 LTS (Lunar) rather than Ubuntu 20.04 LTS (focal). There are a couple of knock-on effects of this. Any `stage-packages` will come from the newer archive, so will often be newer. That includes the build chain and other libraries. We need this, for the newer `cc65` I mentioned in the [previous blog post](/blog/2023/10/fixing-a-broken-snap-build)
+First up, we bump from `core20` to `core22` which means the snap will build on Ubuntu 22.04 LTS (Lunar) rather than Ubuntu 20.04 LTS (focal). There are a couple of knock-on effects of this. Any `stage-packages` will come from the newer archive, so will often be newer. That includes the build chain and other libraries. We need this, for the newer `cc65` I mentioned in the [previous blog post](/2023/10/fixing-a-broken-snap-build)
 
 ```diff
   name: x16emu
@@ -146,7 +146,7 @@ The `prime` section explicitly spells out which files or groups of files will ge
 +       - x16emu
 ```
 
-The final section bumps from the old `core20`-based `gnome-3-38` extension to the `core22`-based `gnome` extension - which provides a ton of functionality. The `snapcraft expand-extensions` command can be used to show exactly what the extension provides. The output is quite large, so I have attached it [here](/blog/text/2023-10-05/gnome-extension.yaml). 
+The final section bumps from the old `core20`-based `gnome-3-38` extension to the `core22`-based `gnome` extension - which provides a ton of functionality. The `snapcraft expand-extensions` command can be used to show exactly what the extension provides. The output is quite large, so I have attached it [here](/text/2023-10-05/gnome-extension.yaml). 
 
 ```diff
   apps:

@@ -8,7 +8,7 @@ tags = ['linux', 'ubuntu', 'snap', 'snapcraft', 'emulation', 'x16emu']
 
 I thought I'd "live blog" (not live) my way through fixing a [snap](https://snapcraft.io/) which I noticed was broken this morning. How did I notice? I happened to look at the build page for it. Maybe my spidey sense was tingling, because I wouldn't ordinarily have zoned in on this particular snap.
 
-I could have some kind of alert that lets me know when this happens, but I currently don't. I might use my new-found love of [GitHub Actions](/blog/2023/09/publishing-hugo-site-via-github-actions), but that sounds like a future blog post!
+I could have some kind of alert that lets me know when this happens, but I currently don't. I might use my new-found love of [GitHub Actions](/2023/09/publishing-hugo-site-via-github-actions), but that sounds like a future blog post!
 
 ## 10:05
 

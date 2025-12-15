@@ -21,7 +21,7 @@ It ticks some boxes for me:
    * Leaner than the official client ✅
    * Not currently snapped ✅
 
-So obviously I took a look at snapping it. It wasn't super challenging, having snapped a bunch of Rust and GNOME applications already. I won't go through the full `snapcraft.yaml` in detail because I've gone through them [before](/blog/2020/12/snap-along-with-me/), and there's only a few interesting differences here. Here's the full `yaml` though.
+So obviously I took a look at snapping it. It wasn't super challenging, having snapped a bunch of Rust and GNOME applications already. I won't go through the full `snapcraft.yaml` in detail because I've gone through them [before](/2020/12/snap-along-with-me/), and there's only a few interesting differences here. Here's the full `yaml` though.
 
 ```yaml
 name: spot
@@ -112,7 +112,7 @@ Pretty soon after the requests were granted. While this was happening Joey at OM
 
 The security team allowed my use of the dbus name and mpris, which enabled my uploads to be published. So I released a build to the `edge` channel and continued iterating and testing. I kept the build in the `edge` channel for now, until the upstream does a stable release.  
 
-The Spotify developers don't have an arm build of the official application, so Raspberry Pi users can either use the web or [ncspot](/blog/2020/12/spotify-on-the-raspberry-pi-400/). While ncspot is awesome, some people prefer a graphical interface to their music. So I figured I'd try building an arm64 version of Spot. I did this directly on my Raspberry Pi 400, and then uploaded to the store, again to the `edge` channel. The tweet below shows the application running on my Pi.
+The Spotify developers don't have an arm build of the official application, so Raspberry Pi users can either use the web or [ncspot](/2020/12/spotify-on-the-raspberry-pi-400/). While ncspot is awesome, some people prefer a graphical interface to their music. So I figured I'd try building an arm64 version of Spot. I did this directly on my Raspberry Pi 400, and then uploaded to the store, again to the `edge` channel. The tweet below shows the application running on my Pi.
 
 {{< rawhtml >}}
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Added an arm64 build of Spot (Open Source Gtk Spotify app) to the Snap Store. Runs okay on my Raspberry Pi here. <a href="https://t.co/NXq7xqlKo2">https://t.co/NXq7xqlKo2</a> <a href="https://t.co/0VrYOJsnI1">https://t.co/0VrYOJsnI1</a> <a href="https://t.co/7yIEwQ2gD2">pic.twitter.com/7yIEwQ2gD2</a></p>&mdash; Alan Pope 🍺🐧🐱🇬🇧🇪🇺 (@popey) <a href="https://twitter.com/popey/status/1362401613151948801?ref_src=twsrc%5Etfw">February 18, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

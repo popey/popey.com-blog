@@ -6,7 +6,7 @@ author = "Alan Pope"
 tags = ['software', 'linux', 'ubuntu', 'undanger']
 +++
 
-Yesterday I [wrote](/blog/2021/02/dont-use-proposed) about how I made a mistake by updating my primary Ubuntu computer to include the `proposed` pocket. I shouldn't have done this. So today I quickly hacked together a script to take any packages which came from `proposed` and "*downgrade*" them back to the `release` pocket. It's not pretty, but it worked, for me.
+Yesterday I [wrote](/2021/02/dont-use-proposed) about how I made a mistake by updating my primary Ubuntu computer to include the `proposed` pocket. I shouldn't have done this. So today I quickly hacked together a script to take any packages which came from `proposed` and "*downgrade*" them back to the `release` pocket. It's not pretty, but it worked, for me.
 
 ```bash
 #!/bin/bash

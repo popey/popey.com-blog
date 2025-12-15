@@ -6,7 +6,7 @@ author = "Alan Pope"
 tags = ['software', 'ubuntu', 'server', 'bionic', 'focal']
 +++
 
-[Yesterday](/blog/2021/03/upgrading-ubuntu-server/) I wrote about my attempt to upgrade one of my HP Microservers, running Ubuntu 18.04 LTS to Ubuntu 20.04 LTS. Well, today I had another go. Here's what happened. 
+[Yesterday](/2021/03/upgrading-ubuntu-server/) I wrote about my attempt to upgrade one of my HP Microservers, running Ubuntu 18.04 LTS to Ubuntu 20.04 LTS. Well, today I had another go. Here's what happened. 
 
 I followed the recommendation from yesterday, to compress the `initrd.img` using xz compression rather than the previous default gzip. Previously the upgrade failed because it needed 140M disk space in `/boot`. With the change to the compression scheme, I now have 154M, which should be enough to start the upgrade.
 

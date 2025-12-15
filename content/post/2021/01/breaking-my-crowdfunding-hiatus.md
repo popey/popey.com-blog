@@ -6,7 +6,7 @@ author = "Alan Pope"
 tags = ['crowdfunding', 'games', 'procgen']
 +++
 
-Just days after blogging about [My Crowdfunding Stats](/blog/2021/01/my-crowdfunding-stats/), I've broken my "no crowdfunding" streak of near 18-months by backing something small, but delightful!
+Just days after blogging about [My Crowdfunding Stats](/2021/01/my-crowdfunding-stats/), I've broken my "no crowdfunding" streak of near 18-months by backing something small, but delightful!
 
 Last night a [tweet](https://twitter.com/brintown/status/1349396612938833921) by [Tom Brinton](https://twitter.com/brintown) crossed my desk. Tom is creating a notebook in which every page is a procedurally generated portable dungeon crawler. The campaign is called "[Tiny Paper Dungeons](https://www.kickstarter.com/projects/brintown/tiny-paper-dungeons)" and it runs until 2nd February 2021. 
 
@@ -16,7 +16,7 @@ Tom has previously made a project in a similar vein called [NUTRI-TRACK](https:/
 
 [![Included](/images/2021-01-14/included.png)](https://www.kickstarter.com/projects/brintown/tiny-paper-dungeons)
 
-This also hits an intersection of interests for me. I've recently [written](/blog/2021/01/a-problem-with-notebooks/) about my love of (and problem with) paper notebooks. I also have a "[problem](/blog/2021/01/digital-hoarding-gaming-edition/)" with games, and I *love* all things procedurally generated. 
+This also hits an intersection of interests for me. I've recently [written](/2021/01/a-problem-with-notebooks/) about my love of (and problem with) paper notebooks. I also have a "[problem](/2021/01/digital-hoarding-gaming-edition/)" with games, and I *love* all things procedurally generated. 
 
 [![Sample](/images/2021-01-14/sample.png)](https://www.kickstarter.com/projects/brintown/tiny-paper-dungeons)
 

@@ -6,7 +6,7 @@ author = "Alan Pope"
 tags = ['tfts']
 +++
 
-This is the seventh in an increasingly infrequent series of Friday [Tales From Tech Support](/blog/tags/tfts/). Some stories from the past featuring broken computers and even more broken tech support operatives - mostly me.
+This is the seventh in an increasingly infrequent series of Friday [Tales From Tech Support](/tags/tfts/). Some stories from the past featuring broken computers and even more broken tech support operatives - mostly me.
 
 ## London. Summer 2002
 
@@ -36,7 +36,7 @@ Some assorted networking and other random gear that I didn't recognise was scatt
 
 There was clearly some pressure to get the software upgrades done promptly, ready for a customer demo or something I wasn't privy to the details of. I was just told to "upgrade the box, and get it done today."
 
-I got myself on the network and quickly became familiar with the setup, or so I thought. I started a backup, like a good sysadmin, because from what I could tell, they hadn't done one recently. (*See [tfts passim](/blog/tags/tfts/) for further backup-related tales.*)
+I got myself on the network and quickly became familiar with the setup, or so I thought. I started a backup, like a good sysadmin, because from what I could tell, they hadn't done one recently. (*See [tfts passim](/tags/tfts/) for further backup-related tales.*)
 
 I continued with the upgrade, which required numerous components to be updated and restarted, as is the way. Reboots, updates, more reboots, patches, SAP System Kernel updates, SAP Support Packages, yadda yadda. 
 

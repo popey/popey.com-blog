@@ -44,7 +44,7 @@ Interestingly I find this gets worse if the phone is in my jeans back pocket tha
 
 I can sometimes recover the situation by putting the AirDots back in the case, thus disconnecting them from the phone, and then re-start them, [daddy-pig style](https://www.youtube.com/watch?v=fxqw0am27Fk). But that's an inconvenient faff. If I went for longer walks, I'd probably get a little more irritated by this, and chuck them in the recycling. 
 
-As a result of the behaviour above, I am actually on the look-out for another set of wireless headphones, and will likely relegate the Xiaomi Redmi AirDots to "backup". If you have any suggestions for better alternatives, which don't break the bank, and work with an Android phone, I'm keen to [hear](/blog/contact) it.
+As a result of the behaviour above, I am actually on the look-out for another set of wireless headphones, and will likely relegate the Xiaomi Redmi AirDots to "backup". If you have any suggestions for better alternatives, which don't break the bank, and work with an Android phone, I'm keen to [hear](/contact) it.
 
 Finally, I have to mention something about the Banggood purchase experience. Once the sale is complete, unless otherwise specified, you're on their marketing mailing list. Obviously that's up to you whether that's an option you're interested in. I may have overlooked it, or not cared, because I started getting their mails. 
 

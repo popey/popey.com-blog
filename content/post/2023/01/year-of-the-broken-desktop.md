@@ -8,7 +8,7 @@ tags = ['ubuntu', 'nvidia', 'qa']
 
 This morning I attempted to start work on my desktop PC and couldn't. The screen is black, it doesn't want to wake up the displays. I used the old REISUB trick to restart, and it boots, but there's no output on the display. I did some investigation and this post is mainly to capture my notes and so others can see the problem and perhaps debug and fix it.
 
-The setup is an Intel Skull Canyon NUC connected to an external GPU enclosure which contains an NVIDIA GeForce RTX 2060. I've previously [blogged](/blog/2020/12/multiple-gpus-in-a-skull-canyon-nuc/) about this weird machine, get more details there. I have since upgraded the GPU since that post, however.
+The setup is an Intel Skull Canyon NUC connected to an external GPU enclosure which contains an NVIDIA GeForce RTX 2060. I've previously [blogged](/2020/12/multiple-gpus-in-a-skull-canyon-nuc/) about this weird machine, get more details there. I have since upgraded the GPU since that post, however.
 
 There are three displays connected to the GPU, and no displays connected directly to the PC itself. I'm running Kubuntu 20.04.1. I did all my updates a couple of days ago, but have not rebooted since. 
 

@@ -6,7 +6,7 @@ author = "Alan Pope"
 tags = ['ubuntu', 'snap', 'linux']
 +++
 
-I recently [lamented](/blog/2023/09/outdated-snap-packages) that there's a bunch of broken and outdated snaps in the [snap store](https://snapcraft.io/). Well, some of them are my responsibility, so in the spirit of "be the change you want to see", let's get them fixed and updated. 
+I recently [lamented](/2023/09/outdated-snap-packages) that there's a bunch of broken and outdated snaps in the [snap store](https://snapcraft.io/). Well, some of them are my responsibility, so in the spirit of "be the change you want to see", let's get them fixed and updated. 
 
 I thought I'd highlight one or two as I go through them, to highlight any important or interesting changes. Today I took a look at [Spot](https://snapcraft.io/spot), which is a very decent native GNOME Spotify client by [Alexandre Trendel](https://github.com/xou816).
 

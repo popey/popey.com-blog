@@ -6,7 +6,7 @@ author = "Alan Pope"
 tags = ['crowdfunding']
 +++
 
-While writing my [Ouya](/blog/2021/01/ouya-was-a-success/) post the other day, I was reminded of the various projects I've backed on crowdfunding sites over the years. Between May 2012 and August 2019 I helped fund 68 separate projects. Most for "beer money" (around a tenner) through "toy money" (up to fifty quid) up to "need to have a think about this money" (a hundred quid or so). The vast majority have been successful, and I've received my backer reward in a timely fashion. 
+While writing my [Ouya](/2021/01/ouya-was-a-success/) post the other day, I was reminded of the various projects I've backed on crowdfunding sites over the years. Between May 2012 and August 2019 I helped fund 68 separate projects. Most for "beer money" (around a tenner) through "toy money" (up to fifty quid) up to "need to have a think about this money" (a hundred quid or so). The vast majority have been successful, and I've received my backer reward in a timely fashion. 
 
 I know some people see crowdfunders as money pits, grifts or outright scams. [Some](https://www.snopes.com/fact-check/do-you-want-to-know-a-cicret/) [certainly](https://www.indiegogo.com/projects/waterseer#/) [can](https://www.indiegogo.com/projects/solar-roadways#/) [be](https://www.indiegogo.com/projects/the-sinclair-zx-spectrum-vega-plus-console#/). I try not to back those though 😀. So I thought I'd look back through some things I backed, my highlights, lowlights and things to look out for.
 
@@ -66,7 +66,7 @@ Surpring then perhaps to learn I have clocked up over 220 hours in GODUS on Stea
 
 As well as all those I backed, there's obviously tons I didn't back, but might have been expected to. There are some campaigns I almost impulsivly back, like the [ZX Spectrum Next](https://www.kickstarter.com/projects/spectrumnext/zx-spectrum-next) and [GameShell, Open Source Retro Gaming & STEM Portable Console](https://www.kickstarter.com/projects/954662076/gameshell-redefine-retro-game-console) with minimal research, but some others don't pass the sniff test.
 
-The [Sinclair Vega+](https://www.indiegogo.com/projects/the-sinclair-zx-spectrum-vega-plus-console#/) is a notable example. It ticks some boxes. A portable Sinclair Spectrum, I clearly [like those](/blog/2020/12/the-best-portable-spectrum/). Designed by the (now late) [Rick Dickinson](https://en.wikipedia.org/wiki/Rick_Dickinson) - legendary industrial designer of the original line of Sinclair Spectrums, it had potential. 
+The [Sinclair Vega+](https://www.indiegogo.com/projects/the-sinclair-zx-spectrum-vega-plus-console#/) is a notable example. It ticks some boxes. A portable Sinclair Spectrum, I clearly [like those](/2020/12/the-best-portable-spectrum/). Designed by the (now late) [Rick Dickinson](https://en.wikipedia.org/wiki/Rick_Dickinson) - legendary industrial designer of the original line of Sinclair Spectrums, it had potential. 
 
 ![Vega+](/images/2021-01-10/vega.jpg)
 

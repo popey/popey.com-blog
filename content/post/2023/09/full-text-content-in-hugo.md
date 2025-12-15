@@ -68,7 +68,7 @@ Feedly/1.0 (+http://www.feedly.com/fetcher.html; 134 subscribers; )
 
 "Blogtrottr" sounds fun.
 
-Previously my blog would only share a snippet of the post in the RSS feeds. I followed [this](https://jasonmurray.org/posts/2021/rssfulltexthugo/) helpful and easy to follow guide from [Jason Murray](https://jasonmurray.org/). Now the full content of each post is in the [RSS feed](/blog/index.xml). 
+Previously my blog would only share a snippet of the post in the RSS feeds. I followed [this](https://jasonmurray.org/posts/2021/rssfulltexthugo/) helpful and easy to follow guide from [Jason Murray](https://jasonmurray.org/). Now the full content of each post is in the [RSS feed](/index.xml). 
 
 You're welcome.
 

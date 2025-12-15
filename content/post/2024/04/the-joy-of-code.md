@@ -30,7 +30,7 @@ None of this makes me a developer.
 
 ## Volatile Memories
 
-It's rapidly approaching fifty years since I first wrote any code on my [first computer](/blog/2021/03/fourty-years-on/). Back then, you'd typically write code and then either save it on tape (if you were patient) or disk (if you were loaded). Maybe you'd write it down - either before or after you typed it in - or perhaps you'd turn the computer off and lose it all.
+It's rapidly approaching fifty years since I first wrote any code on my [first computer](/2021/03/fourty-years-on/). Back then, you'd typically write code and then either save it on tape (if you were patient) or disk (if you were loaded). Maybe you'd write it down - either before or after you typed it in - or perhaps you'd turn the computer off and lose it all.
 
 When I studied for a BTEC National Diploma in Computer Studies at college, one of our classes was on the IBM PC with two floppy disc drives. The lecturer kept hold of all the floppies because we couldn't be trusted not to lose, damage or forget them. Sometimes the lecturer was held up at the start of class, so we'd be sat twiddling our thumbs for a bit.
 

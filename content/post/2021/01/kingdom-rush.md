@@ -6,7 +6,7 @@ author = "Alan Pope"
 tags = ['steam', 'kingdomrush', 'games', 'linux']
 +++
 
-Last week I posted about my guilty collection of unplayed games in [Digital Hoarding: Gaming Edition](/blog/2021/01/digital-hoarding-gaming-edition). In short, I have a ton of games I've bought over the years and never played, even once. I set myself an internal goal to play more of the games I already have, and reign in my game purchasing. 
+Last week I posted about my guilty collection of unplayed games in [Digital Hoarding: Gaming Edition](/2021/01/digital-hoarding-gaming-edition). In short, I have a ton of games I've bought over the years and never played, even once. I set myself an internal goal to play more of the games I already have, and reign in my game purchasing. 
 
 I used the dynamic collection feature of Steam to show me the unplayed games, sorted by their steam review score. The idea being I want to play games that are actually likely to be fun. I don't doubt I have very many good games, but I bet I have the odd stinker in there too. Might as well start at the top.  
 

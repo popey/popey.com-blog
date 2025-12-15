@@ -6,7 +6,7 @@ author = "Alan Pope"
 tags = ['podcast', 'ubuntu']
 +++
 
-Last month I [mentioned](/blog/2021/02/season-fourteen) that myself, [Mark](https://twitter.com/marxjohnson) and [Martin](https://twitter.com/m_wimpress) have decided to come back for Season 14 of the [Ubuntu Podcast](https://ubuntupodcast.org/). Well, we're back today with [S14E01](https://ubuntupodcast.org/2021/03/11/s14e01-navy-chefs-remit/), titled "*Navy Chefs Remit*". 
+Last month I [mentioned](/2021/02/season-fourteen) that myself, [Mark](https://twitter.com/marxjohnson) and [Martin](https://twitter.com/m_wimpress) have decided to come back for Season 14 of the [Ubuntu Podcast](https://ubuntupodcast.org/). Well, we're back today with [S14E01](https://ubuntupodcast.org/2021/03/11/s14e01-navy-chefs-remit/), titled "*Navy Chefs Remit*". 
 
 Over the thirteen years, the episode titles have had a theme in each season. We don't reveal the theme, but let our listeners figure that out, for fun. Sometimes it has a bearing on the content of the episode, but often not.
 

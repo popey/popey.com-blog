@@ -42,7 +42,7 @@ Software I like to use on my laptops and desktops.
   * [Ubuntu](https://ubuntu.com/): Linux for human beings.
   * [Sublime Text](https://www.sublimetext.com/): My favourite cross-platform code editor.
   * [Sublime Merge](https://www.sublimemerge.com/): I dislike Git. This makes Git tolerable for my brain.
-  * [Microsoft Edge](https://www.microsoft.com/en-us/edge): A web browser I [use](/blog/2023/08/why-use-microsoft-edge-on-linux/).
+  * [Microsoft Edge](https://www.microsoft.com/en-us/edge): A web browser I [use](/2023/08/why-use-microsoft-edge-on-linux/).
 
 {{< rawhtml >}} <a name="Server"></a>  {{< /rawhtml >}}
 

@@ -20,9 +20,9 @@ The reason I got it was because HP are currently giving [£100 cash-back](http:/
 * 1 VGA port
 * 2 PCI Express (x16 and x1)
 
-If you want to see more technical info then I've put online the output from [lspci](/blog/text/2010-12-30/lspci.txt), [cpuinfo](/blog/text/2010-12-30/cpuinfo.txt), [dmesg](/blog/text/2010-12-30/dmesg.txt) and [lshw](/blog/text/2010-12-30/lshw.txt).
+If you want to see more technical info then I've put online the output from [lspci](/text/2010-12-30/lspci.txt), [cpuinfo](/text/2010-12-30/cpuinfo.txt), [dmesg](/text/2010-12-30/dmesg.txt) and [lshw](/text/2010-12-30/lshw.txt).
 
-**Update:** I've added the results of running [Unixbench](http://www.tux.org/pub/tux/niemi/unixbench/) [here](/blog/text/2010-12-30/unixbench.txt).
+**Update:** I've added the results of running [Unixbench](http://www.tux.org/pub/tux/niemi/unixbench/) [here](/text/2010-12-30/unixbench.txt).
 
 As is common with many servers, the device ships with no operating system installed and it has no optical drive so I chose to install Ubuntu 10.04.1 (LTS) from a USB key I had kicking around. On my desktop PC I simply plugged in the key &amp; started up <a href="http://unetbootin.sourceforge.net/">unetbootin</a> and chose "10.04_NetInstall_x64" from the list of distributions and my USB key from the list of drives, then clicked OK.
 

@@ -6,7 +6,7 @@ author = "Alan Pope"
 tags = ['software', 'gnome', 'extension', 'linux', 'desktop', 'ubuntu']
 +++
 
-Back in December 2020 I wrote up my personal [Must-Have GNOME extensions](/blog/2020/12/my-must-have-gnome-extensions). It's been nearly three years, two job changes, and a few Ubuntu upgrades, so I thought I'd take another look.
+Back in December 2020 I wrote up my personal [Must-Have GNOME extensions](/2020/12/my-must-have-gnome-extensions). It's been nearly three years, two job changes, and a few Ubuntu upgrades, so I thought I'd take another look.
 
 tl;dr:
 

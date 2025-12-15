@@ -8,7 +8,7 @@ tags = ['tfts']
 
 This is the third in a series of [Tales From Tech Support](https://blog.popey.com/tags/tfts/). Some stories from the past featuring broken computers and even more broken tech support operatives - mostly me.
 
-In the early 1990s, I worked as a contractor for a large, well-established accounting firm. In [It's MY monitor](/blog/2023/09/its-MY-monitor), I told the story of dealing with an angry Partner. Today's story is worse, as I'm dealing with the *Personal Assistant* of a Partner. 
+In the early 1990s, I worked as a contractor for a large, well-established accounting firm. In [It's MY monitor](/2023/09/its-MY-monitor), I told the story of dealing with an angry Partner. Today's story is worse, as I'm dealing with the *Personal Assistant* of a Partner. 
 
 ## Our protagonist
 

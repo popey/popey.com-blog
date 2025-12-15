@@ -8,7 +8,7 @@ tags = ['ubuntu', 'snap', 'linux']
 
 tl;dr. The [OBS Studio snap](https://snapcraft.io/obs-studio) is now updated to the latest stable release, 29.1.3, after a "brief" hiatus.
 
-Another day, another updated snap, which had been languishing a bit. I wrote about [updating Spot](https://snapcraft.io/spot) yesterday, and today, as per the title, it's [OBS Studio](https://snapcraft.io/obs-studio). As I mentioned [previously](/blog/2023/09/outdated-snap-packages), there's a bunch of outdated snaps in the store, and I want to help fix that. Hopefully, with these blog posts, others might learn how, and be motivated to either publish new applications or step up and update existing ones.
+Another day, another updated snap, which had been languishing a bit. I wrote about [updating Spot](https://snapcraft.io/spot) yesterday, and today, as per the title, it's [OBS Studio](https://snapcraft.io/obs-studio). As I mentioned [previously](/2023/09/outdated-snap-packages), there's a bunch of outdated snaps in the store, and I want to help fix that. Hopefully, with these blog posts, others might learn how, and be motivated to either publish new applications or step up and update existing ones.
 
 ## Backstory
 
@@ -68,7 +68,7 @@ Today I decided that I'd take a look at updating the snap from 27.1.3 to somethi
 
 I started by cloning the repo, and updating the OBS release version being pulled, and a few other dependencies and plugins - there are a lot. I iterated on it a few times, using some of the metadata for Martin's OBS Studio Portable project for reference.
 
-I then went for a coffee break in the kitchen. Martin and I both rent space in an office, which I've [written about](/blog/2023/08/its-not-working-from-home/). So I mentioned over coffee to him that I thought I'd tackle OBS.
+I then went for a coffee break in the kitchen. Martin and I both rent space in an office, which I've [written about](/2023/08/its-not-working-from-home/). So I mentioned over coffee to him that I thought I'd tackle OBS.
 
 He had a lightbulb moment "You should just dump my OBS Studio Portable in the snap!".
 

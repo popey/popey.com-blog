@@ -9,7 +9,7 @@ description = "popeys snap status"
 
 I maintain [a few](https://snapcraft.io/publisher/popey) snaps in the [Snap Store](https://snapcraft.io). This page is generated periodically so I can keep an eye on the updatedness of each one. The script isn't perfect, and doesn't monitor them all. It's a whole thing I need to maintain and update. I should move this to a GitHub Action at some point.
 
-There's also the [charts](/blog/charts) page which shows how many weekly active devices each of these snaps has, which OS they're installed on, and which countries they're installed from.
+There's also the [charts](/charts) page which shows how many weekly active devices each of these snaps has, which OS they're installed on, and which countries they're installed from.
 
 The list is sorted by the "OK" column which either has a ✔ or ✖ to give a rough indication if the snap needs updating. This whole page is mostly just for my reference. 
 

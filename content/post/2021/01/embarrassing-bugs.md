@@ -8,7 +8,7 @@ tags = ['ubuntu', 'linux', 'steam', 'proton', 'gaming']
 
 Well, this is embarrassing! I recently filed a bug against an open source project because I genuinely thought it was broken. It was (almost, probably, entirely) my fault. I thought I'd fess up and explain what happened. It might be useful for others.
 
-As I mentioned [yesterday](/blog/2021/01/upgrading-ubuntu/), I recently upgraded my Ubuntu machines, including my main desktop. It's a funky [Skull Canyon NUC](/blog/2020/12/multiple-gpus-in-a-skull-canyon-nuc/) with a weird hybrid Intel / AMD GPU setup and an external nVidia card in an enclosure.
+As I mentioned [yesterday](/2021/01/upgrading-ubuntu/), I recently upgraded my Ubuntu machines, including my main desktop. It's a funky [Skull Canyon NUC](/2020/12/multiple-gpus-in-a-skull-canyon-nuc/) with a weird hybrid Intel / AMD GPU setup and an external nVidia card in an enclosure.
 
 I sometimes use this system for playing games in the evenings. The thing I've been really playing a lot recently is [Hotshot Racing](https://store.steampowered.com/app/609920/Hotshot_Racing/) which is "*a blisteringly fast arcade-style racing game fusing drift handling, razor-sharp retro visuals and an incredible sense of speed to create an exhilarating driving experience.*" according to their Steam blurb. It's great, I love it.
 
@@ -88,5 +88,5 @@ The "fix" was simply to move the `/home/alan/bin/timeout` binary out of the way 
 
 How embarrassing! 🤣
 
-As for why this worked on Ubuntu 20.10 and didn't after the upgrade to Ubuntu 21.04, I have no idea! I'm not motivated to find out, because I've got [too many](/blog/2021/01/digital-hoarding-gaming-edition/) video games to play! 🏎
+As for why this worked on Ubuntu 20.10 and didn't after the upgrade to Ubuntu 21.04, I have no idea! I'm not motivated to find out, because I've got [too many](/2021/01/digital-hoarding-gaming-edition/) video games to play! 🏎
 

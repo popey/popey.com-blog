@@ -6,13 +6,13 @@ author = "Alan Pope"
 tags = ['phone', 'iphone']
 +++
 
-I've owned [plenty](/blog/2023/09/every-cellphone-i-have-owned) of mobile phones over the years. My current daily driver is [iPhone 13 Mini](https://www.apple.com/uk/shop/buy-iphone/iphone-13), sporting a bright, funky, and cheap [OIIAEE Silicone Case](https://geni.us/oAKn0). Look at it. It's gorgeous (ignore the notification badge count, please).
+I've owned [plenty](/2023/09/every-cellphone-i-have-owned) of mobile phones over the years. My current daily driver is [iPhone 13 Mini](https://www.apple.com/uk/shop/buy-iphone/iphone-13), sporting a bright, funky, and cheap [OIIAEE Silicone Case](https://geni.us/oAKn0). Look at it. It's gorgeous (ignore the notification badge count, please).
 
 [![iPhone 13 Mini](/images/2023-09-13/iphone13mini.jpg)](/images/2023-09-13/iphone13mini.jpg)
 
 ___Picture taken with the potato camera on my old OnePlus 5.___
 
-As I mentioned in a [previous](/blog/2023/09/every-cellphone-i-have-owned) post, my favourite phones include the flyweight Nokia 6600 (2.1"), bantamweight N82 (2.4") and featherweight iPhone 4s (3.5"). All were very compact devices, some with tiny displays. 
+As I mentioned in a [previous](/2023/09/every-cellphone-i-have-owned) post, my favourite phones include the flyweight Nokia 6600 (2.1"), bantamweight N82 (2.4") and featherweight iPhone 4s (3.5"). All were very compact devices, some with tiny displays. 
 
 By comparison, the iPhone 13 Mini has a *commodious* 5.4" screen! It's enormous! It's positively *cumbersome*, right!?
 

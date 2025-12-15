@@ -6,7 +6,7 @@ author = "Alan Pope"
 tags = ['software', 'ubuntu', 'server', 'bionic', 'focal']
 +++
 
-I have a few old and crusty [HP MicroServers](https://n40l.fandom.com/wiki/HP_MicroServer_N40L_Wiki) in the loft at home. I started out with one when HP did a cashback offer, making them very affordable. Over time I've acquired a couple more. One, named [colossus](https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project) is running `rsnapshot` to provide [backups](/blog/2020/12/straightforward-linux-backups-with-rsnapshot/) of my other machines. Another, called [shirka](https://en.wikipedia.org/wiki/List_of_fictional_computers#1980s) is a [Plex Media Server](https://snapcraft.io/plexmediaserver) and the last, [robby](https://en.wikipedia.org/wiki/Robby_the_Robot) is a general purpose box running various jobs and reports. All run Ubuntu Server as the OS.
+I have a few old and crusty [HP MicroServers](https://n40l.fandom.com/wiki/HP_MicroServer_N40L_Wiki) in the loft at home. I started out with one when HP did a cashback offer, making them very affordable. Over time I've acquired a couple more. One, named [colossus](https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project) is running `rsnapshot` to provide [backups](/2020/12/straightforward-linux-backups-with-rsnapshot/) of my other machines. Another, called [shirka](https://en.wikipedia.org/wiki/List_of_fictional_computers#1980s) is a [Plex Media Server](https://snapcraft.io/plexmediaserver) and the last, [robby](https://en.wikipedia.org/wiki/Robby_the_Robot) is a general purpose box running various jobs and reports. All run Ubuntu Server as the OS.
 
 They're getting a bit long in the tooth now. I should probably consider replacing them before they start failing. Ideally I'd replace all three with something a bit beefier and put everything in containers. I have considered that for a while, just not got round to it all the while they work fine. But like I say, they're old, here's the specs:
 
@@ -19,7 +19,7 @@ What triggered the release upgrade today was that `robby` has been running a few
 
 **Narrator**: *It was not "No problem", as Alan thought.*
 
-The upgrade process for Ubuntu Server is basically to run `do-release-upgrade` and follow the prompts. So that's what I did. Initially it told me I hadn't rebooted since the last package update - which is true, as I've [written](/blog/2021/02/reboot-aversion/) before, I'm reboot-averse. So I rebooted, and crossed my fingers that it would come back okay. It's in the loft, and I didn't fancy going up there doing remote-hands on a ladder. 
+The upgrade process for Ubuntu Server is basically to run `do-release-upgrade` and follow the prompts. So that's what I did. Initially it told me I hadn't rebooted since the last package update - which is true, as I've [written](/2021/02/reboot-aversion/) before, I'm reboot-averse. So I rebooted, and crossed my fingers that it would come back okay. It's in the loft, and I didn't fancy going up there doing remote-hands on a ladder. 
 
 *please come back, please come back*
 
@@ -39,7 +39,7 @@ It came back though, thankfully.
 
 *Phew!*
 
-I then re-ran the upgrade tool. The first question I get is more informational. As I've [mentioned](/blog/2021/01/digital-hoarding-ubuntu-mirror/) before I run an Ubuntu mirror, actually on this very host, serving other Ubuntu machines on the LAN. 
+I then re-ran the upgrade tool. The first question I get is more informational. As I've [mentioned](/2021/01/digital-hoarding-ubuntu-mirror/) before I run an Ubuntu mirror, actually on this very host, serving other Ubuntu machines on the LAN. 
 
 ```shell
 Updating repository information

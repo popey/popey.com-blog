@@ -8,7 +8,7 @@ tags = ['podcast', 'audio']
 
 ## Podcast consumption
 
-At the start of 2021, I wrote up [my 2021 podcast listening list](/blog/2021/02/my-podcast-listening-list/). In it, I categorised podcasts I listen to broadly as 'Must listen', 'Regular listens' and 'Once in a while'. 
+At the start of 2021, I wrote up [my 2021 podcast listening list](/2021/02/my-podcast-listening-list/). In it, I categorised podcasts I listen to broadly as 'Must listen', 'Regular listens' and 'Once in a while'. 
 
 [![PocketCasts](/images/2023-09-11/pocketcasts.png)](/images/2023-09-11/pocketcasts.png)
 

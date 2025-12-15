@@ -6,7 +6,7 @@ author = "Alan Pope"
 tags = ['ubuntu', 'snapcraft', 'crypto', 'scam', 'bitcoin', 'wallet', 'exodus']
 +++
 
-On Tuesday, I [blogged](/blog/2024/02/exodus-bitcoin-wallet-490k-swindle/) about a series of Bitcoin scam apps published in the Canonical Snap store. 
+On Tuesday, I [blogged](/2024/02/exodus-bitcoin-wallet-490k-swindle/) about a series of Bitcoin scam apps published in the Canonical Snap store. 
 
 **Edit**: *This section updated on 2024-02-23 to include a Canonical response as two new forum posts from sabdfl (Mark Shuttleworth, CEO of Canonical).*
 
@@ -70,7 +70,7 @@ It's great to see Mark diving into the thread here, and updating everyone with t
 
 ----
 
-Firstly, I have [edited](https://github.com/popey/popey.com-blog/pull/48) [yesterday's blog](/blog/2024/02/exodus-bitcoin-wallet-490k-swindle/) to remove reference to [exchangerate-api](https://www.exchangerate-api.com). I had a few comments about this, and it would have been better not to mention them. They seem like fine upstanding people doing good work, and aren't involved in all this horribleness. Sincere apologies for mentioning them.
+Firstly, I have [edited](https://github.com/popey/popey.com-blog/pull/48) [yesterday's blog](/2024/02/exodus-bitcoin-wallet-490k-swindle/) to remove reference to [exchangerate-api](https://www.exchangerate-api.com). I had a few comments about this, and it would have been better not to mention them. They seem like fine upstanding people doing good work, and aren't involved in all this horribleness. Sincere apologies for mentioning them.
 
 Second, one of the key messages I pushed yesterday was that the dodgy applications were still installed on client machines, even after the store pages had been quarantined.
 
@@ -147,8 +147,8 @@ environment:
   PATH: $SNAP/usr/sbin:$SNAP/usr/bin:$SNAP/sbin:$SNAP/bin:$PATH
 ```
 
-It's almost as small as my [null snap](https://snapcraft.io/null) I previously [blogged about](/blog/2021/01/null/).
+It's almost as small as my [null snap](https://snapcraft.io/null) I previously [blogged about](/2021/01/null/).
 
 Nice work Canonical!
 
-Now, about those other [suggestions](/blog/2024/02/exodus-bitcoin-wallet-490k-swindle/)... :D
+Now, about those other [suggestions](/2024/02/exodus-bitcoin-wallet-490k-swindle/)... :D

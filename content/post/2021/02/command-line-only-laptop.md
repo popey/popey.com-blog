@@ -6,7 +6,7 @@ author = "Alan Pope"
 tags = ['software', 'linux', 'terminal', 'ubuntu', 'thinkpad', 'x61s']
 +++
 
-Today, I'm following along from an earlier article "[The Allure of The Terminal](/blog/2021/02/the-allure-of-the-terminal/)" where I talked about how I love the terminal aesthetic. How much, well, one of my computers is a command-line only install. I thought I'd talk a bit about that setup. Firstly, it's not command-line only because it *can't* run a graphical environment, although it isn't a super modern system. It is certainly *capable* of running [Ubuntu MATE](https://ubuntu-mate.org/), for example, I just choose not to.
+Today, I'm following along from an earlier article "[The Allure of The Terminal](/2021/02/the-allure-of-the-terminal/)" where I talked about how I love the terminal aesthetic. How much, well, one of my computers is a command-line only install. I thought I'd talk a bit about that setup. Firstly, it's not command-line only because it *can't* run a graphical environment, although it isn't a super modern system. It is certainly *capable* of running [Ubuntu MATE](https://ubuntu-mate.org/), for example, I just choose not to.
 
 The machine I want to talk about today is one of my (many) ThinkPads, in this case, an X61s. It's got an Intel C2D L7500 CPU running at 1.6GHz, 6GiB RAM and a 240GB OCZ-Vertex 3 SSD. I installed Ubuntu Server 18.04 on it in October 2019, and kept it up to date since. I have upgraded it to Ubuntu 20.04 in the meantime. Here she is:
 
@@ -76,7 +76,7 @@ Once I launch that, I grab a cup of tea and sip while everything starts up. Much
 
 ### Backups
 
-I have previously [written](/blog/2020/12/straightforward-linux-backups-with-rsnapshot/) about my love for [rsnapshot](https://rsnapshot.org/), and I use it here, too. I bought [Sandisk 128GB USB key](https://geni.us/IL1Sxq) (affiliate link) which sneakily fits nicely in one of the free USB ports. 
+I have previously [written](/2020/12/straightforward-linux-backups-with-rsnapshot/) about my love for [rsnapshot](https://rsnapshot.org/), and I use it here, too. I bought [Sandisk 128GB USB key](https://geni.us/IL1Sxq) (affiliate link) which sneakily fits nicely in one of the free USB ports. 
 
 I have formatted the USB stick partition on `/dev/sdb1` using ext4 and added a line to `/etc/fstab` to make sure it's mounted under `/mnt/backup`. The internal disk is `/dev/sda`.
 

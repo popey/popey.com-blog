@@ -8,7 +8,7 @@ tags = ['ubuntu', 'linux', 'software', 'crash']
 
 This post is more an *aide-mémoire* for myself, but may be useful to others. 
 
-I recently [wrote](/blog/2021/02/a-tale-of-two-updates/) a little story about bugs, the crash reporter and errors website in Ubuntu. Sometimes a user will want to look for *their* crash reports, and in fact that question came up [today](https://discourse.ubuntu.com/t/how-to-add-more-info-to-an-uploaded-crash-report/21263?u=popey) on the [Ubuntu Discourse](https://discourse.ubuntu.com/).
+I recently [wrote](/2021/02/a-tale-of-two-updates/) a little story about bugs, the crash reporter and errors website in Ubuntu. Sometimes a user will want to look for *their* crash reports, and in fact that question came up [today](https://discourse.ubuntu.com/t/how-to-add-more-info-to-an-uploaded-crash-report/21263?u=popey) on the [Ubuntu Discourse](https://discourse.ubuntu.com/).
 
 Back when we shipped Unity desktop as the default desktop environment in Ubuntu, there was a simple button to take a user to their previously uploaded crash reports. There was also an easy, graphical way to disable crash reporting. 
 

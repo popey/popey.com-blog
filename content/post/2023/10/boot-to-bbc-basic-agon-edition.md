@@ -18,7 +18,7 @@ I'd not heard about the [Agon](https://www.thebyteattic.com/p/agon.html) line of
 
 ## Pi time
 
-I wrote about this back in 2021 in [Raspberry Pi: Boot to BASIC](/blog//2021/01/raspberry-pi-boot-to-basic) where I configured a Raspberry Pi to boot directly into [BBC BASIC](https://www.bbcbasic.co.uk/index.html), by R.T. Russell.
+I wrote about this back in 2021 in [Raspberry Pi: Boot to BASIC](//2021/01/raspberry-pi-boot-to-basic) where I configured a Raspberry Pi to boot directly into [BBC BASIC](https://www.bbcbasic.co.uk/index.html), by R.T. Russell.
 
 ![BBC SDL](/images/2021-01-25/bbcsdl.jpg)
 
@@ -58,4 +58,4 @@ There's currently no binary build of Fab Agon Emulator available, so I made a sn
 <center><iframe src="https://snapcraft.io/fab-agon-emulator/embedded?button=black&channels=true&summary=true&screenshot=true" frameborder="0" width="100%" height="880px" style="border: 1px solid #CCC; border-radius: 2px;"></iframe></center>
 {{</ rawhtml >}}
 
-Quite looking forward to getting back into BBC BASIC with this. Maybe I'll write another [virus](/blog/2023/09/a-virus-for-the-bbc-micro/) for it. 😅
+Quite looking forward to getting back into BBC BASIC with this. Maybe I'll write another [virus](/2023/09/a-virus-for-the-bbc-micro/) for it. 😅

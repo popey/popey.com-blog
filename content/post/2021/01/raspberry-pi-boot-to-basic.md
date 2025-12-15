@@ -34,7 +34,7 @@ Ok, not a super auspicious creation, but it's a start. It's likely the same firs
 
 After school, in 1988 I studied BTEC National Diploma in Computer Studies. We had some classes on a [Pr1meOS](https://en.wikipedia.org/wiki/PRIMOS) based system (yes, it's written with a "1" for an "I"), and other times we'd use [BBC Micro computers](https://en.wikipedia.org/wiki/BBC_Micro). 
 
-In one class on [databases](https://en.wikipedia.org/wiki/DBase), we used genuine IBM PCs which is probably where my nostalgic [love](/blog/2020/12/keyboards-old-and-new/) of the Model M keyboard comes from. Often times we'd arrive before the lecturer. Each machine had two floppy disk drives, and no hard drive. The lecturer had the floppies, so we sat and waited, getting bored before the lesson started. 
+In one class on [databases](https://en.wikipedia.org/wiki/DBase), we used genuine IBM PCs which is probably where my nostalgic [love](/2020/12/keyboards-old-and-new/) of the Model M keyboard comes from. Often times we'd arrive before the lecturer. Each machine had two floppy disk drives, and no hard drive. The lecturer had the floppies, so we sat and waited, getting bored before the lesson started. 
 
 IBM PCs back then had BASIC on ROM, much like the contemporary 8-bit microcomputers I'd had at home. So if there was no operating system found, such as on floppy or hard disk, you'd get this.
 

@@ -8,7 +8,7 @@ tags = ['podcast', 'music', 'spotify', 'python', 'zane-lowe', 'NewMusicDaily']
 
 ## tl;dr
 
-I bodged together a Python script using [Spotipy](https://github.com/spotipy-dev/spotipy) (not a typo) to feed me [#NewMusicDaily](/blog/tags/newmusicdaily/) in a Spotify [playlist](https://open.spotify.com/playlist/5raANj8U2Lko959txpzzls?si=5dc326b784e64fa1). 
+I bodged together a Python script using [Spotipy](https://github.com/spotipy-dev/spotipy) (not a typo) to feed me [#NewMusicDaily](/tags/newmusicdaily/) in a Spotify [playlist](https://open.spotify.com/playlist/5raANj8U2Lko959txpzzls?si=5dc326b784e64fa1). 
 
 No AI/ML, all automated, "fresh" tunes every day. Tunes that I enjoy get preserved in a [Keepers](https://open.spotify.com/playlist/7a8MVSOopuC1JS3JrnEKMW?si=4645ed3452a54020) playlist; those I don't like to get relegated to the [Sleepers](https://open.spotify.com/playlist/2jLizvLBrWDCoApJeRxy1Q?si=9ca93c88ba074350) playlist. 
 

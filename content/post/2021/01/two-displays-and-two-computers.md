@@ -8,7 +8,7 @@ tags = ['hardware', 'hdmi', 'raspberrypi', 'ubuntu']
 
 In my messy office I have a main desk I work at. I have two portait displays on a hefty, but inexpensive [BONTEC Dual Monitor Stand](https://geni.us/AWw60Z) (affiliate link), clamped to the back, to lift the monitors up off the desk. The monitors are 3-year-old, low-end 24" [ASUS VS248HR](https://geni.us/LCJgSp) (affiliate link) "Gaming Monitor's" 🤣. 
 
-I recently bought a [Raspberry Pi 400](/blog/2020/12/spotify-on-the-raspberry-pi-400/) which also sits on my desk for quick-release arm64-action! The problem I have had with other Pi's is the spiders web of cables needed, and additional keyboard. So when the Pi 400 came out, with integral keyboard, and ports all aligned at the back, I snagged one. 
+I recently bought a [Raspberry Pi 400](/2020/12/spotify-on-the-raspberry-pi-400/) which also sits on my desk for quick-release arm64-action! The problem I have had with other Pi's is the spiders web of cables needed, and additional keyboard. So when the Pi 400 came out, with integral keyboard, and ports all aligned at the back, I snagged one. 
 
 I like not having to unplug/replug cables when switching devices, but rather just grab the machine and start playing. The ASUS monitors only have one HDMI port each, and I like using both monitors. I'd also like to sometimes use two monitors on the Pi. I don't have room or money for four monitors! So I needed an easy solution.
 
