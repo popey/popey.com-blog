@@ -14,7 +14,7 @@ I wasn't running some grand social media experiment. I was just having a moan ab
 
 Here's what I posted:
 
-```
+```text
 Six months since I booted my Windows "gaming" PC.
 One game I want to play.
 GPU drivers.
