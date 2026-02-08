@@ -14,14 +14,12 @@ I wasn't running some grand social media experiment. I was just having a moan ab
 
 Here's what I posted:
 
-```text
-Six months since I booted my Windows "gaming" PC.
-One game I want to play.
-GPU drivers.
-Windows updates.
-27GB Steam update.
-Three hours later, I've played zero games.
-```
+> Six months since I booted my Windows "gaming" PC.
+> One game I want to play.
+> GPU drivers.
+> Windows updates.
+> 27GB Steam update.
+> Three hours later, I've played zero games.
 
 Same post, three platforms, posted simultaneously at about 6pm. Here's what happened:
 
