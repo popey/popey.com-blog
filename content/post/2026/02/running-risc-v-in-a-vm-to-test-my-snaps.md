@@ -48,7 +48,7 @@ So buying hardware right now feels like bad timing. A VM, on the other hand, is 
 
 Heinrich pointed me at the [Canonical docs for running Ubuntu RISC-V in QEMU](https://canonical-ubuntu-hardware-support.readthedocs-hosted.com/boards/how-to/qemu-riscv/), which are pretty solid. I hit one snag immediately: the docs reference a `-cpu rva23s64` flag in the live server image section, but when I tried it on my Ubuntu 24.04 ThinkPad, QEMU spat back:
 
-```
+```text
 qemu-system-riscv64: unable to find CPU model 'rva23s64'
 ```
 
