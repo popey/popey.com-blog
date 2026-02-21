@@ -11,7 +11,7 @@ This is mostly an informational PSA for anyone struggling to get Windows 3.11 wo
 Anyway, short answer, use QEMU 5.2.0 from December 2020 to run Windows 3.11 from November 1993.
 
 {{< rawhtml >}}
-<center><a href="/blog/images/2024-09-06/win311.png"><img src="/blog/images/2024-09-06/win311.png" width="540" alt="Windows 3.11, at 1280x1024, running Internet Explorer 5, looking at a GitHub issue"></a></center>
+<center><a href="/images/2024-09-06/win311.png"><img src="/images/2024-09-06/win311.png" width="540" alt="Windows 3.11, at 1280x1024, running Internet Explorer 5, looking at a GitHub issue"></a></center>
 {{</ rawhtml >}}
 
 ## An innocent beginning
@@ -58,7 +58,7 @@ I pondered a different way, in which I'd build a very simple proof of concept na
 My mind settled on [Borland Delphi](https://en.wikipedia.org/wiki/Delphi_(software)), which I'd never used, but looked similar enough for a silly project to [Borland Turbo Pascal 7.0 for DOS](https://en.wikipedia.org/wiki/Turbo_Pascal), which I had. So I set about installing Borland Delphi 1.0 from **fifteen** (virtual) floppy disks, onto my Windows 3.11 "Workstation" VM.
 
 {{< rawhtml >}}
-<center><a href="/blog/images/2024-09-06/delphi.png"><img src="/blog/images/2024-09-06/delphi.png" width="540" alt="Windows 3.11, with a Borland Delphi window open"></a></center>
+<center><a href="/images/2024-09-06/delphi.png"><img src="/images/2024-09-06/delphi.png" width="540" alt="Windows 3.11, with a Borland Delphi window open"></a></center>
 {{</ rawhtml >}}
 
 Thank you, whoever added the `change floppy0` option to the QEMU Monitor. That saved a lot of time, and was reduced down to a loop of this fourteen times:
@@ -140,7 +140,7 @@ $ cat start
 This worked a treat. You can probably make out in the screenshot below, that I'm using Internet Explorer 5 to visit the GitHub [issue](https://github.com/rtts/win311/issues/2) which kinda renders when proxied via [FrogFind](http://www.frogfind.com/) by [Action Retro](https://www.youtube.com/ActionRetro).
 
 {{< rawhtml >}}
-<center><a href="/blog/images/2024-09-06/win311.png"><img src="/blog/images/2024-09-06/win311.png" width="540" alt="Windows 3.11, at 1280x1024, running Internet Explorer 5, looking at a GitHub issue"></a></center>
+<center><a href="/images/2024-09-06/win311.png"><img src="/images/2024-09-06/win311.png" width="540" alt="Windows 3.11, at 1280x1024, running Internet Explorer 5, looking at a GitHub issue"></a></center>
 {{</ rawhtml >}}
 
 ## Share...

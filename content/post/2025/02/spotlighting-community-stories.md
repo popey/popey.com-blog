@@ -58,7 +58,7 @@ github.com/anchore/syft     v1.10.0     go-module
 *(I find it delightfully meta to discover syft inside other tools using syft itself)*
 
 {{< rawhtml >}}
-<center><a href="/blog/images/2025-02-13/scooby-doo-meme.png"><img src="/blog/images/2025-02-13/scooby-doo-meme.png" width="540" alt="A silly meme that isn't true at all :)"></a></center>
+<center><a href="/images/2025-02-13/scooby-doo-meme.png"><img src="/images/2025-02-13/scooby-doo-meme.png" width="540" alt="A silly meme that isn't true at all :)"></a></center>
 {{</ rawhtml >}}
 
 This collaborative building upon existing tools mirrors how [Linux](https://linuxmint.com/) distributions often build upon other [Linux distributions](http://ubuntu.com/). Like Ubuntu and Telegraf, we see countless individuals and organizations creating innovative solutions that extend beyond the core capabilities of Syft and Grype. It's the essence of open source - a multiplier effect that comes from creating accessible, powerful tools.
