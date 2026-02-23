@@ -20,7 +20,7 @@ The reason I got it was because HP are currently giving [£100 cash-back](http:/
 * 1 VGA port
 * 2 PCI Express (x16 and x1)
 
-If you want to see more technical info then I've put online the output from [lspci](/text/2010-12-30/lspci.txt), [cpuinfo](/text/2010-12-30/cpuinfo.txt), [dmesg](/text/2010-12-30/dmesg.txt) and [lshw](/text/2010-12-30/lshw.txt).
+If you want to see more technical info then I've put online the output from [lspci](/text/2010-12-30/lspci.txt), [cpuinfo](/text/2010-12-30/cpuinfo.txt), [dmesg](/text/2010-12-30/dmesg.txt) and [lshw](/text/2010-12-30/lshw.html).
 
 **Update:** I've added the results of running [Unixbench](http://www.tux.org/pub/tux/niemi/unixbench/) [here](/text/2010-12-30/unixbench.txt).
 
@@ -36,4 +36,4 @@ I had a few spare 200GB disks kicking around that I had from an old server, so I
 
 I have the large LVM volume mounted under `/srv` and am storing all backups in that location. I'll cover how that all works in further blog posts. For now I've put the server away in a cupboard where it's humming away connected to my wired LAN via Devolo dLAN Adapters.
 
-So far I'm running offlineimap and rsnapshot on it to do backups, and I'm playing with a few other applications which I may blog about later :) 
+So far I'm running offlineimap and rsnapshot on it to do backups, and I'm playing with a few other applications which I may blog about later :)

@@ -6,7 +6,7 @@ author = "Alan Pope"
 tags = ['hardware', 'review', 'eufy', 'robovac']
 +++
 
-Back in 2021, I [reviewed](/01/eufy-robovac-30c-review) the [Eufy RoboVac 30C](https://geni.us/OE72xMe) (affiliate link) vacuum cleaner. I'd owned the device for three months by then. Enough time for it to chew up some socks, cables and shoelaces. In between all that, it did some vacuuming! 
+Back in 2021, I [reviewed](/2021/01/eufy-robovac-30c-review) the [Eufy RoboVac 30C](https://geni.us/OE72xMe) (affiliate link) vacuum cleaner. I'd owned the device for three months by then. Enough time for it to chew up some socks, cables and shoelaces. In between all that, it did some vacuuming! 
 
 So I thought I'd re-visit the blog, and figure out if it's still a decent device, three years after initially buying it.
 

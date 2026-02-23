@@ -40,7 +40,7 @@ There was a popular board game shop called Esdevium Games in Aldershot, the next
 
 Back then, they were mostly in the business of selling board games, role-playing paraphernalia, magazines, and the like. Here's an advert for them from from a 1981 issue of [Phoenix](https://www.spigames.net/Phoenix_magazine_links.htm).
 
-[![Esdevium games advert 1](/images/2023-09-14/esdevium1.jpg)](/images/2023-09-15/esdevium1.jpg)
+[![Esdevium games advert 1](/images/2023-09-14/esdevium1.jpg)](/images/2023-09-14/esdevium1.jpg)
 
 
 They later branched out to sell video games. Mostly games which fit their existing clientele's demographic. Here's an advert from issue 1 of [Imagine - Aventure Games Magazine](https://archive.org/details/Imagine14/Imagine%2001/page/n17/mode/2up) from just a couple of years later, in 1983.

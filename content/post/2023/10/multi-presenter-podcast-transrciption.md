@@ -92,7 +92,7 @@ As [@heronheart](https://social.vivaldi.net/@heronheart/111162641874358355) poin
 
 The Otter.ai marketing is mostly towards businesses requiring transcriptions of meetings held on platforms like Zoom and Google Meet, which isn't what I'm after.
 
-[![Otter.ai](/images/2023-10-02/otterai.png)]((https://otter.ai/referrals/FQN84FYF))
+[![Otter.ai](/images/2023-10-02/otterai.png)](https://otter.ai/referrals/FQN84FYF)
 
 However, once you sign up, and get past the whole introduction wizard - which incidentally doesn't behave well if you choose "Other" at this stage..
 
