@@ -6,7 +6,7 @@ author = "Alan Pope"
 tags = ['offline', 'catalogs', 'tapes', 'everythingisrubbish']
 +++
 
-Feel free to skip this blog if you're triggered by __"Old man yells at cloud"__ or __"Grandpa tells us about his childhood"__ style posts. This is the second in a row after a [moan](blog/2023/09/small-phone-is-best-phone/) about my cellphone. A more lighthearted story will follow tomorrow, I promise.
+Feel free to skip this blog if you're triggered by __"Old man yells at cloud"__ or __"Grandpa tells us about his childhood"__ style posts. This is the second in a row after a [moan](/2023/09/small-phone-is-best-phone/) about my cellphone. A more lighthearted story will follow tomorrow, I promise.
 
 [![And another thing](/images/2023-09-14/297.jpeg)](/images/2023-09-14/297.jpeg)
 

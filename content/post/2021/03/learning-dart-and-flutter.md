@@ -8,7 +8,7 @@ tags = ['ubuntu', 'linux', 'software', 'flutter', 'dart']
 
 I've said many times, I don't consider myself a software developer. Much like I don't consider myself a professional chef. I can write code, just as I can cook. What I make isn't ground breaking, but it won't *poison* anyone either, and I enjoy doing it.
 
-Coding for me started on the [ZX81](blog/2021/03/fourty-years-on/) in BASIC then on to the Spectrum and other 8-bit microcomputers. I *dabbled* with Z80 and 6502 assembly language. At college I did COBOL, InfoBASIC and more Z80. When I eventually got a PC in 1990 I taught myself Pascal, via a free compiler for MS-DOS I got on a floppy disk in the post.
+Coding for me started on the [ZX81](/2021/03/fourty-years-on/) in BASIC then on to the Spectrum and other 8-bit microcomputers. I *dabbled* with Z80 and 6502 assembly language. At college I did COBOL, InfoBASIC and more Z80. When I eventually got a PC in 1990 I taught myself Pascal, via a free compiler for MS-DOS I got on a floppy disk in the post.
 
 In my professional life I've written semi-decent code in SAP ABAP/4 (*shudder*), QtQML, Perl, Python and a bunch of awful scripts in Bash. Recently I've played with Go, Rust, and many others I've forgotten. This isn't intended to read like my résumé, but just show I'm more of a hobby coder than a professional software developer. I dabble, that's about it.
 
