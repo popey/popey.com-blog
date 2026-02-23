@@ -20,19 +20,10 @@ paginate = 20
     dateFormat = "Mon, Jan 2, 2006"
     #style = "dark"
     commit = "https://github.com/popey/popey.com-blog/tree/"
-
-[Params.giscus]
-    repo = "popey/popey.com-blog"
-    repoID = "MDEwOlJlcG9zaXRvcnkzMjIzMjI2MTE="
-    category = "General"
-    categoryID = "DIC_kwDOEzZAs84CTEsk"
-    mapping = "title"
-    reactionsEnabled = "1"
-    emitMetadata = "0"
-    inputPosition = "bottom"
-    theme = "dark"
-    lang = "en"
-    loading = "lazy"
+    [Params.author]
+        name = "Alan Pope"
+        website = "https://popey.me/"
+        email = "alan@popey.com"
 
 [Permalinks]
     post = "/:year/:month/:filename/"
@@ -41,12 +32,12 @@ paginate = 20
     url = "about"
     name = "About"
     weight = 3
-    
+
 [[menu.main]]
     url = "https://newsletter.popey.com/"
     name = "Newsletter"
     weight = 4
-    
+
 [[menu.main]]
     url = "contact"
     name = "Contact"
@@ -71,7 +62,7 @@ paginate = 20
     url = "index.xml"
     name = "RSS"
     weight = 9
-    
+
 [[menu.main]]
     url = "https://github.com/popey/popey.com-blog"
     name = "Site Source"
