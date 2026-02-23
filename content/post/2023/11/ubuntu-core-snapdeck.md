@@ -8,7 +8,7 @@ tags = ['NaBloPoMo', 'ubuntu', 'core', 'snap', 'steamdeck']
 
 At the Ubuntu Summit in Latvia, Canonical have just announced their plans for the Ubuntu Core Desktop. I recently played with a preview of it, for fun. Here's a nearby computer running it right now.
 
-[![Ubuntu Core Desktop Development Preview on a SteamDeck](/images/2023-11-03/snapdeck.jpg)](/images/2023-11-03/snapdeck.png)
+[![Ubuntu Core Desktop Development Preview on a SteamDeck](/images/2023-11-03/snapdeck.jpg)](/images/2023-11-03/snapdeck.jpg)
 
 Ubuntu Core is a *"a secure, application-centric IoT OS for embedded devices"*. It's been around a while now, powering IoT devices, kiosks, routers, set-top-boxes and other appliances. 
 

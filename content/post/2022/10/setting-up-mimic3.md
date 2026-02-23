@@ -7,7 +7,7 @@ tags = ['accessibility', 'tts', 'mycroft', 'mimic3']
 +++
 
 {{< rawhtml >}}
-    <audio controls src="/blog/audio/audio_2022-10-12_10-55-04.mp3"><a href="/blog/audio/audio_2022-10-12_10-55-04.mp3">Download audio</a></audio>
+    <audio controls src="/audio/audio_2022-10-12_10-55-04.mp3"><a href="/audio/audio_2022-10-12_10-55-04.mp3">Download audio</a></audio>
 {{< /rawhtml >}}
 
 Yesterday I [blogged](/2022/10/blog-to-speech-in-my-voice/) about using Mycroft AI's Mimic 3, an Open Source Text-to-Speech engine I used to generate audio of a blog post.

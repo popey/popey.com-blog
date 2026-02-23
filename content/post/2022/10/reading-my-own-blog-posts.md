@@ -7,7 +7,7 @@ tags = ['accessibility', 'tts', 'mycroft', 'mimic3']
 +++
 
 {{< rawhtml >}}
-    <audio controls src="/blog/audio/audio_2022-10-12_11-33-47.mp3"><a href="/blog/audio/audio_2022-10-12_11-33-47.mp3">Download audio</a></audio>
+    <audio controls src="/audio/audio_2022-10-12_11-33-47.mp3"><a href="/audio/audio_2022-10-12_11-33-47.mp3">Download audio</a></audio>
 {{< /rawhtml >}}
 
 I had some fun when I [blogged](/2022/10/blog-to-speech-in-my-voice/) about using a bot to read my blog post. While fun, it wasn't a particularly pleasant way to consume blog content. The audio is still a bit robotic, with little care for timing, ephasis and stress on words. So in my [next blog post](/2022/10/setting-up-mimic3/), in which I detailed how to setup Mimic 3, I actually read the blog post out loud, recorded that and attached it as an MP3. 
@@ -54,4 +54,4 @@ I could certainly do a few minor things to improve the audio. But it's not a pod
 
 However, I'm reading *this* post and *will* do some minor audio processing, but likely just top and tail, noise reduction and compression. Let's see how that turns out.
 
-Edit: I used noise reduction, compression and truncate silence in Audacity. I used all the default settings. That took the original audio from 4m45s to 3m33s. A large chunk of that was due to some silence I left in at tha start to facilitate noise reduction. 
+Edit: I used noise reduction, compression and truncate silence in Audacity. I used all the default settings. That took the original audio from 4m45s to 3m33s. A large chunk of that was due to some silence I left in at tha start to facilitate noise reduction.

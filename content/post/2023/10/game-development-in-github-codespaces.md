@@ -174,7 +174,7 @@ Honestly, it does move! I have a [webm video](/videos/2023-10-04/box.webm) of it
    <center>
       <video  width="640" height="480" controls>
          <source
-            src="/blog/videos/2023-10-04/box.webm"
+            src="/videos/2023-10-04/box.webm"
             type="video/webm">
          </source>
       </audio>
@@ -212,4 +212,4 @@ I found this pretty straightforward to setup and run. For the whole demo, I was 
 
 This could clearly be used to get started with game programming with only a browser and a GitHub account. Indeed, this could probably work just fine on a Chromebook, although I haven't test that. It isn't limited to LÖVE either. Anything that can generate JavaScript natively, like [Phaser](https://phaser.io/), or can be mashed through Emscripten, should be good enough.
 
-I don't know if this will be suitable for the original poster over on Reddit, but I certainly learned a few things today. 
+I don't know if this will be suitable for the original poster over on Reddit, but I certainly learned a few things today.

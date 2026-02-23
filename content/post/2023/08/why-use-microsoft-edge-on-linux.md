@@ -6,7 +6,7 @@ author = "Alan Pope"
 tags = ['ubuntu', 'linux', 'microsoft', 'edge', 'browser']
 +++
 
-Yesterday, I [wrote](2023/08/six-months-of-crashes-in-ubuntu) a little about the applications I've seen crash on my Ubuntu Linux laptop over the last six months.
+Yesterday, I [wrote](/2023/08/six-months-of-crashes-in-ubuntu) a little about the applications I've seen crash on my Ubuntu Linux laptop over the last six months.
 
 Some people questioned why I use Microsoft Edge as my primary web browser on Ubuntu. I thought I'd write up why, and how a couple of the built-in features are appealing to me. 
 
@@ -180,4 +180,4 @@ Get back to me when Mozilla refocuses on making a decent browser †.
 
 ⹋ and vertical tabs...
 
-Until then, I'll use Edge, because it works for me. If something else works for you, that's awesome. 
+Until then, I'll use Edge, because it works for me. If something else works for you, that's awesome.

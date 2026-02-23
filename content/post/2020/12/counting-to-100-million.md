@@ -23,7 +23,7 @@ sys 0m0.016s
 ```
 Again, not a benchmark. It's a single threaded count, so typically won't get any faster if you had a dual core, or many core system. But back in those days, a lot of the systems only had one anyway, so the point is moot. It also doesn't "measure" any other part of the system. It's fun though.
 
-Over time we'd add our own systems to the table on the [page]([http://www.hants.lug.org.uk/wiki/HugoRandomBenchmark](https://web.archive.org/web/20160328134739/https://www.hants.lug.org.uk/wiki/HugoRandomBenchmark)). Some (such as myself) would strive to run the "benchmark" on ever faster systems. Others aimed for the bottom of the table, and some went for esoteric or imaginary systems.
+Over time we'd add our own systems to the table on the [page](https://web.archive.org/web/20160328134739/https://www.hants.lug.org.uk/wiki/HugoRandomBenchmark). Some (such as myself) would strive to run the "benchmark" on ever faster systems. Others aimed for the bottom of the table, and some went for esoteric or imaginary systems.
 
 With each newer system that was measured, the amount of time shrank a tiny bit. Getting from double-digit times to single-digit was a milestone. Further reducing the total number of seconds by a little with each update. 
 
@@ -32,4 +32,3 @@ The page hasn't really been updated for over 10 years now. It was fun at the tim
 The output above came from an Intel i7-6820HK running Ubuntu 20.04 under WSL in Windows 10. I don't think back then I'd have envisaged running the benchmark on a system like this. 
 
 I do wonder what the fastest time we can get out of the not-a-benchmark in 2020 might be? Can you get it under a second?
-

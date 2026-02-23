@@ -18,7 +18,7 @@ Like this, but for a longer period, and at a reasonable speed.
    <center>
       <video  width="480" height="640" controls>
          <source
-            src="/blog/videos/2023-09-19/doc_2023-09-19_13-25-38.mp4"
+            src="/videos/2023-09-19/doc_2023-09-19_13-25-38.mp4"
             type="video/mp4">
          </source>
       </audio>
