@@ -7,12 +7,12 @@
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
         <ul class="list-inline text-center footer-links">
           {{ range .Site.Data.beautifulhugo.social.social_icons }}
-            {{- if isset $.Site.Author .id }}
+            {{- if isset $.Site.Params.Author .id }}
               <li>
-		{{ if or ( hasPrefix ( index $.Site.Author .id ) "http://" ) ( hasPrefix ( index $.Site.Author .id ) "https://" ) }}
-		  <a {{ if .rel }}rel="{{ .rel }}"{{- end -}} href="{{ printf "%s" (index $.Site.Author .id) }}" title="{{ .title }}">
+		{{ if or ( hasPrefix ( index $.Site.Params.Author .id ) "http://" ) ( hasPrefix ( index $.Site.Params.Author .id ) "https://" ) }}
+		  <a {{ if .rel }}rel="{{ .rel }}"{{- end -}} href="{{ printf "%s" (index $.Site.Params.Author .id) }}" title="{{ .title }}">
 		{{ else }}
-		  <a {{ if .rel }}rel="{{ .rel }}"{{- end -}} href="{{ printf .url (index $.Site.Author .id) }}" title="{{ .title }}">
+		  <a {{ if .rel }}rel="{{ .rel }}"{{- end -}} href="{{ printf .url (index $.Site.Params.Author .id) }}" title="{{ .title }}">
 		{{ end }}
                   <span class="fa-stack fa-lg">
                     <i class="fas fa-circle fa-stack-2x"></i>
@@ -34,9 +34,9 @@
           {{ end }}
         </ul>
         <p class="credits copyright text-muted">
-          {{ if .Site.Author.name }}
-            {{ if .Site.Author.website }}
-              <a href="{{ .Site.Author.website }}">{{ .Site.Author.name }}</a>
+          {{ if .Site.Params.Author.name }}
+            {{ if .Site.Params.Author.website }}
+              <a href="{{ .Site.Params.Author.website }}">{{ .Site.Params.Author.name }}</a>
             {{ else }}
               {{ .Site.Author.name }}
             {{ end }}
@@ -46,7 +46,7 @@
           {{ if .Site.Params.since }}
             {{ .Site.Params.since }} - {{ .Site.LastChange.Format "2006" }}
           {{ else }}
-            {{ .Site.LastChange.Format "2006" }}
+            {{ .Site.Lastmod.Format "02 Jan 2006" }}
           {{ end }}
 
           {{ if .Site.Title }}
@@ -132,30 +132,6 @@
 <!-- End Piwik -->
 </noscript>
 <!-- End Piwik Code -->
-{{ end }}
-
-{{ if and .Site.Params.delayDisqus .Site.DisqusShortname }}
-<!-- Delayed Disqus -->
-<script type="text/javascript">
-$(function(){
-  $('#show-comments').on('click', function(){
-    var disqus_shortname = '{{ .Site.DisqusShortname }}';
-      
-    (function() {
-      var disqus = document.createElement('script'); 
-      disqus.type = 'text/javascript'; 
-      disqus.async = true;
-      disqus.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(disqus);
-    })();
-      
-    $(this).hide(); 
-    });
-  });
-      
-</script>
-<script id="dsq-count-scr" src="//{{ .Site.DisqusShortname }}.disqus.com/count.js" async></script>
-<!-- End Delayed Disqus -->
 {{ end }}
 
 {{- partial "footer_custom.html" . }}
