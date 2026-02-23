@@ -38,7 +38,7 @@ My silly blog of nonsense isn't in the same class as the luminaries and contempo
 
 Personally I'm trying to get better at blogging, and sharing my stories widely. 
 
-Indeed [one](blog/2023/08/i386-in-ubuntu-wont-die/) recently hit the front page of [hackernews](https://news.ycombinator.com/item?id=37280878) and spent all day there, which is always 'fun'. It's fascinating to see the perspectives of the HN denizens. 
+Indeed [one](/2023/08/i386-in-ubuntu-wont-die/) recently hit the front page of [hackernews](https://news.ycombinator.com/item?id=37280878) and spent all day there, which is always 'fun'. It's fascinating to see the perspectives of the HN denizens. 
 
 [![HN](/images/2023-09-01/hn.jpg)](/images/2023-09-01/hn.jpg)
 
@@ -71,4 +71,3 @@ Feedly/1.0 (+http://www.feedly.com/fetcher.html; 134 subscribers; )
 Previously my blog would only share a snippet of the post in the RSS feeds. I followed [this](https://jasonmurray.org/posts/2021/rssfulltexthugo/) helpful and easy to follow guide from [Jason Murray](https://jasonmurray.org/). Now the full content of each post is in the [RSS feed](/index.xml). 
 
 You're welcome.
-

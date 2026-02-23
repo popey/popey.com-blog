@@ -8,7 +8,7 @@ tags = ['retro', 'arcade', 'museum', 'basic', 'linux', 'agon', 'snapcraft']
 
 ## Agon and Agon
 
-Last month I [visited](blog/2023/09/touching-joysticks/) the [RMC Cave](https://www.retrocollective.co.uk/the-cave.php) where we got a sneak peek at the [Agon Console8](https://heber.co.uk/agon-console8/) from [Heber](https://heber.co.uk/). The Agon Console8 is a consolised version of the more general-purpose Agon8 Computer. They come in a natty retro case, and features twin 9-pin joystick ports.
+Last month I [visited](/2023/09/touching-joysticks/) the [RMC Cave](https://www.retrocollective.co.uk/the-cave.php) where we got a sneak peek at the [Agon Console8](https://heber.co.uk/agon-console8/) from [Heber](https://heber.co.uk/). The Agon Console8 is a consolised version of the more general-purpose Agon8 Computer. They come in a natty retro case, and features twin 9-pin joystick ports.
 
 [![Agon console8](/images/2023-09-23/IMG_3419.heic.png)](/images/2023-09-23/IMG_3419.heic.png)
 

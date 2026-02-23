@@ -100,7 +100,7 @@ One system I'd never even seen in person was the NEC PC-Engine. I lusted over th
 <iframe src="https://ubuntu.social/@popey/109370580945426333/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="600" allowfullscreen="allowfullscreen"></iframe><script src="https://ubuntu.social/embed.js" async="async"></script>
 {{< /rawhtml >}}
 
-I have [previously written](blog/2021/03/fourty-years-on/) about how formative receiving a Sinclair ZX81 for Christmas in the early 1980's was for me. So when I saw one in the The Cave, attached to a black & white TV and tape deck, I had to play with it. 
+I have [previously written](/2021/03/fourty-years-on/) about how formative receiving a Sinclair ZX81 for Christmas in the early 1980's was for me. So when I saw one in the The Cave, attached to a black & white TV and tape deck, I had to play with it. 
 
 I even loaded a game from tape in real time for the full effect. While loading (see picture below) the ZX81 can't update the display, so all you see is mad flickering bars. Amusingly one of the visitors came over and thought the TV was on the blink. "Nope, that's normal" I said, and we had a little chuckle about ye olde times.
 
