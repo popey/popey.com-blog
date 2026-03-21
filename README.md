@@ -2,13 +2,27 @@
 
 This repo contains the source for my Hugo-based blog, which you'll find at [https://blog.popey.com](https://blog.popey.com).
 
-![Alt](https://repobeats.axiom.co/api/embed/0c1cf4ddb0fbe2842be00214ea6f1ce5f1e2e388.svg "Repobeats analytics image")
-
 ## Published articles:
 
 | Date | Article |
 | :--- | :-- |
-|[Exodus Bitcoin Wallet: $490K Swindle](https://blog.popey.com/2024/02/exodus-bitcoin-wallet-$490K-swindle)| Tue, 20 Feb 2024 20:00:00 +0100|
+|[Running RISC-V in a VM to test my snaps](https://blog.popey.com/2026/02/running-risc-v-in-a-vm-to-test-my-snaps/)| Fri, 21 Feb 2026|
+|[The Threads Algorithm Loves Rage Bait](https://blog.popey.com/2026/02/the-threads-algorithm-loves-rage-bait/)| Sat, 07 Feb 2026|
+|[Malware Peddlers Are Now Hijacking Snap Publisher Domains](https://blog.popey.com/2026/01/malware-purveyors-taking-over-published-snap-email-domains/)| Fri, 17 Jan 2026|
+|[Spotlighting Community Stories](https://blog.popey.com/2025/02/spotlighting-community-stories/)| Thu, 13 Feb 2025|
+|[Where are Podcast Listener Communities](https://blog.popey.com/2024/09/where-are-podcast-listener-communities/)| Fri, 13 Sep 2024|
+|[Windows 3.11 on QEMU 5.2.0](https://blog.popey.com/2024/09/windows-3.11-on-qemu-5.2.0/)| Fri, 06 Sep 2024|
+|[Virtual Zane Lowe for Spotify](https://blog.popey.com/2024/08/virtual-zane-lowe-for-spotify/)| Fri, 30 Aug 2024|
+|[Text Editors with decent Grammar Tools](https://blog.popey.com/2024/08/text-editors-with-grammar-tools/)| Wed, 07 Aug 2024|
+|[Application Screenshots on macOS](https://blog.popey.com/2024/07/application-screenshots-on-macos/)| Sun, 28 Jul 2024|
+|[The Joy of Code](https://blog.popey.com/2024/04/the-joy-of-code/)| Sat, 27 Apr 2024|
+|[Do you know Simone?](https://blog.popey.com/2024/04/do-you-know-simone/)| Fri, 26 Apr 2024|
+|[SAP Upgrade: The Sound of Silence](https://blog.popey.com/2024/04/sap-upgrade-the-sound-of-silence/)| Fri, 05 Apr 2024|
+|[Today is my Birthday! I got ADHD](https://blog.popey.com/2024/04/today-is-my-birthday-i-got-adhd/)| Thu, 04 Apr 2024|
+|[Guess Who's Back? Exodus Scam BitCoin Wallet Snap!](https://blog.popey.com/2024/03/exodus-wallet-part-three/)| Mon, 18 Mar 2024|
+|[Mini EV: Two Years On](https://blog.popey.com/2024/03/mini-electric-two-years-on/)| Sun, 03 Mar 2024|
+|[Exodus Bitcoin Wallet: Follow up 2.0](https://blog.popey.com/2024/02/exodus-bitcoin-wallet-follow-up/)| Fri, 23 Feb 2024|
+|[Exodus Bitcoin Wallet: $490K Swindle](https://blog.popey.com/2024/02/exodus-bitcoin-wallet-$490K-swindle)| Tue, 20 Feb 2024|
 |[Ubuntu Summit 2023 was a success](https://blog.popey.com/2023/11/ubuntu-summit-2023-was-a-success/) |Tue, 7 Nov 2023 12:00:00 +0100|
 |[Ubuntu Core Snapdeck](https://blog.popey.com/2023/11/ubuntu-core-snapdeck/)| Fri, 3 Nov 2023 13:00:00 +0100|
 |[Heading to Ubuntu Summit 2023](https://blog.popey.com/2023/11/heading-to-ubuntu-summit-2023/)| Wed, 1 Nov 2023 12:00:00 +0100|
