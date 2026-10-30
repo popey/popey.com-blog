@@ -18,11 +18,15 @@ Here is a photograph of that toaster. You'll note this is an *action shot* of th
 
 I know. Incredible isn't it? It's beautiful, functional, reliable and I want to be buried with it.
 
+## Specifications
+
 This is a Dualit 4-slice toaster. There are two standard width slots on the right, and two wider slots to the left. A pair of switches control which set of slots are powered, so you can either cook two or four slices. 
 
 A manually controlled lever in the middle of the device enables the operator to raise and lower the bread product at their discretion. A rotary dial both turns the elements on, and starts a timer. A removable lower tray captures particulate toast matter for later disposal.
 
 There is no need for fancy digital frippery nor "futuristic" artificial intelligence controls. It is neither connected to the Internet nor does it have a transparent "Obsessive-meatbag viewing-window".
+
+## Simple Operation
 
 Operation is simplicity itself. 
 
@@ -39,6 +43,8 @@ When the toast reaches perfection, simply operate the lever to raise the golden 
 
 Once the operator lowers the bread, and starts the timer, a quiet ticking noise can be heard. The barely audible mechanism ticks away the seconds until the toasted treats are cooked to perfection.
 
+## Multi-tasking Enablement
+
 During this period, the operator may context-switch to any one of a number of drink-preparation tasks. In the UK toast is a frequent accompaniment to tea, coffee, juice or a glass of milk. The Dualit toaster enables advanced multi-tasking kitchen techniques. 
 
 These may involve travel of some distance to a sink, fridge, kettle, orange grove or nearby orchard for drinking supplies. The human is a fallible organism which can often be distracted while tea brews, or coffee drips. Perhaps the brain is taken back to thoughts of childhood toasted buns, breakfast with grandparents, or maybe they're just busy scrolling through Twitter.
@@ -46,6 +52,8 @@ These may involve travel of some distance to a sink, fridge, kettle, orange grov
 Once finished, the Dualit toaster will retain the cooked dough product, cucooned snugly and quietly until the distracted meatbag returns to the task at hand. Other toasters will almost certainly by this time have popped the poor toast into the drafty kitchen air, where their latent heat escapes into the atmosphere, resulting in terrible, cold toast.
 
 You can therefore be confident that even with your own failings as a human, the Dualit won't let you down. Your toast will be lovely and warm when you snap back to reality, ready to be laden with butter, jam, marmite or whatever it is Americans put on their toast.
+
+## Minimal Maintenance Required
 
 While quietly nestling in the corner of the kitchen unused for most of the day, when called-upon, the Dualit toaster is a consistent, reliable working constituent of the household. But as with every functioning member of the team, a little care is needed now and then. 
 
