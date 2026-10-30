@@ -26,10 +26,10 @@ There is no need for fancy digital frippery nor "futuristic" artificial intellig
 
 Operation is simplicity itself. 
 
-    1 - Place untoasted dough-product into slots
-    2 - Press switches to enable appropriate pairs of slots
-    3 - Operate lever to reduce dough altitude
-    4 - Turn dial to engage elements for optimal duration
+- Place untoasted dough-product into slots
+- Press switches to enable appropriate pairs of slots
+- Operate lever to reduce dough altitude
+- Turn dial to engage elements for optimal duration
 
 Rotating the dial in increasing amounts in a clockwise direction will add cooking time. Turning the dial the opposite direction will reduce that time. Cooking can be terminated prematurely by simply rotating the timer back to zero.
 
